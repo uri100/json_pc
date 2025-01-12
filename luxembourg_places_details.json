@@ -1,25 +1,25 @@
-[
-    {
-        "formatted_address": "22 Lor 18 Geylang, Singapore 398804",
-        "formatted_phone_number": "8877 9895",
+{
+    "1880Club": {
+        "formatted_address": "1 Nanson Road, Level 3, Singapore, Singapore 238909, SG",
+        "formatted_phone_number": "+65 6304 3200",
         "geometry": {
             "location": {
-                "lat": 1.3118564,
-                "lng": 103.8804857
+                "lat": 1.2908,
+                "lng": 103.8392
             },
             "viewport": {
                 "northeast": {
-                    "lat": 1.313212330291502,
-                    "lng": 103.8819269802915
+                    "lat": 1.2915,
+                    "lng": 103.8400
                 },
                 "southwest": {
-                    "lat": 1.310514369708498,
-                    "lng": 103.8792290197085
+                    "lat": 1.2900,
+                    "lng": 103.8390
                 }
             }
         },
-        "international_phone_number": "+65 8877 9895",
-        "name": "GoFit-X Geylang",
+        "international_phone_number": "+65 6304 3200",
+        "name": "1880 Club",
         "opening_hours": {
             "open_now": true,
             "periods": [
@@ -31,207 +31,52 @@
                 }
             ],
             "weekday_text": [
-                "Monday: Open 24 hours",
-                "Tuesday: Open 24 hours",
-                "Wednesday: Open 24 hours",
-                "Thursday: Open 24 hours",
-                "Friday: Open 24 hours",
-                "Saturday: Open 24 hours",
-                "Sunday: Open 24 hours"
+                "Sunday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Monday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Tuesday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+                "Wednesday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+                "Thursday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+                "Friday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20091:00\u202fAM"
             ]
         },
         "photos": [
             {
                 "height": 3072,
                 "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/105884373103005014075\">GoFit-X Geylang</a>"
+                    "<a href=\"https://example.com\">1880 Club</a>"
                 ],
-                "photo_reference": "AWYs27yPniOnrfZPWdMdkk_b2BbHkpZPZhpZ2TSVI3DdHg7bnFrHTfd31ybGaMjYrjP-GqKu01oLGx7zf9_MaVykJCiN1_FZWw9x7NGMHZ3c-Dr-xO-5xYIs_doX3AHQOe69aDn0AWsTUyIPGTxGqkiRhdy5_LrA2fQVbxrTrZZrZ_dAWTqa",
+                "photo_reference": null,
                 "width": 4080
-            },
-            {
-                "height": 4032,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/101463756183188762895\">gym journal</a>"
-                ],
-                "photo_reference": "AWYs27yXIgB_X71nmMWvhH1BwGpen1GI18bo-2lvk6EpERbpziQNvT3fdYjZVH9IHNW0q7qNJzD8IzxPAz14jFRez_7jdFvNgi6dp2QJKugs2ptuI5sp58qth2i9bAj4ySgFdmhQSzRkXec5dyFYgtUw3vIfz1sBC1xbwKNm0d89rulVEfXw",
-                "width": 3024
-            },
-            {
-                "height": 4000,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/113550013834697764613\">Edmund L</a>"
-                ],
-                "photo_reference": "AWYs27zN55INtI95xXI8qPY2Cb8ZeqzL242SKJivCCvh7w41jMy8M5NiYSyI_KdRe9R0o78sdgnKn4LC9qWj7CLNoIEfoeKxBundh2cipE5UBrnMWctl3IpQPyTxrcD1DeZm3fpKK1HvsX1hrlgcXW9TDHMjB8oHwqqwVshQtgmb8pVfU-9o",
-                "width": 2252
-            },
-            {
-                "height": 3968,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/109482096067379521499\">Dennis Wong</a>"
-                ],
-                "photo_reference": "AWYs27wk6D3PKlKSM-itIMCP-KlP5SGfRLG7VknHCiIYXwRJQog9AIi0GTS4VGDPHbxnwS2B1UuTM_9e4t1FG5CojE9bKCn3mDOjP2lQpHEv955Hbjb_IlhKDWv2-R89Qg-quBEM55x-1B5o-LR46uo84ptM4U1RGlgCUIvY77VpZw6iJo4h",
-                "width": 2976
-            },
-            {
-                "height": 9000,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/109200906982589273572\">Lawrence Espino</a>"
-                ],
-                "photo_reference": "AWYs27ym7EuQzXxypfBH0qr7J20oLWSoyjl0RgorL4jwk1QdYG3E6J6RbGWeVI2UIDvZSxejxQkV2QSdMtUC0F-ZfIIfbwDSyf-bCahWjOqqaVyRr1UeBTDZjr54Ni3O24dIytWZ1MROIXiGAc8OmseC-8CtM0N7OoG2Eygyhu_KThT5oSb7",
-                "width": 12000
-            },
-            {
-                "height": 3024,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/101463756183188762895\">gym journal</a>"
-                ],
-                "photo_reference": "AWYs27xsHszGmMZvTBmo2no2GNFmPEiQgZtZ5vrATIOSd-EvubSy8zpzWGYBxDDN6ST2cihtEWhNIc6M8ZUE1BrOTkeiZPSzdZl_jRVN-fNk-_UKvfmbviJJcGiuoMncQKsGx73YVwMOrMdyWuMJ9DXEM2Bj0Br17LlvlrdrC7HpLBpOCfzG",
-                "width": 4032
-            },
-            {
-                "height": 4032,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/101458971027018858289\">Marc Lorenzi</a>"
-                ],
-                "photo_reference": "AWYs27x22OkGXBImcZ3kO4nN-Q1s2dZce6DFL03nqjkv5dWtrmcLsb21WAKyNu0XElAz4ekcWKC8flXOM7GSyreGkAMeuU0nKCk8_YWaLmkJL7rx-dIKZvH2sCy-gZcNWwvGRvmLZ5rxnrGnk_mKwF-_fobXGw1qGytuv6MK3V0E0lfX079F",
-                "width": 3024
-            },
-            {
-                "height": 4032,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/101463756183188762895\">gym journal</a>"
-                ],
-                "photo_reference": "AWYs27yCOWx9yxmKMQWNIdbxyktoOtc3_e5YhEpikhTocNt0sKS-Me6m9brUUgs7w8F8QicaFoaaCo7C2HBuDzrp0AlVcC3khl0oEn51JbeuGmxC2wR_RQXl4Eovwdlb0uqtHC6VmnL7cQW8kJtXVsSIdaW-ysmpEOdIsep8mtnscWtncovp",
-                "width": 3024
-            },
-            {
-                "height": 4032,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/101463756183188762895\">gym journal</a>"
-                ],
-                "photo_reference": "AWYs27yLWlOmxIQK9PQMTEBToGg0yry_R3Z6HSrIJiODJZj5NL94rxJZnsX3hY1jMldGzrOAWS3xxTolyCzwhru8bfbyVFviTtYAV7U7K0zK3X9ALbi1U_qIPGI0ULZK-dUSU6dNZJs1TnoMlHZ_Ki8bBKsAvKvJqzcOgPd5cXB03BhCGLdl",
-                "width": 3024
-            },
-            {
-                "height": 4032,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/101458971027018858289\">Marc Lorenzi</a>"
-                ],
-                "photo_reference": "AWYs27zftITAJ0-OS3d_-PV5KtjzKEJ0FvcmDNG6bnPc1FeK8jOAwlkRLlslpqjKnq1HwhbAbFBJpWhzdYx4dGpPi6QHTmx6wn0_toLH7vH7ju-jka2Idqr_12qKWtSDBwVbuWRSQRyYDwtUwh-4oi3fD-y-JorYPECBbRH_Y3729Ci7He0N",
-                "width": 3024
             }
         ],
         "rating": 4.8,
-        "reviews": [
-            {
-                "author_name": "Lawrence Espino",
-                "author_url": "https://www.google.com/maps/contrib/109200906982589273572/reviews",
-                "language": "en",
-                "original_language": "en",
-                "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImC5ayyvR8YmAtKeT1aHCSJiS43JtyZF2m_wNDtv4-Zqi00DA=s128-c0x00000000-cc-rp-mo",
-                "rating": 5,
-                "relative_time_description": "a month ago",
-                "text": "This fitness gym really amazed me a lot because of the advance equipments and facilities that can accomodate lots of people who wants to go and be physically and emotionally fit. Well, this spot serves a lot of routine full of equipments/facilities for the whole body workout, circuit training and relaxation before and after working out.\n\nThank you, Marc for giving me an opportunity to avail the 1-day access which is only $28 and introduce me to all the floors inside the gym before I avail it. Also, 5 stars for your initiative in describing and giving me information about the different workout equpments.\n\nHope to see you when I visit SG again! And will recommend you to my friends who will go nearby Geylang.",
-                "time": 1731146779,
-                "translated": false
-            },
-            {
-                "author_name": "Claudia Chen",
-                "author_url": "https://www.google.com/maps/contrib/109958991468581915548/reviews",
-                "language": "en",
-                "original_language": "en",
-                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_scJ18jtIMnIBdc7cgu95PdUU7e3LFbACimy1R2AGHyI1toinGA=s128-c0x00000000-cc-rp-mo-ba4",
-                "rating": 5,
-                "relative_time_description": "6 months ago",
-                "text": "A nice gym, there are all the machines I need and not crowded. Especially for the squat rack, I love it.\n\nI got warm hospitality from them and enjoyed the massage Chair for 20 mins.\n\nHere is a wonderful gym.",
-                "time": 1718769873,
-                "translated": false
-            },
-            {
-                "author_name": "Dean Nolan",
-                "author_url": "https://www.google.com/maps/contrib/113520452639258113930/reviews",
-                "language": "en",
-                "original_language": "en",
-                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtm90yQV4TK31Ylzqd9O5rKkNlEfUnXGBsyNt70OSN_707Jk8=s128-c0x00000000-cc-rp-mo",
-                "rating": 5,
-                "relative_time_description": "2 months ago",
-                "text": "This is the best gym I've trained at in Singapore, extremely well equipped with equipment on each floor for different goals (cardio, free-weights, resistance machines, functional). Staff are very informative, friendly and welcoming, environment is great and everywhere is spotlessly clean. I cannot recommend highly enough!",
-                "time": 1729674142,
-                "translated": false
-            },
-            {
-                "author_name": "Gary Li",
-                "author_url": "https://www.google.com/maps/contrib/110202813497776307827/reviews",
-                "language": "en",
-                "original_language": "en",
-                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUS8Jukp9pLCeQnoYtbhcLqz-_02xNTghAguFwNoKk9jgxY3kBS=s128-c0x00000000-cc-rp-mo-ba2",
-                "rating": 5,
-                "relative_time_description": "a week ago",
-                "text": "Great gym. Clean, well equipped, good AC and water available. Good location in the Geylang area. Would recommend.",
-                "time": 1734153974,
-                "translated": false
-            },
-            {
-                "author_name": "gym journal",
-                "author_url": "https://www.google.com/maps/contrib/101463756183188762895/reviews",
-                "language": "en",
-                "original_language": "en",
-                "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLW7bubl4H8jWWmyB920arhzsid0Bft5Jpa_WrAMe4E5fJn3w=s128-c0x00000000-cc-rp-mo",
-                "rating": 5,
-                "relative_time_description": "2 years ago",
-                "text": "It is a unique gym like you have never seen before!\nEvery floor is a different type of equipment for specific training. Staff are super friendly and helpful. I love the roof top, I can exercise and see the sunset or night view of geylang.\nI couldn\u2019t say much, you need to see and have experience by yourself. For me, this gym is amazing, highly recommended\ud83d\udc4d",
-                "time": 1659187418,
-                "translated": false
-            }
-        ],
-        "types": [
-            "gym",
-            "health",
-            "point_of_interest",
-            "establishment"
-        ],
-        "user_ratings_total": 107,
-        "website": "https://www.fitbiz.fit/",
-        "latitude": 1.3118564,
-        "longitude": 103.8804857,
-        "activities": [
-            "fitness"
-        ],
-        "photo_urls": [
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27yPniOnrfZPWdMdkk_b2BbHkpZPZhpZ2TSVI3DdHg7bnFrHTfd31ybGaMjYrjP-GqKu01oLGx7zf9_MaVykJCiN1_FZWw9x7NGMHZ3c-Dr-xO-5xYIs_doX3AHQOe69aDn0AWsTUyIPGTxGqkiRhdy5_LrA2fQVbxrTrZZrZ_dAWTqa&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27yXIgB_X71nmMWvhH1BwGpen1GI18bo-2lvk6EpERbpziQNvT3fdYjZVH9IHNW0q7qNJzD8IzxPAz14jFRez_7jdFvNgi6dp2QJKugs2ptuI5sp58qth2i9bAj4ySgFdmhQSzRkXec5dyFYgtUw3vIfz1sBC1xbwKNm0d89rulVEfXw&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27zN55INtI95xXI8qPY2Cb8ZeqzL242SKJivCCvh7w41jMy8M5NiYSyI_KdRe9R0o78sdgnKn4LC9qWj7CLNoIEfoeKxBundh2cipE5UBrnMWctl3IpQPyTxrcD1DeZm3fpKK1HvsX1hrlgcXW9TDHMjB8oHwqqwVshQtgmb8pVfU-9o&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27wk6D3PKlKSM-itIMCP-KlP5SGfRLG7VknHCiIYXwRJQog9AIi0GTS4VGDPHbxnwS2B1UuTM_9e4t1FG5CojE9bKCn3mDOjP2lQpHEv955Hbjb_IlhKDWv2-R89Qg-quBEM55x-1B5o-LR46uo84ptM4U1RGlgCUIvY77VpZw6iJo4h&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27ym7EuQzXxypfBH0qr7J20oLWSoyjl0RgorL4jwk1QdYG3E6J6RbGWeVI2UIDvZSxejxQkV2QSdMtUC0F-ZfIIfbwDSyf-bCahWjOqqaVyRr1UeBTDZjr54Ni3O24dIytWZ1MROIXiGAc8OmseC-8CtM0N7OoG2Eygyhu_KThT5oSb7&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27xsHszGmMZvTBmo2no2GNFmPEiQgZtZ5vrATIOSd-EvubSy8zpzWGYBxDDN6ST2cihtEWhNIc6M8ZUE1BrOTkeiZPSzdZl_jRVN-fNk-_UKvfmbviJJcGiuoMncQKsGx73YVwMOrMdyWuMJ9DXEM2Bj0Br17LlvlrdrC7HpLBpOCfzG&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27x22OkGXBImcZ3kO4nN-Q1s2dZce6DFL03nqjkv5dWtrmcLsb21WAKyNu0XElAz4ekcWKC8flXOM7GSyreGkAMeuU0nKCk8_YWaLmkJL7rx-dIKZvH2sCy-gZcNWwvGRvmLZ5rxnrGnk_mKwF-_fobXGw1qGytuv6MK3V0E0lfX079F&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27yCOWx9yxmKMQWNIdbxyktoOtc3_e5YhEpikhTocNt0sKS-Me6m9brUUgs7w8F8QicaFoaaCo7C2HBuDzrp0AlVcC3khl0oEn51JbeuGmxC2wR_RQXl4Eovwdlb0uqtHC6VmnL7cQW8kJtXVsSIdaW-ysmpEOdIsep8mtnscWtncovp&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27yLWlOmxIQK9PQMTEBToGg0yry_R3Z6HSrIJiODJZj5NL94rxJZnsX3hY1jMldGzrOAWS3xxTolyCzwhru8bfbyVFviTtYAV7U7K0zK3X9ALbi1U_qIPGI0ULZK-dUSU6dNZJs1TnoMlHZ_Ki8bBKsAvKvJqzcOgPd5cXB03BhCGLdl&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27zftITAJ0-OS3d_-PV5KtjzKEJ0FvcmDNG6bnPc1FeK8jOAwlkRLlslpqjKnq1HwhbAbFBJpWhzdYx4dGpPi6QHTmx6wn0_toLH7vH7ju-jka2Idqr_12qKWtSDBwVbuWRSQRyYDwtUwh-4oi3fD-y-JorYPECBbRH_Y3729Ci7He0N&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE"
-        ]
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 338,
+        "website": "https://www.1880.com.sg/"
     },
-    {
-        "formatted_address": "10 Eunos Rd 8, #05-10 SingPost Centre, Singapore 408600",
-        "formatted_phone_number": "8222 3888",
+    "AmericanClubSingapore": {
+        "formatted_address": "10 Claymore Hl, Singapore 229573",
+        "formatted_phone_number": "+65 6737-3411",
         "geometry": {
             "location": {
-                "lat": 1.3189548,
-                "lng": 103.8944549
+                "lat": 1.308473,
+                "lng": 103.832239
             },
             "viewport": {
                 "northeast": {
-                    "lat": 1.320508580291502,
-                    "lng": 103.8954520802915
+                    "lat": 1.3090,
+                    "lng": 103.8330
                 },
                 "southwest": {
-                    "lat": 1.317810619708498,
-                    "lng": 103.8927541197085
+                    "lat": 1.3075,
+                    "lng": 103.8315
                 }
             }
         },
-        "international_phone_number": "+65 8222 3888",
-        "name": "24XFITNESS SINGPOST PAYA LEBAR",
+        "international_phone_number": "+65 6737-3411",
+        "name": "American Club Singapore",
         "opening_hours": {
             "open_now": true,
             "periods": [
@@ -243,13 +88,13 @@
                 }
             ],
             "weekday_text": [
-                "Monday: Open 24 hours",
-                "Tuesday: Open 24 hours",
-                "Wednesday: Open 24 hours",
-                "Thursday: Open 24 hours",
-                "Friday: Open 24 hours",
-                "Saturday: Open 24 hours",
-                "Sunday: Open 24 hours"
+                "Sunday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Monday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Tuesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Wednesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Thursday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Friday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Saturday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
             ]
         },
         "photos": [
@@ -258,169 +103,14 @@
                 "html_attributions": [
                     "<a href=\"https://maps.google.com/maps/contrib/106063969474875741861\">24XFITNESS SINGPOST PAYA LEBAR</a>"
                 ],
-                "photo_reference": "AWYs27wFPl38iZOZQ4NRbyb2vapC-11Vrt09AA2XtOcjDK-LBIdYkGLlO6OtAxm3YpaTDCGLCexAGFMQYLLXiQUhD7MbEXf3KqKKBamWrsDkq3HfzsQNYYqPYeOMh97Jp_oB1gNwTgRty-3v_-bsAgpBdEvpmEcJIrpxv3OeC3BsW7XhTHZ6",
+                "photo_reference": null,
                 "width": 1600
-            },
-            {
-                "height": 3024,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/116248203659325140201\">Lee Zen</a>"
-                ],
-                "photo_reference": "AWYs27zMDJRaQC6kQULE3ZPKZgZOlzK2n-OWn3NhpAmxOevpIo0KGzRpqIGkCzPz_mTqV6Hk7i6qKVln5F4N7eOigN_ltTrbJ7galgRWvtep8JUOlAD7maahjuvIXso4KmVFlVjUKXJ0MfWitf3j64ioOdsn8-V0sASCCziapZnm6pUqJPo9",
-                "width": 4032
-            },
-            {
-                "height": 463,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/106063969474875741861\">24XFITNESS SINGPOST PAYA LEBAR</a>"
-                ],
-                "photo_reference": "AWYs27zE4SJOUKae84XpuSZFyOkWNKCMBUIvF9_l3uNexGS5PB1ps4ftWXp0yozVW8iYzeNoT4U5SR1WE7h3As-kBbeb_bozSrd9iQvB18cPQ_oN0g-E7MhHnHzcxI75VUVWASxe6U8Hztz1gjyFU711QhiPmCFzAWDXMC1jO5Q3JCPKvzAZ",
-                "width": 800
-            },
-            {
-                "height": 4032,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/116248203659325140201\">Lee Zen</a>"
-                ],
-                "photo_reference": "AWYs27xXiWv9Z5Un1DyHoaiCa9M63vByCQeX35qNWNUXbwRLkrRwc-l7NF7ClYeE6_f0ry6zQK5nplxNIkRDA1ZJk49lpsa2faK2_xfmMNP2TVQoUS1fgEsZq8lyeqXzV_tpaOYdyq-7Er_G06373G5Lpqfmzu0Spt4u2N3E3V5npq9-rVLX",
-                "width": 3024
-            },
-            {
-                "height": 4032,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/106399175318288658924\">Lucien Lim</a>"
-                ],
-                "photo_reference": "AWYs27xDCWsxKJk_61JzFmDuZEy8Wbla9iQE0AHnD3tUrL15yEitznO6vYUhraV1bAB76mtpHZuW84r7lu_m6OJtzyTPiMCrqKhMcK0oRZ4mPnSmVzPYrWDRuAiwKBCN4K4_N9WZuqTC0hxGPpilfgT3rm_c9-HkMH9AcTaB6erZMZKhHkGX",
-                "width": 3024
-            },
-            {
-                "height": 2084,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/115109572272682142626\">Khairul Anwar Adzhar</a>"
-                ],
-                "photo_reference": "AWYs27wA3TC758XStcoBxKCt1LTOVvJPoVW-49PcfTlz9JSCTE0YXnMR-emv3nBqzFqJY5vCtb3BvUFTs8TYGsq6aIH-2B7G3fS0x2ZCzhHPyVrnXllFaGBhVOa9WY0t3ULS7KfuIshLEVSZnd8EkZMtIy8siANRyeA6j196G7YaY54k02KB",
-                "width": 4624
-            },
-            {
-                "height": 1600,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/106063969474875741861\">24XFITNESS SINGPOST PAYA LEBAR</a>"
-                ],
-                "photo_reference": "AWYs27zGWV2iJnH6JsF28QylGRah9KekVnlM27xjuU-nS20NE5Ux-dPI1XTe9QZQ_dyhQocak2Vi53EcKJ2n4sHg1R3GIlMLUr_NCOxZ5r0bf8gz9atV03JNcdIgJMHs-tBbjXHMCrIoBSzxBAsMhvUzRrYLUDHnM-j7OlfpNzjldREx8u_N",
-                "width": 1200
-            },
-            {
-                "height": 4032,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/106399175318288658924\">Lucien Lim</a>"
-                ],
-                "photo_reference": "AWYs27yOw6-TylsBIsQhwiEuoOkafNEins8ucnEdx87rIHr2jtXONJhWLby_0EAuqFfSHRBGRxTRUim1h39f5coEBtSKHeaI0xksBUBGJhloPZwjlyZZnzFRx3OvLumD5uAJYQ_mcQFC4jSZ-BqDK5j6_1MGvbLVe5x68VkpuwMtlafFdzFY",
-                "width": 3024
-            },
-            {
-                "height": 4032,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/106399175318288658924\">Lucien Lim</a>"
-                ],
-                "photo_reference": "AWYs27xLCiPgWVujFrr_dCFJ5tg7IYe73iR8PypC1tg3UrrUC3NWFRSw0FMmaOSEM7ijnb0-Zwa7DNwmIq5K088lGPg7C_TFZadAhFcv9qGcm6gXseqCcoHfaaO9WhB8X5Hr4oVlhHpqNDj_vkrgZzGXV5yo_00l-xlTwWVXPJERg9SNFywv",
-                "width": 3024
-            },
-            {
-                "height": 4032,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/106399175318288658924\">Lucien Lim</a>"
-                ],
-                "photo_reference": "AWYs27zMZyQj0JNeLAbs1pEvGRdSoyB8dW-oFpUPN--nsjtId5KyyaskSckmpieNPInLygnHhtCBreyxW75PNWe9ffCn0hM7PiuUMu4UPGrwsGbbG2cpfvc21hgeDMwtWkkbTcUdpwWvw9qb0VJCg3HLiQUykFrPmWkp2zJO2EjwW7eqPCSQ",
-                "width": 3024
             }
         ],
-        "rating": 4.6,
-        "reviews": [
-            {
-                "author_name": "Lucien Lim",
-                "author_url": "https://www.google.com/maps/contrib/106399175318288658924/reviews",
-                "language": "en",
-                "original_language": "en",
-                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUY5NN_9xCgbeab1Yp3DT-QzHL6UN_tlv36FzJOWZSI8kFeoY2w=s128-c0x00000000-cc-rp-mo-ba6",
-                "rating": 4,
-                "relative_time_description": "2 years ago",
-                "text": "A good 24 hour gym that has all the equipment you need, it\u2019s spacious, clean and well maintained, although some of the equipment is old (can see it\u2019s rusted and aged). The rust can make it hard to slide weights on to the barbells, and may also stain your clothes (victim here).\n\n24XFitness is located on the 5th floor of Singpost Centre, and is accessible via the lift located near the post office/food outlets. The toilets are not attached, and are instead a walking distance from the gym near the auditorium.",
-                "time": 1667882552,
-                "translated": false
-            },
-            {
-                "author_name": "Safi Naseem",
-                "author_url": "https://www.google.com/maps/contrib/105262097253402933463/reviews",
-                "language": "en",
-                "original_language": "en",
-                "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZBdNxxHMRzY3OK_ZyWt8pZNWusdlCdq73bKVTGkEQCRn6Ab4=s128-c0x00000000-cc-rp-mo",
-                "rating": 5,
-                "relative_time_description": "5 months ago",
-                "text": "The gym has all the necessary equipment of a fancy brand name gym, without the price tag. My experience with interacting with the management and staff of 24Xfitness is that they are understanding and are willing to go the extra mile for their clients. Highly recommended for anyone looking for a gym in the east.",
-                "time": 1722235866,
-                "translated": false
-            },
-            {
-                "author_name": "Teck Boon",
-                "author_url": "https://www.google.com/maps/contrib/105978834231481267643/reviews",
-                "language": "en",
-                "original_language": "en",
-                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhhjSvd8WvJhcPJ0N_s5uXl9BwSoDYFYdYkSjIFzqcBjIwg3BhqA=s128-c0x00000000-cc-rp-mo-ba7",
-                "rating": 5,
-                "relative_time_description": "2 years ago",
-                "text": "Opens 24/7 and is not busy except for lunch and dinner hours. No one really comes here to see and be seen so it\u2019s a great place to just do your workout in relative peace. Tons of equipment and generally well maintained. Competitively priced too and people are also friendly but gives everyone their own space to workout.",
-                "time": 1658974210,
-                "translated": false
-            },
-            {
-                "author_name": "Vladimir Yordanov",
-                "author_url": "https://www.google.com/maps/contrib/117452288135393955928/reviews",
-                "language": "en",
-                "original_language": "en",
-                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfY9ls-wkpx7Xu4k_dcD5ykY2MdC6pGlw07uxC-YBWqsdaDavR=s128-c0x00000000-cc-rp-mo",
-                "rating": 5,
-                "relative_time_description": "a year ago",
-                "text": "From the moment I stepped into 24XFitness at SingPost Paya Lebar, I knew I had found the place for my fitness journey. The gym is not just about its state-of-the-art equipment and facilities, but it's the vibrant atmosphere and supportive community that truly sets it apart.\nThe different kinds of equipment available is impressive, catering to all kinds of fitness goals, whether it\u2019s weightlifting, cardio, or functional training.\nIt is open 24/7 and provides a great flexibility for workout schedule for busy individuals.\nThe community at 24XFitness is incredibly welcoming. It's a place where everyone, regardless of their fitness level, is encouraged and supported. There's a real sense of camaraderie that makes every visit enjoyable. I made several good friends there.\nWhat really elevates 24XFitness is its staff. The trainers are not only highly skilled and knowledgeable but also genuinely passionate about helping members achieve their goals. They are always available to offer guidance, correct your form, or simply give you that extra bit of motivation needed to push through a tough workout.",
-                "time": 1703561362,
-                "translated": false
-            },
-            {
-                "author_name": "Khairul Anwar Adzhar",
-                "author_url": "https://www.google.com/maps/contrib/115109572272682142626/reviews",
-                "language": "en",
-                "original_language": "en",
-                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVlytoE-aauWn2s1Eci2G8IEfFzdIeFhbdbNZHb5tyNQj4AUEchqw=s128-c0x00000000-cc-rp-mo-ba4",
-                "rating": 5,
-                "relative_time_description": "2 years ago",
-                "text": "No classes, studio or toilet. Just machines lots of them. They do have lockers and showers tho.",
-                "time": 1647081908,
-                "translated": false
-            }
-        ],
-        "types": [
-            "gym",
-            "health",
-            "point_of_interest",
-            "establishment"
-        ],
-        "user_ratings_total": 85,
-        "website": "http://24xfitness.com.sg/",
-        "latitude": 1.3189548,
-        "longitude": 103.8944549,
-        "activities": [
-            "fitness"
-        ],
-        "photo_urls": [
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27wFPl38iZOZQ4NRbyb2vapC-11Vrt09AA2XtOcjDK-LBIdYkGLlO6OtAxm3YpaTDCGLCexAGFMQYLLXiQUhD7MbEXf3KqKKBamWrsDkq3HfzsQNYYqPYeOMh97Jp_oB1gNwTgRty-3v_-bsAgpBdEvpmEcJIrpxv3OeC3BsW7XhTHZ6&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27zMDJRaQC6kQULE3ZPKZgZOlzK2n-OWn3NhpAmxOevpIo0KGzRpqIGkCzPz_mTqV6Hk7i6qKVln5F4N7eOigN_ltTrbJ7galgRWvtep8JUOlAD7maahjuvIXso4KmVFlVjUKXJ0MfWitf3j64ioOdsn8-V0sASCCziapZnm6pUqJPo9&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27zE4SJOUKae84XpuSZFyOkWNKCMBUIvF9_l3uNexGS5PB1ps4ftWXp0yozVW8iYzeNoT4U5SR1WE7h3As-kBbeb_bozSrd9iQvB18cPQ_oN0g-E7MhHnHzcxI75VUVWASxe6U8Hztz1gjyFU711QhiPmCFzAWDXMC1jO5Q3JCPKvzAZ&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27xXiWv9Z5Un1DyHoaiCa9M63vByCQeX35qNWNUXbwRLkrRwc-l7NF7ClYeE6_f0ry6zQK5nplxNIkRDA1ZJk49lpsa2faK2_xfmMNP2TVQoUS1fgEsZq8lyeqXzV_tpaOYdyq-7Er_G06373G5Lpqfmzu0Spt4u2N3E3V5npq9-rVLX&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27xDCWsxKJk_61JzFmDuZEy8Wbla9iQE0AHnD3tUrL15yEitznO6vYUhraV1bAB76mtpHZuW84r7lu_m6OJtzyTPiMCrqKhMcK0oRZ4mPnSmVzPYrWDRuAiwKBCN4K4_N9WZuqTC0hxGPpilfgT3rm_c9-HkMH9AcTaB6erZMZKhHkGX&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27wA3TC758XStcoBxKCt1LTOVvJPoVW-49PcfTlz9JSCTE0YXnMR-emv3nBqzFqJY5vCtb3BvUFTs8TYGsq6aIH-2B7G3fS0x2ZCzhHPyVrnXllFaGBhVOa9WY0t3ULS7KfuIshLEVSZnd8EkZMtIy8siANRyeA6j196G7YaY54k02KB&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27zGWV2iJnH6JsF28QylGRah9KekVnlM27xjuU-nS20NE5Ux-dPI1XTe9QZQ_dyhQocak2Vi53EcKJ2n4sHg1R3GIlMLUr_NCOxZ5r0bf8gz9atV03JNcdIgJMHs-tBbjXHMCrIoBSzxBAsMhvUzRrYLUDHnM-j7OlfpNzjldREx8u_N&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27yOw6-TylsBIsQhwiEuoOkafNEins8ucnEdx87rIHr2jtXONJhWLby_0EAuqFfSHRBGRxTRUim1h39f5coEBtSKHeaI0xksBUBGJhloPZwjlyZZnzFRx3OvLumD5uAJYQ_mcQFC4jSZ-BqDK5j6_1MGvbLVe5x68VkpuwMtlafFdzFY&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27xLCiPgWVujFrr_dCFJ5tg7IYe73iR8PypC1tg3UrrUC3NWFRSw0FMmaOSEM7ijnb0-Zwa7DNwmIq5K088lGPg7C_TFZadAhFcv9qGcm6gXseqCcoHfaaO9WhB8X5Hr4oVlhHpqNDj_vkrgZzGXV5yo_00l-xlTwWVXPJERg9SNFywv&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27zMZyQj0JNeLAbs1pEvGRdSoyB8dW-oFpUPN--nsjtId5KyyaskSckmpieNPInLygnHhtCBreyxW75PNWe9ffCn0hM7PiuUMu4UPGrwsGbbG2cpfvc21hgeDMwtWkkbTcUdpwWvw9qb0VJCg3HLiQUykFrPmWkp2zJO2EjwW7eqPCSQ&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE"
-        ]
+        "rating": 4.4,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 703,
+        "website": "http://amclub.org.sg/"
     }
-]
+}
