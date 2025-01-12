@@ -51,13 +51,14 @@
             }
         ],
         "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/1880_club.png"
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/1880_club.jpg"
         ],
         "rating": 4.8,
-        "reviews": [],
-        "types": [],
         "user_ratings_total": 338,
-        "website": "https://www.1880.com.sg/"
+        "website": "https://www.1880.com.sg/",
+        "latitude": 1.2908,
+        "longitude": 103.8392,
+        "activities": null
     },
     "AmericanClubSingapore": {
         "formatted_address": "10 Claymore Hl, Singapore 229573",
@@ -114,9 +115,17 @@
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/american_club_singapore.webp"
         ],
         "rating": 4.4,
-        "reviews": [],
-        "types": [],
         "user_ratings_total": 703,
-        "website": "http://amclub.org.sg/"
+        "website": "http://amclub.org.sg/",
+        "latitude": 1.308473,
+        "longitude": 103.832239,
+        "activities": [
+            "aquatics",
+            "swimming",
+            "gym",
+            "pilates",
+            "squash",
+            "tennis"
+        ]
     }
 }
