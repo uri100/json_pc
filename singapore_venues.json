@@ -30,8 +30,8 @@
         "types": [],
         "user_ratings_total": 338,
         "website": "https://1880.com.sg",
-        "latitude": 1.2908,
-        "longitude": 103.8392,
+        "latitude": 1.290045,
+        "longitude": 103.838651,
         "activities": []
     },
     "AmericanClubSingapore": {
@@ -72,7 +72,9 @@
             "pilates",
             "squash",
             "tennis"
-        ]
+        ],
+        "latitude": 1.308473,
+        "longitude": 103.832239
     },
     "ArandaCountryClub": {
         "formatted_address": "60 Pasir Ris Dr 3, Singapore 519497",
@@ -112,7 +114,9 @@
             "zumba",
             "trekking",
             "table tennis,"
-        ]
+        ],
+        "latitude": 1.376092,
+        "longitude": 103.953557
     },
     "TheBritishClub": {
         "formatted_address": "73 Bukit Tinggi Road",
@@ -149,7 +153,9 @@
             "tennis",
             "swimming",
             "athletic"
-        ]
+        ],
+        "latitude": 1.345874,
+        "longitude": 103.792505
     },
     "CeylonSportsClub": {
         "formatted_address": "101 Balestier Rd, Singapore 329678",
@@ -188,7 +194,9 @@
             "pool",
             "darts",
             "hockey"
-        ]
+        ],
+        "latitude": 1.318502,
+        "longitude": 103.854297
     },
     "ChangiBeachClub": {
         "formatted_address": "350 Cranwell Rd, Singapore 509864",
@@ -231,7 +239,9 @@
             "tennis",
             "table tennis",
             "billiards"
-        ]
+        ],
+        "latitude": 13.897361,
+        "longitude": 103.976614
     },
     "ChangiGolfClub": {
         "formatted_address": "20 Netheravon Rd, Singapore 508505",
@@ -266,7 +276,9 @@
         "website": "https://changigolfclub.org.sg",
         "activities": [
             "golf"
-        ]
+        ],
+        "latitude": 13.920384,
+        "longitude": 103.984859
     },
     "ChineseSwimmingClub": {
         "formatted_address": "21 Amber Rd, Singapore 439870",
@@ -302,7 +314,9 @@
         "activities": [
             "badminton",
             "swimming"
-        ]
+        ],
+        "latitude": 13.001499,
+        "longitude": 103.900544
     },
     "CivilServiceClub@BukitBatok": {
         "formatted_address": "91 Bukit Batok West Ave 2, Singapore 659206",
@@ -337,7 +351,9 @@
             "bowling",
             "tennis",
             "swimming"
-        ]
+        ],
+        "latitude": 13.532454,
+        "longitude": 103.748444
     },
     "CivilServiceClub@Tessensohn": {
         "formatted_address": "60 Tessensohn Rd, Singapore 217664",
@@ -375,7 +391,9 @@
             "pilates",
             "yoga",
             "swimming"
-        ]
+        ],
+        "latitude": 1.315977,
+        "longitude": 103.856604
     },
     "CivilServiceClubChangi": {
         "formatted_address": "2 Netheravon Rd, Singapore 508503",
@@ -410,7 +428,9 @@
         "website": "https://cscchangi.sg",
         "activities": [
             "bowling"
-        ]
+        ],
+        "latitude": 13.914147,
+        "longitude": 103.986247
     },
     "CivilServiceClubSingapore": {
         "formatted_address": "2 Netheravon Rd, Singapore 508503",
@@ -459,7 +479,9 @@
             "table tennis",
             "climbing",
             "karate"
-        ]
+        ],
+        "latitude": 1.390897,
+        "longitude": 103.986877
     },
     "ClubYoga": {
         "formatted_address": "28b Hongkong St, Singapore 059667",
@@ -495,7 +517,9 @@
         "activities": [
             "fitness",
             "yoga"
-        ]
+        ],
+        "latitude": 1.287603,
+        "longitude": 103.846986
     },
     "ConquestBadmintonClub": {
         "formatted_address": "5 Soon Lee St, #04-52 Pioneer Point, Singapore 627607",
@@ -530,7 +554,9 @@
         "website": "https://conquestbadminton.com",
         "activities": [
             "badminton"
-        ]
+        ],
+        "latitude": 13.469939,
+        "longitude": 10.372907
     },
     "GermanAssociationofDeutschesHaus": {
         "formatted_address": "4 Battery Rd, Singapore 049908",
@@ -563,7 +589,9 @@
         "types": [],
         "user_ratings_total": null,
         "website": "https://german-association.org.sg",
-        "activities": []
+        "activities": [],
+        "latitude": 1.285612,
+        "longitude": 103.852304
     },
     "HiddenCastleGolfClub": {
         "formatted_address": "405 Havelock Rd, #02-01, Singapore 169633",
@@ -598,7 +626,9 @@
         "website": "https://hiddencastlegolf.com",
         "activities": [
             "golf"
-        ]
+        ],
+        "latitude": 12.876541,
+        "longitude": 103.836098
     },
     "HollandseClub": {
         "formatted_address": "22 Camden Park Singapore 299814",
@@ -636,7 +666,9 @@
             "athletic",
             "swimming",
             "padel"
-        ]
+        ],
+        "latitude": 1.329965,
+        "longitude": 103.816586
     },
     "HomeTeamNS-JOMBalestierClubhouse": {
         "formatted_address": "31 Ah Hood Rd, Singapore 329979",
@@ -676,7 +708,9 @@
             "swimming",
             "tennis",
             "futsal"
-        ]
+        ],
+        "latitude": 1.328871,
+        "longitude": 103.848853
     },
     "TheJapaneseAssociation": {
         "formatted_address": "120 Adam Rd, Singapore 289899",
@@ -709,7 +743,9 @@
         "types": [],
         "user_ratings_total": null,
         "website": "https://jas.org.sg",
-        "activities": []
+        "activities": [],
+        "latitude": 1.330548,
+        "longitude": 103.815739
     },
     "JPongTableTennisClub": {
         "formatted_address": "1014 Geylang East Ave 3, #03-210K, Singapore 389729",
@@ -745,7 +781,9 @@
         "activities": [
             "table tennis",
             "tennis"
-        ]
+        ],
+        "latitude": 13.185353,
+        "longitude": 103.890073
     },
     "MarinaCountryClub": {
         "formatted_address": "11 Northshore Dr, Singapore 828670",
@@ -783,7 +821,9 @@
             "surfing ",
             "wakeboarding ",
             "wakesurfing"
-        ]
+        ],
+        "latitude": 14.152492,
+        "longitude": 103.899087
     },
     "MinistryofEducationSports&RecreationClub": {
         "formatted_address": "21 Evans Rd, Singapore 259366",
@@ -823,7 +863,9 @@
             "table tennis",
             "tennis",
             "bowling,"
-        ]
+        ],
+        "latitude": 13.188,
+        "longitude": 103.819428
     },
     "NationalServiceResort&CountryClub": {
         "formatted_address": "10 Changi Coast Walk, Singapore 499739",
@@ -864,7 +906,9 @@
             "bowling",
             "squash",
             "fitness"
-        ]
+        ],
+        "latitude": 13.181469,
+        "longitude": 103.974298
     },
     "ONE\u00b015MarinaSentosaCove": {
         "formatted_address": "#01-01, 11 Cove Drive",
@@ -898,7 +942,9 @@
         "activities": [
             "athletic",
             "swimming"
-        ]
+        ],
+        "latitude": 1.246201,
+        "longitude": 103.839488
     },
     "OrchidCountryClub": {
         "formatted_address": "1 Orchid Club Rd, #02-37 Orchid Country Club, Singapore 769162",
@@ -942,7 +988,9 @@
             "taekwondo",
             "aikido",
             "pilates"
-        ]
+        ],
+        "latitude": 14.111804,
+        "longitude": 103.843496
     },
     "PBCBowler'sClub": {
         "formatted_address": "131 Rifle Range Rd, #04-04, Singapore 588406",
@@ -975,7 +1023,9 @@
         "website": "https://pbc.org.sg",
         "activities": [
             "bowling"
-        ]
+        ],
+        "latitude": 13.467171,
+        "longitude": 103.780901
     },
     "PerformancePickleball": {
         "formatted_address": "11 Northshore Dr, #01-23 Performance Pickleball Indoor Sheltered Home Courts, Singapore 828670",
@@ -1012,7 +1062,9 @@
             "badminton",
             "tennis",
             "pickleball"
-        ]
+        ],
+        "latitude": 14.151518,
+        "longitude": 103.899501
     },
     "PyramidClub": {
         "formatted_address": "no. 2 Goodwood Hill",
@@ -1045,7 +1097,9 @@
         "types": [],
         "user_ratings_total": null,
         "website": null,
-        "activities": []
+        "activities": [],
+        "latitude": 1.311197,
+        "longitude": 103.833511
     },
     "RafflesMarinaCountryClub": {
         "formatted_address": "10 Tuas West Dr, Singapore 638404",
@@ -1083,7 +1137,9 @@
             "gym",
             "swimming",
             "sea sports"
-        ]
+        ],
+        "latitude": 134.256,
+        "longitude": 103.635246
     },
     "RafflesTownClub": {
         "formatted_address": "1 Plymouth Ave, Singapore 297753",
@@ -1125,7 +1181,9 @@
             "aerobics",
             "zumba",
             "martial arts"
-        ]
+        ],
+        "latitude": 1.321843,
+        "longitude": 10.382489
     },
     "SAFRAYishunCountryClub": {
         "formatted_address": "60 Yishun Ave 4, Singapore 769027",
@@ -1161,7 +1219,9 @@
         "activities": [
             "bowling",
             "football,swimming"
-        ]
+        ],
+        "latitude": 14.241052,
+        "longitude": 103.840703
     },
     "SeletarCountryClub": {
         "formatted_address": "101 Seletar Club Rd, Singapore 798273",
@@ -1202,7 +1262,9 @@
             "bowling",
             "pickleball",
             "fitness"
-        ]
+        ],
+        "latitude": 14.096707,
+        "longitude": 103.858116
     },
     "SentosaGolfClub": {
         "formatted_address": "27 Bukit Manis Rd, Singapore 099892",
@@ -1237,7 +1299,9 @@
         "website": "https://sentosagolf.com",
         "activities": [
             "golf"
-        ]
+        ],
+        "latitude": 1.243597,
+        "longitude": 103.829283
     },
     "SIASportsClub": {
         "formatted_address": "726 Upper Changi Rd E, Singapore 486046",
@@ -1275,7 +1339,9 @@
             "squash",
             "football",
             "swimming"
-        ]
+        ],
+        "latitude": 13.446431,
+        "longitude": 103.964739
     },
     "SingaporeCricketClub": {
         "formatted_address": "A Connaught Dr, Singapore 179681",
@@ -1320,7 +1386,9 @@
             "golf",
             "netball",
             "squash"
-        ]
+        ],
+        "latitude": 1.289684,
+        "longitude": 10.385259
     },
     "SingaporeIslandCountryClub(Bukit)": {
         "formatted_address": "240 Sime Rd, Singapore 288303",
@@ -1357,7 +1425,9 @@
             "fitness",
             "golf",
             "swimming"
-        ]
+        ],
+        "latitude": 13.413867,
+        "longitude": 103.810507
     },
     "SingaporePoloClub": {
         "formatted_address": "80 Mount Pleasant Rd, Singapore 298334",
@@ -1392,7 +1462,9 @@
         "website": "https://singaporepoloclub.org",
         "activities": [
             "equestrian"
-        ]
+        ],
+        "latitude": 1.333675,
+        "longitude": 103.835839
     },
     "SingaporeRecreationClub": {
         "formatted_address": "Connaught Dr, B, Singapore 179682",
@@ -1440,7 +1512,9 @@
             "softball",
             "tennis",
             "yoga"
-        ]
+        ],
+        "latitude": 1.292046,
+        "longitude": 103.853743
     },
     "SingaporeSwimmingClub": {
         "formatted_address": "45 Tanjong Rhu Rd, Singapore Swimming Club, Singapore 436899",
@@ -1480,7 +1554,9 @@
             "bowling",
             "squash",
             "fitness"
-        ]
+        ],
+        "latitude": 12.972808,
+        "longitude": 103.881832
     },
     "SingaporeTurfClub": {
         "formatted_address": "1 Turf Club Ave, Singapore 738078",
@@ -1515,7 +1591,9 @@
         "website": "https://turfclub.com.sg",
         "activities": [
             "horse racing"
-        ]
+        ],
+        "latitude": 1.422238,
+        "longitude": 103.762477
     },
     "SpartansBoxingClub": {
         "formatted_address": "573 Balestier Road, Singapore 329888.",
@@ -1550,7 +1628,9 @@
         "website": "https://spartansboxing.com",
         "activities": [
             "boxing"
-        ]
+        ],
+        "latitude": 13.078049,
+        "longitude": 103.903812
     },
     "SwissClubSingapore": {
         "formatted_address": "36 Swiss Club Road, Singapore 288139",
@@ -1592,7 +1672,9 @@
             "futsal",
             "billiard",
             "swimming"
-        ]
+        ],
+        "latitude": 1.343245,
+        "longitude": 103.791603
     },
     "TanahMerahCountryClubGardenCourse": {
         "formatted_address": "1 Tanah Merah Coast Rd, Singapore 498722",
@@ -1627,7 +1709,9 @@
         "website": "https://tmcc.org.sg",
         "activities": [
             "golf"
-        ]
+        ],
+        "latitude": 13.293431,
+        "longitude": 10.397938
     },
     "TanglinClub": {
         "formatted_address": "5 Stevens Rd, Singapore 257814",
@@ -1669,7 +1753,9 @@
             "squash",
             "swimming",
             "tennis"
-        ]
+        ],
+        "latitude": 1.310024,
+        "longitude": 103.832481
     },
     "TelokBlangahArcheryClub": {
         "formatted_address": "80 Telok Blangah Street 31, Singapore 100080",
@@ -1704,7 +1790,9 @@
         "website": "https://eaglesoftbac.wordpress.com",
         "activities": [
             "archery"
-        ]
+        ],
+        "latitude": 1.273697,
+        "longitude": 10.380716
     },
     "TemasekClub": {
         "formatted_address": "131 Rifle Range Rd, Singapore 588406",
@@ -1746,7 +1834,9 @@
             "gym",
             "bowling",
             "fitness"
-        ]
+        ],
+        "latitude": 13.463976,
+        "longitude": 103.780525
     },
     "TheParClubSingapore": {
         "formatted_address": "6 Raffles Blvd, #02-309/310/311 Marina Square, Singapore 039594",
@@ -1781,7 +1871,9 @@
         "website": "https://theparclubsg.com",
         "activities": [
             "golf"
-        ]
+        ],
+        "latitude": 12.912061,
+        "longitude": 103.857677
     },
     "TowerClubSingapore": {
         "formatted_address": "9 Raffles Place, Penthouse Plaza 62nd-64th Floor, Republic Tower 1, Singapore 048619",
@@ -1816,7 +1908,9 @@
         "website": "https://tower-club.com.sg",
         "activities": [
             "athletic"
-        ]
+        ],
+        "latitude": 1.283211,
+        "longitude": 103.850792
     },
     "TTLABTableTennisClub(Novena)": {
         "formatted_address": "1 Goldhill Plaza, #03-33, Singapore 308899",
@@ -1852,7 +1946,9 @@
         "activities": [
             "table tennis",
             "tennis"
-        ]
+        ],
+        "latitude": 13.179367,
+        "longitude": 103.842891
     },
     "TTLABTableTennisClub(Thomson)": {
         "formatted_address": "20, 03-68 Sin Ming Ln, Midview City, Singapore 573968",
@@ -1886,7 +1982,9 @@
         "activities": [
             "table tennis",
             "tennis"
-        ]
+        ],
+        "latitude": 13.580295,
+        "longitude": 10.383349
     },
     "WarrenGolf&CountryClub": {
         "formatted_address": "81 Choa Chu Kang Way, Singapore 688263 Choa Chu Kang Wy, Singapore 688263",
@@ -1921,7 +2019,9 @@
         "website": "https://warren.org.sg",
         "activities": [
             "golf"
-        ]
+        ],
+        "latitude": 13.840505,
+        "longitude": 103.736581
     },
     "No18SingaporeCapitol": {
         "formatted_address": "13 Stamford Rd. No18 Singapore Capitol, Level 2, Capitol Piazza, Singapore 178905",
@@ -1956,7 +2056,9 @@
             "gym",
             "swimming",
             "spa"
-        ]
+        ],
+        "latitude": 1.293047,
+        "longitude": 103.851291
     },
     "67PallMallSingapore": {
         "formatted_address": "1 Scotts Rd, #27-00 Shaw Centre, Singapore 228208",
@@ -1989,7 +2091,9 @@
         "types": [],
         "user_ratings_total": null,
         "website": "https://67pallmall.com/the-singapore-club",
-        "activities": []
+        "activities": [],
+        "latitude": 1.305855,
+        "longitude": 103.831614
     },
     "33Club": {
         "formatted_address": "22 Malacca Street, 01-02, RB, Capital Building, S(048980)",
@@ -2022,7 +2126,9 @@
         "types": [],
         "user_ratings_total": null,
         "website": "https://33club.sg",
-        "activities": []
+        "activities": [],
+        "latitude": 128.396,
+        "longitude": 103.850902
     },
     "MandalaClub": {
         "formatted_address": "31\u201337 Bukit Pasoh Road, Singapore 089845",
@@ -2057,7 +2163,9 @@
         "website": "https://mandala.club",
         "activities": [
             "gym"
-        ]
+        ],
+        "latitude": 12.793,
+        "longitude": 103.840399
     },
     "AtlasPrivateClub": {
         "formatted_address": null,
@@ -2090,7 +2198,9 @@
         "types": [],
         "user_ratings_total": null,
         "website": "https://atlas.com.sg",
-        "activities": []
+        "activities": [],
+        "latitude": null,
+        "longitude": null
     },
     "ChangiSailingClub": {
         "formatted_address": "32 Netheravon Rd",
@@ -2124,7 +2234,9 @@
         "activities": [
             "swimming",
             "sailing"
-        ]
+        ],
+        "latitude": 139.224,
+        "longitude": 103.979557
     },
     "ChuiHuayLimClub": {
         "formatted_address": "No. l90, Keng Lee Road Singapore 308409",
@@ -2159,7 +2271,9 @@
         "website": "https://chuihuaylimclub.com",
         "activities": [
             "swimming,gym"
-        ]
+        ],
+        "latitude": 1.313908,
+        "longitude": 10.384196
     },
     "Club5": {
         "formatted_address": "PARKROYAL on Beach Road, 7500 Beach Rd, Singapore 199591",
@@ -2192,7 +2306,9 @@
         "types": [],
         "user_ratings_total": null,
         "website": "https://panpacific.com/en/hotels-and-resorts/pr-beach-road/eat/club-5.html",
-        "activities": []
+        "activities": [],
+        "latitude": 1.299901,
+        "longitude": 103.860572
     },
     "ElPicoSocial": {
         "formatted_address": "6 Hongkong St, #03-01",
@@ -2225,7 +2341,9 @@
         "types": [],
         "user_ratings_total": null,
         "website": "https://clubelpico.com",
-        "activities": []
+        "activities": [],
+        "latitude": 1.287487,
+        "longitude": 103.847771
     },
     "ParagonClubMembers'Lounge": {
         "formatted_address": "290 Orchard Rd, Singapore 238859",
@@ -2256,7 +2374,9 @@
         "types": [],
         "user_ratings_total": null,
         "website": "https://paragon.com.sg",
-        "activities": []
+        "activities": [],
+        "latitude": 1.303576,
+        "longitude": 103.835655
     },
     "RepublicofSingaporeYachtClub": {
         "formatted_address": "52 West Coast Ferry Road, Singapore 126887",
@@ -2291,7 +2411,9 @@
             "sailing",
             "gym",
             "tennis"
-        ]
+        ],
+        "latitude": 1.292841,
+        "longitude": 103.762738
     },
     "SerangoonGardensCountryClub": {
         "formatted_address": "22 Kensington Park Road, Singapore 557271",
@@ -2337,7 +2459,9 @@
             "tennis",
             "yoga",
             "zumba"
-        ]
+        ],
+        "latitude": 1.365672,
+        "longitude": 103.866882
     },
     "WhiteHousePrivateClub": {
         "formatted_address": "10 Coleman St, Conservative; Shophouse #01-01, Singapore 179809",
@@ -2370,7 +2494,9 @@
         "types": [],
         "user_ratings_total": null,
         "website": "https://thewhitehouseclub.com",
-        "activities": []
+        "activities": [],
+        "latitude": 1.292388,
+        "longitude": 103.850111
     },
     "BelgianLuxembourgAssociation": {
         "formatted_address": "120 Adam Rd. Singapore 289899",
@@ -2401,7 +2527,9 @@
         "types": [],
         "user_ratings_total": null,
         "website": "https://blas.org.sg",
-        "activities": []
+        "activities": [],
+        "latitude": 1.330548,
+        "longitude": 103.815739
     },
     "LaunchpadSingapore": {
         "formatted_address": null,
@@ -2434,7 +2562,9 @@
         "types": [],
         "user_ratings_total": null,
         "website": "https://thelaunchpad.group",
-        "activities": []
+        "activities": [],
+        "latitude": null,
+        "longitude": null
     },
     "TheAustralianandNewZealandAssociation(Anza)": {
         "formatted_address": "261A Beach Road, Singapore 199541",
@@ -2478,7 +2608,9 @@
             "tennis",
             "cycling",
             "padel,"
-        ]
+        ],
+        "latitude": 1.300618,
+        "longitude": 103.859914
     },
     "GohLooClub": {
         "formatted_address": "72 Club Street, Singapore, Singapore",
@@ -2511,7 +2643,9 @@
         "types": [],
         "user_ratings_total": null,
         "website": "https://facebook.com/wuluclub",
-        "activities": []
+        "activities": [],
+        "latitude": 1.281386,
+        "longitude": 103.846147
     },
     "DanishBusinessAssociation": {
         "formatted_address": "101 Thomson Road, Singapore 307591",
@@ -2544,6 +2678,8 @@
         "types": [],
         "user_ratings_total": null,
         "website": "https://dabs-singapore.com",
-        "activities": []
+        "activities": [],
+        "latitude": 1.317123,
+        "longitude": 103.843616
     }
 }
