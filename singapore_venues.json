@@ -46,7 +46,7 @@
                 "html_attributions": [
                     "<a href=\"https://example.com\">1880 Club</a>"
                 ],
-                "photo_reference": "",
+                "photo_reference": null,
                 "width": 4080
             }
         ],
@@ -103,7 +103,7 @@
                 "html_attributions": [
                     "<a href=\"https://maps.google.com/maps/contrib/106063969474875741861\">24XFITNESS SINGPOST PAYA LEBAR</a>"
                 ],
-                "photo_reference": "AWYs27wFPl38iZOZQ4NRbyb2vapC-11Vrt09AA2XtOcjDK-LBIdYkGLlO6OtAxm3YpaTDCGLCexAGFMQYLLXiQUhD7MbEXf3KqKKBamWrsDkq3HfzsQNYYqPYeOMh97Jp_oB1gNwTgRty-3v_-bsAgpBdEvpmEcJIrpxv3OeC3BsW7XhTHZ6",
+                "photo_reference": null,
                 "width": 1600
             }
         ],
