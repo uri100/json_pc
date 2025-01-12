@@ -448,7 +448,7 @@
         "formatted_phone_number": "+65 8200 9649",
         "geometry": {
             "location": {
-                "lat": 12.876541,
+                "lat": 1.2876541,
                 "lng": 103.836098
             }
         },
@@ -467,7 +467,7 @@
         "activities": [
             "golf"
         ],
-        "latitude": 12.876541,
+        "latitude": 1.2876541,
         "longitude": 103.836098
     },
     "HollandseClub": {
@@ -590,7 +590,7 @@
         "formatted_phone_number": "+65 6385 6166",
         "geometry": {
             "location": {
-                "lat": 14.152492,
+                "lat": 1.4152492,
                 "lng": 103.899087
             }
         },
@@ -612,7 +612,7 @@
             "wakeboarding",
             "wakesurfing"
         ],
-        "latitude": 14.152492,
+        "latitude": 1.4152492,
         "longitude": 103.899087
     },
     "MinistryofEducationSports&RecreationClub": {
@@ -711,7 +711,7 @@
         "formatted_phone_number": "+65 6759 4448, '+65 8522 6746",
         "geometry": {
             "location": {
-                "lat": 14.111804,
+                "lat": 1.4111804,
                 "lng": 103.843496
             }
         },
@@ -739,7 +739,7 @@
             "aikido",
             "pilates"
         ],
-        "latitude": 14.111804,
+        "latitude": 1.4111804,
         "longitude": 103.843496
     },
     "PBCBowler'sClub": {
@@ -772,7 +772,7 @@
         "formatted_phone_number": "+65 8891 2037",
         "geometry": {
             "location": {
-                "lat": 14.151518,
+                "lat": 1.4151518,
                 "lng": 103.899501
             }
         },
@@ -793,7 +793,7 @@
             "tennis",
             "pickleball"
         ],
-        "latitude": 14.151518,
+        "latitude": 1.4151518,
         "longitude": 103.899501
     },
     "PyramidClub": {
@@ -889,7 +889,7 @@
         "formatted_phone_number": "+65 6852 8200",
         "geometry": {
             "location": {
-                "lat": 14.241052,
+                "lat": 1.4241052,
                 "lng": 103.840703
             }
         },
@@ -907,9 +907,10 @@
         "website": "https://safra.sg",
         "activities": [
             "bowling",
-            "football,swimming"
+            "football",
+            "swimming"
         ],
-        "latitude": 14.241052,
+        "latitude": 1.4241052,
         "longitude": 103.840703
     },
     "SeletarCountryClub": {
@@ -917,7 +918,7 @@
         "formatted_phone_number": "+65 6486 0801",
         "geometry": {
             "location": {
-                "lat": 14.096707,
+                "lat": 1.4096707,
                 "lng": 103.858116
             }
         },
@@ -942,7 +943,7 @@
             "pickleball",
             "fitness"
         ],
-        "latitude": 14.096707,
+        "latitude": 1.4096707,
         "longitude": 103.858116
     },
     "SentosaGolfClub": {
@@ -1140,7 +1141,7 @@
         "formatted_phone_number": "+65 6342 3600",
         "geometry": {
             "location": {
-                "lat": 12.972808,
+                "lat": 1.2972808,
                 "lng": 103.881832
             }
         },
@@ -1164,7 +1165,7 @@
             "squash",
             "fitness"
         ],
-        "latitude": 12.972808,
+        "latitude": 1.2972808,
         "longitude": 103.881832
     },
     "SingaporeTurfClub": {
@@ -1381,7 +1382,7 @@
         "formatted_phone_number": "+65 9011 0142",
         "geometry": {
             "location": {
-                "lat": 12.912061,
+                "lat": 1.2912061,
                 "lng": 103.857677
             }
         },
@@ -1400,7 +1401,7 @@
         "activities": [
             "golf"
         ],
-        "latitude": 12.912061,
+        "latitude": 1.2912061,
         "longitude": 103.857677
     },
     "TowerClubSingapore": {
@@ -1592,7 +1593,7 @@
         "formatted_phone_number": "+65 8822 9154",
         "geometry": {
             "location": {
-                "lat": 12.793,
+                "lat": 1.2793,
                 "lng": 103.840399
             }
         },
@@ -1611,7 +1612,7 @@
         "activities": [
             "gym"
         ],
-        "latitude": 12.793,
+        "latitude": 1.2793,
         "longitude": 103.840399
     },
     "AtlasPrivateClub": {
