@@ -60,7 +60,7 @@
         "website": "https://www.1880.com.sg/",
         "activities": []
     },
-    "1880Club": {
+    "1881Club": {
         "formatted_address": "1 Nanson Road, Level 3, Singapore, Singapore 238909, SG",
         "formatted_phone_number": "+65 6304 3200",
         "geometry": {
@@ -80,7 +80,7 @@
             }
         },
         "international_phone_number": "+65 6304 3200",
-        "name": "1880 Club",
+        "name": "1881 Club",
         "opening_hours": {
             "open_now": true,
             "periods": [
