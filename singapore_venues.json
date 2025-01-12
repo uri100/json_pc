@@ -121,7 +121,7 @@
         "website": "https://www.1880.com.sg/",
         "activities": ["aquatics", "swimming", "gym", "pilates", "squash", "tennis"]
     },
-        "1881Club": {
+        "1882Club": {
         "formatted_address": "1 Nanson Road, Level 3, Singapore, Singapore 238909, SG",
         "formatted_phone_number": "+65 6304 3200",
         "geometry": {
@@ -141,7 +141,7 @@
             }
         },
         "international_phone_number": "+65 6304 3200",
-        "name": "1881 Club",
+        "name": "1882 Club",
         "opening_hours": {
             "open_now": true,
             "periods": [
@@ -182,7 +182,7 @@
         "website": "https://www.1880.com.sg/",
         "activities": []
     },
-            "1881Club": {
+            "1883Club": {
         "formatted_address": "1 Nanson Road, Level 3, Singapore, Singapore 238909, SG",
         "formatted_phone_number": "+65 6304 3200",
         "geometry": {
@@ -202,7 +202,7 @@
             }
         },
         "international_phone_number": "+65 6304 3200",
-        "name": "1881 Club",
+        "name": "1883 Club",
         "opening_hours": {
             "open_now": true,
             "periods": [
@@ -243,7 +243,7 @@
         "website": "https://www.1880.com.sg/",
         "activities": []
     },
-            "1881Club": {
+            "1884Club": {
         "formatted_address": "1 Nanson Road, Level 3, Singapore, Singapore 238909, SG",
         "formatted_phone_number": "+65 6304 3200",
         "geometry": {
@@ -263,7 +263,7 @@
             }
         },
         "international_phone_number": "+65 6304 3200",
-        "name": "1881 Club",
+        "name": "1884 Club",
         "opening_hours": {
             "open_now": true,
             "periods": [
@@ -304,7 +304,7 @@
         "website": "https://www.1880.com.sg/",
         "activities": []
     },
-            "1881Club": {
+            "1885Club": {
         "formatted_address": "1 Nanson Road, Level 3, Singapore, Singapore 238909, SG",
         "formatted_phone_number": "+65 6304 3200",
         "geometry": {
@@ -324,7 +324,7 @@
             }
         },
         "international_phone_number": "+65 6304 3200",
-        "name": "1881 Club",
+        "name": "1885 Club",
         "opening_hours": {
             "open_now": true,
             "periods": [
