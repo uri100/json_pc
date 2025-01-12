@@ -60,6 +60,67 @@
         "website": "https://www.1880.com.sg/",
         "activities": []
     },
+    "1880Club": {
+        "formatted_address": "1 Nanson Road, Level 3, Singapore, Singapore 238909, SG",
+        "formatted_phone_number": "+65 6304 3200",
+        "geometry": {
+            "location": {
+                "lat": 1.2908,
+                "lng": 103.8392
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.2915,
+                    "lng": 103.8400
+                },
+                "southwest": {
+                    "lat": 1.2900,
+                    "lng": 103.8390
+                }
+            }
+        },
+        "international_phone_number": "+65 6304 3200",
+        "name": "1880 Club",
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Sunday: 10:00 AM – 12:00 AM",
+                "Monday: 8:00 AM – 12:00 AM",
+                "Tuesday: 8:00 AM – 1:00 AM",
+                "Wednesday: 8:00 AM – 1:00 AM",
+                "Thursday: 8:00 AM – 1:00 AM",
+                "Friday: 8:00 AM – 1:00 AM",
+                "Saturday: 10:00 AM – 1:00 AM"
+            ]
+        },
+        "photos": [
+            {
+                "height": 3072,
+                "html_attributions": [
+                    "<a href=\"https://example.com\">1880 Club</a>"
+                ],
+                "photo_reference": null,
+                "width": 4080
+            }
+        ],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/1880_club.png"
+        ],
+        "rating": 4.8,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 338,
+        "website": "https://www.1880.com.sg/",
+        "activities": []
+    },
     "AmericanClubSingapore": {
         "formatted_address": "10 Claymore Hl, Singapore 229573",
         "formatted_phone_number": "+65 6737-3411",
