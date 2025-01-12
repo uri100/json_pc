@@ -31,13 +31,13 @@
                 }
             ],
             "weekday_text": [
-                "Sunday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-                "Monday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-                "Tuesday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-                "Wednesday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-                "Thursday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-                "Friday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-                "Saturday: 10:00\u202fAM\u2009\u2013\u20091:00\u202fAM"
+                "Sunday: 10:00 AM – 12:00 AM",
+                "Monday: 8:00 AM – 12:00 AM",
+                "Tuesday: 8:00 AM – 1:00 AM",
+                "Wednesday: 8:00 AM – 1:00 AM",
+                "Thursday: 8:00 AM – 1:00 AM",
+                "Friday: 8:00 AM – 1:00 AM",
+                "Saturday: 10:00 AM – 1:00 AM"
             ]
         },
         "photos": [
@@ -91,13 +91,13 @@
                 }
             ],
             "weekday_text": [
-                "Sunday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                "Monday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                "Tuesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                "Wednesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                "Thursday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                "Friday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-                "Saturday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+                "Sunday: 6:00 AM – 11:00 PM",
+                "Monday: 6:00 AM – 11:00 PM",
+                "Tuesday: 6:00 AM – 11:00 PM",
+                "Wednesday: 6:00 AM – 11:00 PM",
+                "Thursday: 6:00 AM – 11:00 PM",
+                "Friday: 6:00 AM – 12:00 AM",
+                "Saturday: 6:00 AM – 12:00 AM"
             ]
         },
         "photos": [
