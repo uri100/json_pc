@@ -50,6 +50,9 @@
                 "width": 4080
             }
         ],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/main/images/clubs/1880_club.webp"
+        ],
         "rating": 4.8,
         "reviews": [],
         "types": [],
@@ -106,6 +109,9 @@
                 "photo_reference": null,
                 "width": 1600
             }
+        ],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/american_club_singapore.webp"
         ],
         "rating": 4.4,
         "reviews": [],
