@@ -1761,7 +1761,9 @@
         "name": "Paragon Club Members' Lounge",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paragon_club_members_lounge.png"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
