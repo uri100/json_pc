@@ -103,8 +103,9 @@
                 "html_attributions": [
                     "<a href=\"https://maps.google.com/maps/contrib/106063969474875741861\">24XFITNESS SINGPOST PAYA LEBAR</a>"
                 ],
-                "photo_reference": null,
-                "width": 1600
+                "photo_reference": "american_club_photo",
+                "width": 1600,
+                "url": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/american_club_singapore.webp"
             }
         ],
         "rating": 4.4,
