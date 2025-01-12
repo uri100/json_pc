@@ -112,5 +112,12 @@
         "types": [],
         "user_ratings_total": 703,
         "website": "http://amclub.org.sg/"
+        "latitude": 1.3118564,
+        "longitude": 103.8804857,
+        "activities": [
+            "fitness"
+        ],
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference="           
     }
 }
