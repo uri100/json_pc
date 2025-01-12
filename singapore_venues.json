@@ -95,7 +95,9 @@
         "name": "Aranda Country Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/arandacountryclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -133,7 +135,9 @@
         "name": "The British Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/thebritishclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -168,7 +172,9 @@
         "name": "Ceylon Sports Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ceylonsportsclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -205,7 +211,9 @@
         "name": "Changi Beach Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/changibeachclub.jpg"
+        ],
         "rating": 4.2,
         "reviews": [],
         "types": [],
@@ -246,7 +254,9 @@
         "name": "Changi Golf Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/changigolfclub.jpg"
+        ],
         "rating": 4.0,
         "reviews": [],
         "types": [],
@@ -279,7 +289,9 @@
         "name": "Chinese Swimming Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chineseswimmingclub.jpg"
+        ],
         "rating": 4.3,
         "reviews": [],
         "types": [],
@@ -313,7 +325,9 @@
         "name": "Civil Service Club @ Bukit Batok",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/civilserviceclubatbukitbatok.jpg"
+        ],
         "rating": 4.3,
         "reviews": [],
         "types": [],
@@ -348,7 +362,9 @@
         "name": "Civil Service Club @ Tessensohn",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/civilserviceclubattessensohn.jpg"
+        ],
         "rating": 4.1,
         "reviews": [],
         "types": [],
@@ -386,7 +402,9 @@
         "name": "Civil Service Club Changi",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/civilserviceclubchangi.jpg"
+        ],
         "rating": 4.3,
         "reviews": [],
         "types": [],
@@ -419,7 +437,9 @@
         "name": "Civil Service Club Singapore",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/civilserviceclubsingapore.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -466,7 +486,9 @@
         "name": "Club Yoga",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/clubyoga.jpg"
+        ],
         "rating": 4.4,
         "reviews": [],
         "types": [],
@@ -500,7 +522,9 @@
         "name": "Conquest Badminton Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/conquestbadmintonclub.jpg"
+        ],
         "rating": 5.0,
         "reviews": [],
         "types": [],
@@ -533,7 +557,9 @@
         "name": "German Association of Deutsches Haus",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/germanassociationofdeutscheshaus.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -564,7 +590,9 @@
         "name": "Hidden Castle Golf Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hiddencastlegolfclub.jpg"
+        ],
         "rating": 4.9,
         "reviews": [],
         "types": [],
@@ -597,7 +625,9 @@
         "name": "Hollandse Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hollandseclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -633,7 +663,9 @@
         "name": "HomeTeamNS-JOM Balestier Clubhouse",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hometeamns-jombalestierclubhouse.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -671,7 +703,9 @@
         "name": "The Japanese Association",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/thejapaneseassociation.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -702,7 +736,9 @@
         "name": "JPong Table Tennis Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jpongtabletennisclub.jpg"
+        ],
         "rating": 5.0,
         "reviews": [],
         "types": [],
@@ -736,7 +772,9 @@
         "name": "Marina Country Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/marinacountryclub.jpg"
+        ],
         "rating": 4.1,
         "reviews": [],
         "types": [],
@@ -772,7 +810,9 @@
         "name": "Ministry of Education Sports & Recreation Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ministryofeducationsportsandrecreationclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -810,7 +850,9 @@
         "name": "National Service Resort & Country Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nationalserviceresortandcountryclub.jpg"
+        ],
         "rating": 4.3,
         "reviews": [],
         "types": [],
@@ -849,7 +891,9 @@
         "name": "ONE\u00b015 Marina Sentosa Cove",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/one\u00b015marinasentosacove.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -883,7 +927,9 @@
         "name": "Orchid Country Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/orchidcountryclub.jpg"
+        ],
         "rating": 4.2,
         "reviews": [],
         "types": [],
@@ -925,7 +971,9 @@
         "name": "PBC Bowler's Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pbcbowler'sclub.jpg"
+        ],
         "rating": 4.4,
         "reviews": [],
         "types": [],
@@ -958,7 +1006,9 @@
         "name": "Performance Pickleball",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/performancepickleball.jpg"
+        ],
         "rating": 5.0,
         "reviews": [],
         "types": [],
@@ -993,7 +1043,9 @@
         "name": "Pyramid Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pyramidclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -1024,7 +1076,9 @@
         "name": "Raffles Marina Country Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rafflesmarinacountryclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -1060,7 +1114,9 @@
         "name": "Raffles Town Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rafflestownclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -1100,7 +1156,9 @@
         "name": "SAFRA Yishun Country Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/safrayishuncountryclub.jpg"
+        ],
         "rating": 4.3,
         "reviews": [],
         "types": [],
@@ -1134,7 +1192,9 @@
         "name": "Seletar Country Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seletarcountryclub.jpg"
+        ],
         "rating": 4.2,
         "reviews": [],
         "types": [],
@@ -1173,7 +1233,9 @@
         "name": "Sentosa Golf Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sentosagolfclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -1206,7 +1268,9 @@
         "name": "SIA Sports Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/siasportsclub.jpg"
+        ],
         "rating": 4.3,
         "reviews": [],
         "types": [],
@@ -1242,7 +1306,9 @@
         "name": "Singapore Cricket Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singaporecricketclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -1285,7 +1351,9 @@
         "name": "Singapore Island Country Club (Bukit)",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singaporeislandcountryclub(bukit).jpg"
+        ],
         "rating": 4.3,
         "reviews": [],
         "types": [],
@@ -1320,7 +1388,9 @@
         "name": "Singapore Polo Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singaporepoloclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -1353,7 +1423,9 @@
         "name": "Singapore Recreation Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singaporerecreationclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -1399,7 +1471,9 @@
         "name": "Singapore Swimming Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singaporeswimmingclub.jpg"
+        ],
         "rating": 4.4,
         "reviews": [],
         "types": [],
@@ -1437,7 +1511,9 @@
         "name": "Singapore Turf Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singaporeturfclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -1470,7 +1546,9 @@
         "name": "Spartans Boxing Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/spartansboxingclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -1503,7 +1581,9 @@
         "name": "Swiss Club Singapore",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/swissclubsingapore.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -1543,7 +1623,9 @@
         "name": "Tanah Merah Country Club Garden Course",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tanahmerahcountryclubgardencourse.jpg"
+        ],
         "rating": 4.5,
         "reviews": [],
         "types": [],
@@ -1576,7 +1658,9 @@
         "name": "Tanglin Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tanglinclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -1616,7 +1700,9 @@
         "name": "Telok Blangah Archery Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/telokblangaharcheryclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -1649,7 +1735,9 @@
         "name": "Temasek Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/temasekclub.jpg"
+        ],
         "rating": 4.3,
         "reviews": [],
         "types": [],
@@ -1689,7 +1777,9 @@
         "name": "The Par Club Singapore",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/theparclubsingapore.jpg"
+        ],
         "rating": 4.5,
         "reviews": [],
         "types": [],
@@ -1722,7 +1812,9 @@
         "name": "Tower Club Singapore",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/towerclubsingapore.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -1755,7 +1847,9 @@
         "name": "TT LAB Table Tennis Club (Novena)",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ttlabtabletennisclub(novena).jpg"
+        ],
         "rating": 4.8,
         "reviews": [],
         "types": [],
@@ -1789,7 +1883,9 @@
         "name": "TT LAB Table Tennis Club (Thomson)",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ttlabtabletennisclub(thomson).jpg"
+        ],
         "rating": 4.9,
         "reviews": [],
         "types": [],
@@ -1823,7 +1919,9 @@
         "name": "Warren Golf & Country Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/warrengolfandcountryclub.jpg"
+        ],
         "rating": 4.3,
         "reviews": [],
         "types": [],
@@ -1856,7 +1954,9 @@
         "name": "No18 Singapore Capitol",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/no18singaporecapitol.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -1891,7 +1991,9 @@
         "name": "67 Pall Mall Singapore",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/67pallmallsingapore.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -1922,7 +2024,9 @@
         "name": "33 Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/33club.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -1953,7 +2057,9 @@
         "name": "Mandala Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mandalaclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -1986,7 +2092,9 @@
         "name": "Atlas Private Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/atlasprivateclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -2017,7 +2125,9 @@
         "name": "Changi Sailing Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/changisailingclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -2051,7 +2161,9 @@
         "name": "Chui Huay Lim Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chuihuaylimclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -2084,7 +2196,9 @@
         "name": "Club 5",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/club5.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -2115,7 +2229,9 @@
         "name": "El Pico Social",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/elpicosocial.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -2146,7 +2262,9 @@
         "name": "Paragon Club Members' Lounge",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paragonclubmembers'lounge.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -2177,7 +2295,9 @@
         "name": "Republic of Singapore Yacht Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/republicofsingaporeyachtclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -2212,7 +2332,9 @@
         "name": "Serangoon Gardens Country Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/serangoongardenscountryclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -2256,7 +2378,9 @@
         "name": "White House Private Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehouseprivateclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -2287,7 +2411,9 @@
         "name": "Belgian Luxembourg Association",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/belgianluxembourgassociation.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -2318,7 +2444,9 @@
         "name": "Launchpad Singapore",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/launchpadsingapore.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -2349,7 +2477,9 @@
         "name": "The Australian and New Zealand Association (Anza)",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/theaustralianandnewzealandassociation(anza).jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -2391,7 +2521,9 @@
         "name": "Goh Loo Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gohlooclub.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
@@ -2422,7 +2554,9 @@
         "name": "Danish Business Association",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/danishbusinessassociation.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
