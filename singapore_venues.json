@@ -280,7 +280,9 @@
         "name": "Civil Service Club @ Tessensohn",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/civil_service_club_tessensohn.jpg"
+        ],
         "rating": 4.1,
         "reviews": [],
         "types": [],
