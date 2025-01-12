@@ -1476,7 +1476,9 @@
         "name": "TT LAB Table Tennis Club (Thomson)",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tt_lab_table_tennis_club_thomson.jpg"
+        ],
         "rating": 4.9,
         "reviews": [],
         "types": [],
