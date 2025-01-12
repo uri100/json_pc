@@ -46,9 +46,8 @@
                 "html_attributions": [
                     "<a href=\"https://example.com\">1880 Club</a>"
                 ],
-                "photo_reference": null,
-                "width": 4080,
-                "url": "https://example.com/photo.jpg"
+                "photo_reference": "",
+                "width": 4080
             }
         ],
         "rating": 4.8,
@@ -102,11 +101,10 @@
             {
                 "height": 1200,
                 "html_attributions": [
-                    "<a href=\"https://example.com\">American Club Singapore</a>"
+                    "<a href=\"https://maps.google.com/maps/contrib/106063969474875741861\">24XFITNESS SINGPOST PAYA LEBAR</a>"
                 ],
-                "photo_reference": null,
-                "width": 1600,
-                "url": "https://example.com/photo.jpg"
+                "photo_reference": "AWYs27wFPl38iZOZQ4NRbyb2vapC-11Vrt09AA2XtOcjDK-LBIdYkGLlO6OtAxm3YpaTDCGLCexAGFMQYLLXiQUhD7MbEXf3KqKKBamWrsDkq3HfzsQNYYqPYeOMh97Jp_oB1gNwTgRty-3v_-bsAgpBdEvpmEcJIrpxv3OeC3BsW7XhTHZ6",
+                "width": 1600
             }
         ],
         "rating": 4.4,
