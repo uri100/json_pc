@@ -41,7 +41,17 @@
                     "Saturday: 10:00\u202fAM\u2009\u2013\u20091:00\u202fAM"
                 ]
             },
-            "photos": [],
+            "photos": [
+                {
+                    "height": 3072,
+                    "html_attributions": [
+                        "<a href=\"https://example.com\">1880 Club</a>"
+                    ],
+                    "photo_reference": "placeholder-photo-reference",
+                    "width": 4080,
+                    "url": "https://example.com/fake-photo.jpg"
+                }
+            ],
             "rating": 4.8,
             "reviews": [],
             "types": [],
@@ -89,7 +99,17 @@
                     "Saturday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
                 ]
             },
-            "photos": [],
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://example.com\">American Club Singapore</a>"
+                    ],
+                    "photo_reference": "placeholder-photo-reference",
+                    "width": 1600,
+                    "url": "https://example.com/fake-photo.jpg"
+                }
+            ],
             "rating": 4.4,
             "reviews": [],
             "types": [],
