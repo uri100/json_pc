@@ -4,365 +4,32 @@
         "formatted_phone_number": "+65 6304 3200",
         "geometry": {
             "location": {
-                "lat": 1.2908,
-                "lng": 103.8392
+                "lat": "1.2908",
+                "lng": "103.8392"
             },
             "viewport": {
                 "northeast": {
                     "lat": 1.2915,
-                    "lng": 103.8400
+                    "lng": 103.84
                 },
                 "southwest": {
-                    "lat": 1.2900,
-                    "lng": 103.8390
+                    "lat": 1.29,
+                    "lng": 103.839
                 }
             }
         },
         "international_phone_number": "+65 6304 3200",
         "name": "1880 Club",
-        "opening_hours": {
-            "open_now": true,
-            "periods": [
-                {
-                    "open": {
-                        "day": 0,
-                        "time": "0000"
-                    }
-                }
-            ],
-            "weekday_text": [
-                "Sunday: 10:00 AM – 12:00 AM",
-                "Monday: 8:00 AM – 12:00 AM",
-                "Tuesday: 8:00 AM – 1:00 AM",
-                "Wednesday: 8:00 AM – 1:00 AM",
-                "Thursday: 8:00 AM – 1:00 AM",
-                "Friday: 8:00 AM – 1:00 AM",
-                "Saturday: 10:00 AM – 1:00 AM"
-            ]
-        },
-        "photos": [
-            {
-                "height": 3072,
-                "html_attributions": [
-                    "<a href=\"https://example.com\">1880 Club</a>"
-                ],
-                "photo_reference": null,
-                "width": 4080
-            }
-        ],
+        "opening_hours": null,
+        "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/1880_club.png"
         ],
-        "rating": 4.8,
+        "rating": 4.7,
         "reviews": [],
         "types": [],
         "user_ratings_total": 338,
-        "website": "https://www.1880.com.sg/",
-        "activities": []
-    },
-    "1881Club": {
-        "formatted_address": "1 Nanson Road, Level 3, Singapore, Singapore 238909, SG",
-        "formatted_phone_number": "+65 6304 3200",
-        "geometry": {
-            "location": {
-                "lat": 1.2908,
-                "lng": 103.8392
-            },
-            "viewport": {
-                "northeast": {
-                    "lat": 1.2915,
-                    "lng": 103.8400
-                },
-                "southwest": {
-                    "lat": 1.2900,
-                    "lng": 103.8390
-                }
-            }
-        },
-        "international_phone_number": "+65 6304 3200",
-        "name": "1881 Club",
-        "opening_hours": {
-            "open_now": true,
-            "periods": [
-                {
-                    "open": {
-                        "day": 0,
-                        "time": "0000"
-                    }
-                }
-            ],
-            "weekday_text": [
-                "Sunday: 10:00 AM – 12:00 AM",
-                "Monday: 8:00 AM – 12:00 AM",
-                "Tuesday: 8:00 AM – 1:00 AM",
-                "Wednesday: 8:00 AM – 1:00 AM",
-                "Thursday: 8:00 AM – 1:00 AM",
-                "Friday: 8:00 AM – 1:00 AM",
-                "Saturday: 10:00 AM – 1:00 AM"
-            ]
-        },
-        "photos": [
-            {
-                "height": 3072,
-                "html_attributions": [
-                    "<a href=\"https://example.com\">1880 Club</a>"
-                ],
-                "photo_reference": null,
-                "width": 4080
-            }
-        ],
-        "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/1880_club.png"
-        ],
-        "rating": 4.8,
-        "reviews": [],
-        "types": [],
-        "user_ratings_total": 338,
-        "website": "https://www.1880.com.sg/",
-        "activities": ["aquatics", "swimming", "gym", "pilates", "squash", "tennis"]
-    },
-        "1882Club": {
-        "formatted_address": "1 Nanson Road, Level 3, Singapore, Singapore 238909, SG",
-        "formatted_phone_number": "+65 6304 3200",
-        "geometry": {
-            "location": {
-                "lat": 1.2908,
-                "lng": 103.8392
-            },
-            "viewport": {
-                "northeast": {
-                    "lat": 1.2915,
-                    "lng": 103.8400
-                },
-                "southwest": {
-                    "lat": 1.2900,
-                    "lng": 103.8390
-                }
-            }
-        },
-        "international_phone_number": "+65 6304 3200",
-        "name": "1882 Club",
-        "opening_hours": {
-            "open_now": true,
-            "periods": [
-                {
-                    "open": {
-                        "day": 0,
-                        "time": "0000"
-                    }
-                }
-            ],
-            "weekday_text": [
-                "Sunday: 10:00 AM – 12:00 AM",
-                "Monday: 8:00 AM – 12:00 AM",
-                "Tuesday: 8:00 AM – 1:00 AM",
-                "Wednesday: 8:00 AM – 1:00 AM",
-                "Thursday: 8:00 AM – 1:00 AM",
-                "Friday: 8:00 AM – 1:00 AM",
-                "Saturday: 10:00 AM – 1:00 AM"
-            ]
-        },
-        "photos": [
-            {
-                "height": 3072,
-                "html_attributions": [
-                    "<a href=\"https://example.com\">1880 Club</a>"
-                ],
-                "photo_reference": null,
-                "width": 4080
-            }
-        ],
-        "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/1880_club.png"
-        ],
-        "rating": 4.8,
-        "reviews": [],
-        "types": [],
-        "user_ratings_total": 338,
-        "website": "https://www.1880.com.sg/",
-        "activities": []
-    },
-            "1883Club": {
-        "formatted_address": "1 Nanson Road, Level 3, Singapore, Singapore 238909, SG",
-        "formatted_phone_number": "+65 6304 3200",
-        "geometry": {
-            "location": {
-                "lat": 1.2908,
-                "lng": 103.8392
-            },
-            "viewport": {
-                "northeast": {
-                    "lat": 1.2915,
-                    "lng": 103.8400
-                },
-                "southwest": {
-                    "lat": 1.2900,
-                    "lng": 103.8390
-                }
-            }
-        },
-        "international_phone_number": "+65 6304 3200",
-        "name": "1883 Club",
-        "opening_hours": {
-            "open_now": true,
-            "periods": [
-                {
-                    "open": {
-                        "day": 0,
-                        "time": "0000"
-                    }
-                }
-            ],
-            "weekday_text": [
-                "Sunday: 10:00 AM – 12:00 AM",
-                "Monday: 8:00 AM – 12:00 AM",
-                "Tuesday: 8:00 AM – 1:00 AM",
-                "Wednesday: 8:00 AM – 1:00 AM",
-                "Thursday: 8:00 AM – 1:00 AM",
-                "Friday: 8:00 AM – 1:00 AM",
-                "Saturday: 10:00 AM – 1:00 AM"
-            ]
-        },
-        "photos": [
-            {
-                "height": 3072,
-                "html_attributions": [
-                    "<a href=\"https://example.com\">1880 Club</a>"
-                ],
-                "photo_reference": null,
-                "width": 4080
-            }
-        ],
-        "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/1880_club.png"
-        ],
-        "rating": 4.8,
-        "reviews": [],
-        "types": [],
-        "user_ratings_total": 338,
-        "website": "https://www.1880.com.sg/",
-        "activities": []
-    },
-            "1884Club": {
-        "formatted_address": "1 Nanson Road, Level 3, Singapore, Singapore 238909, SG",
-        "formatted_phone_number": "+65 6304 3200",
-        "geometry": {
-            "location": {
-                "lat": 1.2908,
-                "lng": 103.8392
-            },
-            "viewport": {
-                "northeast": {
-                    "lat": 1.2915,
-                    "lng": 103.8400
-                },
-                "southwest": {
-                    "lat": 1.2900,
-                    "lng": 103.8390
-                }
-            }
-        },
-        "international_phone_number": "+65 6304 3200",
-        "name": "1884 Club",
-        "opening_hours": {
-            "open_now": true,
-            "periods": [
-                {
-                    "open": {
-                        "day": 0,
-                        "time": "0000"
-                    }
-                }
-            ],
-            "weekday_text": [
-                "Sunday: 10:00 AM – 12:00 AM",
-                "Monday: 8:00 AM – 12:00 AM",
-                "Tuesday: 8:00 AM – 1:00 AM",
-                "Wednesday: 8:00 AM – 1:00 AM",
-                "Thursday: 8:00 AM – 1:00 AM",
-                "Friday: 8:00 AM – 1:00 AM",
-                "Saturday: 10:00 AM – 1:00 AM"
-            ]
-        },
-        "photos": [
-            {
-                "height": 3072,
-                "html_attributions": [
-                    "<a href=\"https://example.com\">1880 Club</a>"
-                ],
-                "photo_reference": null,
-                "width": 4080
-            }
-        ],
-        "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/1880_club.png"
-        ],
-        "rating": 4.8,
-        "reviews": [],
-        "types": [],
-        "user_ratings_total": 338,
-        "website": "https://www.1880.com.sg/",
-        "activities": []
-    },
-            "1885Club": {
-        "formatted_address": "1 Nanson Road, Level 3, Singapore, Singapore 238909, SG",
-        "formatted_phone_number": "+65 6304 3200",
-        "geometry": {
-            "location": {
-                "lat": 1.2908,
-                "lng": 103.8392
-            },
-            "viewport": {
-                "northeast": {
-                    "lat": 1.2915,
-                    "lng": 103.8400
-                },
-                "southwest": {
-                    "lat": 1.2900,
-                    "lng": 103.8390
-                }
-            }
-        },
-        "international_phone_number": "+65 6304 3200",
-        "name": "1885 Club",
-        "opening_hours": {
-            "open_now": true,
-            "periods": [
-                {
-                    "open": {
-                        "day": 0,
-                        "time": "0000"
-                    }
-                }
-            ],
-            "weekday_text": [
-                "Sunday: 10:00 AM – 12:00 AM",
-                "Monday: 8:00 AM – 12:00 AM",
-                "Tuesday: 8:00 AM – 1:00 AM",
-                "Wednesday: 8:00 AM – 1:00 AM",
-                "Thursday: 8:00 AM – 1:00 AM",
-                "Friday: 8:00 AM – 1:00 AM",
-                "Saturday: 10:00 AM – 1:00 AM"
-            ]
-        },
-        "photos": [
-            {
-                "height": 3072,
-                "html_attributions": [
-                    "<a href=\"https://example.com\">1880 Club</a>"
-                ],
-                "photo_reference": null,
-                "width": 4080
-            }
-        ],
-        "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/1880_club.png"
-        ],
-        "rating": 4.8,
-        "reviews": [],
-        "types": [],
-        "user_ratings_total": 338,
-        "website": "https://www.1880.com.sg/",
+        "website": "https://1880.com.sg",
         "activities": []
     },
     "AmericanClubSingapore": {
@@ -370,13 +37,13 @@
         "formatted_phone_number": "+65 6737-3411",
         "geometry": {
             "location": {
-                "lat": 1.308473,
-                "lng": 103.832239
+                "lat": "1.308473",
+                "lng": "103.832239"
             },
             "viewport": {
                 "northeast": {
-                    "lat": 1.3090,
-                    "lng": 103.8330
+                    "lat": 1.309,
+                    "lng": 103.833
                 },
                 "southwest": {
                     "lat": 1.3075,
@@ -386,36 +53,8 @@
         },
         "international_phone_number": "+65 6737-3411",
         "name": "American Club Singapore",
-        "opening_hours": {
-            "open_now": true,
-            "periods": [
-                {
-                    "open": {
-                        "day": 0,
-                        "time": "0000"
-                    }
-                }
-            ],
-            "weekday_text": [
-                "Sunday: 6:00 AM – 11:00 PM",
-                "Monday: 6:00 AM – 11:00 PM",
-                "Tuesday: 6:00 AM – 11:00 PM",
-                "Wednesday: 6:00 AM – 11:00 PM",
-                "Thursday: 6:00 AM – 11:00 PM",
-                "Friday: 6:00 AM – 12:00 AM",
-                "Saturday: 6:00 AM – 12:00 AM"
-            ]
-        },
-        "photos": [
-            {
-                "height": 1200,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/106063969474875741861\">24XFITNESS SINGPOST PAYA LEBAR</a>"
-                ],
-                "photo_reference": null,
-                "width": 1600
-            }
-        ],
+        "opening_hours": null,
+        "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/american_club_singapore.webp"
         ],
@@ -423,7 +62,2372 @@
         "reviews": [],
         "types": [],
         "user_ratings_total": 703,
-        "website": "http://amclub.org.sg/",
-        "activities": ["aquatics", "swimming", "gym", "pilates", "squash", "tennis"]
+        "website": "https://amclub.org.sg",
+        "activities": [
+            "aquatics",
+            "swimming",
+            "gym",
+            "pilates",
+            "squash",
+            "tennis"
+        ]
+    },
+    "ArandaCountryClub": {
+        "formatted_address": "60 Pasir Ris Dr 3, Singapore 519497",
+        "formatted_phone_number": "+65 6584 6811",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6584 6811",
+        "name": "Aranda Country Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://arandaclub.org.sg",
+        "activities": [
+            "swimming",
+            "gym",
+            "yoga",
+            "zumba",
+            "trekking",
+            "table tennis,"
+        ]
+    },
+    "TheBritishClub": {
+        "formatted_address": "73 Bukit Tinggi Road",
+        "formatted_phone_number": "+65 6410 1100",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6410 1100",
+        "name": "The British Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://britishclub.org.sg",
+        "activities": [
+            "tennis",
+            "swimming",
+            "athletic"
+        ]
+    },
+    "CeylonSportsClub": {
+        "formatted_address": "101 Balestier Rd, Singapore 329678",
+        "formatted_phone_number": "+65 6297 1009",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6297 1009",
+        "name": "Ceylon Sports Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://cscsingapore.org.sg",
+        "activities": [
+            "circket",
+            "futsal",
+            "pool",
+            "darts",
+            "hockey"
+        ]
+    },
+    "ChangiBeachClub": {
+        "formatted_address": "350 Cranwell Rd, Singapore 509864",
+        "formatted_phone_number": "+65 6546 5225",
+        "geometry": {
+            "location": {
+                "lat": "1.3897361",
+                "lng": "103.976614"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6546 5225",
+        "name": "Changi Beach Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 4.2,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 68,
+        "website": "https://changibc.org.sg",
+        "activities": [
+            "badminton",
+            "bowling",
+            "fitness",
+            "swimming",
+            "gym",
+            "squash",
+            "tennis",
+            "table tennis",
+            "billiards"
+        ]
+    },
+    "ChangiGolfClub": {
+        "formatted_address": "20 Netheravon Rd, Singapore 508505",
+        "formatted_phone_number": "+65 6545 5133",
+        "geometry": {
+            "location": {
+                "lat": "1.3920384",
+                "lng": "103.984859"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6545 5133",
+        "name": "Changi Golf Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 4.0,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 174,
+        "website": "https://changigolfclub.org.sg",
+        "activities": [
+            "golf"
+        ]
+    },
+    "ChineseSwimmingClub": {
+        "formatted_address": "21 Amber Rd, Singapore 439870",
+        "formatted_phone_number": "+65 6345 1221",
+        "geometry": {
+            "location": {
+                "lat": "1.3001499",
+                "lng": "103.900544"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6345 1221",
+        "name": "Chinese Swimming Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 4.3,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 826,
+        "website": "https://chineseswimmingclub.org.sg",
+        "activities": [
+            "badminton",
+            "swimming"
+        ]
+    },
+    "CivilServiceClub@BukitBatok": {
+        "formatted_address": "91 Bukit Batok West Ave 2, Singapore 659206",
+        "formatted_phone_number": "+65 6513 7480",
+        "geometry": {
+            "location": {
+                "lat": "1.3532454",
+                "lng": "103.748444"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6513 7480",
+        "name": "Civil Service Club @ Bukit Batok",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 4.3,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 1881,
+        "website": "https://cscbukitbatok.sg",
+        "activities": [
+            "bowling",
+            "tennis",
+            "swimming"
+        ]
+    },
+    "CivilServiceClub@Tessensohn": {
+        "formatted_address": "60 Tessensohn Rd, Singapore 217664",
+        "formatted_phone_number": "+65 6294 8933",
+        "geometry": {
+            "location": {
+                "lat": "1.315977",
+                "lng": "103.856604"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6294 8933",
+        "name": "Civil Service Club @ Tessensohn",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 4.1,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 1264,
+        "website": "https://csctessensohn.sg",
+        "activities": [
+            "bowling",
+            "tennis",
+            "badminton",
+            "pilates",
+            "yoga",
+            "swimming"
+        ]
+    },
+    "CivilServiceClubChangi": {
+        "formatted_address": "2 Netheravon Rd, Singapore 508503",
+        "formatted_phone_number": "+65 6709 4709",
+        "geometry": {
+            "location": {
+                "lat": "1.3914147",
+                "lng": "103.986247"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6709 4709",
+        "name": "Civil Service Club Changi",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 4.3,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 2204,
+        "website": "https://cscchangi.sg",
+        "activities": [
+            "bowling"
+        ]
+    },
+    "CivilServiceClubSingapore": {
+        "formatted_address": "2 Netheravon Rd, Singapore 508503",
+        "formatted_phone_number": "6391 5619",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "6391 5619",
+        "name": "Civil Service Club Singapore",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://csc.sg",
+        "activities": [
+            "swimming",
+            "volleyball",
+            "hockey",
+            "darts",
+            "cycling",
+            "basketball",
+            "yoga",
+            "tennis",
+            "bowling",
+            "fitness",
+            "gym",
+            "badminton",
+            "table tennis",
+            "climbing",
+            "karate"
+        ]
+    },
+    "ClubYoga": {
+        "formatted_address": "28b Hongkong St, Singapore 059667",
+        "formatted_phone_number": "+65 8660 4369; 6909 2080; 9144 4948",
+        "geometry": {
+            "location": {
+                "lat": "1.287603",
+                "lng": "103.846986"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 8660 4369; 6909 2080; 9144 4948",
+        "name": "Club Yoga",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 4.4,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 59,
+        "website": "https://clubyoga.sg",
+        "activities": [
+            "fitness",
+            "yoga"
+        ]
+    },
+    "ConquestBadmintonClub": {
+        "formatted_address": "5 Soon Lee St, #04-52 Pioneer Point, Singapore 627607",
+        "formatted_phone_number": "+65 8904 8617",
+        "geometry": {
+            "location": {
+                "lat": "1.3469939",
+                "lng": "103.72907"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 8904 8617",
+        "name": "Conquest Badminton Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 5.0,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 1,
+        "website": "https://conquestbadminton.com",
+        "activities": [
+            "badminton"
+        ]
+    },
+    "GermanAssociationofDeutschesHaus": {
+        "formatted_address": "4 Battery Rd, Singapore 049908",
+        "formatted_phone_number": "+65 6467 8802",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6467 8802",
+        "name": "German Association of Deutsches Haus",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://german-association.org.sg",
+        "activities": []
+    },
+    "HiddenCastleGolfClub": {
+        "formatted_address": "405 Havelock Rd, #02-01, Singapore 169633",
+        "formatted_phone_number": "+65 8200 9649",
+        "geometry": {
+            "location": {
+                "lat": "1.2876541",
+                "lng": "103.836098"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 8200 9649",
+        "name": "Hidden Castle Golf Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 4.9,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 33,
+        "website": "https://hiddencastlegolf.com",
+        "activities": [
+            "golf"
+        ]
+    },
+    "HollandseClub": {
+        "formatted_address": "22 Camden Park Singapore 299814",
+        "formatted_phone_number": "+65 6464 5225",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6464 5225",
+        "name": "Hollandse Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://hollandseclub.org.sg",
+        "activities": [
+            "tennis",
+            "athletic",
+            "swimming",
+            "padel"
+        ]
+    },
+    "HomeTeamNS-JOMBalestierClubhouse": {
+        "formatted_address": "31 Ah Hood Rd, Singapore 329979",
+        "formatted_phone_number": "+65 6708 6600",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6708 6600",
+        "name": "HomeTeamNS-JOM Balestier Clubhouse",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://hometeamns.sg",
+        "activities": [
+            "fitness",
+            "gym",
+            "climbing",
+            "swimming",
+            "tennis",
+            "futsal"
+        ]
+    },
+    "TheJapaneseAssociation": {
+        "formatted_address": "120 Adam Rd, Singapore 289899",
+        "formatted_phone_number": "+65 6591 8136",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6591 8136",
+        "name": "The Japanese Association",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://jas.org.sg",
+        "activities": []
+    },
+    "JPongTableTennisClub": {
+        "formatted_address": "1014 Geylang East Ave 3, #03-210K, Singapore 389729",
+        "formatted_phone_number": "+65 8126 8175",
+        "geometry": {
+            "location": {
+                "lat": "1.3185353",
+                "lng": "103.890073"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 8126 8175",
+        "name": "JPong Table Tennis Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 5.0,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 7,
+        "website": "https://jpong.sg",
+        "activities": [
+            "table tennis",
+            "tennis"
+        ]
+    },
+    "MarinaCountryClub": {
+        "formatted_address": "11 Northshore Dr, Singapore 828670",
+        "formatted_phone_number": "+65 6385 6166",
+        "geometry": {
+            "location": {
+                "lat": "1.4152492",
+                "lng": "103.899087"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6385 6166",
+        "name": "Marina Country Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 4.1,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 1241,
+        "website": "https://marinacountryclub.com.sg",
+        "activities": [
+            "fitness",
+            "surfing ",
+            "wakeboarding ",
+            "wakesurfing"
+        ]
+    },
+    "MinistryofEducationSports&RecreationClub": {
+        "formatted_address": "21 Evans Rd, Singapore 259366",
+        "formatted_phone_number": "+65 6468 0305",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6468 0305",
+        "name": "Ministry of Education Sports & Recreation Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://mesrc.net",
+        "activities": [
+            "fitness",
+            "bowling",
+            "badminton",
+            "table tennis",
+            "tennis",
+            "bowling,"
+        ]
+    },
+    "NationalServiceResort&CountryClub": {
+        "formatted_address": "10 Changi Coast Walk, Singapore 499739",
+        "formatted_phone_number": "+65 6542 8288",
+        "geometry": {
+            "location": {
+                "lat": "1.3181469",
+                "lng": "103.974298"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6542 8288",
+        "name": "National Service Resort & Country Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 4.3,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 2000,
+        "website": "https://nsrcc.com.sg",
+        "activities": [
+            "golf",
+            "table tennis",
+            "tennis",
+            "swimming",
+            "bowling",
+            "squash",
+            "fitness"
+        ]
+    },
+    "ONE\u00b015MarinaSentosaCove": {
+        "formatted_address": "#01-01, 11 Cove Drive",
+        "formatted_phone_number": "+65 6305 6988",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6305 6988",
+        "name": "ONE\u00b015 Marina Sentosa Cove",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://one15marina.com",
+        "activities": [
+            "athletic",
+            "swimming"
+        ]
+    },
+    "OrchidCountryClub": {
+        "formatted_address": "1 Orchid Club Rd, #02-37 Orchid Country Club, Singapore 769162",
+        "formatted_phone_number": "+65 6759 4448, '+65 8522 6746",
+        "geometry": {
+            "location": {
+                "lat": "1.4111804",
+                "lng": "103.843496"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6759 4448, '+65 8522 6746",
+        "name": "Orchid Country Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 4.2,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 4258,
+        "website": "https://orchidclub.com",
+        "activities": [
+            "bowling",
+            "table tennis",
+            "swimming",
+            "tennis",
+            "fitness",
+            "yoga",
+            "karate",
+            "taekwondo",
+            "aikido",
+            "pilates"
+        ]
+    },
+    "PBCBowler'sClub": {
+        "formatted_address": "131 Rifle Range Rd, #04-04, Singapore 588406",
+        "formatted_phone_number": "+65 6463 4700",
+        "geometry": {
+            "location": {
+                "lat": "1.3467171",
+                "lng": "103.780901"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6463 4700",
+        "name": "PBC Bowler's Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 4.4,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 8,
+        "website": "https://pbc.org.sg",
+        "activities": [
+            "bowling"
+        ]
+    },
+    "PerformancePickleball": {
+        "formatted_address": "11 Northshore Dr, #01-23 Performance Pickleball Indoor Sheltered Home Courts, Singapore 828670",
+        "formatted_phone_number": "+65 8891 2037",
+        "geometry": {
+            "location": {
+                "lat": "1.4151518",
+                "lng": "103.899501"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 8891 2037",
+        "name": "Performance Pickleball",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 5.0,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 134,
+        "website": "https://performancepickleball.org",
+        "activities": [
+            "badminton",
+            "tennis",
+            "pickleball"
+        ]
+    },
+    "PyramidClub": {
+        "formatted_address": "no. 2 Goodwood Hill",
+        "formatted_phone_number": null,
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": null,
+        "name": "Pyramid Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": null,
+        "activities": []
+    },
+    "RafflesMarinaCountryClub": {
+        "formatted_address": "10 Tuas West Dr, Singapore 638404",
+        "formatted_phone_number": "+65 6861 8000",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6861 8000",
+        "name": "Raffles Marina Country Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://rafflesmarina.com.sg",
+        "activities": [
+            "aquatics",
+            "gym",
+            "swimming",
+            "sea sports"
+        ]
+    },
+    "RafflesTownClub": {
+        "formatted_address": "1 Plymouth Ave, Singapore 297753",
+        "formatted_phone_number": "+65 6323 2323",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6323 2323",
+        "name": "Raffles Town Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://rafflestownclub.com.sg",
+        "activities": [
+            "tennis",
+            "pool",
+            "swimming",
+            "gym",
+            "bowling",
+            "aerobics",
+            "zumba",
+            "martial arts"
+        ]
+    },
+    "SAFRAYishunCountryClub": {
+        "formatted_address": "60 Yishun Ave 4, Singapore 769027",
+        "formatted_phone_number": "+65 6852 8200",
+        "geometry": {
+            "location": {
+                "lat": "1.4241052",
+                "lng": "103.840703"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6852 8200",
+        "name": "SAFRA Yishun Country Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 4.3,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 3147,
+        "website": "https://safra.sg",
+        "activities": [
+            "bowling",
+            "football,swimming"
+        ]
+    },
+    "SeletarCountryClub": {
+        "formatted_address": "101 Seletar Club Rd, Singapore 798273",
+        "formatted_phone_number": "+65 6486 0801",
+        "geometry": {
+            "location": {
+                "lat": "1.4096707",
+                "lng": "103.858116"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6486 0801",
+        "name": "Seletar Country Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 4.2,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 1106,
+        "website": "https://seletarclub.com.sg",
+        "activities": [
+            "golf",
+            "table tennis",
+            "tennis",
+            "swimming",
+            "bowling",
+            "pickleball",
+            "fitness"
+        ]
+    },
+    "SentosaGolfClub": {
+        "formatted_address": "27 Bukit Manis Rd, Singapore 099892",
+        "formatted_phone_number": "+65 6275 0090",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6275 0090",
+        "name": "Sentosa Golf Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://sentosagolf.com",
+        "activities": [
+            "golf"
+        ]
+    },
+    "SIASportsClub": {
+        "formatted_address": "726 Upper Changi Rd E, Singapore 486046",
+        "formatted_phone_number": "+65 6214 8168",
+        "geometry": {
+            "location": {
+                "lat": "1.3446431",
+                "lng": "103.964739"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6214 8168",
+        "name": "SIA Sports Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 4.3,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 640,
+        "website": "https://siasportsclub.sg",
+        "activities": [
+            "badminton",
+            "squash",
+            "football",
+            "swimming"
+        ]
+    },
+    "SingaporeCricketClub": {
+        "formatted_address": "A Connaught Dr, Singapore 179681",
+        "formatted_phone_number": "+65 6338 9271",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6338 9271",
+        "name": "Singapore Cricket Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://scc.org.sg",
+        "activities": [
+            "cricket",
+            "darts",
+            "hockey",
+            "pickleball",
+            "tennis",
+            "billiard",
+            "football",
+            "rugby",
+            "golf",
+            "netball",
+            "squash"
+        ]
+    },
+    "SingaporeIslandCountryClub(Bukit)": {
+        "formatted_address": "240 Sime Rd, Singapore 288303",
+        "formatted_phone_number": "+65 6466 2244",
+        "geometry": {
+            "location": {
+                "lat": "1.3413867",
+                "lng": "103.810507"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6466 2244",
+        "name": "Singapore Island Country Club (Bukit)",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 4.3,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 879,
+        "website": "https://sicc.org.sg",
+        "activities": [
+            "fitness",
+            "golf",
+            "swimming"
+        ]
+    },
+    "SingaporePoloClub": {
+        "formatted_address": "80 Mount Pleasant Rd, Singapore 298334",
+        "formatted_phone_number": "+65 6854 3999",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6854 3999",
+        "name": "Singapore Polo Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://singaporepoloclub.org",
+        "activities": [
+            "equestrian"
+        ]
+    },
+    "SingaporeRecreationClub": {
+        "formatted_address": "Connaught Dr, B, Singapore 179682",
+        "formatted_phone_number": "+65 6595 0500",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6595 0500",
+        "name": "Singapore Recreation Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://src.org.sg",
+        "activities": [
+            "fitness",
+            "aerobics",
+            "gym",
+            "billiard",
+            "bowling",
+            "gym",
+            "swimming",
+            "cricket",
+            "golf",
+            "hockey",
+            "football",
+            "softball",
+            "tennis",
+            "yoga"
+        ]
+    },
+    "SingaporeSwimmingClub": {
+        "formatted_address": "45 Tanjong Rhu Rd, Singapore Swimming Club, Singapore 436899",
+        "formatted_phone_number": "+65 6342 3600",
+        "geometry": {
+            "location": {
+                "lat": "1.2972808",
+                "lng": "103.881832"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6342 3600",
+        "name": "Singapore Swimming Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 4.4,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 1104,
+        "website": "https://sswimclub.org.sg",
+        "activities": [
+            "table tennis",
+            "tennis",
+            "swimming",
+            "bowling",
+            "squash",
+            "fitness"
+        ]
+    },
+    "SingaporeTurfClub": {
+        "formatted_address": "1 Turf Club Ave, Singapore 738078",
+        "formatted_phone_number": "+65 6879 1000",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6879 1000",
+        "name": "Singapore Turf Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://turfclub.com.sg",
+        "activities": [
+            "horse racing"
+        ]
+    },
+    "SpartansBoxingClub": {
+        "formatted_address": "573 Balestier Road, Singapore 329888.",
+        "formatted_phone_number": "+65 8189 9882",
+        "geometry": {
+            "location": {
+                "lat": "1.3078049",
+                "lng": "103.903812"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 8189 9882",
+        "name": "Spartans Boxing Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://spartansboxing.com",
+        "activities": [
+            "boxing"
+        ]
+    },
+    "SwissClubSingapore": {
+        "formatted_address": "36 Swiss Club Road, Singapore 288139",
+        "formatted_phone_number": "+65 6591 9420",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6591 9420",
+        "name": "Swiss Club Singapore",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://swissclub.org.sg",
+        "activities": [
+            "padel",
+            "tennis",
+            "football",
+            "gym",
+            "fitness",
+            "futsal",
+            "billiard",
+            "swimming"
+        ]
+    },
+    "TanahMerahCountryClubGardenCourse": {
+        "formatted_address": "1 Tanah Merah Coast Rd, Singapore 498722",
+        "formatted_phone_number": "+65 6542 3040",
+        "geometry": {
+            "location": {
+                "lat": "1.3293431",
+                "lng": "103.97938"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6542 3040",
+        "name": "Tanah Merah Country Club Garden Course",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 4.5,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 285,
+        "website": "https://tmcc.org.sg",
+        "activities": [
+            "golf"
+        ]
+    },
+    "TanglinClub": {
+        "formatted_address": "5 Stevens Rd, Singapore 257814",
+        "formatted_phone_number": "+65 6622 0555",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6622 0555",
+        "name": "Tanglin Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://tanglinclub.org.sg",
+        "activities": [
+            "billiard",
+            "darts",
+            "golf",
+            "gym",
+            "pickleball",
+            "squash",
+            "swimming",
+            "tennis"
+        ]
+    },
+    "TelokBlangahArcheryClub": {
+        "formatted_address": "80 Telok Blangah Street 31, Singapore 100080",
+        "formatted_phone_number": null,
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": null,
+        "name": "Telok Blangah Archery Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://eaglesoftbac.wordpress.com",
+        "activities": [
+            "archery"
+        ]
+    },
+    "TemasekClub": {
+        "formatted_address": "131 Rifle Range Rd, Singapore 588406",
+        "formatted_phone_number": "+65 6801 4242",
+        "geometry": {
+            "location": {
+                "lat": "1.3463976",
+                "lng": "103.780525"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6801 4242",
+        "name": "Temasek Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 4.3,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 1380,
+        "website": "https://temasekclub.org.sg",
+        "activities": [
+            "swimming",
+            "tennis",
+            "futsal",
+            "volleyball",
+            "badminton",
+            "gym",
+            "bowling",
+            "fitness"
+        ]
+    },
+    "TheParClubSingapore": {
+        "formatted_address": "6 Raffles Blvd, #02-309/310/311 Marina Square, Singapore 039594",
+        "formatted_phone_number": "+65 9011 0142",
+        "geometry": {
+            "location": {
+                "lat": "1.2912061",
+                "lng": "103.857677"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 9011 0142",
+        "name": "The Par Club Singapore",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 4.5,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 73,
+        "website": "https://theparclubsg.com",
+        "activities": [
+            "golf"
+        ]
+    },
+    "TowerClubSingapore": {
+        "formatted_address": "9 Raffles Place, Penthouse Plaza 62nd-64th Floor, Republic Tower 1, Singapore 048619",
+        "formatted_phone_number": "65 6737-3388, 656438-3673",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "65 6737-3388, 656438-3673",
+        "name": "Tower Club Singapore",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://tower-club.com.sg",
+        "activities": [
+            "athletic"
+        ]
+    },
+    "TTLABTableTennisClub(Novena)": {
+        "formatted_address": "1 Goldhill Plaza, #03-33, Singapore 308899",
+        "formatted_phone_number": "+65 9325 3453",
+        "geometry": {
+            "location": {
+                "lat": "1.3179367",
+                "lng": "103.842891"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 9325 3453",
+        "name": "TT LAB Table Tennis Club (Novena)",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 4.8,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 38,
+        "website": "https://tabletennislab.com.sg",
+        "activities": [
+            "table tennis",
+            "tennis"
+        ]
+    },
+    "TTLABTableTennisClub(Thomson)": {
+        "formatted_address": "20, 03-68 Sin Ming Ln, Midview City, Singapore 573968",
+        "formatted_phone_number": "+65 9325 3453",
+        "geometry": {
+            "location": {
+                "lat": "1.3580295",
+                "lng": "103.83349"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 9325 3453",
+        "name": "TT LAB Table Tennis Club (Thomson)",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 4.9,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 69,
+        "website": "https://tabletennislab.com.sg",
+        "activities": [
+            "table tennis",
+            "tennis"
+        ]
+    },
+    "WarrenGolf&CountryClub": {
+        "formatted_address": "81 Choa Chu Kang Way, Singapore 688263 Choa Chu Kang Wy, Singapore 688263",
+        "formatted_phone_number": "+65 6586 1245",
+        "geometry": {
+            "location": {
+                "lat": "1.3840505",
+                "lng": "103.736581"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6586 1245",
+        "name": "Warren Golf & Country Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": 4.3,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 966,
+        "website": "https://warren.org.sg",
+        "activities": [
+            "golf"
+        ]
+    },
+    "No18SingaporeCapitol": {
+        "formatted_address": "13 Stamford Rd. No18 Singapore Capitol, Level 2, Capitol Piazza, Singapore 178905",
+        "formatted_phone_number": "+65 6408 0100",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6408 0100",
+        "name": "No18 Singapore Capitol",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://no18.com",
+        "activities": [
+            "gym",
+            "swimming",
+            "spa"
+        ]
+    },
+    "67PallMallSingapore": {
+        "formatted_address": "1 Scotts Rd, #27-00 Shaw Centre, Singapore 228208",
+        "formatted_phone_number": null,
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": null,
+        "name": "67 Pall Mall Singapore",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://67pallmall.com/the-singapore-club",
+        "activities": []
+    },
+    "33Club": {
+        "formatted_address": "22 Malacca Street, 01-02, RB, Capital Building, S(048980)",
+        "formatted_phone_number": "+65 6970 0033",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6970 0033",
+        "name": "33 Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://33club.sg",
+        "activities": []
+    },
+    "MandalaClub": {
+        "formatted_address": "31\u201337 Bukit Pasoh Road, Singapore 089845",
+        "formatted_phone_number": "+65 8822 9154",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 8822 9154",
+        "name": "Mandala Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://mandala.club",
+        "activities": [
+            "gym"
+        ]
+    },
+    "AtlasPrivateClub": {
+        "formatted_address": null,
+        "formatted_phone_number": "+65 8069 0310",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 8069 0310",
+        "name": "Atlas Private Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://atlas.com.sg",
+        "activities": []
+    },
+    "ChangiSailingClub": {
+        "formatted_address": "32 Netheravon Rd",
+        "formatted_phone_number": "+65 6545 2876",
+        "geometry": {
+            "location": {
+                "lat": "01 20.2 \u2018 N.",
+                "lng": "104 03.8 \u2018 E"
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6545 2876",
+        "name": "Changi Sailing Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://csc.org.sg",
+        "activities": [
+            "swimming",
+            "sailing"
+        ]
+    },
+    "ChuiHuayLimClub": {
+        "formatted_address": "No. l90, Keng Lee Road Singapore 308409",
+        "formatted_phone_number": "+65 6253 0111",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6253 0111",
+        "name": "Chui Huay Lim Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://chuihuaylimclub.com",
+        "activities": [
+            "swimming,gym"
+        ]
+    },
+    "Club5": {
+        "formatted_address": "PARKROYAL on Beach Road, 7500 Beach Rd, Singapore 199591",
+        "formatted_phone_number": "+65 6505 5699",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6505 5699",
+        "name": "Club 5",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://panpacific.com/en/hotels-and-resorts/pr-beach-road/eat/club-5.html",
+        "activities": []
+    },
+    "ElPicoSocial": {
+        "formatted_address": "6 Hongkong St, #03-01",
+        "formatted_phone_number": "81134704",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "81134704",
+        "name": "El Pico Social",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://clubelpico.com",
+        "activities": []
+    },
+    "ParagonClubMembers'Lounge": {
+        "formatted_address": "290 Orchard Rd, Singapore 238859",
+        "formatted_phone_number": "+65 6738 5535",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6738 5535",
+        "name": "Paragon Club Members' Lounge",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://paragon.com.sg",
+        "activities": []
+    },
+    "RepublicofSingaporeYachtClub": {
+        "formatted_address": "52 West Coast Ferry Road, Singapore 126887",
+        "formatted_phone_number": "+65 6768 9288",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6768 9288",
+        "name": "Republic of Singapore Yacht Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://rsyc.org.sg",
+        "activities": [
+            "sailing",
+            "gym",
+            "tennis"
+        ]
+    },
+    "SerangoonGardensCountryClub": {
+        "formatted_address": "22 Kensington Park Road, Singapore 557271",
+        "formatted_phone_number": "+65 6286 8888",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6286 8888",
+        "name": "Serangoon Gardens Country Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://sgcc.com.sg",
+        "activities": [
+            "swimming",
+            "gym",
+            "fitness",
+            "martial arts",
+            "billiard",
+            "bowling",
+            "darts",
+            "squash",
+            "table tennis",
+            "tennis",
+            "yoga",
+            "zumba"
+        ]
+    },
+    "WhiteHousePrivateClub": {
+        "formatted_address": "10 Coleman St, Conservative; Shophouse #01-01, Singapore 179809",
+        "formatted_phone_number": "+65 8035 6161",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 8035 6161",
+        "name": "White House Private Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://thewhitehouseclub.com",
+        "activities": []
+    },
+    "BelgianLuxembourgAssociation": {
+        "formatted_address": "120 Adam Rd. Singapore 289899",
+        "formatted_phone_number": "6468 0066",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "6468 0066",
+        "name": "Belgian Luxembourg Association",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://blas.org.sg",
+        "activities": []
+    },
+    "LaunchpadSingapore": {
+        "formatted_address": null,
+        "formatted_phone_number": "+65 9012 2109",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 9012 2109",
+        "name": "Launchpad Singapore",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://thelaunchpad.group",
+        "activities": []
+    },
+    "TheAustralianandNewZealandAssociation(Anza)": {
+        "formatted_address": "261A Beach Road, Singapore 199541",
+        "formatted_phone_number": "+65 6291 6301",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 6291 6301",
+        "name": "The Australian and New Zealand Association (Anza)",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://anza.org.sg",
+        "activities": [
+            "cricket",
+            "cycling",
+            "golf",
+            "netball",
+            "pickleball",
+            "running",
+            "football",
+            "tennis",
+            "cycling",
+            "padel,"
+        ]
+    },
+    "GohLooClub": {
+        "formatted_address": "72 Club Street, Singapore, Singapore",
+        "formatted_phone_number": null,
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": null,
+        "name": "Goh Loo Club",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://facebook.com/wuluclub",
+        "activities": []
+    },
+    "DanishBusinessAssociation": {
+        "formatted_address": "101 Thomson Road, Singapore 307591",
+        "formatted_phone_number": "+65 9144 6272",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": null,
+                    "lng": null
+                },
+                "southwest": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        "international_phone_number": "+65 9144 6272",
+        "name": "Danish Business Association",
+        "opening_hours": null,
+        "photos": [],
+        "photo_urls": [],
+        "rating": null,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": null,
+        "website": "https://dabs-singapore.com",
+        "activities": []
     }
 }
