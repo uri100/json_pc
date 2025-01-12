@@ -1782,7 +1782,9 @@
         "name": "Republic of Singapore Yacht Club",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/republic_of_singapore_yacht.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
