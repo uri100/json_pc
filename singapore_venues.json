@@ -1,286 +1,117 @@
-    {
-        "formatted_address": "32 Penhas Rd, #01-02, Singapore 208191",
-        "formatted_phone_number": "8333 8693",
+
+{
+    "1880Club": {
+        "formatted_address": "1 Nanson Road, Level 3, Singapore, Singapore 238909, SG",
+        "formatted_phone_number": "+65 6304 3200",
         "geometry": {
             "location": {
-                "lat": 1.3094383,
-                "lng": 103.8622665
+                "lat": 1.2908,
+                "lng": 103.8392
             },
             "viewport": {
                 "northeast": {
-                    "lat": 1.310759430291502,
-                    "lng": 103.8635820302915
+                    "lat": 1.2915,
+                    "lng": 103.8400
                 },
                 "southwest": {
-                    "lat": 1.308061469708498,
-                    "lng": 103.8608840697085
+                    "lat": 1.2900,
+                    "lng": 103.8390
                 }
             }
         },
-        "international_phone_number": "+65 8333 8693",
-        "name": "Fitness Mode Lavender",
+        "international_phone_number": "+65 6304 3200",
+        "name": "1880 Club",
         "opening_hours": {
             "open_now": true,
             "periods": [
                 {
-                    "close": {
-                        "day": 0,
-                        "time": "2000"
-                    },
                     "open": {
                         "day": 0,
-                        "time": "0800"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 1,
-                        "time": "2300"
-                    },
-                    "open": {
-                        "day": 1,
-                        "time": "0630"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 2,
-                        "time": "2300"
-                    },
-                    "open": {
-                        "day": 2,
-                        "time": "0630"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 3,
-                        "time": "2300"
-                    },
-                    "open": {
-                        "day": 3,
-                        "time": "0630"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 4,
-                        "time": "2300"
-                    },
-                    "open": {
-                        "day": 4,
-                        "time": "0630"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 5,
-                        "time": "1230"
-                    },
-                    "open": {
-                        "day": 5,
-                        "time": "0630"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 5,
-                        "time": "2300"
-                    },
-                    "open": {
-                        "day": 5,
-                        "time": "1430"
-                    }
-                },
-                {
-                    "close": {
-                        "day": 6,
-                        "time": "2000"
-                    },
-                    "open": {
-                        "day": 6,
-                        "time": "0800"
+                        "time": "0000"
                     }
                 }
             ],
             "weekday_text": [
-                "Monday: 6:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                "Tuesday: 6:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                "Wednesday: 6:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                "Thursday: 6:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                "Friday: 6:30\u202fAM\u2009\u2013\u200912:30\u202fPM, 2:30\u2009\u2013\u200911:00\u202fPM",
-                "Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-                "Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+                "Sunday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Monday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Tuesday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+                "Wednesday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+                "Thursday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+                "Friday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20091:00\u202fAM"
             ]
         },
         "photos": [
             {
-                "height": 6936,
+                "height": 3072,
                 "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/111224478018042532823\">Fitness Mode Lavender</a>"
+                    "<a href=\"https://example.com\">1880 Club</a>"
                 ],
-                "photo_reference": "AWYs27xB8wWOtsXJEPJE5oEMTSHn9ow-NU62U4RRUKC_DgbI-L2loNHw4XrQDtcEI8iIg-Z4sQd7stwZc72VW4RlAUesJ5U8zgW0hWcFYJ5IQ_w-t2jjZtz2uB2HLPFxz768Bx_7KcsRtwIYvBkNfYg2fMMRKept_2jvJR6ELIMLeG80ixNA",
-                "width": 9248
+                "photo_reference": null,
+                "width": 4080
+            }
+        ],
+        "rating": 4.8,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 338,
+        "website": "https://www.1880.com.sg/"
+    },
+    "AmericanClubSingapore": {
+        "formatted_address": "10 Claymore Hl, Singapore 229573",
+        "formatted_phone_number": "+65 6737-3411",
+        "geometry": {
+            "location": {
+                "lat": 1.308473,
+                "lng": 103.832239
             },
-            {
-                "height": 2048,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/111224478018042532823\">Fitness Mode Lavender</a>"
-                ],
-                "photo_reference": "AWYs27xJUiFX30B_7fyrrLRet2eD6K_qPdNz1IYyqUDGo44Rd4Gdb0nblJrYGuhGBZ_d1w37dQ9n4cjudIXVWHJkq00T6ld8KaHN694cz5HLCw8VBHa3BAkiAohv0EGFlsEU6tPMrMQ694lJOCXjLl5NhhprCJok3GO8LTsCvhD3isXOs6AG",
-                "width": 1536
-            },
-            {
-                "height": 2048,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/111224478018042532823\">Fitness Mode Lavender</a>"
-                ],
-                "photo_reference": "AWYs27yDVdW-hE7YC1Fk9IxgYbPzKDkI6DMzxLHkAm-7vSPOi5X6d8jsdE6Y6oVRgkV4uhJUjlJQVdc833vjfSUo4pqmZ7DyMQQZ5kAX7Ca96q1O03AHsP2trQoRHFzAPUmUe5bs5scBnWMhuE6ppml0WmNnCX8AQx3ZDU_EPtqO0hpukIgm",
-                "width": 1536
-            },
-            {
-                "height": 1024,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/111224478018042532823\">Fitness Mode Lavender</a>"
-                ],
-                "photo_reference": "AWYs27x_xJfpwAJz_xQvxPoUp346hwsAJCUq1ymcbm_PONNn-w6dtZWhfN8-ejd1X2DQN7RyNtAQ_4RmT1U_BxN0gawvGUBzc5EFWT14nzhA93V8TyfBuR2Hk96BLWqzic6SkGYWeLngH1E3iJ5ZovXuK0BZPfuq6ZncJbF-fP5hEqfJnouc",
-                "width": 768
-            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.3090,
+                    "lng": 103.8330
+                },
+                "southwest": {
+                    "lat": 1.3075,
+                    "lng": 103.8315
+                }
+            }
+        },
+        "international_phone_number": "+65 6737-3411",
+        "name": "American Club Singapore",
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Sunday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Monday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Tuesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Wednesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Thursday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Friday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Saturday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+            ]
+        },
+        "photos": [
             {
                 "height": 1200,
                 "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/111224478018042532823\">Fitness Mode Lavender</a>"
+                    "<a href=\"https://maps.google.com/maps/contrib/106063969474875741861\">24XFITNESS SINGPOST PAYA LEBAR</a>"
                 ],
-                "photo_reference": "AWYs27xfdfjnYOnu2mJ-m_7ywB_H5rHgdQbGJys5H-hnpqLuaLOLjmg_DAJlP4z6WTLvTKM8B7-cYgmk22jqz7HfGCwipgdovl99tcEZjbP_oL6eUK3cQF8zXoCKZ23qn_iK1q1JGPDk_jgxZ0zF1u27XS1RS5LMdy68evH1Tpet9QPQo0O_",
+                "photo_reference": null,
                 "width": 1600
-            },
-            {
-                "height": 6936,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/111224478018042532823\">Fitness Mode Lavender</a>"
-                ],
-                "photo_reference": "AWYs27xkv9bH6ndAMo-jbVIQHj0p7itN_YvnWka0EGkgoy8v6-Itw5pS1LR3bjiuQAjAyEK4l7NjYJ9989Nuf1OYPzMUwwpcNsU0i-CtCwGVPYDBxZj00VtZV24raPaV7dQhSMTxG5rUzfU3Fih4IbOxZ-F6waMRAcr64-TpNpeDGZAuW32V",
-                "width": 9248
-            },
-            {
-                "height": 4624,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/111224478018042532823\">Fitness Mode Lavender</a>"
-                ],
-                "photo_reference": "AWYs27wKL7UhVBZvVK6_9DfK1ogo9skCnu6YvBUc6KnkYkb5Bs4yYc7KhTj-RZcD3G3Q2ARG8EffGExq3nWTmVlZD7SrBo9eBBXmSaT8ip2ff4l2V59aE0dj02nDFL_mzy2g-qAIRYcNdO04_iFnJTC2VpMsTEk8MGg7-psRofYjAZNEVtGg",
-                "width": 3468
-            },
-            {
-                "height": 4000,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/111224478018042532823\">Fitness Mode Lavender</a>"
-                ],
-                "photo_reference": "AWYs27z02Vu_a-T0BRg_2FZGsw44AUzhZgwRj8kbiK3_1Yf2hQQV6DEULacQmdp7cGQEp0OfWaDiPm2BIPUb9lVS7Jdg0j5Sh3_wDY1xWvOtFYH5RcsbDaU_cqJUfIjekuwzXH1CeSXZM9kV_rtpHxNaoKzDgW_4rH4Z4v5XdWpppO3PMY_r",
-                "width": 6016
-            },
-            {
-                "height": 4000,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/111224478018042532823\">Fitness Mode Lavender</a>"
-                ],
-                "photo_reference": "AWYs27z9fXDzBoaX74KXQM4d2GmQQrXyVOlpW29m0ituY-SA0UHJCguoEhxZUdgepnnvRpGqtv62hSTyb1ptifC7uebdsUtaWW1Hy4r4pZ4M1DQJ4OQfQmZXFiW-Wo8O3_rbw9Ji2ek9rEPgr3xKLTBD1xBtWSxC0s_XJX-oSjz_JHGsrqlQ",
-                "width": 6016
-            },
-            {
-                "height": 2048,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/111224478018042532823\">Fitness Mode Lavender</a>"
-                ],
-                "photo_reference": "AWYs27zi5ZGXIRiCOHvIUxyZDZO0RaNwFma0IVQsXOglkzn0RYnS-m6LTcTs9Hx14YbjFCrF0CfdUmAgaAb6H8HI-9WlOzvy9UbzXJkU7BlidyL7l5LaWnLS4LWppMzxwfPmM_tGS0Wdil6aAD0pOVj8d44jG_23JrzLXyw_Pb4OPEpoMMBh",
-                "width": 1152
             }
         ],
-        "rating": 5,
-        "reviews": [
-            {
-                "author_name": "michellecatmay",
-                "author_url": "https://www.google.com/maps/contrib/105403843270278078219/reviews",
-                "language": "en",
-                "original_language": "en",
-                "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI15Zc2u_YMswZWbsyMw3l5nMNHXskXyn2ohNcjb6hHUKDqrA=s128-c0x00000000-cc-rp-mo",
-                "rating": 5,
-                "relative_time_description": "4 months ago",
-                "text": "State of the art equipment, very clean and open. Relaxed atmosphere and courteous friendly people. I love the barefoot it is easier to workout especially in mobility and stretching.  The equipment is continuously cleaned. Highly recommend. Not too costly either.",
-                "time": 1723904451,
-                "translated": false
-            },
-            {
-                "author_name": "Zulhafni Zulkeflee",
-                "author_url": "https://www.google.com/maps/contrib/104541957620566067489/reviews",
-                "language": "en",
-                "original_language": "en",
-                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOKneMW5-xJ1s582twiMr6oitGBqzKi1qDEX9lnjnRmxFU3FLv=s128-c0x00000000-cc-rp-mo",
-                "rating": 5,
-                "relative_time_description": "6 months ago",
-                "text": "Before this, the last time I went to a gym was more than a decade ago (during National Service). I had a few bad experiences in finding an effective and friendly fitness option - so didn't expect much when I went down for a trial. Right from the get-go, I was made to feel comfortable by my eventual PT (Faeez) - plenty of jokes, assurance, and no weird sales tactics.\n\nSigned up for the 30-session commitment (which comes with a free membership access) and within a week, I found myself going to the gym 3-4 times a week. Faeez was very knowledgeable and practical, adjusting the exercises well but also challenging me when needed. He helped to monitor my diet shift in the first few weeks, while nurturing a healthy relationship with food. Just completed the 30-sessions - and the results?\n\nLost 11kg and >15% body fat (and gained a new fitness routine). FM is also such a comfortable, friendly place - you are greeted by Abu/Faeez like friends, and a supportive community without toxic/weird habits. For my purpose, the equipment are also well-maintained, clean, varied - with an exercise room area too for other type of bodyweight exercises. And all this within 5 min of Lavender MRT/bus stops.\n\nHighly, highly recommend - life-changing decision of 2024 for me!",
-                "time": 1718874137,
-                "translated": false
-            },
-            {
-                "author_name": "Edwin",
-                "author_url": "https://www.google.com/maps/contrib/111562197347830331787/reviews",
-                "language": "en",
-                "original_language": "en",
-                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSfupFVQ5g2eD3P58zHT2_uMVA-Gn5U8StyK8OO0IcMiRv1KUi=s128-c0x00000000-cc-rp-mo-ba2",
-                "rating": 5,
-                "relative_time_description": "2 years ago",
-                "text": "Great gym and equipment that's never very crowded which makes it great for members regardless of what level you are at in your fitness journey. Personally have never had to wait for equipment to be done being used and that's a big plus point for me.\n\nShower facilities provided as well, but you will have to bring your own towel.",
-                "time": 1668837027,
-                "translated": false
-            },
-            {
-                "author_name": "Alfiah Abilah",
-                "author_url": "https://www.google.com/maps/contrib/109082195316349471424/reviews",
-                "language": "en",
-                "original_language": "en",
-                "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6fmuL737BD0Y2LKAiNvtn0PyFm0ov0hgzU_kvKA6MVquVCQ=s128-c0x00000000-cc-rp-mo",
-                "rating": 5,
-                "relative_time_description": "2 years ago",
-                "text": "The gym is well equipped and well maintained. I have always been intimidated to attend gym but I have never had that issue at Fitness mode. The trainers are very welcoming and take extra effort to ensure everyone\u2019s comfortable. They are always available to help if you need it. I take PT at FM as well. Shout out to my trainer Abu who really ensures I am hitting all my fitness goals. He not only comes up with personalised workouts for me but also looks into my nutrition and lifestyle. Overall a very passionate and professional trainer. Recommend FM to anyone who wants to have a wholesome training experience",
-                "time": 1668687880,
-                "translated": false
-            },
-            {
-                "author_name": "Jerlin Aw",
-                "author_url": "https://www.google.com/maps/contrib/114423990664039494729/reviews",
-                "language": "en",
-                "original_language": "en",
-                "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJX3Zz7tR3Q2YlVA1FdYuiWbfFCmvw_YVVAXEOKarsoGFhGRQ=s128-c0x00000000-cc-rp-mo",
-                "rating": 5,
-                "relative_time_description": "2 years ago",
-                "text": "Beside it is conveniently located just 5 mins away from Lavender MRT, I love all the newly furnished equipment and how spacious the gym is! I love how my friend and i are given the space to explore the equipment on our own too (you know some gyms will have trainers following you around or watching you from a distance etc...but not here).\n\nMost importantly, they have disinfectant spray and towel at each station for us to do a wipe down after each use - making the gym a safe place for all!",
-                "time": 1647356665,
-                "translated": false
-            }
-        ],
-        "types": [
-            "gym",
-            "health",
-            "point_of_interest",
-            "establishment"
-        ],
-        "user_ratings_total": 36,
-        "website": "http://www.fitnessmode.sg/",
-        "latitude": 1.3094383,
-        "longitude": 103.8622665,
-        "activities": [
-            "fitness"
-        ],
-        "photo_urls": [
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27xB8wWOtsXJEPJE5oEMTSHn9ow-NU62U4RRUKC_DgbI-L2loNHw4XrQDtcEI8iIg-Z4sQd7stwZc72VW4RlAUesJ5U8zgW0hWcFYJ5IQ_w-t2jjZtz2uB2HLPFxz768Bx_7KcsRtwIYvBkNfYg2fMMRKept_2jvJR6ELIMLeG80ixNA&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27xJUiFX30B_7fyrrLRet2eD6K_qPdNz1IYyqUDGo44Rd4Gdb0nblJrYGuhGBZ_d1w37dQ9n4cjudIXVWHJkq00T6ld8KaHN694cz5HLCw8VBHa3BAkiAohv0EGFlsEU6tPMrMQ694lJOCXjLl5NhhprCJok3GO8LTsCvhD3isXOs6AG&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27yDVdW-hE7YC1Fk9IxgYbPzKDkI6DMzxLHkAm-7vSPOi5X6d8jsdE6Y6oVRgkV4uhJUjlJQVdc833vjfSUo4pqmZ7DyMQQZ5kAX7Ca96q1O03AHsP2trQoRHFzAPUmUe5bs5scBnWMhuE6ppml0WmNnCX8AQx3ZDU_EPtqO0hpukIgm&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27x_xJfpwAJz_xQvxPoUp346hwsAJCUq1ymcbm_PONNn-w6dtZWhfN8-ejd1X2DQN7RyNtAQ_4RmT1U_BxN0gawvGUBzc5EFWT14nzhA93V8TyfBuR2Hk96BLWqzic6SkGYWeLngH1E3iJ5ZovXuK0BZPfuq6ZncJbF-fP5hEqfJnouc&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27xfdfjnYOnu2mJ-m_7ywB_H5rHgdQbGJys5H-hnpqLuaLOLjmg_DAJlP4z6WTLvTKM8B7-cYgmk22jqz7HfGCwipgdovl99tcEZjbP_oL6eUK3cQF8zXoCKZ23qn_iK1q1JGPDk_jgxZ0zF1u27XS1RS5LMdy68evH1Tpet9QPQo0O_&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27xkv9bH6ndAMo-jbVIQHj0p7itN_YvnWka0EGkgoy8v6-Itw5pS1LR3bjiuQAjAyEK4l7NjYJ9989Nuf1OYPzMUwwpcNsU0i-CtCwGVPYDBxZj00VtZV24raPaV7dQhSMTxG5rUzfU3Fih4IbOxZ-F6waMRAcr64-TpNpeDGZAuW32V&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27wKL7UhVBZvVK6_9DfK1ogo9skCnu6YvBUc6KnkYkb5Bs4yYc7KhTj-RZcD3G3Q2ARG8EffGExq3nWTmVlZD7SrBo9eBBXmSaT8ip2ff4l2V59aE0dj02nDFL_mzy2g-qAIRYcNdO04_iFnJTC2VpMsTEk8MGg7-psRofYjAZNEVtGg&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27z02Vu_a-T0BRg_2FZGsw44AUzhZgwRj8kbiK3_1Yf2hQQV6DEULacQmdp7cGQEp0OfWaDiPm2BIPUb9lVS7Jdg0j5Sh3_wDY1xWvOtFYH5RcsbDaU_cqJUfIjekuwzXH1CeSXZM9kV_rtpHxNaoKzDgW_4rH4Z4v5XdWpppO3PMY_r&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27z9fXDzBoaX74KXQM4d2GmQQrXyVOlpW29m0ituY-SA0UHJCguoEhxZUdgepnnvRpGqtv62hSTyb1ptifC7uebdsUtaWW1Hy4r4pZ4M1DQJ4OQfQmZXFiW-Wo8O3_rbw9Ji2ek9rEPgr3xKLTBD1xBtWSxC0s_XJX-oSjz_JHGsrqlQ&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE",
-            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27zi5ZGXIRiCOHvIUxyZDZO0RaNwFma0IVQsXOglkzn0RYnS-m6LTcTs9Hx14YbjFCrF0CfdUmAgaAb6H8HI-9WlOzvy9UbzXJkU7BlidyL7l5LaWnLS4LWppMzxwfPmM_tGS0Wdil6aAD0pOVj8d44jG_23JrzLXyw_Pb4OPEpoMMBh&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE"
-        ]
+        "rating": 4.4,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 703,
+        "website": "http://amclub.org.sg/"
     }
+}
