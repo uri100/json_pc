@@ -697,7 +697,9 @@
         "name": "ONE\u00b015 Marina Sentosa Cove",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/one15_marina_sentosa_cove.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
