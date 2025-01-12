@@ -57,7 +57,8 @@
         "reviews": [],
         "types": [],
         "user_ratings_total": 338,
-        "website": "https://www.1880.com.sg/"
+        "website": "https://www.1880.com.sg/",
+        "activities": []
     },
     "AmericanClubSingapore": {
         "formatted_address": "10 Claymore Hl, Singapore 229573",
@@ -117,6 +118,7 @@
         "reviews": [],
         "types": [],
         "user_ratings_total": 703,
-        "website": "http://amclub.org.sg/"
+        "website": "http://amclub.org.sg/",
+        "activities": ["aquatics", "swimming", "gym", "pilates", "squash", "tennis"]
     }
 }
