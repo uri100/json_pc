@@ -1535,7 +1535,9 @@
         "name": "No18 Singapore Capitol",
         "opening_hours": null,
         "photos": [],
-        "photo_urls": [],
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/no_18_singapore_capitol.jpg"
+        ],
         "rating": null,
         "reviews": [],
         "types": [],
