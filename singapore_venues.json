@@ -115,7 +115,8 @@
         "latitude": 1.3118564,
         "longitude": 103.8804857,
         "activities": [
-            "fitness"
+            "fitness",
+            "swimming"
         ],
         "photo_urls": [
             "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference="           
