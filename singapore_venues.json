@@ -28,7 +28,7 @@
         "rating": 4.7,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 338,
+        "user_ratings_total": 338.0,
         "website": "https://1880.com.sg",
         "activities": []
     },
@@ -61,15 +61,15 @@
         "rating": 4.4,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 703,
+        "user_ratings_total": 703.0,
         "website": "https://amclub.org.sg",
         "activities": [
             "aquatics",
-            "swimming",
-            "gym",
-            "pilates",
-            "squash",
-            "tennis"
+            " swimming",
+            " gym",
+            " pilates",
+            " squash",
+            " tennis"
         ]
     },
     "ArandaCountryClub": {
@@ -77,17 +77,17 @@
         "formatted_phone_number": "+65 6584 6811",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -96,18 +96,19 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://arandaclub.org.sg",
         "activities": [
             "swimming",
-            "gym",
-            "yoga",
-            "zumba",
-            "trekking",
-            "table tennis,"
+            " gym",
+            " yoga",
+            " zumba",
+            " trekking",
+            " table tennis",
+            ""
         ]
     },
     "TheBritishClub": {
@@ -115,17 +116,17 @@
         "formatted_phone_number": "+65 6410 1100",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -134,15 +135,15 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://britishclub.org.sg",
         "activities": [
             "tennis",
-            "swimming",
-            "athletic"
+            " swimming",
+            " athletic"
         ]
     },
     "CeylonSportsClub": {
@@ -150,17 +151,17 @@
         "formatted_phone_number": "+65 6297 1009",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -169,17 +170,17 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://cscsingapore.org.sg",
         "activities": [
             "circket",
-            "futsal",
-            "pool",
-            "darts",
-            "hockey"
+            " futsal",
+            " pool",
+            " darts",
+            " hockey"
         ]
     },
     "ChangiBeachClub": {
@@ -192,12 +193,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -209,18 +210,18 @@
         "rating": 4.2,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 68,
+        "user_ratings_total": 68.0,
         "website": "https://changibc.org.sg",
         "activities": [
             "badminton",
-            "bowling",
-            "fitness",
-            "swimming",
-            "gym",
-            "squash",
-            "tennis",
-            "table tennis",
-            "billiards"
+            " bowling",
+            " fitness",
+            " swimming",
+            " gym",
+            " squash",
+            " tennis",
+            " table tennis",
+            " billiards"
         ]
     },
     "ChangiGolfClub": {
@@ -233,12 +234,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -250,7 +251,7 @@
         "rating": 4.0,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 174,
+        "user_ratings_total": 174.0,
         "website": "https://changigolfclub.org.sg",
         "activities": [
             "golf"
@@ -266,12 +267,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -283,11 +284,11 @@
         "rating": 4.3,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 826,
+        "user_ratings_total": 826.0,
         "website": "https://chineseswimmingclub.org.sg",
         "activities": [
             "badminton",
-            "swimming"
+            " swimming"
         ]
     },
     "CivilServiceClub@BukitBatok": {
@@ -300,12 +301,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -317,12 +318,12 @@
         "rating": 4.3,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 1881,
+        "user_ratings_total": 1881.0,
         "website": "https://cscbukitbatok.sg",
         "activities": [
             "bowling",
-            "tennis",
-            "swimming"
+            " tennis",
+            " swimming"
         ]
     },
     "CivilServiceClub@Tessensohn": {
@@ -335,12 +336,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -352,15 +353,15 @@
         "rating": 4.1,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 1264,
+        "user_ratings_total": 1264.0,
         "website": "https://csctessensohn.sg",
         "activities": [
             "bowling",
-            "tennis",
-            "badminton",
-            "pilates",
-            "yoga",
-            "swimming"
+            " tennis",
+            " badminton",
+            " pilates",
+            " yoga",
+            " swimming"
         ]
     },
     "CivilServiceClubChangi": {
@@ -373,12 +374,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -390,7 +391,7 @@
         "rating": 4.3,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 2204,
+        "user_ratings_total": 2204.0,
         "website": "https://cscchangi.sg",
         "activities": [
             "bowling"
@@ -401,17 +402,17 @@
         "formatted_phone_number": "6391 5619",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -420,27 +421,27 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://csc.sg",
         "activities": [
             "swimming",
-            "volleyball",
-            "hockey",
-            "darts",
-            "cycling",
-            "basketball",
-            "yoga",
-            "tennis",
-            "bowling",
-            "fitness",
-            "gym",
-            "badminton",
-            "table tennis",
-            "climbing",
-            "karate"
+            " volleyball",
+            " hockey",
+            " darts",
+            " cycling",
+            " basketball",
+            " yoga",
+            " tennis",
+            " bowling",
+            " fitness",
+            " gym",
+            " badminton",
+            " table tennis",
+            " climbing",
+            " karate"
         ]
     },
     "ClubYoga": {
@@ -453,12 +454,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -470,11 +471,11 @@
         "rating": 4.4,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 59,
+        "user_ratings_total": 59.0,
         "website": "https://clubyoga.sg",
         "activities": [
             "fitness",
-            "yoga"
+            " yoga"
         ]
     },
     "ConquestBadmintonClub": {
@@ -487,12 +488,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -504,7 +505,7 @@
         "rating": 5.0,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 1,
+        "user_ratings_total": 1.0,
         "website": "https://conquestbadminton.com",
         "activities": [
             "badminton"
@@ -515,17 +516,17 @@
         "formatted_phone_number": "+65 6467 8802",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -534,10 +535,10 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://german-association.org.sg",
         "activities": []
     },
@@ -551,12 +552,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -568,7 +569,7 @@
         "rating": 4.9,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 33,
+        "user_ratings_total": 33.0,
         "website": "https://hiddencastlegolf.com",
         "activities": [
             "golf"
@@ -579,17 +580,17 @@
         "formatted_phone_number": "+65 6464 5225",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -598,16 +599,16 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://hollandseclub.org.sg",
         "activities": [
             "tennis",
-            "athletic",
-            "swimming",
-            "padel"
+            " athletic",
+            " swimming",
+            " padel"
         ]
     },
     "HomeTeamNS-JOMBalestierClubhouse": {
@@ -615,17 +616,17 @@
         "formatted_phone_number": "+65 6708 6600",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -634,18 +635,18 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://hometeamns.sg",
         "activities": [
             "fitness",
-            "gym",
-            "climbing",
-            "swimming",
-            "tennis",
-            "futsal"
+            " gym",
+            " climbing",
+            " swimming",
+            " tennis",
+            " futsal"
         ]
     },
     "TheJapaneseAssociation": {
@@ -653,17 +654,17 @@
         "formatted_phone_number": "+65 6591 8136",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -672,10 +673,10 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://jas.org.sg",
         "activities": []
     },
@@ -689,12 +690,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -706,11 +707,11 @@
         "rating": 5.0,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 7,
+        "user_ratings_total": 7.0,
         "website": "https://jpong.sg",
         "activities": [
             "table tennis",
-            "tennis"
+            " tennis"
         ]
     },
     "MarinaCountryClub": {
@@ -723,12 +724,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -740,13 +741,13 @@
         "rating": 4.1,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 1241,
+        "user_ratings_total": 1241.0,
         "website": "https://marinacountryclub.com.sg",
         "activities": [
             "fitness",
-            "surfing ",
-            "wakeboarding ",
-            "wakesurfing"
+            " surfing ",
+            " wakeboarding ",
+            " wakesurfing"
         ]
     },
     "MinistryofEducationSports&RecreationClub": {
@@ -754,17 +755,17 @@
         "formatted_phone_number": "+65 6468 0305",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -773,18 +774,19 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://mesrc.net",
         "activities": [
             "fitness",
-            "bowling",
-            "badminton",
-            "table tennis",
-            "tennis",
-            "bowling,"
+            " bowling",
+            " badminton",
+            " table tennis",
+            " tennis",
+            " bowling",
+            ""
         ]
     },
     "NationalServiceResort&CountryClub": {
@@ -797,12 +799,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -814,16 +816,16 @@
         "rating": 4.3,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 2000,
+        "user_ratings_total": 2000.0,
         "website": "https://nsrcc.com.sg",
         "activities": [
             "golf",
-            "table tennis",
-            "tennis",
-            "swimming",
-            "bowling",
-            "squash",
-            "fitness"
+            " table tennis",
+            " tennis",
+            " swimming",
+            " bowling",
+            " squash",
+            " fitness"
         ]
     },
     "ONE\u00b015MarinaSentosaCove": {
@@ -831,17 +833,17 @@
         "formatted_phone_number": "+65 6305 6988",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -850,14 +852,14 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://one15marina.com",
         "activities": [
             "athletic",
-            "swimming"
+            " swimming"
         ]
     },
     "OrchidCountryClub": {
@@ -870,12 +872,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -887,19 +889,19 @@
         "rating": 4.2,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 4258,
+        "user_ratings_total": 4258.0,
         "website": "https://orchidclub.com",
         "activities": [
             "bowling",
-            "table tennis",
-            "swimming",
-            "tennis",
-            "fitness",
-            "yoga",
-            "karate",
-            "taekwondo",
-            "aikido",
-            "pilates"
+            " table tennis",
+            " swimming",
+            " tennis",
+            " fitness",
+            " yoga",
+            " karate",
+            " taekwondo",
+            " aikido",
+            " pilates"
         ]
     },
     "PBCBowler'sClub": {
@@ -912,12 +914,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -929,7 +931,7 @@
         "rating": 4.4,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 8,
+        "user_ratings_total": 8.0,
         "website": "https://pbc.org.sg",
         "activities": [
             "bowling"
@@ -945,12 +947,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -962,43 +964,43 @@
         "rating": 5.0,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 134,
+        "user_ratings_total": 134.0,
         "website": "https://performancepickleball.org",
         "activities": [
             "badminton",
-            "tennis",
-            "pickleball"
+            " tennis",
+            " pickleball"
         ]
     },
     "PyramidClub": {
         "formatted_address": "no. 2 Goodwood Hill",
-        "formatted_phone_number": null,
+        "formatted_phone_number": NaN,
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
-        "international_phone_number": null,
+        "international_phone_number": NaN,
         "name": "Pyramid Club",
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
-        "website": null,
+        "user_ratings_total": NaN,
+        "website": "https://example.com",
         "activities": []
     },
     "RafflesMarinaCountryClub": {
@@ -1006,17 +1008,17 @@
         "formatted_phone_number": "+65 6861 8000",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1025,16 +1027,16 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://rafflesmarina.com.sg",
         "activities": [
             "aquatics",
-            "gym",
-            "swimming",
-            "sea sports"
+            " gym",
+            " swimming",
+            " sea sports"
         ]
     },
     "RafflesTownClub": {
@@ -1042,17 +1044,17 @@
         "formatted_phone_number": "+65 6323 2323",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1061,20 +1063,20 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://rafflestownclub.com.sg",
         "activities": [
             "tennis",
-            "pool",
-            "swimming",
-            "gym",
-            "bowling",
-            "aerobics",
-            "zumba",
-            "martial arts"
+            " pool",
+            " swimming",
+            " gym",
+            " bowling",
+            " aerobics",
+            " zumba",
+            " martial arts"
         ]
     },
     "SAFRAYishunCountryClub": {
@@ -1087,12 +1089,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1104,11 +1106,12 @@
         "rating": 4.3,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 3147,
+        "user_ratings_total": 3147.0,
         "website": "https://safra.sg",
         "activities": [
             "bowling",
-            "football,swimming"
+            " football",
+            "swimming"
         ]
     },
     "SeletarCountryClub": {
@@ -1121,12 +1124,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1138,16 +1141,16 @@
         "rating": 4.2,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 1106,
+        "user_ratings_total": 1106.0,
         "website": "https://seletarclub.com.sg",
         "activities": [
             "golf",
-            "table tennis",
-            "tennis",
-            "swimming",
-            "bowling",
-            "pickleball",
-            "fitness"
+            " table tennis",
+            " tennis",
+            " swimming",
+            " bowling",
+            " pickleball",
+            " fitness"
         ]
     },
     "SentosaGolfClub": {
@@ -1155,17 +1158,17 @@
         "formatted_phone_number": "+65 6275 0090",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1174,10 +1177,10 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://sentosagolf.com",
         "activities": [
             "golf"
@@ -1193,12 +1196,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1210,13 +1213,13 @@
         "rating": 4.3,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 640,
+        "user_ratings_total": 640.0,
         "website": "https://siasportsclub.sg",
         "activities": [
             "badminton",
-            "squash",
-            "football",
-            "swimming"
+            " squash",
+            " football",
+            " swimming"
         ]
     },
     "SingaporeCricketClub": {
@@ -1224,17 +1227,17 @@
         "formatted_phone_number": "+65 6338 9271",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1243,23 +1246,23 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://scc.org.sg",
         "activities": [
             "cricket",
-            "darts",
-            "hockey",
-            "pickleball",
-            "tennis",
-            "billiard",
-            "football",
-            "rugby",
-            "golf",
-            "netball",
-            "squash"
+            " darts",
+            " hockey",
+            " pickleball",
+            " tennis",
+            " billiard",
+            " football",
+            " rugby",
+            " golf",
+            " netball",
+            " squash"
         ]
     },
     "SingaporeIslandCountryClub(Bukit)": {
@@ -1272,12 +1275,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1289,12 +1292,12 @@
         "rating": 4.3,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 879,
+        "user_ratings_total": 879.0,
         "website": "https://sicc.org.sg",
         "activities": [
             "fitness",
-            "golf",
-            "swimming"
+            " golf",
+            " swimming"
         ]
     },
     "SingaporePoloClub": {
@@ -1302,17 +1305,17 @@
         "formatted_phone_number": "+65 6854 3999",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1321,10 +1324,10 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://singaporepoloclub.org",
         "activities": [
             "equestrian"
@@ -1335,17 +1338,17 @@
         "formatted_phone_number": "+65 6595 0500",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1354,26 +1357,26 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://src.org.sg",
         "activities": [
             "fitness",
-            "aerobics",
-            "gym",
-            "billiard",
-            "bowling",
-            "gym",
-            "swimming",
-            "cricket",
-            "golf",
-            "hockey",
-            "football",
-            "softball",
-            "tennis",
-            "yoga"
+            " aerobics",
+            " gym",
+            " billiard",
+            " bowling",
+            " gym",
+            " swimming",
+            " cricket",
+            " golf",
+            " hockey",
+            " football",
+            " softball",
+            " tennis",
+            " yoga"
         ]
     },
     "SingaporeSwimmingClub": {
@@ -1386,12 +1389,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1403,15 +1406,15 @@
         "rating": 4.4,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 1104,
+        "user_ratings_total": 1104.0,
         "website": "https://sswimclub.org.sg",
         "activities": [
             "table tennis",
-            "tennis",
-            "swimming",
-            "bowling",
-            "squash",
-            "fitness"
+            " tennis",
+            " swimming",
+            " bowling",
+            " squash",
+            " fitness"
         ]
     },
     "SingaporeTurfClub": {
@@ -1419,17 +1422,17 @@
         "formatted_phone_number": "+65 6879 1000",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1438,10 +1441,10 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://turfclub.com.sg",
         "activities": [
             "horse racing"
@@ -1457,12 +1460,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1471,10 +1474,10 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://spartansboxing.com",
         "activities": [
             "boxing"
@@ -1485,17 +1488,17 @@
         "formatted_phone_number": "+65 6591 9420",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1504,20 +1507,20 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://swissclub.org.sg",
         "activities": [
             "padel",
-            "tennis",
-            "football",
-            "gym",
-            "fitness",
-            "futsal",
-            "billiard",
-            "swimming"
+            " tennis",
+            " football",
+            " gym",
+            " fitness",
+            " futsal",
+            " billiard",
+            " swimming"
         ]
     },
     "TanahMerahCountryClubGardenCourse": {
@@ -1530,12 +1533,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1547,7 +1550,7 @@
         "rating": 4.5,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 285,
+        "user_ratings_total": 285.0,
         "website": "https://tmcc.org.sg",
         "activities": [
             "golf"
@@ -1558,17 +1561,17 @@
         "formatted_phone_number": "+65 6622 0555",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1577,50 +1580,50 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://tanglinclub.org.sg",
         "activities": [
             "billiard",
-            "darts",
-            "golf",
-            "gym",
-            "pickleball",
-            "squash",
-            "swimming",
-            "tennis"
+            " darts",
+            " golf",
+            " gym",
+            " pickleball",
+            " squash",
+            " swimming",
+            " tennis"
         ]
     },
     "TelokBlangahArcheryClub": {
         "formatted_address": "80 Telok Blangah Street 31, Singapore 100080",
-        "formatted_phone_number": null,
+        "formatted_phone_number": NaN,
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
-        "international_phone_number": null,
+        "international_phone_number": NaN,
         "name": "Telok Blangah Archery Club",
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://eaglesoftbac.wordpress.com",
         "activities": [
             "archery"
@@ -1636,12 +1639,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1653,17 +1656,17 @@
         "rating": 4.3,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 1380,
+        "user_ratings_total": 1380.0,
         "website": "https://temasekclub.org.sg",
         "activities": [
             "swimming",
-            "tennis",
-            "futsal",
-            "volleyball",
-            "badminton",
-            "gym",
-            "bowling",
-            "fitness"
+            " tennis",
+            " futsal",
+            " volleyball",
+            " badminton",
+            " gym",
+            " bowling",
+            " fitness"
         ]
     },
     "TheParClubSingapore": {
@@ -1676,12 +1679,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1693,7 +1696,7 @@
         "rating": 4.5,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 73,
+        "user_ratings_total": 73.0,
         "website": "https://theparclubsg.com",
         "activities": [
             "golf"
@@ -1704,17 +1707,17 @@
         "formatted_phone_number": "65 6737-3388, 656438-3673",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1723,10 +1726,10 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://tower-club.com.sg",
         "activities": [
             "athletic"
@@ -1742,12 +1745,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1759,11 +1762,11 @@
         "rating": 4.8,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 38,
+        "user_ratings_total": 38.0,
         "website": "https://tabletennislab.com.sg",
         "activities": [
             "table tennis",
-            "tennis"
+            " tennis"
         ]
     },
     "TTLABTableTennisClub(Thomson)": {
@@ -1776,12 +1779,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1793,11 +1796,11 @@
         "rating": 4.9,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 69,
+        "user_ratings_total": 69.0,
         "website": "https://tabletennislab.com.sg",
         "activities": [
             "table tennis",
-            "tennis"
+            " tennis"
         ]
     },
     "WarrenGolf&CountryClub": {
@@ -1810,12 +1813,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1827,7 +1830,7 @@
         "rating": 4.3,
         "reviews": [],
         "types": [],
-        "user_ratings_total": 966,
+        "user_ratings_total": 966.0,
         "website": "https://warren.org.sg",
         "activities": [
             "golf"
@@ -1838,17 +1841,17 @@
         "formatted_phone_number": "+65 6408 0100",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1857,45 +1860,45 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://no18.com",
         "activities": [
             "gym",
-            "swimming",
-            "spa"
+            " swimming",
+            " spa"
         ]
     },
     "67PallMallSingapore": {
         "formatted_address": "1 Scotts Rd, #27-00 Shaw Centre, Singapore 228208",
-        "formatted_phone_number": null,
+        "formatted_phone_number": NaN,
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
-        "international_phone_number": null,
+        "international_phone_number": NaN,
         "name": "67 Pall Mall Singapore",
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://67pallmall.com/the-singapore-club",
         "activities": []
     },
@@ -1904,17 +1907,17 @@
         "formatted_phone_number": "+65 6970 0033",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1923,10 +1926,10 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://33club.sg",
         "activities": []
     },
@@ -1935,17 +1938,17 @@
         "formatted_phone_number": "+65 8822 9154",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1954,31 +1957,31 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://mandala.club",
         "activities": [
             "gym"
         ]
     },
     "AtlasPrivateClub": {
-        "formatted_address": null,
+        "formatted_address": NaN,
         "formatted_phone_number": "+65 8069 0310",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -1987,10 +1990,10 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://atlas.com.sg",
         "activities": []
     },
@@ -2004,12 +2007,12 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -2018,14 +2021,14 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://csc.org.sg",
         "activities": [
             "swimming",
-            "sailing"
+            " sailing"
         ]
     },
     "ChuiHuayLimClub": {
@@ -2033,17 +2036,17 @@
         "formatted_phone_number": "+65 6253 0111",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -2052,13 +2055,14 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://chuihuaylimclub.com",
         "activities": [
-            "swimming,gym"
+            "swimming",
+            "gym"
         ]
     },
     "Club5": {
@@ -2066,17 +2070,17 @@
         "formatted_phone_number": "+65 6505 5699",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -2085,10 +2089,10 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://panpacific.com/en/hotels-and-resorts/pr-beach-road/eat/club-5.html",
         "activities": []
     },
@@ -2097,17 +2101,17 @@
         "formatted_phone_number": "81134704",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -2116,10 +2120,10 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://clubelpico.com",
         "activities": []
     },
@@ -2128,17 +2132,17 @@
         "formatted_phone_number": "+65 6738 5535",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -2147,10 +2151,10 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://paragon.com.sg",
         "activities": []
     },
@@ -2159,17 +2163,17 @@
         "formatted_phone_number": "+65 6768 9288",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -2178,15 +2182,15 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://rsyc.org.sg",
         "activities": [
             "sailing",
-            "gym",
-            "tennis"
+            " gym",
+            " tennis"
         ]
     },
     "SerangoonGardensCountryClub": {
@@ -2194,17 +2198,17 @@
         "formatted_phone_number": "+65 6286 8888",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -2213,24 +2217,24 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://sgcc.com.sg",
         "activities": [
             "swimming",
-            "gym",
-            "fitness",
-            "martial arts",
-            "billiard",
-            "bowling",
-            "darts",
-            "squash",
-            "table tennis",
-            "tennis",
-            "yoga",
-            "zumba"
+            " gym",
+            " fitness",
+            " martial arts",
+            " billiard",
+            " bowling",
+            " darts",
+            " squash",
+            " table tennis",
+            " tennis",
+            " yoga",
+            " zumba"
         ]
     },
     "WhiteHousePrivateClub": {
@@ -2238,17 +2242,17 @@
         "formatted_phone_number": "+65 8035 6161",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -2257,10 +2261,10 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://thewhitehouseclub.com",
         "activities": []
     },
@@ -2269,17 +2273,17 @@
         "formatted_phone_number": "6468 0066",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -2288,29 +2292,29 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://blas.org.sg",
         "activities": []
     },
     "LaunchpadSingapore": {
-        "formatted_address": null,
+        "formatted_address": NaN,
         "formatted_phone_number": "+65 9012 2109",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -2319,10 +2323,10 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://thelaunchpad.group",
         "activities": []
     },
@@ -2331,17 +2335,17 @@
         "formatted_phone_number": "+65 6291 6301",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -2350,52 +2354,53 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://anza.org.sg",
         "activities": [
             "cricket",
-            "cycling",
-            "golf",
-            "netball",
-            "pickleball",
-            "running",
-            "football",
-            "tennis",
-            "cycling",
-            "padel,"
+            " cycling",
+            " golf",
+            " netball",
+            " pickleball",
+            " running",
+            " football",
+            " tennis",
+            " cycling",
+            " padel",
+            ""
         ]
     },
     "GohLooClub": {
         "formatted_address": "72 Club Street, Singapore, Singapore",
-        "formatted_phone_number": null,
+        "formatted_phone_number": NaN,
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
-        "international_phone_number": null,
+        "international_phone_number": NaN,
         "name": "Goh Loo Club",
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://facebook.com/wuluclub",
         "activities": []
     },
@@ -2404,17 +2409,17 @@
         "formatted_phone_number": "+65 9144 6272",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": NaN,
+                "lng": NaN
             },
             "viewport": {
                 "northeast": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 },
                 "southwest": {
-                    "lat": null,
-                    "lng": null
+                    "lat": NaN,
+                    "lng": NaN
                 }
             }
         },
@@ -2423,10 +2428,10 @@
         "opening_hours": null,
         "photos": [],
         "photo_urls": [],
-        "rating": null,
+        "rating": NaN,
         "reviews": [],
         "types": [],
-        "user_ratings_total": null,
+        "user_ratings_total": NaN,
         "website": "https://dabs-singapore.com",
         "activities": []
     }
