@@ -10,33 +10,7 @@
         },
         "international_phone_number": "+65 6304 3200",
         "name": "1880 Club",
-        "opening_hours": {
-    "open_now": false,
-    "periods": [
-        {
-            "open": { "day": 1, "time": "0800" },
-            "close": { "day": 1, "time": "1800" }
-        },
-        {
-            "open": { "day": 2, "time": "0800" },
-            "close": { "day": 2, "time": "1800" }
-        },
-        {
-            "open": { "day": 6, "time": "1000" },
-            "close": { "day": 6, "time": "1400" }
-        }
-    ],
-    "weekday_text": [
-        "Monday: 8:00 AM – 6:00 PM",
-        "Tuesday: 8:00 AM – 6:00 PM",
-        "Wednesday: Closed",
-        "Thursday: Closed",
-        "Friday: Closed",
-        "Saturday: 10:00 AM – 2:00 PM",
-        "Sunday: Closed"
-    ]
-}
-
+        "opening_hours": null,
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/1880_club.png"
