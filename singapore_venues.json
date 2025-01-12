@@ -1,164 +1,116 @@
 {
-    "venues": [
-        {
-            "formatted_address": "1 Nanson Road, Level 3, Singapore, Singapore 238909, SG",
-            "formatted_phone_number": "+65 6304 3200",
-            "geometry": {
-                "location": {
-                    "lat": 1.2908,
-                    "lng": 103.8392
+    "1880Club": {
+        "formatted_address": "1 Nanson Road, Level 3, Singapore, Singapore 238909, SG",
+        "formatted_phone_number": "+65 6304 3200",
+        "geometry": {
+            "location": {
+                "lat": 1.2908,
+                "lng": 103.8392
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 1.2915,
+                    "lng": 103.8400
                 },
-                "viewport": {
-                    "northeast": {
-                        "lat": 1.2915,
-                        "lng": 103.8400
-                    },
-                    "southwest": {
-                        "lat": 1.2900,
-                        "lng": 103.8390
+                "southwest": {
+                    "lat": 1.2900,
+                    "lng": 103.8390
+                }
+            }
+        },
+        "international_phone_number": "+65 6304 3200",
+        "name": "1880 Club",
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0000"
                     }
                 }
-            },
-            "international_phone_number": "+65 6304 3200",
-            "name": "1880 Club",
-            "opening_hours": {
-                "open_now": true,
-                "periods": [
-                    {
-                        "open": {
-                            "day": 0,
-                            "time": "0000"
-                        }
-                    }
-                ],
-                "weekday_text": [
-                    "Sunday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-                    "Monday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-                    "Tuesday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-                    "Wednesday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-                    "Thursday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-                    "Friday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-                    "Saturday: 10:00\u202fAM\u2009\u2013\u20091:00\u202fAM"
-                ]
-            },
-            "photos": [
-                {
-                    "height": 3072,
-                    "html_attributions": [
-                        "<a href=\"https://example.com\">1880 Club</a>"
-                    ],
-                    "photo_reference": "",
-                    "width": 4080
-                }
             ],
-            "rating": 4.8,
-            "reviews": [
-                {
-                    "author_name": "",
-                    "author_url": "",
-                    "language": "en",
-                    "original_language": "en",
-                    "profile_photo_url": "",
-                    "rating": null,
-                    "relative_time_description": "",
-                    "text": "",
-                    "time": null,
-                    "translated": false
-                }
-            ],
-            "types": [],
-            "user_ratings_total": 338,
-            "website": "https://www.1880.com.sg/",
-            "latitude": 1.2908,
-            "longitude": 103.8392,
-            "activities": [],
-            "photo_urls": [
-                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27yPniOnrfZPWdMdkk_b2BbHkpZPZhpZ2TSVI3DdHg7bnFrHTfd31ybGaMjYrjP-GqKu01oLGx7zf9_MaVykJCiN1_FZWw9x7NGMHZ3c-Dr-xO-5xYIs_doX3AHQOe69aDn0AWsTUyIPGTxGqkiRhdy5_LrA2fQVbxrTrZZrZ_dAWTqa&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE"
+            "weekday_text": [
+                "Sunday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Monday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Tuesday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+                "Wednesday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+                "Thursday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+                "Friday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20091:00\u202fAM"
             ]
         },
-        {
-            "formatted_address": "10 Claymore Hl, Singapore 229573",
-            "formatted_phone_number": "+65 6737-3411",
-            "geometry": {
-                "location": {
-                    "lat": 1.308473,
-                    "lng": 103.832239
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 1.3090,
-                        "lng": 103.8330
-                    },
-                    "southwest": {
-                        "lat": 1.3075,
-                        "lng": 103.8315
-                    }
-                }
-            },
-            "international_phone_number": "+65 6737-3411",
-            "name": "American Club Singapore",
-            "opening_hours": {
-                "open_now": true,
-                "periods": [
-                    {
-                        "open": {
-                            "day": 0,
-                            "time": "0000"
-                        }
-                    }
+        "photos": [
+            {
+                "height": 3072,
+                "html_attributions": [
+                    "<a href=\"https://example.com\">1880 Club</a>"
                 ],
-                "weekday_text": [
-                    "Sunday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                    "Monday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                    "Tuesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                    "Wednesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                    "Thursday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                    "Friday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-                    "Saturday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
-                ]
+                "photo_reference": "",
+                "width": 4080
+            }
+        ],
+        "rating": 4.8,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 338,
+        "website": "https://www.1880.com.sg/"
+    },
+    "AmericanClubSingapore": {
+        "formatted_address": "10 Claymore Hl, Singapore 229573",
+        "formatted_phone_number": "+65 6737-3411",
+        "geometry": {
+            "location": {
+                "lat": 1.308473,
+                "lng": 103.832239
             },
-            "photos": [
+            "viewport": {
+                "northeast": {
+                    "lat": 1.3090,
+                    "lng": 103.8330
+                },
+                "southwest": {
+                    "lat": 1.3075,
+                    "lng": 103.8315
+                }
+            }
+        },
+        "international_phone_number": "+65 6737-3411",
+        "name": "American Club Singapore",
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
                 {
-                    "height": 1200,
-                    "html_attributions": [
-                        "<a href=\"https://maps.google.com/maps/contrib/106063969474875741861\">24XFITNESS SINGPOST PAYA LEBAR</a>"
-                    ],
-                    "photo_reference": "AWYs27wFPl38iZOZQ4NRbyb2vapC-11Vrt09AA2XtOcjDK-LBIdYkGLlO6OtAxm3YpaTDCGLCexAGFMQYLLXiQUhD7MbEXf3KqKKBamWrsDkq3HfzsQNYYqPYeOMh97Jp_oB1gNwTgRty-3v_-bsAgpBdEvpmEcJIrpxv3OeC3BsW7XhTHZ6",
-                    "width": 1600
+                    "open": {
+                        "day": 0,
+                        "time": "0000"
+                    }
                 }
             ],
-            "rating": 4.4,
-            "reviews": [
-                {
-                    "author_name": "",
-                    "author_url": "",
-                    "language": "en",
-                    "original_language": "en",
-                    "profile_photo_url": "",
-                    "rating": null,
-                    "relative_time_description": "",
-                    "text": "",
-                    "time": null,
-                    "translated": false
-                }
-            ],
-            "types": [],
-            "user_ratings_total": 703,
-            "website": "http://amclub.org.sg/",
-            "latitude": 1.308473,
-            "longitude": 103.832239,
-            "activities": [
-                "fitness",
-                "aquatics",
-                "swimming",
-                "gym",
-                "pilates",
-                "squash",
-                "tennis"
-            ],
-            "photo_urls": [
-                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27zMZyQj0JNeLAbs1pEvGRdSoyB8dW-oFpUPN--nsjtId5KyyaskSckmpieNPInLygnHhtCBreyxW75PNWe9ffCn0hM7PiuUMu4UPGrwsGbbG2cpfvc21hgeDMwtWkkbTcUdpwWvw9qb0VJCg3HLiQUykFrPmWkp2zJO2EjwW7eqPCSQ&key=AIzaSyD2li2Ie-292pN0Sh7npETi5niM5pPYRYE"
+            "weekday_text": [
+                "Sunday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Monday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Tuesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Wednesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Thursday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Friday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Saturday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
             ]
-        }
-    ]
+        },
+        "photos": [
+            {
+                "height": 1200,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106063969474875741861\">24XFITNESS SINGPOST PAYA LEBAR</a>"
+                ],
+                "photo_reference": "AWYs27wFPl38iZOZQ4NRbyb2vapC-11Vrt09AA2XtOcjDK-LBIdYkGLlO6OtAxm3YpaTDCGLCexAGFMQYLLXiQUhD7MbEXf3KqKKBamWrsDkq3HfzsQNYYqPYeOMh97Jp_oB1gNwTgRty-3v_-bsAgpBdEvpmEcJIrpxv3OeC3BsW7XhTHZ6",
+                "width": 1600
+            }
+        ],
+        "rating": 4.4,
+        "reviews": [],
+        "types": [],
+        "user_ratings_total": 703,
+        "website": "http://amclub.org.sg/"
+    }
 }
