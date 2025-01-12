@@ -9,109 +9,46 @@
             },
             "viewport": {
                 "northeast": {
-                    "lat": 1.2915,
-                    "lng": 103.8400
+                    "lat": null,
+                    "lng": null
                 },
                 "southwest": {
-                    "lat": 1.2900,
-                    "lng": 103.8390
+                    "lat": null,
+                    "lng": null
                 }
             }
         },
         "international_phone_number": "+65 6304 3200",
         "name": "1880 Club",
         "opening_hours": {
-            "open_now": true,
-            "periods": [
-                {
-                    "open": {
-                        "day": 0,
-                        "time": "0000"
-                    }
-                }
-            ],
+            "open_now": null,
+            "periods": null,
             "weekday_text": [
-                "Sunday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-                "Monday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-                "Tuesday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-                "Wednesday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-                "Thursday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-                "Friday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-                "Saturday: 10:00\u202fAM\u2009\u2013\u20091:00\u202fAM"
+                "Sunday: 10:00 AM – 12:00 AM",
+                "Monday: 8:00 AM – 12:00 AM",
+                "Tuesday: 8:00 AM – 1:00 AM",
+                "Wednesday: 8:00 AM – 1:00 AM",
+                "Thursday: 8:00 AM – 1:00 AM",
+                "Friday: 8:00 AM – 1:00 AM",
+                "Saturday: 10:00 AM – 1:00 AM"
             ]
         },
-        "photos": [
-            {
-                "height": 3072,
-                "html_attributions": [
-                    "<a href=\"https://example.com\">1880 Club</a>"
-                ],
-                "photo_reference": null,
-                "width": 4080
-            }
+        "photos": null,
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/american_club_singapore.webp"
         ],
-        "rating": 4.8,
-        "reviews": [],
-        "types": [],
+        "rating": 4.7,
+        "reviews": null,
+        "types": null,
         "user_ratings_total": 338,
-        "website": "https://www.1880.com.sg/"
-    },
-    "AmericanClubSingapore": {
-        "formatted_address": "10 Claymore Hl, Singapore 229573",
-        "formatted_phone_number": "+65 6737-3411",
-        "geometry": {
-            "location": {
-                "lat": 1.308473,
-                "lng": 103.832239
-            },
-            "viewport": {
-                "northeast": {
-                    "lat": 1.3090,
-                    "lng": 103.8330
-                },
-                "southwest": {
-                    "lat": 1.3075,
-                    "lng": 103.8315
-                }
-            }
-        },
-        "international_phone_number": "+65 6737-3411",
-        "name": "American Club Singapore",
-        "opening_hours": {
-            "open_now": true,
-            "periods": [
-                {
-                    "open": {
-                        "day": 0,
-                        "time": "0000"
-                    }
-                }
-            ],
-            "weekday_text": [
-                "Sunday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                "Monday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                "Tuesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                "Wednesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                "Thursday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                "Friday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-                "Saturday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
-            ]
-        },
-        "photos": [
-            {
-                "height": 1200,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/106063969474875741861\">24XFITNESS SINGPOST PAYA LEBAR</a>"
-                ],
-                "photo_reference": "american_club_photo",
-                "width": 1600,
-                "url": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/american_club_singapore.webp"
-            }
-        ],
-        "rating": 4.4,
-        "reviews": [],
-        "types": [],
-        "user_ratings_total": 703,
-        "website": "http://amclub.org.sg/"
+        "website": "1880.com.sg",
+        "description": "1880 is born out of the idea that conversations can make the world a better place. Our goal is to bring together the most interesting and creative personalities in Singapore and create opportunities for them to exchange and cross-pollinate ideas, enjoy exceptional food and drink, and have a really good time. The club in Singapore - a cosmopolitan city with a global role - represents the new wave of members'​ clubs that have emerged from New York and London. Designed as a space housing both social and work environments, 1880 is created for the people who are shaping the future of Southeast Asia. It is a place and a people united by character, curiosity, and passion, not exclusivity. From the moment you step through our doors, you will be taken out of the ordinary, while still having the comfort of being in your element.",
+        "email": "info@amclub.org.sg",
+        "sports": null,
+        "year_founded": 2014,
+        "city": "Singapore",
+        "state": "Singapore",
+        "country": "Singapore",
+        "source": "sethalexanderthevoz.com"
     }
 }
