@@ -170,7 +170,7 @@
             "yoga",
             "zumba",
             "trekking",
-            "table tennis,"
+            "table tennis"
         ],
         "latitude": 1.376092,
         "longitude": 103.953557
@@ -1818,14 +1818,14 @@
     },
     "OrchidCountryClub": {
         "formatted_address": "1 Orchid Club Rd, #02-37 Orchid Country Club, Singapore 769162",
-        "formatted_phone_number": "+65 6759 4448, '+65 8522 6746",
+        "formatted_phone_number": "+65 6759 4448, +65 8522 6746",
         "geometry": {
             "location": {
                 "lat": 1.4111804,
                 "lng": 103.843496
             }
         },
-        "international_phone_number": "+65 6759 4448, '+65 8522 6746",
+        "international_phone_number": "+65 6759 4448, +65 8522 6746",
         "name": "Orchid Country Club",
         "opening_hours": {
             "open_now": true,
