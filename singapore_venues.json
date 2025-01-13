@@ -3817,12 +3817,12 @@
         "longitude": 103.831614
     },
     "33Club": {
-        "formatted_address": "22 Malacca Street, 01-02, RB, Capital Building, S(048980)",
+        "formatted_address": "22 Malacca Street, 01-02, RB, Capital Building, Singapore 048980",
         "formatted_phone_number": "+65 6970 0033",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": 1.283960,
+                "lng": 103.850902
             }
         },
         "international_phone_number": "+65 6970 0033",
@@ -3838,8 +3838,8 @@
         "user_ratings_total": null,
         "website": "https://33club.sg",
         "activities": [],
-        "latitude": null,
-        "longitude": null
+        "latitude": 1.283960,
+        "longitude": 103.850902
     },
     "MandalaClub": {
         "formatted_address": "31\u201337 Bukit Pasoh Road, Singapore 089845",
