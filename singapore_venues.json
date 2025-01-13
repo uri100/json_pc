@@ -121,7 +121,8 @@
                 "Sunday: 7:00\u202fAM\u2009\u2013\u200910:30\u202fPM"
             ]
         },
-        "description": [],
+        "description": "The American Club is a community and social club set up on 14 September 1948. The club provides recreational and community services for its members. These include having a meal at Thyme Café or Eagle’s Nest, finding a good read in its library of 20,000 books, working offsite at the club’s Business Centre and making travel arrangement at the Travel Desk. Members of the club could also have a game of bowling at the club’s bowling alley or take a swim at the swimming pool. There are also facilities for youths and children at either the Youth Zone or The Club."
+        ,
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/american_club_singapore.webp"
         ],
@@ -153,7 +154,8 @@
         "international_phone_number": "+65 6584 6811",
         "name": "Aranda Country Club",
         "opening_hours": null,
-        "description": [],
+        "description": "Aranda Country Club is a proprietary Club of the Pasir Ris Resort Pte Ltd, a wholly owned subsidiary of the Resorts Concepts (Pte) Ltd. Located next to Downtown East, Aranda Country Club has been opened to members since March 1995 and has a member base of over 1,200 active members. It prides itself in its exceptional offers for everyone ranging from Full Term, Term and Union Corporate Memberships, programmes and suites for staycations for members and general public. Aranda Country Clubhouse has a built-area 32,380 square feet, with a total land spread of over 200,000 square feet, consisting of luxury and executive suites, restaurant, wellness sanctuary, educational childcare services provider and just to name a few of the many facilities – swimming pool, gym, game room, lounge and reading room."
+        ,
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aranda_country_club.jpg"
         ],
@@ -185,7 +187,8 @@
         "international_phone_number": "+65 6410 1100",
         "name": "The British Club",
         "opening_hours": null,
-        "description": [],
+        "description": "The British Club is Singapore’s only Hilltop Retreat, a unique private community where Members of more than 50 nationalities and their families enjoy superb facilities, outstanding restaurants and a high level of service. Covering an area of more than 5,900 square meters in secluded grounds surrounded by Bukit Timah’s greenery, the Club houses four restaurants and seven banquet venues, with an unparalleled range of sporting and family oriented facilities."
+        ,
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_british_club.jpg"
         ],
