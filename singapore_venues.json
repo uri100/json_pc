@@ -4136,12 +4136,12 @@
         "longitude": 103.815739
     },
     "LaunchpadSingapore": {
-        "formatted_address": "Virtual",
+        "formatted_address": "120 Adam Rd. Singapore 289899",
         "formatted_phone_number": "+65 9012 2109",
         "geometry": {
             "location": {
                 "lat": 1.300618,
-                "lng": 1.300618
+                "lng": 103.845812
             }
         },
         "international_phone_number": "+65 9012 2109",
@@ -4158,7 +4158,7 @@
         "website": "https://thelaunchpad.group",
         "activities": [],
         "latitude": 1.300618,
-        "longitude": 1.300618
+        "longitude": 103.845812
     },
     "TheAustralianandNewZealandAssociation(Anza)": {
         "formatted_address": "261A Beach Road, Singapore 199541",
