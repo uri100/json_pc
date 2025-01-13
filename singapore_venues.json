@@ -242,7 +242,90 @@
         },
         "international_phone_number": "+65 6546 5225",
         "name": "Changi Beach Club",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "1200"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 8:30AM\u20130:00PM",
+                "Tuesday: 8:30AM\u20130:00PM",
+                "Wednesday: 8:30AM\u20130:00PM",
+                "Thursday: 8:30AM\u20130:00PM",
+                "Friday: 8:30AM\u20130:00PM",
+                "Saturday: 8:30AM\u20130:00PM",
+                "Sunday: 8:30AM\u20130:00PM"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/changi_beach_club.jpg"
@@ -277,7 +360,90 @@
         },
         "international_phone_number": "+65 6545 5133",
         "name": "Changi Golf Club",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "1200"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 12:00\u20130:00PM",
+                "Tuesday: 7:00AM\u20130:00PM",
+                "Wednesday: 7:00AM\u20130:00PM",
+                "Thursday: 7:00AM\u20130:00PM",
+                "Friday: 7:00AM\u20130:00PM",
+                "Saturday: 7:00AM\u20130:00PM",
+                "Sunday: 7:00AM\u20130:00PM"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/changi_golf_club.jpg"
@@ -304,7 +470,90 @@
         },
         "international_phone_number": "+65 6345 1221",
         "name": "Chinese Swimming Club",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "1300"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 7:00AM\u20131:00PM",
+                "Tuesday: 7:00AM\u20131:00PM",
+                "Wednesday: 7:00AM\u20131:00PM",
+                "Thursday: 7:00AM\u20131:00PM",
+                "Friday: 7:00AM\u20131:00PM",
+                "Saturday: 7:00AM\u20131:00PM",
+                "Sunday: 7:00AM\u20131:00PM"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chinese_swimming_club.jpg"
@@ -332,11 +581,94 @@
         },
         "international_phone_number": "+65 6513 7480",
         "name": "Civil Service Club @ Bukit Batok",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "2100"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 8:00AM\u20139:00PM",
+                "Tuesday: 8:00AM\u20139:00PM",
+                "Wednesday: 8:00AM\u20139:00PM",
+                "Thursday: 8:00AM\u20139:00PM",
+                "Friday: 8:00AM\u20139:00PM",
+                "Saturday: 8:00AM\u20139:00PM",
+                "Sunday: 8:00AM\u20139:00PM"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/civil_service_club_bukit_Batok.png"
-        ],        
+        ],
         "rating": 4.3,
         "reviews": [],
         "types": [],
@@ -361,7 +693,90 @@
         },
         "international_phone_number": "+65 6294 8933",
         "name": "Civil Service Club @ Tessensohn",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "2100"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 8:30AM\u20139:00PM",
+                "Tuesday: 8:30AM\u20139:00PM",
+                "Wednesday: 8:30AM\u20139:00PM",
+                "Thursday: 8:30AM\u20139:00PM",
+                "Friday: 8:30AM\u20139:00PM",
+                "Saturday: 8:30AM\u20139:00PM",
+                "Sunday: 8:30AM\u20139:00PM"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/civil_service_club_tessensohn.jpg"
@@ -393,7 +808,90 @@
         },
         "international_phone_number": "+65 6709 4709",
         "name": "Civil Service Club Changi",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "1230"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "1230"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "1230"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "1230"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "1230"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "1230"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "1230"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 8:30AM\u20130:30PM",
+                "Tuesday: 8:30AM\u20130:30PM",
+                "Wednesday: 8:30AM\u20130:30PM",
+                "Thursday: 8:30AM\u20130:30PM",
+                "Friday: 8:30AM\u20130:30PM",
+                "Saturday: 8:30AM\u20130:30PM",
+                "Sunday: 8:30AM\u20130:30PM"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/civil_service_club_changi.jpg"
@@ -461,7 +959,90 @@
         },
         "international_phone_number": "+65 8660 4369; 6909 2080; 9144 4948",
         "name": "Club Yoga",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "1630"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "1515"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 10:00AM\u20139:00PM",
+                "Tuesday: 10:00AM\u20139:00PM",
+                "Wednesday: 10:00AM\u20139:00PM",
+                "Thursday: 10:00AM\u20139:00PM",
+                "Friday: 10:00AM\u20139:00PM",
+                "Saturday: 10:00AM\u20134:30PM",
+                "Sunday: 10:00AM\u20133:15PM"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/club_yoga.jpg"
@@ -489,7 +1070,90 @@
         },
         "international_phone_number": "+65 8904 8617",
         "name": "Conquest Badminton Club",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "1200"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:00AM\u20130:00PM",
+                "Tuesday: 9:00AM\u20130:00PM",
+                "Wednesday: 9:00AM\u20130:00PM",
+                "Thursday: 9:00AM\u20130:00PM",
+                "Friday: 9:00AM\u20130:00PM",
+                "Saturday: 9:00AM\u20130:00PM",
+                "Sunday: 9:00AM\u20130:00PM"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/conquest_badminton_club.jpg"
@@ -541,7 +1205,90 @@
         },
         "international_phone_number": "+65 8200 9649",
         "name": "Hidden Castle Golf Club",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "1200"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 8:00AM\u20130:00PM",
+                "Tuesday: 8:00AM\u20130:00PM",
+                "Wednesday: 8:00AM\u20130:00PM",
+                "Thursday: 8:00AM\u20130:00PM",
+                "Friday: 8:00AM\u20130:00PM",
+                "Saturday: 8:00AM\u20130:00PM",
+                "Sunday: 8:00AM\u20130:00PM"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hidden_castle_golf_club.jpg"
@@ -655,7 +1402,90 @@
         },
         "international_phone_number": "+65 8126 8175",
         "name": "JPong Table Tennis Club",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "2359"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: Open 24 hours",
+                "Tuesday: Open 24 hours",
+                "Wednesday: Open 24 hours",
+                "Thursday: Open 24 hours",
+                "Friday: Open 24 hours",
+                "Saturday: Open 24 hours",
+                "Sunday: Open 24 hours"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jpong_table_tennis_club.jpeg"
@@ -683,7 +1513,90 @@
         },
         "international_phone_number": "+65 6385 6166",
         "name": "Marina Country Club",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "2359"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: Open 24 hours",
+                "Tuesday: Open 24 hours",
+                "Wednesday: Open 24 hours",
+                "Thursday: Open 24 hours",
+                "Friday: Open 24 hours",
+                "Saturday: Open 24 hours",
+                "Sunday: Open 24 hours"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/marina_country_club.avif"
@@ -745,7 +1658,90 @@
         },
         "international_phone_number": "+65 6542 8288",
         "name": "National Service Resort & Country Club",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "1230"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "1230"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "1230"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "1230"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "0000"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "0000"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "1230"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 7:00AM\u20130:30PM",
+                "Tuesday: 7:00AM\u20130:30PM",
+                "Wednesday: 7:00AM\u20130:30PM",
+                "Thursday: 7:00AM\u20130:30PM",
+                "Friday: 7:00AM\u2013:00AM",
+                "Saturday: 7:00AM\u2013:00AM",
+                "Sunday: 7:00AM\u20130:30PM"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/national_service_resort_&_country_club.jpg"
@@ -806,7 +1802,90 @@
         },
         "international_phone_number": "+65 6759 4448, '+65 8522 6746",
         "name": "Orchid Country Club",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "0000"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "0000"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "1300"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 11:00AM\u20131:00PM",
+                "Tuesday: 11:00AM\u20131:00PM",
+                "Wednesday: 11:00AM\u20131:00PM",
+                "Thursday: 11:00AM\u20131:00PM",
+                "Friday: 10:00AM\u2013:00AM",
+                "Saturday: 10:00AM\u2013:00AM",
+                "Sunday: 10:00AM\u20131:00PM"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/orchid_country_club.jpg"
@@ -842,7 +1921,90 @@
         },
         "international_phone_number": "+65 6463 4700",
         "name": "PBC Bowler's Club",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "0000"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "2000"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "2000"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "2000"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "2000"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "2000"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "0000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: Closed\u201312:00AM",
+                "Tuesday: 12:00\u20138:00PM",
+                "Wednesday: 12:00\u20138:00PM",
+                "Thursday: 12:00\u20138:00PM",
+                "Friday: 12:00\u20138:00PM",
+                "Saturday: 12:00\u20138:00PM",
+                "Sunday: Closed\u201312:00AM"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pbc_bowlers_club.jpg"
@@ -869,7 +2031,90 @@
         },
         "international_phone_number": "+65 8891 2037",
         "name": "Performance Pickleball",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0600"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "0200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0600"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "0200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0600"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "0200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0600"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "0200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0600"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "0200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0600"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "0200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0600"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "0200"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 6:00AM\u20132:00AM",
+                "Tuesday: 6:00AM\u20132:00AM",
+                "Wednesday: 6:00AM\u20132:00AM",
+                "Thursday: 6:00AM\u20132:00AM",
+                "Friday: 6:00AM\u20132:00AM",
+                "Saturday: 6:00AM\u20132:00AM",
+                "Sunday: 6:00AM\u20132:00AM"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/performance_pickleball.jpg"
@@ -986,7 +2231,90 @@
         },
         "international_phone_number": "+65 6852 8200",
         "name": "SAFRA Yishun Country Club",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "2100"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:00AM\u20139:00PM",
+                "Tuesday: 9:00AM\u20139:00PM",
+                "Wednesday: 9:00AM\u20139:00PM",
+                "Thursday: 9:00AM\u20139:00PM",
+                "Friday: 9:00AM\u20139:00PM",
+                "Saturday: 9:00AM\u20139:00PM",
+                "Sunday: 9:00AM\u20139:00PM"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/safra_yishun_country_club.jpg"
@@ -1015,7 +2343,90 @@
         },
         "international_phone_number": "+65 6486 0801",
         "name": "Seletar Country Club",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0730"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "2030"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0730"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "2030"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0730"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "2030"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0730"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "2030"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0730"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "2130"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0730"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "2130"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0730"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "2130"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 7:30AM\u20138:30PM",
+                "Tuesday: 7:30AM\u20138:30PM",
+                "Wednesday: 7:30AM\u20138:30PM",
+                "Thursday: 7:30AM\u20138:30PM",
+                "Friday: 7:30AM\u20139:30PM",
+                "Saturday: 7:30AM\u20139:30PM",
+                "Sunday: 7:30AM\u20139:30PM"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seletar_country_club.jpg"
@@ -1075,7 +2486,90 @@
         },
         "international_phone_number": "+65 6214 8168",
         "name": "SIA Sports Club",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "0000"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "0000"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "0000"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "0000"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "0000"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "0000"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "0200"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:00AM\u2013:00AM",
+                "Tuesday: 9:00AM\u2013:00AM",
+                "Wednesday: 9:00AM\u2013:00AM",
+                "Thursday: 9:00AM\u2013:00AM",
+                "Friday: 9:00AM\u2013:00AM",
+                "Saturday: 9:00AM\u2013:00AM",
+                "Sunday: 9:00AM\u20132:00AM"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sia_sports_club.png"
@@ -1142,7 +2636,90 @@
         },
         "international_phone_number": "+65 6466 2244",
         "name": "Singapore Island Country Club (Bukit)",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0630"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0630"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0630"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0630"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0630"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0630"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0630"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "1200"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 6:30AM\u20130:00PM",
+                "Tuesday: 6:30AM\u20130:00PM",
+                "Wednesday: 6:30AM\u20130:00PM",
+                "Thursday: 6:30AM\u20130:00PM",
+                "Friday: 6:30AM\u20130:00PM",
+                "Saturday: 6:30AM\u20130:00PM",
+                "Sunday: 6:30AM\u20130:00PM"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore_island_country_club_bukit.jpg"
@@ -1238,7 +2815,90 @@
         },
         "international_phone_number": "+65 6342 3600",
         "name": "Singapore Swimming Club",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "1300"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 7:00AM\u20131:00PM",
+                "Tuesday: 7:00AM\u20131:00PM",
+                "Wednesday: 7:00AM\u20131:00PM",
+                "Thursday: 7:00AM\u20131:00PM",
+                "Friday: 7:00AM\u20131:00PM",
+                "Saturday: 7:00AM\u20131:00PM",
+                "Sunday: 7:00AM\u20131:00PM"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore_swimming_club.jpg"
@@ -1358,7 +3018,90 @@
         },
         "international_phone_number": "+65 6542 3040",
         "name": "Tanah Merah Country Club Garden Course",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0600"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "0000"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0600"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0600"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0600"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0600"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "1200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0600"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "1200"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 6:00AM\u20130:00PM",
+                "Tuesday: Closed\u201312:00AM",
+                "Wednesday: 6:00AM\u20130:00PM",
+                "Thursday: 6:00AM\u20130:00PM",
+                "Friday: 6:00AM\u20130:00PM",
+                "Saturday: 6:00AM\u20130:00PM",
+                "Sunday: 6:00AM\u20130:00PM"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tanah_merah_country_club_garden_course.jpg"
@@ -1445,7 +3188,90 @@
         },
         "international_phone_number": "+65 6801 4242",
         "name": "Temasek Club",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "1300"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 8:00AM\u20131:00PM",
+                "Tuesday: 8:00AM\u20131:00PM",
+                "Wednesday: 8:00AM\u20131:00PM",
+                "Thursday: 8:00AM\u20131:00PM",
+                "Friday: 8:00AM\u20131:00PM",
+                "Saturday: 8:00AM\u20131:00PM",
+                "Sunday: 8:00AM\u20131:00PM"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/temasek_club.jpg"
@@ -1479,7 +3305,90 @@
         },
         "international_phone_number": "+65 9011 0142",
         "name": "The Par Club Singapore",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "1300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "1300"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 11:00AM\u20131:00PM",
+                "Tuesday: 11:00AM\u20131:00PM",
+                "Wednesday: 11:00AM\u20131:00PM",
+                "Thursday: 11:00AM\u20131:00PM",
+                "Friday: 11:00AM\u20131:00PM",
+                "Saturday: 11:00AM\u20131:00PM",
+                "Sunday: 11:00AM\u20131:00PM"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_par_club_singapore.jpg"
@@ -1533,7 +3442,90 @@
         },
         "international_phone_number": "+65 9325 3453",
         "name": "TT LAB Table Tennis Club (Novena)",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "2359"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: Open 24 hours",
+                "Tuesday: Open 24 hours",
+                "Wednesday: Open 24 hours",
+                "Thursday: Open 24 hours",
+                "Friday: Open 24 hours",
+                "Saturday: Open 24 hours",
+                "Sunday: Open 24 hours"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tt_lab_table_tennis_club_(novena).webp"
@@ -1561,7 +3553,90 @@
         },
         "international_phone_number": "+65 9325 3453",
         "name": "TT LAB Table Tennis Club (Thomson)",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "2359"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: Open 24 hours",
+                "Tuesday: Open 24 hours",
+                "Wednesday: Open 24 hours",
+                "Thursday: Open 24 hours",
+                "Friday: Open 24 hours",
+                "Saturday: Open 24 hours",
+                "Sunday: Open 24 hours"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tt_lab_table_tennis_club_thomson.jpg"
@@ -1589,7 +3664,90 @@
         },
         "international_phone_number": "+65 6586 1245",
         "name": "Warren Golf & Country Club",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "0200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "0200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "0200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "0200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "0000"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "0000"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0700"
+                    },
+                    "close": {
+                        "day": 0,
+                        "time": "0200"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 7:00AM\u20132:00AM",
+                "Tuesday: 7:00AM\u20132:00AM",
+                "Wednesday: 7:00AM\u20132:00AM",
+                "Thursday: 7:00AM\u20132:00AM",
+                "Friday: 7:00AM\u2013:00AM",
+                "Saturday: 7:00AM\u2013:00AM",
+                "Sunday: 7:00AM\u20132:00AM"
+            ]
+        },
         "photos": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/warren_golf_&_country_club.jpg"
