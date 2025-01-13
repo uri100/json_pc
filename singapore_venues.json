@@ -11,6 +11,7 @@
         "international_phone_number": "+65 6304 3200",
         "name": "1880 Club",
         "opening_hours": null,
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/1880_club.png"
         ],
@@ -118,7 +119,7 @@
                 "Sunday: 7:00\u202fAM\u2009\u2013\u200910:30\u202fPM"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/american_club_singapore.webp"
         ],
@@ -150,7 +151,7 @@
         "international_phone_number": "+65 6584 6811",
         "name": "Aranda Country Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aranda_country_club.jpg"
         ],
@@ -182,7 +183,7 @@
         "international_phone_number": "+65 6410 1100",
         "name": "The British Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_british_club.jpg"
         ],
@@ -211,7 +212,7 @@
         "international_phone_number": "+65 6297 1009",
         "name": "Ceylon Sports Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ceylon_sports_club.jpg"
         ],
@@ -325,7 +326,7 @@
                 "Sunday: 8:30AM\u20130:00PM"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/changi_beach_club.jpg"
         ],
@@ -443,7 +444,7 @@
                 "Sunday: 7:00AM\u20130:00PM"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/changi_golf_club.jpg"
         ],
@@ -553,7 +554,7 @@
                 "Sunday: 7:00AM\u20131:00PM"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chinese_swimming_club.jpg"
         ],
@@ -664,7 +665,7 @@
                 "Sunday: 8:00AM\u20139:00PM"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/civil_service_club_bukit_Batok.png"
         ],
@@ -776,7 +777,7 @@
                 "Sunday: 8:30AM\u20139:00PM"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/civil_service_club_tessensohn.jpg"
         ],
@@ -891,7 +892,7 @@
                 "Sunday: 8:30AM\u20130:30PM"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/civil_service_club_changi.jpg"
         ],
@@ -918,7 +919,7 @@
         "international_phone_number": "6391 5619",
         "name": "Civil Service Club Singapore",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/civil_service_club_singapore.jpg"
         ],
@@ -1042,7 +1043,7 @@
                 "Sunday: 10:00AM\u20133:15PM"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/club_yoga.jpg"
         ],
@@ -1153,7 +1154,7 @@
                 "Sunday: 9:00AM\u20130:00PM"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/conquest_badminton_club.jpg"
         ],
@@ -1180,7 +1181,7 @@
         "international_phone_number": "+65 6467 8802",
         "name": "German Association of Deutsches Haus",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/german_association%20_of_deutsches_haus.jpg"
         ],
@@ -1288,7 +1289,7 @@
                 "Sunday: 8:00AM\u20130:00PM"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hidden_castle_golf_club.jpg"
         ],
@@ -1315,7 +1316,7 @@
         "international_phone_number": "+65 6464 5225",
         "name": "Hollandse Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hollandse_club.jpg"
         ],
@@ -1345,7 +1346,7 @@
         "international_phone_number": "+65 6708 6600",
         "name": "HomeTeamNS-JOM Balestier Clubhouse",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hometeamns-jom_balestier_clubhouse.webp"
         ],
@@ -1377,7 +1378,7 @@
         "international_phone_number": "+65 6591 8136",
         "name": "The Japanese Association",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_japanese_association.png"
         ],
@@ -1485,7 +1486,7 @@
                 "Sunday: Open 24 hours"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jpong_table_tennis_club.jpeg"
         ],
@@ -1596,7 +1597,7 @@
                 "Sunday: Open 24 hours"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/marina_country_club.avif"
         ],
@@ -1626,7 +1627,7 @@
         "international_phone_number": "+65 6468 0305",
         "name": "Ministry of Education Sports & Recreation Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ministry_of_education_sports_&_recreation_club.jpg"
         ],
@@ -1741,7 +1742,7 @@
                 "Sunday: 7:00AM\u20130:30PM"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/national_service_resort_&_country_club.jpg"
         ],
@@ -1774,7 +1775,7 @@
         "international_phone_number": "+65 6305 6988",
         "name": "ONE\u00b015 Marina Sentosa Cove",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/one15_marina_sentosa_cove.jpg"
         ],
@@ -1885,7 +1886,7 @@
                 "Sunday: 10:00AM\u20131:00PM"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/orchid_country_club.jpg"
         ],
@@ -2004,7 +2005,7 @@
                 "Sunday: Closed\u201312:00AM"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pbc_bowlers_club.jpg"
         ],
@@ -2114,7 +2115,7 @@
                 "Sunday: 6:00AM\u20132:00AM"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/performance_pickleball.jpg"
         ],
@@ -2142,7 +2143,7 @@
         "international_phone_number": null,
         "name": "Pyramid Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pyramid_club.jpg"
         ],
@@ -2167,7 +2168,7 @@
         "international_phone_number": "+65 6861 8000",
         "name": "Raffles Marina Country Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/raffles_marina_country_club.jpg"
         ],
@@ -2197,7 +2198,7 @@
         "international_phone_number": "+65 6323 2323",
         "name": "Raffles Town Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/raffles_town_club.avif"
         ],
@@ -2314,7 +2315,7 @@
                 "Sunday: 9:00AM\u20139:00PM"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/safra_yishun_country_club.jpg"
         ],
@@ -2426,7 +2427,7 @@
                 "Sunday: 7:30AM\u20139:30PM"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seletar_country_club.jpg"
         ],
@@ -2459,7 +2460,7 @@
         "international_phone_number": "+65 6275 0090",
         "name": "Sentosa Golf Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sentosa_golf_club.jpg"
         ],
@@ -2569,7 +2570,7 @@
                 "Sunday: 9:00AM\u20132:00AM"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sia_sports_club.png"
         ],
@@ -2599,7 +2600,7 @@
         "international_phone_number": "+65 6338 9271",
         "name": "Singapore Cricket Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore_cricket_club.jpg"
         ],
@@ -2719,7 +2720,7 @@
                 "Sunday: 6:30AM\u20130:00PM"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore_island_country_club_bukit.jpg"
         ],
@@ -2748,7 +2749,7 @@
         "international_phone_number": "+65 6854 3999",
         "name": "Singapore Polo Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore_polo_club.jpg"
         ],
@@ -2775,7 +2776,7 @@
         "international_phone_number": "+65 6595 0500",
         "name": "Singapore Recreation Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore_recreation_club.jpg"
         ],
@@ -2898,7 +2899,7 @@
                 "Sunday: 7:00AM\u20131:00PM"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore_swimming_club.jpg"
         ],
@@ -2930,7 +2931,7 @@
         "international_phone_number": "+65 6879 1000",
         "name": "Singapore Turf Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore_turf_club.jpg"
         ],
@@ -2957,7 +2958,7 @@
         "international_phone_number": "+65 8189 9882",
         "name": "Spartans Boxing Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/spartans_boxing_club.webp"
         ],
@@ -2984,7 +2985,7 @@
         "international_phone_number": "+65 6591 9420",
         "name": "Swiss Club Singapore",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/swiss_club_singapore.jpg"
         ],
@@ -3101,7 +3102,7 @@
                 "Sunday: 6:00AM\u20130:00PM"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tanah_merah_country_club_garden_course.jpg"
         ],
@@ -3128,7 +3129,7 @@
         "international_phone_number": "+65 6622 0555",
         "name": "Tanglin Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tanglin_club.jpg"
         ],
@@ -3161,7 +3162,7 @@
         "international_phone_number": null,
         "name": "Telok Blangah Archery Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/telok_blangah_archery_club.webp"
         ],
@@ -3271,7 +3272,7 @@
                 "Sunday: 8:00AM\u20131:00PM"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/temasek_club.jpg"
         ],
@@ -3388,7 +3389,7 @@
                 "Sunday: 11:00AM\u20131:00PM"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_par_club_singapore.jpg"
         ],
@@ -3415,7 +3416,7 @@
         "international_phone_number": "65 6737-3388, 656438-3673",
         "name": "Tower Club Singapore",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tower_club_singapore.jpg"
         ],
@@ -3525,7 +3526,7 @@
                 "Sunday: Open 24 hours"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tt_lab_table_tennis_club_(novena).webp"
         ],
@@ -3636,7 +3637,7 @@
                 "Sunday: Open 24 hours"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tt_lab_table_tennis_club_thomson.jpg"
         ],
@@ -3747,7 +3748,7 @@
                 "Sunday: 7:00AM\u20132:00AM"
             ]
         },
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/warren_golf_&_country_club.jpg"
         ],
@@ -3774,7 +3775,7 @@
         "international_phone_number": "+65 6408 0100",
         "name": "No18 Singapore Capitol",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/no_18_singapore_capitol.jpg"
         ],
@@ -3802,7 +3803,7 @@
         "international_phone_number": null,
         "name": "67 Pall Mall Singapore",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/67_pall_mall_singapore.jpg"
         ],
@@ -3827,7 +3828,7 @@
         "international_phone_number": "+65 6970 0033",
         "name": "33 Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/33_club.webp"
         ],
@@ -3852,7 +3853,7 @@
         "international_phone_number": "+65 8822 9154",
         "name": "Mandala Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mandala_club.jpg"
         ],
@@ -3878,7 +3879,7 @@
         "international_phone_number": "+65 8069 0310",
         "name": "Atlas Private Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/atlas_private_club.jpg"
         ],
@@ -3903,7 +3904,7 @@
         "international_phone_number": "+65 6545 2876",
         "name": "Changi Sailing Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [],
         "rating": null,
         "reviews": [],
@@ -3929,7 +3930,7 @@
         "international_phone_number": "+65 6253 0111",
         "name": "Chui Huay Lim Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chui_huay_lim_club.jpg"
         ],
@@ -3956,7 +3957,7 @@
         "international_phone_number": "+65 6505 5699",
         "name": "Club 5",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/club_5.jpg"
         ],
@@ -3981,7 +3982,7 @@
         "international_phone_number": "81134704",
         "name": "El Pico Social",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/el_pico_social.avif"
         ],
@@ -4006,7 +4007,7 @@
         "international_phone_number": "+65 6738 5535",
         "name": "Paragon Club Members' Lounge",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paragon_club_members_lounge.png"
         ],
@@ -4031,7 +4032,7 @@
         "international_phone_number": "+65 6768 9288",
         "name": "Republic of Singapore Yacht Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/republic_of_singapore_yacht.jpg"
         ],
@@ -4060,7 +4061,7 @@
         "international_phone_number": "+65 6286 8888",
         "name": "Serangoon Gardens Country Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/serangoon_gardens_country_club.jpg"
         ],
@@ -4098,7 +4099,7 @@
         "international_phone_number": "+65 8035 6161",
         "name": "White House Private Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/white_house_private_club.jpg"
         ],
@@ -4123,7 +4124,7 @@
         "international_phone_number": "6468 0066",
         "name": "Belgian Luxembourg Association",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [],
         "rating": null,
         "reviews": [],
@@ -4145,7 +4146,7 @@
         "international_phone_number": "+65 9012 2109",
         "name": "Launchpad Singapore",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/launchpad_singapore.jpg"
         ],
@@ -4170,7 +4171,7 @@
         "international_phone_number": "+65 6291 6301",
         "name": "The Australian and New Zealand Association (Anza)",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_australian_and_new_zealand_association_(anza).jpg"
         ],
@@ -4205,7 +4206,7 @@
         "international_phone_number": null,
         "name": "Goh Loo Club",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/goh_loo_club.jpg"
         ],
@@ -4230,7 +4231,7 @@
         "international_phone_number": "+65 9144 6272",
         "name": "Danish Business Association",
         "opening_hours": null,
-        "photos": [],
+        "description": [],
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/danish_business_association.jpg"
         ],
