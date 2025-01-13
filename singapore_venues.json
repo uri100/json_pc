@@ -3894,12 +3894,12 @@
         "longitude": null
     },
     "ChangiSailingClub": {
-        "formatted_address": "32 Netheravon Rd",
+        "formatted_address": "32 Netheravon Rd, Singapore 508508",
         "formatted_phone_number": "+65 6545 2876",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": 1.392240,
+                "lng": 103.979557
             }
         },
         "international_phone_number": "+65 6545 2876",
@@ -3916,8 +3916,8 @@
             "swimming",
             "sailing"
         ],
-        "latitude": null,
-        "longitude": null
+        "latitude": 1.392240,
+        "longitude": 103.979557
     },
     "ChuiHuayLimClub": {
         "formatted_address": "No. l90, Keng Lee Road Singapore 308409",
