@@ -3941,7 +3941,8 @@
         "user_ratings_total": null,
         "website": "https://chuihuaylimclub.com",
         "activities": [
-            "swimming,gym"
+            "swimming",
+            "gym"
         ],
         "latitude": 1.313908,
         "longitude": 103.84196
