@@ -3878,6 +3878,7 @@
         },
         "international_phone_number": "+65 8069 0310",
         "name": "Atlas Private Club",
+        "formatted_address": "Virtual",
         "opening_hours": null,
         "description": [],
         "photo_urls": [
@@ -4157,8 +4158,8 @@
         "user_ratings_total": null,
         "website": "https://thelaunchpad.group",
         "activities": [],
-        "latitude": 1.304374,
-        "longitude": 103.824580
+        "latitude": null,
+        "longitude": null
     },
     "TheAustralianandNewZealandAssociation(Anza)": {
         "formatted_address": "261A Beach Road, Singapore 199541",
