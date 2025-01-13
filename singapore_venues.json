@@ -3872,8 +3872,8 @@
         "formatted_phone_number": "+65 8069 0310",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": 1.304374,
+                "lng": 103.824580
             }
         },
         "international_phone_number": "+65 8069 0310",
@@ -4140,8 +4140,8 @@
         "formatted_phone_number": "+65 9012 2109",
         "geometry": {
             "location": {
-                "lat": 1.300618,
-                "lng": 103.845812
+                "lat": 1.304374,
+                "lng": 103.824580
             }
         },
         "international_phone_number": "+65 9012 2109",
@@ -4157,8 +4157,8 @@
         "user_ratings_total": null,
         "website": "https://thelaunchpad.group",
         "activities": [],
-        "latitude": 1.300618,
-        "longitude": 103.845812
+        "latitude": 1.304374,
+        "longitude": 103.824580
     },
     "TheAustralianandNewZealandAssociation(Anza)": {
         "formatted_address": "261A Beach Road, Singapore 199541",
