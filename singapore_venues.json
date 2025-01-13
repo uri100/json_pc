@@ -11,9 +11,9 @@
         "international_phone_number": "+65 6304 3200",
         "name": "1880 Club",
         "opening_hours": null,
-        "description": [
+        "description": 
             "1880 is born out of the idea that conversations can make the world a better place. Our goal is to bring together the most interesting and creative personalities in Singapore and create opportunities for them to exchange and cross-pollinate ideas, enjoy exceptional food and drink, and have a really good time. The club in Singapore - a cosmopolitan city with a global role - represents the new wave of members'​ clubs that have emerged from New York and London. Designed as a space housing both social and work environments, 1880 is created for the people who are shaping the future of Southeast Asia. It is a place and a people united by character, curiosity, and passion, not exclusivity. From the moment you step through our doors, you will be taken out of the ordinary, while still having the comfort of being in your element."
-        ],
+        ,
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/1880_club.png"
         ],
