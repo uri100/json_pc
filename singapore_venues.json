@@ -11,15 +11,13 @@
         "international_phone_number": "+65 6304 3200",
         "name": "1880 Club",
         "opening_hours": null,
-        "description": 
-            "1880 is born out of the idea that conversations can make the world a better place. Our goal is to bring together the most interesting and creative personalities in Singapore and create opportunities for them to exchange and cross-pollinate ideas, enjoy exceptional food and drink, and have a really good time. The club in Singapore - a cosmopolitan city with a global role - represents the new wave of members'​ clubs that have emerged from New York and London. Designed as a space housing both social and work environments, 1880 is created for the people who are shaping the future of Southeast Asia. It is a place and a people united by character, curiosity, and passion, not exclusivity. From the moment you step through our doors, you will be taken out of the ordinary, while still having the comfort of being in your element."
-        ,
+        "description": "1880 is born out of the idea that conversations can make the world a better place. Our goal is to bring together the most interesting and creative personalities in Singapore and create opportunities for them to exchange and cross-pollinate ideas, enjoy exceptional food and drink, and have a really good time. The club in Singapore - a cosmopolitan city with a global role - represents the new wave of members'\u200b clubs that have emerged from New York and London. Designed as a space housing both social and work environments, 1880 is created for the people who are shaping the future of Southeast Asia. It is a place and a people united by character, curiosity, and passion, not exclusivity. From the moment you step through our doors, you will be taken out of the ordinary, while still having the comfort of being in your element.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/1880_club.png"
         ],
         "rating": 4.7,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/1880_club_logo.png",
         "user_ratings_total": 338,
         "website": "https://1880.com.sg",
         "latitude": 1.290045,
@@ -121,14 +119,13 @@
                 "Sunday: 7:00\u202fAM\u2009\u2013\u200910:30\u202fPM"
             ]
         },
-        "description": "The American Club is a community and social club set up on 14 September 1948. The club provides recreational and community services for its members. These include having a meal at Thyme Café or Eagle’s Nest, finding a good read in its library of 20,000 books, working offsite at the club’s Business Centre and making travel arrangement at the Travel Desk. Members of the club could also have a game of bowling at the club’s bowling alley or take a swim at the swimming pool. There are also facilities for youths and children at either the Youth Zone or The Club."
-        ,
+        "description": "The American Club is a community and social club set up on 14 September 1948. The club provides recreational and community services for its members. These include having a meal at Thyme Caf\u00e9 or Eagle\u2019s Nest, finding a good read in its library of 20,000 books, working offsite at the club\u2019s Business Centre and making travel arrangement at the Travel Desk. Members of the club could also have a game of bowling at the club\u2019s bowling alley or take a swim at the swimming pool. There are also facilities for youths and children at either the Youth Zone or The Club.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/american_club_singapore.webp"
         ],
         "rating": 4.4,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/american_club_singapore_logo.webp",
         "user_ratings_total": 703,
         "website": "https://amclub.org.sg",
         "activities": [
@@ -154,14 +151,13 @@
         "international_phone_number": "+65 6584 6811",
         "name": "Aranda Country Club",
         "opening_hours": null,
-        "description": "Aranda Country Club is a proprietary Club of the Pasir Ris Resort Pte Ltd, a wholly owned subsidiary of the Resorts Concepts (Pte) Ltd. Located next to Downtown East, Aranda Country Club has been opened to members since March 1995 and has a member base of over 1,200 active members. It prides itself in its exceptional offers for everyone ranging from Full Term, Term and Union Corporate Memberships, programmes and suites for staycations for members and general public. Aranda Country Clubhouse has a built-area 32,380 square feet, with a total land spread of over 200,000 square feet, consisting of luxury and executive suites, restaurant, wellness sanctuary, educational childcare services provider and just to name a few of the many facilities – swimming pool, gym, game room, lounge and reading room."
-        ,
+        "description": "Aranda Country Club is a proprietary Club of the Pasir Ris Resort Pte Ltd, a wholly owned subsidiary of the Resorts Concepts (Pte) Ltd. Located next to Downtown East, Aranda Country Club has been opened to members since March 1995 and has a member base of over 1,200 active members. It prides itself in its exceptional offers for everyone ranging from Full Term, Term and Union Corporate Memberships, programmes and suites for staycations for members and general public. Aranda Country Clubhouse has a built-area 32,380 square feet, with a total land spread of over 200,000 square feet, consisting of luxury and executive suites, restaurant, wellness sanctuary, educational childcare services provider and just to name a few of the many facilities \u2013 swimming pool, gym, game room, lounge and reading room.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aranda_country_club.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aranda_country_club_logo.webp",
         "user_ratings_total": null,
         "website": "https://arandaclub.org.sg",
         "activities": [
@@ -187,14 +183,13 @@
         "international_phone_number": "+65 6410 1100",
         "name": "The British Club",
         "opening_hours": null,
-        "description": "The British Club is Singapore’s only Hilltop Retreat, a unique private community where Members of more than 50 nationalities and their families enjoy superb facilities, outstanding restaurants and a high level of service. Covering an area of more than 5,900 square meters in secluded grounds surrounded by Bukit Timah’s greenery, the Club houses four restaurants and seven banquet venues, with an unparalleled range of sporting and family oriented facilities."
-        ,
+        "description": "The British Club is Singapore\u2019s only Hilltop Retreat, a unique private community where Members of more than 50 nationalities and their families enjoy superb facilities, outstanding restaurants and a high level of service. Covering an area of more than 5,900 square meters in secluded grounds surrounded by Bukit Timah\u2019s greenery, the Club houses four restaurants and seven banquet venues, with an unparalleled range of sporting and family oriented facilities.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_british_club.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_british_club_logo.png",
         "user_ratings_total": null,
         "website": "https://britishclub.org.sg",
         "activities": [
@@ -217,14 +212,13 @@
         "international_phone_number": "+65 6297 1009",
         "name": "Ceylon Sports Club",
         "opening_hours": null,
-        "description": "The Ceylon Sports Club (CSC) at 101 Balestier Road was established in 1928. It was reconstituted from the Lanka Union, which was founded by a group of Ceylonese students in 1920. The club's main aim was to unite Ceylonese in Singapore and promote sports among them."
-        ,
+        "description": "The Ceylon Sports Club (CSC) at 101 Balestier Road was established in 1928. It was reconstituted from the Lanka Union, which was founded by a group of Ceylonese students in 1920. The club's main aim was to unite Ceylonese in Singapore and promote sports among them.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ceylon_sports_club.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ceylon_sports_club_logo.png",
         "user_ratings_total": null,
         "website": "https://cscsingapore.org.sg",
         "activities": [
@@ -332,14 +326,13 @@
                 "Sunday: 8:30AM\u20130:00PM"
             ]
         },
-        "description": "Changi Beach Club started out as Changi Swimming Club in 1972. The Singapore Sports Council (SSC) then known as the National Sports Promotion Board (NSPB) took over from the British Airforce Officer's Club when the British Forces pulled out of Singapore. The Changi Swimming Club became a Proprietary Club of SSC/NSPB. It was privatised in 1988 and renamed Changi Beach Club. In 1997, the Sports Complex was added offering bowling, badminton, tennis, a fully equipped gym, dance studio and others. The Brass Kitten is a new addition to the Sports Complex offering mixed drinks from the golden age of cocktails. The main building, the Clubhouse, houses The Veranda Lounge and The Deck Bar, 15 Superior rooms, 2 Superior Deluxe rooms and a spacious Suite, function rooms, BBQ Hot Pot buffet restaurant and the enticing Olympic-sized swimming pool that overlooks the sea. Changi Beach Club is indeed blessed with numerous assets, and one of its most enduring is that it is the only Club in Singapore with a useable beach front. You can have your BBQ parties with the waves gently lapping at your feet! Yes, your own truly private beach party! Changi Beach Club aims to be a unique resort, far from the bustle of city life, promising you fun, romantic and unforgettable moments."
-        ,
+        "description": "Changi Beach Club started out as Changi Swimming Club in 1972. The Singapore Sports Council (SSC) then known as the National Sports Promotion Board (NSPB) took over from the British Airforce Officer's Club when the British Forces pulled out of Singapore. The Changi Swimming Club became a Proprietary Club of SSC/NSPB. It was privatised in 1988 and renamed Changi Beach Club. In 1997, the Sports Complex was added offering bowling, badminton, tennis, a fully equipped gym, dance studio and others. The Brass Kitten is a new addition to the Sports Complex offering mixed drinks from the golden age of cocktails. The main building, the Clubhouse, houses The Veranda Lounge and The Deck Bar, 15 Superior rooms, 2 Superior Deluxe rooms and a spacious Suite, function rooms, BBQ Hot Pot buffet restaurant and the enticing Olympic-sized swimming pool that overlooks the sea. Changi Beach Club is indeed blessed with numerous assets, and one of its most enduring is that it is the only Club in Singapore with a useable beach front. You can have your BBQ parties with the waves gently lapping at your feet! Yes, your own truly private beach party! Changi Beach Club aims to be a unique resort, far from the bustle of city life, promising you fun, romantic and unforgettable moments.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/changi_beach_club.jpg"
         ],
         "rating": 4.2,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/changi_beach_club_logo.png",
         "user_ratings_total": 68,
         "website": "https://changibc.org.sg",
         "activities": [
@@ -451,14 +444,13 @@
                 "Sunday: 7:00AM\u20130:00PM"
             ]
         },
-        "description": "The construction of the military base at Changi commenced in 1926 and was occupied by the British Army and Commonwealth forces up to the surrender in WWII. When peace was declared in 1945 the British Army went back into the Changi site and stayed there until 1946 when the administration and running of the base was handed over to the Royal Air Force. The RAF Changi personnel decided to create a golf section and they laid out a few holes on the sports field without any bunkers. It was not until 1949 that the golf course was ready for play. The clubhouse facilities include a Chinese restaurant, golfers’ lounge, golfers’ terrace, function room, card room and karaoke room. The clubhouse overlooks the Changi beach which offers a panoramic view of the sea and Pulau Ubin. Changi is one of the few remaining places in modern Singapore that still retains an idyllic environment."
-        ,
+        "description": "The construction of the military base at Changi commenced in 1926 and was occupied by the British Army and Commonwealth forces up to the surrender in WWII. When peace was declared in 1945 the British Army went back into the Changi site and stayed there until 1946 when the administration and running of the base was handed over to the Royal Air Force. The RAF Changi personnel decided to create a golf section and they laid out a few holes on the sports field without any bunkers. It was not until 1949 that the golf course was ready for play. The clubhouse facilities include a Chinese restaurant, golfers\u2019 lounge, golfers\u2019 terrace, function room, card room and karaoke room. The clubhouse overlooks the Changi beach which offers a panoramic view of the sea and Pulau Ubin. Changi is one of the few remaining places in modern Singapore that still retains an idyllic environment.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/changi_golf_club.jpg"
         ],
         "rating": 4.0,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/changi_golf_club_logo.jpg",
         "user_ratings_total": 174,
         "website": "https://changigolfclub.org.sg",
         "activities": [
@@ -562,14 +554,13 @@
                 "Sunday: 7:00AM\u20131:00PM"
             ]
         },
-        "description": "The Chinese Swimming Club, set in the idyllic east of the island, is undoubtedly an exclusive choice family club, steeped in a century-old heritage renowned for nurturing top national sportsmen. The Club’s Principal membership currently stands at 8800 and it occupies 3 plots of land totalling 17,430.187* square metres in size and is a well-rounded family recreation club offering a comprehensive range of facilities, services and activities catered for the diverse needs of its members and their guests."
-        ,
+        "description": "The Chinese Swimming Club, set in the idyllic east of the island, is undoubtedly an exclusive choice family club, steeped in a century-old heritage renowned for nurturing top national sportsmen. The Club\u2019s Principal membership currently stands at 8800 and it occupies 3 plots of land totalling 17,430.187* square metres in size and is a well-rounded family recreation club offering a comprehensive range of facilities, services and activities catered for the diverse needs of its members and their guests.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chinese_swimming_club.jpg"
         ],
         "rating": 4.3,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chinese_swimming_club_logo.png",
         "user_ratings_total": 826,
         "website": "https://chineseswimmingclub.org.sg",
         "activities": [
@@ -674,14 +665,13 @@
                 "Sunday: 8:00AM\u20139:00PM"
             ]
         },
-        "description": "CSC @ Bukit Batok is a hilltop oasis and family destination with water park features including a wave pool, drift pool, 4-storey (8.6m) slide, lap pool, jacuzzi and kids wading pool. The entire Clubhouse is centred around families for their rest and recreation. Besides the pools, there’s a 24-lane bowling centre, BBQ pavilions, indoor playground and more! In 2019, the Clubhouse was awarded the BCA Green Mark (Certified). The Clubhouse is open to public. Only the swimming and water park features, and tennis court are exclusive to CSC members only. CSC members enjoy unlimited free access to the swimming and water park features, and can bring in guests. CSC members also enjoy best rates for bowling and facilities usage."
-,
+        "description": "CSC @ Bukit Batok is a hilltop oasis and family destination with water park features including a wave pool, drift pool, 4-storey (8.6m) slide, lap pool, jacuzzi and kids wading pool. The entire Clubhouse is centred around families for their rest and recreation. Besides the pools, there\u2019s a 24-lane bowling centre, BBQ pavilions, indoor playground and more! In 2019, the Clubhouse was awarded the BCA Green Mark (Certified). The Clubhouse is open to public. Only the swimming and water park features, and tennis court are exclusive to CSC members only. CSC members enjoy unlimited free access to the swimming and water park features, and can bring in guests. CSC members also enjoy best rates for bowling and facilities usage.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/civil_service_club_bukit_Batok.png"
         ],
         "rating": 4.3,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/civil_service_club_bukit_Batok_logo.png",
         "user_ratings_total": 1881,
         "website": "https://cscbukitbatok.sg",
         "activities": [
@@ -787,14 +777,13 @@
                 "Sunday: 8:30AM\u20139:00PM"
             ]
         },
-        "description": "CSC @ Tessensohn is a town club and sports, social and recreation hub. Expect modern and professional facilities such as an Olympic-size swimming pool, banquet halls, cookery studios, dance studio and an auditorium. This Clubhouse is teeming with meetings, conferences, performances and events, as well as social and sporting activities. The Clubhouse is open to the public. Only the swimming pool, tennis and badminton courts at CSC @ Tessensohn is exclusive to CSC members. CSC members enjoy unlimited free access to the swimming pool and best rates for bowling and facilities usage, including its function rooms and ballrooms."
-        ,
+        "description": "CSC @ Tessensohn is a town club and sports, social and recreation hub. Expect modern and professional facilities such as an Olympic-size swimming pool, banquet halls, cookery studios, dance studio and an auditorium. This Clubhouse is teeming with meetings, conferences, performances and events, as well as social and sporting activities. The Clubhouse is open to the public. Only the swimming pool, tennis and badminton courts at CSC @ Tessensohn is exclusive to CSC members. CSC members enjoy unlimited free access to the swimming pool and best rates for bowling and facilities usage, including its function rooms and ballrooms.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/civil_service_club_tessensohn.jpg"
         ],
         "rating": 4.1,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/civil_service_club_changi_logo.png",
         "user_ratings_total": 1264,
         "website": "https://csctessensohn.sg",
         "activities": [
@@ -903,14 +892,13 @@
                 "Sunday: 8:30AM\u20130:30PM"
             ]
         },
-        "description": "Civil Service Club is a Social Club for Public Service Officers. Staff of Social Service Organisations and the general public are also welcome to join us as Associate Members. Public Service Officers, Social Service Organisation staff (NCSS) and Singaporean & PR aged 21 and above can join Civil Service Club membership. CSC @ Changi l is a beachfront clubhouse and staycation destination with 23 quality accommodations ranging from suites to villas. The Clubhouse is located next to Changi Village and highly sought after for providing laid back retreats away from the hustle and bustle, as well as get-togethers and celebrations for families. In 2019, the Clubhouse was awarded the BCA Green Mark (Gold) so you can be assured of a green and sustainable stay."
-        ,
+        "description": "Civil Service Club is a Social Club for Public Service Officers. Staff of Social Service Organisations and the general public are also welcome to join us as Associate Members. Public Service Officers, Social Service Organisation staff (NCSS) and Singaporean & PR aged 21 and above can join Civil Service Club membership. CSC @ Changi l is a beachfront clubhouse and staycation destination with 23 quality accommodations ranging from suites to villas. The Clubhouse is located next to Changi Village and highly sought after for providing laid back retreats away from the hustle and bustle, as well as get-togethers and celebrations for families. In 2019, the Clubhouse was awarded the BCA Green Mark (Gold) so you can be assured of a green and sustainable stay.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/civil_service_club_changi.jpg"
         ],
         "rating": 4.3,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/civil_service_club_Tessensohn_logo.png",
         "user_ratings_total": 2204,
         "website": "https://cscchangi.sg",
         "activities": [
@@ -931,14 +919,13 @@
         "international_phone_number": "6391 5619",
         "name": "Civil Service Club Singapore",
         "opening_hours": null,
-        "description": "Established on 25th October 1971, the Singapore Civil Service Sports Council (SCSSC) was originally created to oversee inter-territorial games between Civil Servants of Singapore and Malaysia. The Tanglin Clubhouse, located on Dempsey Road, became the official home of SCSSC in April 1972. During this time, the council began organizing a diverse range of sports activities for public service officers. Although the facilities were modest back then, the vision of promoting sports, fitness, and recreational activities among Public Officers was clear and unwavering; to promote a healthy lifestyle in the Public Service. As the years went by, the SCSSC transformed into the Civil Service Club (CSC) that exists today - a vibrant community where camaraderie, recreation, and well-being thrive. The Civil Service Club serves as the home club for public service officers and is the organizing body for the STAR Games, an annual series of competitive sports played by representatives from different ministries and statutory boards. These games foster friendly competition, and serve as a platform for networking and camaraderie among public service officers. Beyond its role in sports and fitness, the Club values the well-being and fulfillment of public service officers and their families - be it for family bonding activities, exploring new hobbies, or forging meaningful connections with like-minded individuals, the Club offers a wide range of activities and events catering to all age groups and interests."
-        ,
+        "description": "Established on 25th October 1971, the Singapore Civil Service Sports Council (SCSSC) was originally created to oversee inter-territorial games between Civil Servants of Singapore and Malaysia. The Tanglin Clubhouse, located on Dempsey Road, became the official home of SCSSC in April 1972. During this time, the council began organizing a diverse range of sports activities for public service officers. Although the facilities were modest back then, the vision of promoting sports, fitness, and recreational activities among Public Officers was clear and unwavering; to promote a healthy lifestyle in the Public Service. As the years went by, the SCSSC transformed into the Civil Service Club (CSC) that exists today - a vibrant community where camaraderie, recreation, and well-being thrive. The Civil Service Club serves as the home club for public service officers and is the organizing body for the STAR Games, an annual series of competitive sports played by representatives from different ministries and statutory boards. These games foster friendly competition, and serve as a platform for networking and camaraderie among public service officers. Beyond its role in sports and fitness, the Club values the well-being and fulfillment of public service officers and their families - be it for family bonding activities, exploring new hobbies, or forging meaningful connections with like-minded individuals, the Club offers a wide range of activities and events catering to all age groups and interests.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/civil_service_club_singapore.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/civil_service_club_singapore_logo.svg",
         "user_ratings_total": null,
         "website": "https://csc.sg",
         "activities": [
@@ -1056,14 +1043,13 @@
                 "Sunday: 10:00AM\u20133:15PM"
             ]
         },
-        "description": "Club Yoga is a welcoming place of community, where experienced yogis and newbies get together to move mindfully, grow deeper breaths and intentions. We make the transformational practice of yoga accessible to everyone through affordable yoga classes and packages for all levels, guided by the very founders of Club Yoga Singapore dedicated in making your journey enjoyable and as full as possible."
-        ,
+        "description": "Club Yoga is a welcoming place of community, where experienced yogis and newbies get together to move mindfully, grow deeper breaths and intentions. We make the transformational practice of yoga accessible to everyone through affordable yoga classes and packages for all levels, guided by the very founders of Club Yoga Singapore dedicated in making your journey enjoyable and as full as possible.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/club_yoga.jpg"
         ],
         "rating": 4.4,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/club_yoga_logo.png",
         "user_ratings_total": 59,
         "website": "https://clubyoga.sg",
         "activities": [
@@ -1168,14 +1154,13 @@
                 "Sunday: 9:00AM\u20130:00PM"
             ]
         },
-        "description": "Founded in 2014, Conquest Badminton Club was started with the intention to unite like-minded individuals through game play. In the year 2019, committed to furthering the sport, the Club started providing regular training sessions for players who are seeking to improve and elevate their skills in Badminton. Our structured training program caters to players of all ages and levels."
-        ,
+        "description": "Founded in 2014, Conquest Badminton Club was started with the intention to unite like-minded individuals through game play. In the year 2019, committed to furthering the sport, the Club started providing regular training sessions for players who are seeking to improve and elevate their skills in Badminton. Our structured training program caters to players of all ages and levels.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/conquest_badminton_club.jpg"
         ],
         "rating": 5.0,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/conquest_badminton_club_logo.png",
         "user_ratings_total": 1,
         "website": "https://conquestbadminton.com",
         "activities": [
@@ -1196,14 +1181,13 @@
         "international_phone_number": "+65 6467 8802",
         "name": "German Association of Deutsches Haus",
         "opening_hours": null,
-        "description": "The German Association in Singapore is a vibrant community where expats, Singaporeans, students, and foreign acquaintances meet and share their experiences. With a rich history, this association hosts a variety of events catering to a wide range of interests, making it a bustling hub for culture, pleasure, and socialising. The association's activities range from wine and cheese evenings to morning coffee gatherings, providing a relaxing setting for meeting new people. For those who enjoy sports, the club organises yoga lessons, golf, and skat games. Cultural activities include tours of Singapore's districts, visits to museums, and trips to natural parks and islands.Reading clubs, craft activities, and language lessons are available to enthusiasts. Exclusive events such as cooking with the German ambassador, BBQ evenings, and special festivals like asparagus eating and Advent crafts offer a personal touch to the calendar. The German Association in Singapore welcomes everyone, whether you're a long-time resident or a newbie. It's a place to form connections, celebrate cultural diversity, and make lifelong experiences. Join the community and explore everything it has to offer."
-        ,
+        "description": "The German Association in Singapore is a vibrant community where expats, Singaporeans, students, and foreign acquaintances meet and share their experiences. With a rich history, this association hosts a variety of events catering to a wide range of interests, making it a bustling hub for culture, pleasure, and socialising. The association's activities range from wine and cheese evenings to morning coffee gatherings, providing a relaxing setting for meeting new people. For those who enjoy sports, the club organises yoga lessons, golf, and skat games. Cultural activities include tours of Singapore's districts, visits to museums, and trips to natural parks and islands.Reading clubs, craft activities, and language lessons are available to enthusiasts. Exclusive events such as cooking with the German ambassador, BBQ evenings, and special festivals like asparagus eating and Advent crafts offer a personal touch to the calendar. The German Association in Singapore welcomes everyone, whether you're a long-time resident or a newbie. It's a place to form connections, celebrate cultural diversity, and make lifelong experiences. Join the community and explore everything it has to offer.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/german_association%20_of_deutsches_haus.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/german_association_of_deutsches_haus_logo.jpeg",
         "user_ratings_total": null,
         "website": "https://german-association.org.sg",
         "activities": [],
@@ -1305,14 +1289,13 @@
                 "Sunday: 8:00AM\u20130:00PM"
             ]
         },
-        "description": "Hidden Castle Golf Club stands as Singapore's largest indoor golf range, a fusion of luxury, technology, and unparalleled golfing experiences. Perfect for hosting upscale private and corporate events, our facility boasts premium services, including fine dining, a chic bar, and a shop featuring the latest and trendiest golf merchandise. Enjoy our exclusive simulations of famed courses like Sentosa and TMCC, and refine your skills with our KPGA-certified coaches. Engage and network with like-minded members at Singapore’s top golfing destination."
-        ,
+        "description": "Hidden Castle Golf Club stands as Singapore's largest indoor golf range, a fusion of luxury, technology, and unparalleled golfing experiences. Perfect for hosting upscale private and corporate events, our facility boasts premium services, including fine dining, a chic bar, and a shop featuring the latest and trendiest golf merchandise. Enjoy our exclusive simulations of famed courses like Sentosa and TMCC, and refine your skills with our KPGA-certified coaches. Engage and network with like-minded members at Singapore\u2019s top golfing destination.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hidden_castle_golf_club.jpg"
         ],
         "rating": 4.9,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hidden_castle_golf_club_logo.jpg",
         "user_ratings_total": 33,
         "website": "https://hiddencastlegolf.com",
         "activities": [
@@ -1333,14 +1316,13 @@
         "international_phone_number": "+65 6464 5225",
         "name": "Hollandse Club",
         "opening_hours": null,
-        "description": "A sports and social club with a relaxed, family-centric environment nestled amidst lush greenery. Offers padel lessons, court rentals"
-        ,
+        "description": "A sports and social club with a relaxed, family-centric environment nestled amidst lush greenery. Offers padel lessons, court rentals",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hollandse_club.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hollandse_club_logo.avif",
         "user_ratings_total": null,
         "website": "https://hollandseclub.org.sg",
         "activities": [
@@ -1364,14 +1346,13 @@
         "international_phone_number": "+65 6708 6600",
         "name": "HomeTeamNS-JOM Balestier Clubhouse",
         "opening_hours": null,
-        "description": "HomeTeamNS is a non-profit organisation set up to recognise the invaluable contributions of the Singapore Police Force (SPF) and Singapore Civil Defence Force (SCDF) NSmen to the safety and security of the nation. HomeTeamNS aims to build a greater sense of camaraderie amongst SPF and SCDF National Servicemen by providing a shared environment for them to network and build bonds through sporting and social activities. With a membership base of over 260,000 NSmen and four clubhouses conveniently located at Balestier, Bedok Reservoir, Bukit Batok and Khatib, HomeTeamNS actively renews its commitment to be the desired place for National Servicemen and their families to get together, have fun and feel proud to be part of the Home Team family. The clubhouses are equipped with sports and recreational facilities such as gyms, villas, food and beverage establishments and child-friendly facilities and enrichment centres."
-        ,
+        "description": "HomeTeamNS is a non-profit organisation set up to recognise the invaluable contributions of the Singapore Police Force (SPF) and Singapore Civil Defence Force (SCDF) NSmen to the safety and security of the nation. HomeTeamNS aims to build a greater sense of camaraderie amongst SPF and SCDF National Servicemen by providing a shared environment for them to network and build bonds through sporting and social activities. With a membership base of over 260,000 NSmen and four clubhouses conveniently located at Balestier, Bedok Reservoir, Bukit Batok and Khatib, HomeTeamNS actively renews its commitment to be the desired place for National Servicemen and their families to get together, have fun and feel proud to be part of the Home Team family. The clubhouses are equipped with sports and recreational facilities such as gyms, villas, food and beverage establishments and child-friendly facilities and enrichment centres.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hometeamns-jom_balestier_clubhouse.webp"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hometeamns-jom_balestier_clubhouse_logo.webp",
         "user_ratings_total": null,
         "website": "https://hometeamns.sg",
         "activities": [
@@ -1397,14 +1378,13 @@
         "international_phone_number": "+65 6591 8136",
         "name": "The Japanese Association",
         "opening_hours": null,
-        "description": "The Japanese Association, Singapore was established more than a century ago in 1915 and reconstituted in 1957. The early objective of the Association was aimed at creating a mutual-aid group to look after one another’s welfare, set up educational facilities, maintain the Japanese cemetery and promote global exchanges. Besides realizing its original intent, postwar Japanese Association has also been more active in promoting exchange and interactions with the Singapore community. Our new clubhouse is also designed to be culturally oriented to suit this purpose.One of the objectives of the Japanese Association is to become an international cultural exchange ground for people to meet, chat and relax. The new clubhouse, officially opened by Deputy Prime Minister BG (NS) Lee Hsien Loong on 23rd May 1998, is a building designed and constructed with a modern exterior while incorporating rich Japanese cultural flair in its interiors. Complemented by its excellent location along Adam Road, the clubhouse has a built-in area of nearly 8,000 square meters (4 times bigger than the previous location). On a freehold land size of approximately 5,600 square meters, the clubhouse has also been enhanced to provide members with improved services in a cosier setting and a much more pleasant environment. It is a clubhouse that can instil a sense of belonging and pride amongst its members. With a larger space available, we will be able to better organise our involvements with local charitable activities. More opportunities can also be created for cultural exchange and social interaction on a larger scale between our members and the different communities. At present we have approximately 4,401 Ordinary Members (Japanese nationals with voting rights) and 507 Associate Members. Only Associate memberships are transferable. We have 668 corporate members. (1 Jan 2025)"
-        ,
+        "description": "The Japanese Association, Singapore was established more than a century ago in 1915 and reconstituted in 1957. The early objective of the Association was aimed at creating a mutual-aid group to look after one another\u2019s welfare, set up educational facilities, maintain the Japanese cemetery and promote global exchanges. Besides realizing its original intent, postwar Japanese Association has also been more active in promoting exchange and interactions with the Singapore community. Our new clubhouse is also designed to be culturally oriented to suit this purpose.One of the objectives of the Japanese Association is to become an international cultural exchange ground for people to meet, chat and relax. The new clubhouse, officially opened by Deputy Prime Minister BG (NS) Lee Hsien Loong on 23rd May 1998, is a building designed and constructed with a modern exterior while incorporating rich Japanese cultural flair in its interiors. Complemented by its excellent location along Adam Road, the clubhouse has a built-in area of nearly 8,000 square meters (4 times bigger than the previous location). On a freehold land size of approximately 5,600 square meters, the clubhouse has also been enhanced to provide members with improved services in a cosier setting and a much more pleasant environment. It is a clubhouse that can instil a sense of belonging and pride amongst its members. With a larger space available, we will be able to better organise our involvements with local charitable activities. More opportunities can also be created for cultural exchange and social interaction on a larger scale between our members and the different communities. At present we have approximately 4,401 Ordinary Members (Japanese nationals with voting rights) and 507 Associate Members. Only Associate memberships are transferable. We have 668 corporate members. (1 Jan 2025)",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_japanese_association.png"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_japanese_association_logo.png",
         "user_ratings_total": null,
         "website": "https://jas.org.sg",
         "activities": [],
@@ -1506,14 +1486,13 @@
                 "Sunday: Open 24 hours"
             ]
         },
-        "description": "Exclusive haven for table tennis enthusiasts. Nestled within the vibrant heart of the city, our private table tennis club offers an intimate setting tailored for up to 5 players whom are eager to refine their skills and foster lasting connections. Immerse yourself in the exhilarating rhythm of the game, surrounded by like-minded individuals who share your dedication to the sport. With state-of-the-art facilities and equipments, our club promises an unparalleled experience, where camaraderie flourishes and victories are celebrated. Join us and elevate your game to new heights at our private table tennis club. Whether you’re looking to improve your technique, practice your gameplay or simply make new friends, our table tennis classes are structured to meet all abilities. Book your table for table tennis practice in the heart of Singapore. Open 24 hours a day, 7 days a week. Plus classes, events, prizes and one-to-one coaching for players of all levels."
-        ,
+        "description": "Exclusive haven for table tennis enthusiasts. Nestled within the vibrant heart of the city, our private table tennis club offers an intimate setting tailored for up to 5 players whom are eager to refine their skills and foster lasting connections. Immerse yourself in the exhilarating rhythm of the game, surrounded by like-minded individuals who share your dedication to the sport. With state-of-the-art facilities and equipments, our club promises an unparalleled experience, where camaraderie flourishes and victories are celebrated. Join us and elevate your game to new heights at our private table tennis club. Whether you\u2019re looking to improve your technique, practice your gameplay or simply make new friends, our table tennis classes are structured to meet all abilities. Book your table for table tennis practice in the heart of Singapore. Open 24 hours a day, 7 days a week. Plus classes, events, prizes and one-to-one coaching for players of all levels.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jpong_table_tennis_club.jpeg"
         ],
         "rating": 5.0,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jpong_table_tennis_club_logo.jpg",
         "user_ratings_total": 7,
         "website": "https://jpong.sg",
         "activities": [
@@ -1618,14 +1597,13 @@
                 "Sunday: Open 24 hours"
             ]
         },
-        "description": "Marina Country Club is located in the picturesque Punggol area of Singapore, where lush greenery meets serene waters. This country club is not just a place for members; it welcomes tourists seeking a day of relaxation and leisure amidst beautiful landscapes. With its stunning waterfront views, the club provides a perfect backdrop for a day out, whether you're looking to unwind or engage in outdoor activities. Visitors can enjoy a range of amenities, including water sports, golfing, and dining options that cater to a variety of tastes. From local delicacies to international cuisine, the dining venues here are designed to satisfy every palate. Moreover, Marina Country Club is an ideal spot for family outings. The spacious grounds allow for picnics, while the children’s play areas ensure that younger visitors have plenty of space to run and play. The club's friendly atmosphere makes it a great place to meet locals and other tourists alike. Furthermore, the club frequently hosts events and activities that showcase Singapore's vibrant culture, making it an exciting place to immerse yourself in local traditions."
-        ,
+        "description": "Marina Country Club is located in the picturesque Punggol area of Singapore, where lush greenery meets serene waters. This country club is not just a place for members; it welcomes tourists seeking a day of relaxation and leisure amidst beautiful landscapes. With its stunning waterfront views, the club provides a perfect backdrop for a day out, whether you're looking to unwind or engage in outdoor activities. Visitors can enjoy a range of amenities, including water sports, golfing, and dining options that cater to a variety of tastes. From local delicacies to international cuisine, the dining venues here are designed to satisfy every palate. Moreover, Marina Country Club is an ideal spot for family outings. The spacious grounds allow for picnics, while the children\u2019s play areas ensure that younger visitors have plenty of space to run and play. The club's friendly atmosphere makes it a great place to meet locals and other tourists alike. Furthermore, the club frequently hosts events and activities that showcase Singapore's vibrant culture, making it an exciting place to immerse yourself in local traditions.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/marina_country_club.avif"
         ],
         "rating": 4.1,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/marina_country_club_logo.avif",
         "user_ratings_total": 1241,
         "website": "https://marinacountryclub.com.sg",
         "activities": [
@@ -1649,14 +1627,13 @@
         "international_phone_number": "+65 6468 0305",
         "name": "Ministry of Education Sports & Recreation Club",
         "opening_hours": null,
-        "description": "The Ministry of Education Sports and Recreation Club (MESRC) was formed in year 2000 and registered as a society. The main objective of the club is to promote sports, social and recreational activities amongst members. MESRC Clubhouse @ Evans operates a full range of sports and recreation facilities to cater to the needs of all its members."
-        ,
+        "description": "The Ministry of Education Sports and Recreation Club (MESRC) was formed in year 2000 and registered as a society. The main objective of the club is to promote sports, social and recreational activities amongst members. MESRC Clubhouse @ Evans operates a full range of sports and recreation facilities to cater to the needs of all its members.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ministry_of_education_sports_&_recreation_club.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ministry_of_education_sports_&_recreation_club_logo.png",
         "user_ratings_total": null,
         "website": "https://mesrc.net",
         "activities": [
@@ -1765,14 +1742,13 @@
                 "Sunday: 7:00AM\u20130:30PM"
             ]
         },
-        "description": "National Service Resort & Country Club (NSRCC) is a golf and country club set up to recognise the contributions of operationally ready NSmen to Total Defence. Its membership is open to NSmen who have performed national service, as well as full-time NSmen. The first Committee to Recognise the Contributions of Operationally-Ready NSmen mooted the idea of setting up a premium but affordable golf resort for NSmen. The club was officially opened in March 1994 as SAFRA Resort & Country Club. It was later renamed National Service Resort & Country Club (NSRCC) to better reflect the composition of its membership that comprises NSmen from the Army, Navy, Air force, Civil Defence and the Police Force. Members enjoy two clubs for the price of one. NSRCC offers an 18-hole championship course with full clubhouse facilities at NSRCC Changi and an 18-hole golf course at NSRCC Kranji."
-        ,
+        "description": "National Service Resort & Country Club (NSRCC) is a golf and country club set up to recognise the contributions of operationally ready NSmen to Total Defence. Its membership is open to NSmen who have performed national service, as well as full-time NSmen. The first Committee to Recognise the Contributions of Operationally-Ready NSmen mooted the idea of setting up a premium but affordable golf resort for NSmen. The club was officially opened in March 1994 as SAFRA Resort & Country Club. It was later renamed National Service Resort & Country Club (NSRCC) to better reflect the composition of its membership that comprises NSmen from the Army, Navy, Air force, Civil Defence and the Police Force. Members enjoy two clubs for the price of one. NSRCC offers an 18-hole championship course with full clubhouse facilities at NSRCC Changi and an 18-hole golf course at NSRCC Kranji.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/national_service_resort_&_country_club.jpg"
         ],
         "rating": 4.3,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/national_service_resort_&_country_club_logo.png",
         "user_ratings_total": 2000,
         "website": "https://nsrcc.com.sg",
         "activities": [
@@ -1799,14 +1775,13 @@
         "international_phone_number": "+65 6305 6988",
         "name": "ONE\u00b015 Marina Sentosa Cove",
         "opening_hours": null,
-        "description": "ONE°15 Marina Sentosa Cove, Singapore, is a waterfront lifestyle destination offering world-class marina facilities replete with a comprehensive range of exclusive club amenities. From the infinity pool, fitness centre, members’ lounge, modern spa, restaurants and bars, to the 26 tastefully appointed rooms with spectacular views, no effort has been spared to make your time here an absolute pleasure."
-        ,
+        "description": "ONE\u00b015 Marina Sentosa Cove, Singapore, is a waterfront lifestyle destination offering world-class marina facilities replete with a comprehensive range of exclusive club amenities. From the infinity pool, fitness centre, members\u2019 lounge, modern spa, restaurants and bars, to the 26 tastefully appointed rooms with spectacular views, no effort has been spared to make your time here an absolute pleasure.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/one15_marina_sentosa_cove.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/one\u00b015_marina_sentosa_cove_logo.png",
         "user_ratings_total": null,
         "website": "https://one15marina.com",
         "activities": [
@@ -1911,14 +1886,13 @@
                 "Sunday: 10:00AM\u20131:00PM"
             ]
         },
-        "description": "Established in 1993, Orchid Country Club is a premier Golf & Country Club in Singapore with a rich heritage and culture. We have since established ourselves as an industry leader in hospitality through our unique Orchid experience. The Club is also acclaimed as a Club where people from all walks of life can come together to enjoy golfing and utilise our sports & recreational facilities. If you are looking for a fun and refreshing Club experience here in Singapore, we’ve got something for each and every one of you. Orchid Country Club is under the ownership of NTUC Club."
-        ,
+        "description": "Established in 1993, Orchid Country Club is a premier Golf & Country Club in Singapore with a rich heritage and culture. We have since established ourselves as an industry leader in hospitality through our unique Orchid experience. The Club is also acclaimed as a Club where people from all walks of life can come together to enjoy golfing and utilise our sports & recreational facilities. If you are looking for a fun and refreshing Club experience here in Singapore, we\u2019ve got something for each and every one of you. Orchid Country Club is under the ownership of NTUC Club.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/orchid_country_club.jpg"
         ],
         "rating": 4.2,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/orchid_country_club_logo.png",
         "user_ratings_total": 4258,
         "website": "https://orchidclub.com",
         "activities": [
@@ -2031,14 +2005,13 @@
                 "Sunday: Closed\u201312:00AM"
             ]
         },
-        "description": "Established in 1978, the idea of forming a Club was first mooted by some enthusiastic house bowlers in Plaza Bowl so as to better promote the sport and foster closer fellowship . Members can enjoy facilities such as licensed jackpot machines approved by the government, a variety of video games machines and wide-screen television programmes, etc .There are leagues and tournaments organised for members . Selection trials are conducted to send members to participate in local and overseas Championships."
-        ,
+        "description": "Established in 1978, the idea of forming a Club was first mooted by some enthusiastic house bowlers in Plaza Bowl so as to better promote the sport and foster closer fellowship . Members can enjoy facilities such as licensed jackpot machines approved by the government, a variety of video games machines and wide-screen television programmes, etc .There are leagues and tournaments organised for members . Selection trials are conducted to send members to participate in local and overseas Championships.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pbc_bowlers_club.jpg"
         ],
         "rating": 4.4,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pbc_bowler's_club_logo.png",
         "user_ratings_total": 8,
         "website": "https://pbc.org.sg",
         "activities": [
@@ -2142,14 +2115,13 @@
                 "Sunday: 6:00AM\u20132:00AM"
             ]
         },
-        "description": "Performance Pickleball is a place to play pickleball in Singapore, SG. There are 2 indoor hard courts. These are dedicated courts with permanent lines and nets. Reservations are available. The courts are free. The facility includes amenities like lights, restrooms, water, youth programming, a pro shop or equipment store, trainers or lessons, and adaptive programming. Performance Pickleball holds the top spot as Singapore Tourism Board's #1 recommended pickleball destination in Singapore! Welcome to Performance Pickleball, where we’ve created the ultimate destination for pickleball enthusiasts! Our facility is designed with every detail in mind to elevate your playing experience. Whether you're here to improve your game, relax with friends, or host an unforgettable event, you'll find everything you need right here. Get ready to experience pickleball like never before! Features : - 2 dedicated & professionally surfaced hard-court pickleball courts - Heavy-duty, high-grade premier lighting - each floodlight boasting a 60-degree optic lens to guarantee optimal illuminance levels and uniformity ratios throughout the court, ensuring a bright yet low-glare ambiance. - Indoor-sheltered facility with 30m high ceiling - 90% weatherproof with high ventilation. - Professional Nets & Equipment - Dedicated Lounge and Viewing Area - Expert Coaching - Tripod Set-Up On Each Court - Individual Changing Room - Free Wifi - Ample Parking - Professional Equipment and Merchandise for Sale (Paddle Demo Program available) - Shower Facilities - Audio Set-Up (Speaker & Microphones) - Only for classes and Private / Corporate Events"
-        ,
+        "description": "Performance Pickleball is a place to play pickleball in Singapore, SG. There are 2 indoor hard courts. These are dedicated courts with permanent lines and nets. Reservations are available. The courts are free. The facility includes amenities like lights, restrooms, water, youth programming, a pro shop or equipment store, trainers or lessons, and adaptive programming. Performance Pickleball holds the top spot as Singapore Tourism Board's #1 recommended pickleball destination in Singapore! Welcome to Performance Pickleball, where we\u2019ve created the ultimate destination for pickleball enthusiasts! Our facility is designed with every detail in mind to elevate your playing experience. Whether you're here to improve your game, relax with friends, or host an unforgettable event, you'll find everything you need right here. Get ready to experience pickleball like never before! Features : - 2 dedicated & professionally surfaced hard-court pickleball courts - Heavy-duty, high-grade premier lighting - each floodlight boasting a 60-degree optic lens to guarantee optimal illuminance levels and uniformity ratios throughout the court, ensuring a bright yet low-glare ambiance. - Indoor-sheltered facility with 30m high ceiling - 90% weatherproof with high ventilation. - Professional Nets & Equipment - Dedicated Lounge and Viewing Area - Expert Coaching - Tripod Set-Up On Each Court - Individual Changing Room - Free Wifi - Ample Parking - Professional Equipment and Merchandise for Sale (Paddle Demo Program available) - Shower Facilities - Audio Set-Up (Speaker & Microphones) - Only for classes and Private / Corporate Events",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/performance_pickleball.jpg"
         ],
         "rating": 5.0,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/performance_pickleball_logo.png",
         "user_ratings_total": 134,
         "website": "https://performancepickleball.org",
         "activities": [
@@ -2171,14 +2143,13 @@
         "international_phone_number": null,
         "name": "Pyramid Club",
         "opening_hours": null,
-        "description": "The Pyramid is the after-hours home for more than 300 of the country's top movers and shakers, and anyone who is anyone is said to be a member. In its well-tended grounds and tranquil rooms, leading civil servants, politicians, businessmen and senior military officers meet to exchange news, and develop friendships."
-        ,
+        "description": "The Pyramid is the after-hours home for more than 300 of the country's top movers and shakers, and anyone who is anyone is said to be a member. In its well-tended grounds and tranquil rooms, leading civil servants, politicians, businessmen and senior military officers meet to exchange news, and develop friendships.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pyramid_club.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "",
         "user_ratings_total": null,
         "website": null,
         "activities": [],
@@ -2190,21 +2161,20 @@
         "formatted_phone_number": "+65 6861 8000",
         "geometry": {
             "location": {
-                "lat": 1.342560,
+                "lat": 1.34256,
                 "lng": 103.635246
             }
         },
         "international_phone_number": "+65 6861 8000",
         "name": "Raffles Marina Country Club",
         "opening_hours": null,
-        "description": "At a time in the mid nineties, when the marine leisure scene in Singapore consisted only of modest traditional yacht clubs and basic boatels in the backwaters, Raffles Marina was born and pioneered the advent of a new genre of modern marinas and country clubs. It officially opened in 1994 and became the first Five Gold Anchor rated marina in the Asia-Pacific region. By extending the reach of its cruising and marine conservation programmes, throughout much of Aseanarean, it also became the first Bluewater marina, by 1999. Today, even with the arrival of second generation modern marinas, Raffles Marina remains the largest corporate, premier marina, country club, megayacht hub and nautical lifestyle centre, dedicated to your enjoyment! The social fabric of Raffles Marina is also well endowed. We have F&B outlets for both fine dining and casual al fresco eating and drinking, with menus that are the talk-of-the-town in the West end of Singapore! Rooms for hospitality, banqueting facilities, a sensurround theatrette, pools and games facilities, all go towards your enjoyment and relaxation."
-        ,
+        "description": "At a time in the mid nineties, when the marine leisure scene in Singapore consisted only of modest traditional yacht clubs and basic boatels in the backwaters, Raffles Marina was born and pioneered the advent of a new genre of modern marinas and country clubs. It officially opened in 1994 and became the first Five Gold Anchor rated marina in the Asia-Pacific region. By extending the reach of its cruising and marine conservation programmes, throughout much of Aseanarean, it also became the first Bluewater marina, by 1999. Today, even with the arrival of second generation modern marinas, Raffles Marina remains the largest corporate, premier marina, country club, megayacht hub and nautical lifestyle centre, dedicated to your enjoyment! The social fabric of Raffles Marina is also well endowed. We have F&B outlets for both fine dining and casual al fresco eating and drinking, with menus that are the talk-of-the-town in the West end of Singapore! Rooms for hospitality, banqueting facilities, a sensurround theatrette, pools and games facilities, all go towards your enjoyment and relaxation.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/raffles_marina_country_club.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/raffles_marina_country_club_logo.jpg",
         "user_ratings_total": null,
         "website": "https://rafflesmarina.com.sg",
         "activities": [
@@ -2213,7 +2183,7 @@
             "swimming",
             "sea sports"
         ],
-        "latitude": 1.342560,
+        "latitude": 1.34256,
         "longitude": 103.635246
     },
     "RafflesTownClub": {
@@ -2228,14 +2198,13 @@
         "international_phone_number": "+65 6323 2323",
         "name": "Raffles Town Club",
         "opening_hours": null,
-        "description": "Raffles Town Club officially opened its doors to Members in March 2000. With its top-of-the line facilities, beautiful setting and remarkable array of customised activities and glamorous events, RTC has since positioned itself as one of the most impressive social clubs in the country and the region. The Bukit Timah’s architectural masterpiece was named after the renowned and enigmatic founder of Singapore - Sir Stamford Raffles. A name synonymous with heritage, history, privilege, purpose and style. With the same ideals that symbolise the iconic life of a truly great man, Raffles Town Club was conceived with the purpose of reviving the Old English tradition of elegant and exquisite urban living. The Club dedicates its efforts in satisfying the lifestyle needs of Members and their guests by providing for their highest order of culinary, business and recreational requirements, giving Members a balance of having a fulfilled life, family and work. Having established reciprocal affiliation with more than 40 international clubs in over 15 countries, the Club has evolved into a premier destination for Members, their guests and reciprocal members from all over the world. As the Club enters a new phase, it successfully positioned itself as a haven of multi-faceted lifestyle and a hands-down venue of choice for all types of celebrations and events. Raffles Town Club has successfully established a reputation as being one of, if not the most elegant Clubs in Singapore."
-        ,
+        "description": "Raffles Town Club officially opened its doors to Members in March 2000. With its top-of-the line facilities, beautiful setting and remarkable array of customised activities and glamorous events, RTC has since positioned itself as one of the most impressive social clubs in the country and the region. The Bukit Timah\u2019s architectural masterpiece was named after the renowned and enigmatic founder of Singapore - Sir Stamford Raffles. A name synonymous with heritage, history, privilege, purpose and style. With the same ideals that symbolise the iconic life of a truly great man, Raffles Town Club was conceived with the purpose of reviving the Old English tradition of elegant and exquisite urban living. The Club dedicates its efforts in satisfying the lifestyle needs of Members and their guests by providing for their highest order of culinary, business and recreational requirements, giving Members a balance of having a fulfilled life, family and work. Having established reciprocal affiliation with more than 40 international clubs in over 15 countries, the Club has evolved into a premier destination for Members, their guests and reciprocal members from all over the world. As the Club enters a new phase, it successfully positioned itself as a haven of multi-faceted lifestyle and a hands-down venue of choice for all types of celebrations and events. Raffles Town Club has successfully established a reputation as being one of, if not the most elegant Clubs in Singapore.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/raffles_town_club.avif"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/raffles_town_club_logo.jpg",
         "user_ratings_total": null,
         "website": "https://rafflestownclub.com.sg",
         "activities": [
@@ -2346,14 +2315,13 @@
                 "Sunday: 9:00AM\u20139:00PM"
             ]
         },
-        "description": "Operating as Singapore's premier social and recreational club for national servicemen (NSmen) and families to connect regularly, SAFRA Yishun stands out uniquely as the second largest SAFRA club nationally, boasting extensive, unique facilities catering to varied lifestyle interests and age groups."
-        ,
+        "description": "Operating as Singapore's premier social and recreational club for national servicemen (NSmen) and families to connect regularly, SAFRA Yishun stands out uniquely as the second largest SAFRA club nationally, boasting extensive, unique facilities catering to varied lifestyle interests and age groups.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/safra_yishun_country_club.jpg"
         ],
         "rating": 4.3,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/safra_yishun_country_club_logo.jpg",
         "user_ratings_total": 3147,
         "website": "https://safra.sg",
         "activities": [
@@ -2459,14 +2427,13 @@
                 "Sunday: 7:30AM\u20139:30PM"
             ]
         },
-        "description": "Seletar Country Club is a haven of peace and tranquility set right in the heart of the countryside. With rolling acres of lush greenery, it is strategically located on a hill overlooking the Lower Seletar Reservoir and the Johor Straits. Established circa 1930, Seletar Country Club is distinguished as a wonderful blend of a fine private club and a leisure cluster rolled into one. Thus, it strives to protect and enhance its natural surroundings while continually becoming a home for some of the finest golfing, sports, and social activities in the country. It has been designed and built to complement the eco-habitat of various species of flora and fauna. Aside from its highly coveted club membership, the 18-hole gem that presents infinite challenges, and breathtaking views of serenity, Seletar Country Club is more than just a golf club. It also features a beautiful clubhouse, a private hilltop jacuzzi overlooking a beautifully landscaped swimming pool, a dance studio, a bowling centre, and an integrated sports and recreational complex complete with a gym and activity rooms. There is also an excellent Seletar Terrace and Seletar Tavern with sumptuous food and great music, set in a cosy atmosphere. For those who prefer a formal dining setting, the Eagle’s View provides fusion cuisine and a panoramic view of the environs."
-        ,
+        "description": "Seletar Country Club is a haven of peace and tranquility set right in the heart of the countryside. With rolling acres of lush greenery, it is strategically located on a hill overlooking the Lower Seletar Reservoir and the Johor Straits. Established circa 1930, Seletar Country Club is distinguished as a wonderful blend of a fine private club and a leisure cluster rolled into one. Thus, it strives to protect and enhance its natural surroundings while continually becoming a home for some of the finest golfing, sports, and social activities in the country. It has been designed and built to complement the eco-habitat of various species of flora and fauna. Aside from its highly coveted club membership, the 18-hole gem that presents infinite challenges, and breathtaking views of serenity, Seletar Country Club is more than just a golf club. It also features a beautiful clubhouse, a private hilltop jacuzzi overlooking a beautifully landscaped swimming pool, a dance studio, a bowling centre, and an integrated sports and recreational complex complete with a gym and activity rooms. There is also an excellent Seletar Terrace and Seletar Tavern with sumptuous food and great music, set in a cosy atmosphere. For those who prefer a formal dining setting, the Eagle\u2019s View provides fusion cuisine and a panoramic view of the environs.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seletar_country_club.jpg"
         ],
         "rating": 4.2,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seletar_country_club_logo.jpg",
         "user_ratings_total": 1106,
         "website": "https://seletarclub.com.sg",
         "activities": [
@@ -2493,14 +2460,13 @@
         "international_phone_number": "+65 6275 0090",
         "name": "Sentosa Golf Club",
         "opening_hours": null,
-        "description": "Situated on the premier island of Sentosa, with breathtaking views of Singapore’s iconic cityscape, Sentosa Golf Club is home to two of the region’s most exclusive and challenging golf courses – The Serapong and The Tanjong. The Club has hosted a number of high-profile professional and amateur tournaments, including the Singapore Open, Open Championship Qualifiers, HSBC Women’s World Championship, Asia-Pacific Amateur Championship, and Women’s Asia Amateur Pacific Championship, welcoming international star players and world-class golf professionals from across the world to compete."
-        ,
+        "description": "Situated on the premier island of Sentosa, with breathtaking views of Singapore\u2019s iconic cityscape, Sentosa Golf Club is home to two of the region\u2019s most exclusive and challenging golf courses \u2013 The Serapong and The Tanjong. The Club has hosted a number of high-profile professional and amateur tournaments, including the Singapore Open, Open Championship Qualifiers, HSBC Women\u2019s World Championship, Asia-Pacific Amateur Championship, and Women\u2019s Asia Amateur Pacific Championship, welcoming international star players and world-class golf professionals from across the world to compete.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sentosa_golf_club.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sentosa_golf_club_logo.jpg",
         "user_ratings_total": null,
         "website": "https://sentosagolf.com",
         "activities": [
@@ -2604,14 +2570,13 @@
                 "Sunday: 9:00AM\u20132:00AM"
             ]
         },
-        "description": "SIA Group Sports Club was founded to promote, organise and co-ordinate sports, social and other recreational activities for members of the Club and employees of the SIA Group. In addition, the Club aims to provide, maintain and operate a vibrant, exciting and welcoming Clubhouse for the benefit of members & their families. Sports & Social events and activities, as well as other programs for Health & Fitness, are organized frequently every year to cater to members’ interests."
-        ,
+        "description": "SIA Group Sports Club was founded to promote, organise and co-ordinate sports, social and other recreational activities for members of the Club and employees of the SIA Group. In addition, the Club aims to provide, maintain and operate a vibrant, exciting and welcoming Clubhouse for the benefit of members & their families. Sports & Social events and activities, as well as other programs for Health & Fitness, are organized frequently every year to cater to members\u2019 interests.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sia_sports_club.png"
         ],
         "rating": 4.3,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sia_sports_club_logo.png",
         "user_ratings_total": 640,
         "website": "https://siasportsclub.sg",
         "activities": [
@@ -2635,14 +2600,13 @@
         "international_phone_number": "+65 6338 9271",
         "name": "Singapore Cricket Club",
         "opening_hours": null,
-        "description": "Established in 1852, the Singapore Cricket Club is the premier sports and lifestyle club in the heart of the city. The club is a gazetted building framed by a breathtaking blend of historic and modern buildings, with the iconic Padang field at its doorstep. Across time, has been a magnet for Singapore’s sporting fraternity. Here, just about every popular field game is played: from cricket, naturally, to soccer, hockey, rugby, tennis, lawn bowls, netball among others.To accommodate its ever-increasing number of sports enthusiasts, the SCC has leased another field in the Dempsey district. Across its two fields, the Club plays host to sports at all levels – from friendlies to interclub and national leagues, as well as international signature tournaments that bring in big name teams. The latter includes the SCC International Hockey 6s, the SCC International Rugby 7s, SCC Cricket Twenty20 and SCC International Soccer7s. The camaraderie built on the field extends to the Clubhouse where wining, dining and socializing facilities cater to a diverse and distinctive community of members. The Club is reputed for its fine dining and local fare options, topped with impeccable and personalised service. All this in venues that have been refurbished with great care to retain its architectural splendour dating back to the colonial era. The Clubhouse’s compact size is played to advantage, closely integrating its members and allowing for social and business networking. The Main Lounge is popular for afternoon teas, after-work drinks at its iconic long bar, and after-dinner conversations. The more casual Stumps attracts the sporty for its screening of live matches from around the world and drinks on the Terrace. The Padang Restaurant offers haute cuisine by the Club’s own resident chef, while the Oval & Verandah is the place to go for popular local favourites, pizza, and Indian dishes. The Club’s packed calendar of events is reflective of its mix of members – celebrating Singapore’s many festivals, commemorating milestone events and creating events that bring friends and families together. The story of the Singapore Cricket Club is a fascinating microcosm of the story of Singapore itself. The club’s transition from an elite, colonial sports club to an open, multi-racial club playing a leading role in both the sporting and social life of the wider community mirrors changes in the nation as a whole."
-        ,
+        "description": "Established in 1852, the Singapore Cricket Club is the premier sports and lifestyle club in the heart of the city. The club is a gazetted building framed by a breathtaking blend of historic and modern buildings, with the iconic Padang field at its doorstep. Across time, has been a magnet for Singapore\u2019s sporting fraternity. Here, just about every popular field game is played: from cricket, naturally, to soccer, hockey, rugby, tennis, lawn bowls, netball among others.To accommodate its ever-increasing number of sports enthusiasts, the SCC has leased another field in the Dempsey district. Across its two fields, the Club plays host to sports at all levels \u2013 from friendlies to interclub and national leagues, as well as international signature tournaments that bring in big name teams. The latter includes the SCC International Hockey 6s, the SCC International Rugby 7s, SCC Cricket Twenty20 and SCC International Soccer7s. The camaraderie built on the field extends to the Clubhouse where wining, dining and socializing facilities cater to a diverse and distinctive community of members. The Club is reputed for its fine dining and local fare options, topped with impeccable and personalised service. All this in venues that have been refurbished with great care to retain its architectural splendour dating back to the colonial era. The Clubhouse\u2019s compact size is played to advantage, closely integrating its members and allowing for social and business networking. The Main Lounge is popular for afternoon teas, after-work drinks at its iconic long bar, and after-dinner conversations. The more casual Stumps attracts the sporty for its screening of live matches from around the world and drinks on the Terrace. The Padang Restaurant offers haute cuisine by the Club\u2019s own resident chef, while the Oval & Verandah is the place to go for popular local favourites, pizza, and Indian dishes. The Club\u2019s packed calendar of events is reflective of its mix of members \u2013 celebrating Singapore\u2019s many festivals, commemorating milestone events and creating events that bring friends and families together. The story of the Singapore Cricket Club is a fascinating microcosm of the story of Singapore itself. The club\u2019s transition from an elite, colonial sports club to an open, multi-racial club playing a leading role in both the sporting and social life of the wider community mirrors changes in the nation as a whole.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore_cricket_club.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore_cricket_club_logo.jpg",
         "user_ratings_total": null,
         "website": "https://scc.org.sg",
         "activities": [
@@ -2756,14 +2720,13 @@
                 "Sunday: 6:30AM\u20130:00PM"
             ]
         },
-        "description": "This prestigious, members-only golf club has two putting greens to choose from--the Bukit course and the Sime course, both 18-hole par 71. Guests must be accompanied by a member. It also offers a golf pro shop and a library where books and videos on golf can be loaned out."
-        ,
+        "description": "This prestigious, members-only golf club has two putting greens to choose from--the Bukit course and the Sime course, both 18-hole par 71. Guests must be accompanied by a member. It also offers a golf pro shop and a library where books and videos on golf can be loaned out.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore_island_country_club_bukit.jpg"
         ],
         "rating": 4.3,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore_island_country_club_Bukit_logo.jpg",
         "user_ratings_total": 879,
         "website": "https://sicc.org.sg",
         "activities": [
@@ -2786,14 +2749,13 @@
         "international_phone_number": "+65 6854 3999",
         "name": "Singapore Polo Club",
         "opening_hours": null,
-        "description": "The Singapore Polo Club is one of the oldest sporting and social clubs in Singapore. Founded in 1886 by the officers of the King’s Own Regiment, the 1st Battalion, the Club has a distinguished heritage and remains rich in its traditions of camaraderie and sportsmanship."
-        ,
+        "description": "The Singapore Polo Club is one of the oldest sporting and social clubs in Singapore. Founded in 1886 by the officers of the King\u2019s Own Regiment, the 1st Battalion, the Club has a distinguished heritage and remains rich in its traditions of camaraderie and sportsmanship.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore_polo_club.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore_polo_club_logo.jpg",
         "user_ratings_total": null,
         "website": "https://singaporepoloclub.org",
         "activities": [
@@ -2814,14 +2776,13 @@
         "international_phone_number": "+65 6595 0500",
         "name": "Singapore Recreation Club",
         "opening_hours": null,
-        "description": "The Singapore Recreation Club (SRC) was founded on 23 June 1883 by a group of thirty Eurasian men and was officially established on 1 July 1883. At that time, the Club was housed in a building on Waterloo Street. In 1884, a Pavilion was erected on the site of the Padang allocated to the Club. Two years later, the Club adopted navy blue and red as its corporate colours: navy blue for sportsmanship and red for the brotherhood of man in sports. By 1904, with increasing membership, construction of a Clubhouse commenced, with the foundation stone laid by President Mr Edwin Tessensohn. The Clubhouse was formally opened on 2 September 1905, the Governor of Singapore, Sir John Anderson. The addition of two wings was completed in 1931 and declared open by President Dr Noel Clarke. In 1963, Ordinary membership of the Club was opened to people of all communities in Singapore. With this substantial pool of multi-racial and multi-talented members, SRC established a forceful presence in the sporting arena since its early days. History was made again on 28 June 1997 when the current Clubhouse was unveiled at a grand opening ceremony officiated by Dr Tony Tan, then Deputy Prime Minister of Singapore and Minister of Defence. The objectives of the Club remain: to promote all forms of sports, recreation and social activities through an active calendar of events, as well as to participate in activities of national sports association and the Singapore National Olympic Council. The commitment to sporting excellence is enshrined in the Club’s Constitution and prevails to the present day."
-        ,
+        "description": "The Singapore Recreation Club (SRC) was founded on 23 June 1883 by a group of thirty Eurasian men and was officially established on 1 July 1883. At that time, the Club was housed in a building on Waterloo Street. In 1884, a Pavilion was erected on the site of the Padang allocated to the Club. Two years later, the Club adopted navy blue and red as its corporate colours: navy blue for sportsmanship and red for the brotherhood of man in sports. By 1904, with increasing membership, construction of a Clubhouse commenced, with the foundation stone laid by President Mr Edwin Tessensohn. The Clubhouse was formally opened on 2 September 1905, the Governor of Singapore, Sir John Anderson. The addition of two wings was completed in 1931 and declared open by President Dr Noel Clarke. In 1963, Ordinary membership of the Club was opened to people of all communities in Singapore. With this substantial pool of multi-racial and multi-talented members, SRC established a forceful presence in the sporting arena since its early days. History was made again on 28 June 1997 when the current Clubhouse was unveiled at a grand opening ceremony officiated by Dr Tony Tan, then Deputy Prime Minister of Singapore and Minister of Defence. The objectives of the Club remain: to promote all forms of sports, recreation and social activities through an active calendar of events, as well as to participate in activities of national sports association and the Singapore National Olympic Council. The commitment to sporting excellence is enshrined in the Club\u2019s Constitution and prevails to the present day.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore_recreation_club.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore_recreation_club_logo.jpg",
         "user_ratings_total": null,
         "website": "https://src.org.sg",
         "activities": [
@@ -2938,14 +2899,13 @@
                 "Sunday: 7:00AM\u20131:00PM"
             ]
         },
-        "description": "Singapore Swimming Club is a premier members-only recreational club founded in 1894. The Club is nestled in the exclusive residential district of Tanjong Rhu, minutes from the city centre, yet surrounded by serenity. Our vision tastefully combines sophistication with elegance and comfort with style. The colonial façade of the Club evokes the myriad tales of its past that continue to permeate the atmosphere, as you find yourself ensconced within the cocoon of our exclusive brand of hospitality. From dining to leisure, the Club continues to push the envelope, as they look to diversify their offerings to cater to the growing demands and expectations of the globalised individual."
-        ,
+        "description": "Singapore Swimming Club is a premier members-only recreational club founded in 1894. The Club is nestled in the exclusive residential district of Tanjong Rhu, minutes from the city centre, yet surrounded by serenity. Our vision tastefully combines sophistication with elegance and comfort with style. The colonial fa\u00e7ade of the Club evokes the myriad tales of its past that continue to permeate the atmosphere, as you find yourself ensconced within the cocoon of our exclusive brand of hospitality. From dining to leisure, the Club continues to push the envelope, as they look to diversify their offerings to cater to the growing demands and expectations of the globalised individual.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore_swimming_club.jpg"
         ],
         "rating": 4.4,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore_swimming_club_logo.png",
         "user_ratings_total": 1104,
         "website": "https://sswimclub.org.sg",
         "activities": [
@@ -2971,14 +2931,13 @@
         "international_phone_number": "+65 6879 1000",
         "name": "Singapore Turf Club",
         "opening_hours": null,
-        "description": "Singapore Turf Club manages and operates the sport of professional horse racing at the Singapore Racecourse at Kranji. Through the aegis of Tote Board, we also support a host of community and social initiatives that promote social cohesiveness, create value in communities and enable us to progress together."
-        ,
+        "description": "Singapore Turf Club manages and operates the sport of professional horse racing at the Singapore Racecourse at Kranji. Through the aegis of Tote Board, we also support a host of community and social initiatives that promote social cohesiveness, create value in communities and enable us to progress together.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore_turf_club.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore_turf_club_logo.jpg",
         "user_ratings_total": null,
         "website": "https://turfclub.com.sg",
         "activities": [
@@ -2999,14 +2958,13 @@
         "international_phone_number": "+65 8189 9882",
         "name": "Spartans Boxing Club",
         "opening_hours": null,
-        "description": "Spartans Boxing Club is a fast growing community and fitness franchise that redefines what boxing clubs are about. Spartans Boxing Clubs cater to the large percentage of people who want to have fun, get fit and be part of a health and fitness community. We go by the adage of #boxingforeveryone​ catering to corporate wellness programs, children, families, women and of course those who are interested in stepping into the squared circle. A deliberate shift away from the uninviting boxing clubs that many people think of when they think of boxing. Spartans Boxing Provides clean facilities, friendly staff and trainers, but with an authentic boxing experience. We cater to: Corporate Wellness Programs - in our gym or at our clients site, Extra/Co-Curricular School Programs, Women Only Classes, Kids Classes, Class Based Training Programs. Fighters Programs (Professional & Amateur). With 11 gyms in Singapore, and one gym in Dubai, Spartans is expanding across the Asia Pacific and Middle East regions with franchise opportunities available NOW at Master, Multiple and Single Unit level."
-        ,
+        "description": "Spartans Boxing Club is a fast growing community and fitness franchise that redefines what boxing clubs are about. Spartans Boxing Clubs cater to the large percentage of people who want to have fun, get fit and be part of a health and fitness community. We go by the adage of #boxingforeveryone\u200b catering to corporate wellness programs, children, families, women and of course those who are interested in stepping into the squared circle. A deliberate shift away from the uninviting boxing clubs that many people think of when they think of boxing. Spartans Boxing Provides clean facilities, friendly staff and trainers, but with an authentic boxing experience. We cater to: Corporate Wellness Programs - in our gym or at our clients site, Extra/Co-Curricular School Programs, Women Only Classes, Kids Classes, Class Based Training Programs. Fighters Programs (Professional & Amateur). With 11 gyms in Singapore, and one gym in Dubai, Spartans is expanding across the Asia Pacific and Middle East regions with franchise opportunities available NOW at Master, Multiple and Single Unit level.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/spartans_boxing_club.webp"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/spartans_boxing_club_logo.jpg",
         "user_ratings_total": null,
         "website": "https://spartansboxing.com",
         "activities": [
@@ -3027,14 +2985,13 @@
         "international_phone_number": "+65 6591 9420",
         "name": "Swiss Club Singapore",
         "opening_hours": null,
-        "description": "One of the oldest and most historic Clubs in Singapore. The Club area comprises of a total of 174,000sqm and is not only home for the Swiss Club but also for the Swiss, German, Dutch and Korean Schools, the British Club and the Institute of Engineers. The entire Swiss Embassy compound is also situated on Swiss Club land. The Club boasts a rich cultural heritage and active social life and has members from all over the world. Everyone, regardless of nationality, is welcome to be part of the Swiss Club family. The Swiss Club is an elegant and family-friendly retreat surrounded by lush greenery, offering a unique setting in the middle of the jungle with century old trees. Kids can roam freely and enjoy the various activities in nature. The Club is determined to preserve this environment and ambiance for generations to come. The Club offers a wide range of sports and other activities and is continually developing its various facilities. 2021 also marks the year of completion of the renovation of the CLUBHOUSE, which has stood the test of time, since its inception in 1927. Everything within the Clubhouse interior has undergone a much-needed facelift. The exterior facade has however, remained untouched to preserve its colonial splendor. The GUESTHOUSE with its nicely appointed rooms offers comfortable accommodation for visitors in a natural setting. The RIFLE LOUNGE in the Clubhouse and the conference rooms at the PAVILION can be rented for private and corporate events. Attendees can dine at the ARBENZ and stay at the Guesthouse, making the Swiss Club an ideal setting for regional meetings. Last but not least, several culinary options round up the Club’s offerings for members and guests at the PERGOLA and JUNGLE COVE (casual setting / international favourites), the RIFLE LOUNGE and ARBENZ restaurants (fine dining / western cuisine)."
-        ,
+        "description": "One of the oldest and most historic Clubs in Singapore. The Club area comprises of a total of 174,000sqm and is not only home for the Swiss Club but also for the Swiss, German, Dutch and Korean Schools, the British Club and the Institute of Engineers. The entire Swiss Embassy compound is also situated on Swiss Club land. The Club boasts a rich cultural heritage and active social life and has members from all over the world. Everyone, regardless of nationality, is welcome to be part of the Swiss Club family. The Swiss Club is an elegant and family-friendly retreat surrounded by lush greenery, offering a unique setting in the middle of the jungle with century old trees. Kids can roam freely and enjoy the various activities in nature. The Club is determined to preserve this environment and ambiance for generations to come. The Club offers a wide range of sports and other activities and is continually developing its various facilities. 2021 also marks the year of completion of the renovation of the CLUBHOUSE, which has stood the test of time, since its inception in 1927. Everything within the Clubhouse interior has undergone a much-needed facelift. The exterior facade has however, remained untouched to preserve its colonial splendor. The GUESTHOUSE with its nicely appointed rooms offers comfortable accommodation for visitors in a natural setting. The RIFLE LOUNGE in the Clubhouse and the conference rooms at the PAVILION can be rented for private and corporate events. Attendees can dine at the ARBENZ and stay at the Guesthouse, making the Swiss Club an ideal setting for regional meetings. Last but not least, several culinary options round up the Club\u2019s offerings for members and guests at the PERGOLA and JUNGLE COVE (casual setting / international favourites), the RIFLE LOUNGE and ARBENZ restaurants (fine dining / western cuisine).",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/swiss_club_singapore.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/swiss_club_singapore_logo.jpg",
         "user_ratings_total": null,
         "website": "https://swissclub.org.sg",
         "activities": [
@@ -3145,14 +3102,13 @@
                 "Sunday: 6:00AM\u20130:00PM"
             ]
         },
-        "description": "As one of the leading and most prestigious golf destinations in Singapore and the Asia region, Tanah Merah Country Club (TMCC) boasts two immaculate golf courses– Garden Course and Tampines Course which have been validated by the many accolades and awards garnered over the years. The fine fairways of TMCC golf courses have also been the welcome carpet that have beguiled golf greats, dignitaries, and celebrities. In 1978, the ad hoc Committee of TMCC was formed to determine golf course designers and Clubhouse architects. This landmark meeting was a significant milestone that paved the way for the formation of the Pro-Tem Management Committee in 1980, with the aim to manage the development of the Club course and facilities. Since its official opening in 1984, the Club has played host to several premiere events including the Singapore Open, Johnnie Walker Classic, Tiger Skins, Lexus Cup and the HSBC Women’s Champions. Strategically located on Singapore’s East Coast nestled among acres of open fairways and picturesque greenery, TMCC is also home to a luxurious Clubhouse, an Olympic-size swimming pool, tennis and squash courts, as well as four F&B outlets with over 220 dedicated staff. The suite of premier facilities, coupled with TMCC’s two distinguished golf courses, ensure members and guests experience a standard attained by only the finest of such establishments in the region."
-        ,
+        "description": "As one of the leading and most prestigious golf destinations in Singapore and the Asia region, Tanah Merah Country Club (TMCC) boasts two immaculate golf courses\u2013 Garden Course and Tampines Course which have been validated by the many accolades and awards garnered over the years. The fine fairways of TMCC golf courses have also been the welcome carpet that have beguiled golf greats, dignitaries, and celebrities. In 1978, the ad hoc Committee of TMCC was formed to determine golf course designers and Clubhouse architects. This landmark meeting was a significant milestone that paved the way for the formation of the Pro-Tem Management Committee in 1980, with the aim to manage the development of the Club course and facilities. Since its official opening in 1984, the Club has played host to several premiere events including the Singapore Open, Johnnie Walker Classic, Tiger Skins, Lexus Cup and the HSBC Women\u2019s Champions. Strategically located on Singapore\u2019s East Coast nestled among acres of open fairways and picturesque greenery, TMCC is also home to a luxurious Clubhouse, an Olympic-size swimming pool, tennis and squash courts, as well as four F&B outlets with over 220 dedicated staff. The suite of premier facilities, coupled with TMCC\u2019s two distinguished golf courses, ensure members and guests experience a standard attained by only the finest of such establishments in the region.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tanah_merah_country_club_garden_course.jpg"
         ],
         "rating": 4.5,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tanah_merah_country_club_garden_course_logo.jpg",
         "user_ratings_total": 285,
         "website": "https://tmcc.org.sg",
         "activities": [
@@ -3173,14 +3129,13 @@
         "international_phone_number": "+65 6622 0555",
         "name": "Tanglin Club",
         "opening_hours": null,
-        "description": "The opening of the Suez Canal in 1869 and the advent of steamers resulted in a travel revolution. The small port founded by Sir Thomas Stamford Raffles, the founder of Singapore, developed into a thriving trading centre, and the everyday life of the British settlement had become more sophisticated, and exclusively European. In October 1865 - forty good men and true - convened a meeting for the purpose of forming a suburban social club to meet the wants of the British living in the settlement, and founded the Tanglin Club. A property in the District of Claymore was purchased in 1866 and this is the current site of the Tanglin Club today. For many years, the Tanglin Club was one of the pillars of social life in Singapore for successful members of the European community. By the late 1930s, its ballroom had the reputation of having the best dance floor in the island and the Club band was a focal point of attraction. The highlight of Singapore's social calendar was The Tanglin Ball. Even today, the ball is held yearly in the Churchill Room, an icon of the Club. Squash and tennis are also synonymous with The Tanglin Club. Before the fall of Singapore in February 1942, the Club was prepared for use as a convalescent depot for the Malayan Armed Service and an evacuee centre. During the Japanese occupation the Club was used as a Japanese officers' club. Having survived the vicissitudes of debt and war, age and apathy, even a major transformation, the Tanglin Club still retains an aura of exclusivity as one of the premier social clubs in Singapore today.Having grown from - Forty Good Men - to over 4,000 Members, the Club prides itself on itternational and cosmopolitan nature with more than 70 nationalities among its Members. It has earned a reputation of prestige and quality. the Tanglin Club Membership is still very much sought after as it offers excellent facilities and a distinguished lifestyle to its Members.The presidents of the Tanglin Club were persons of prominence such that there are many streets named after them, for instance, Dunman Road, Anderson Road & Bridge, Read Street & Bridge, Birch Road, Bishopsgate and Finlayson Green. The Tanglin Club today is an inviting oasis for relaxation and rejuvenation while its ambience still evokes the grace and charm of the past."
-        ,
+        "description": "The opening of the Suez Canal in 1869 and the advent of steamers resulted in a travel revolution. The small port founded by Sir Thomas Stamford Raffles, the founder of Singapore, developed into a thriving trading centre, and the everyday life of the British settlement had become more sophisticated, and exclusively European. In October 1865 - forty good men and true - convened a meeting for the purpose of forming a suburban social club to meet the wants of the British living in the settlement, and founded the Tanglin Club. A property in the District of Claymore was purchased in 1866 and this is the current site of the Tanglin Club today. For many years, the Tanglin Club was one of the pillars of social life in Singapore for successful members of the European community. By the late 1930s, its ballroom had the reputation of having the best dance floor in the island and the Club band was a focal point of attraction. The highlight of Singapore's social calendar was The Tanglin Ball. Even today, the ball is held yearly in the Churchill Room, an icon of the Club. Squash and tennis are also synonymous with The Tanglin Club. Before the fall of Singapore in February 1942, the Club was prepared for use as a convalescent depot for the Malayan Armed Service and an evacuee centre. During the Japanese occupation the Club was used as a Japanese officers' club. Having survived the vicissitudes of debt and war, age and apathy, even a major transformation, the Tanglin Club still retains an aura of exclusivity as one of the premier social clubs in Singapore today.Having grown from - Forty Good Men - to over 4,000 Members, the Club prides itself on itternational and cosmopolitan nature with more than 70 nationalities among its Members. It has earned a reputation of prestige and quality. the Tanglin Club Membership is still very much sought after as it offers excellent facilities and a distinguished lifestyle to its Members.The presidents of the Tanglin Club were persons of prominence such that there are many streets named after them, for instance, Dunman Road, Anderson Road & Bridge, Read Street & Bridge, Birch Road, Bishopsgate and Finlayson Green. The Tanglin Club today is an inviting oasis for relaxation and rejuvenation while its ambience still evokes the grace and charm of the past.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tanglin_club.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tanglin_club_logo.jpg",
         "user_ratings_total": null,
         "website": "https://tanglinclub.org.sg",
         "activities": [
@@ -3207,14 +3162,13 @@
         "international_phone_number": null,
         "name": "Telok Blangah Archery Club",
         "opening_hours": null,
-        "description": "The Telok Blangah Archery Club (TBAC) appears to have existed in the early 2000s but by the mid 2000s, it was in kind of a “decrepit” state. Thankfully (in 2005), two senior members of Telok Blangah Community Centre (now renamed as Telok Blangah Community Club), Mr Richard Yip and Mr Frankie Yat, got together and decided to do a total rejuvenation of the club. Its range was at a field next to the (now non-existent) Telok Blangah Primary School and a stone’s throw from its present range for a fairly long time, until 2012 when it moved over. A funny thing was that its early members were somehow largely made up of retirees and fairly senior working people. The archery fraternity often teased that it was the Old Men’s Archery Club. Soon, the teasing stopped when in under 2 years, the Club began to make a strong mark in local competitions. Indeed, we take pride that a significant number of our members are part of the Singapore National Archery Team and are also thankful for the continued support from the Telok Blangah Community Club. Several of the early members are still with the club. They include, of course, our two rejuvenators, Richard who is now the Advisor and “Uncle Frankie” who is the Chairman as well as JL, our famed Mama cum National Archer cum Treasurer. Don Quixote and Decrepit who are now traditional bow archers with the Eagles sub-group were also early members of the club. For a bit of local history and trivia, the name “Telok Blangah” means “Clay Pot Bay” in Malay. (Telok = Bay; Blangah = Clay pot or cauldron). The modern Malay spelling would be Teluk Belanga. Much of the area used to belong to the Yeo’s Association and was the subject of land acquisition by the Singapore Government in the early 1970s, for the purpose of public housing. Due to it’s proximity to the southern shore, Telok Blangah was designated as a resettlement housing estate for many island dwellers from the Southern islands. In fact, you could buy fresh sea catch from the early resettlement provision stores as the former islanders would still frequent their old fishing grounds. However, this practice stopped within a matter of years as access to the sea became more difficult and with the urbanization of the resettled communities. Today, the Yeo’s Association (now called Hokkien Yeo See Association) still own about a 1+ hectare plot for their association building, just a few hops from our archery club."
-        ,
+        "description": "The Telok Blangah Archery Club (TBAC) appears to have existed in the early 2000s but by the mid 2000s, it was in kind of a \u201cdecrepit\u201d state. Thankfully (in 2005), two senior members of Telok Blangah Community Centre (now renamed as Telok Blangah Community Club), Mr Richard Yip and Mr Frankie Yat, got together and decided to do a total rejuvenation of the club. Its range was at a field next to the (now non-existent) Telok Blangah Primary School and a stone\u2019s throw from its present range for a fairly long time, until 2012 when it moved over. A funny thing was that its early members were somehow largely made up of retirees and fairly senior working people. The archery fraternity often teased that it was the Old Men\u2019s Archery Club. Soon, the teasing stopped when in under 2 years, the Club began to make a strong mark in local competitions. Indeed, we take pride that a significant number of our members are part of the Singapore National Archery Team and are also thankful for the continued support from the Telok Blangah Community Club. Several of the early members are still with the club. They include, of course, our two rejuvenators, Richard who is now the Advisor and \u201cUncle Frankie\u201d who is the Chairman as well as JL, our famed Mama cum National Archer cum Treasurer. Don Quixote and Decrepit who are now traditional bow archers with the Eagles sub-group were also early members of the club. For a bit of local history and trivia, the name \u201cTelok Blangah\u201d means \u201cClay Pot Bay\u201d in Malay. (Telok = Bay; Blangah = Clay pot or cauldron). The modern Malay spelling would be Teluk Belanga. Much of the area used to belong to the Yeo\u2019s Association and was the subject of land acquisition by the Singapore Government in the early 1970s, for the purpose of public housing. Due to it\u2019s proximity to the southern shore, Telok Blangah was designated as a resettlement housing estate for many island dwellers from the Southern islands. In fact, you could buy fresh sea catch from the early resettlement provision stores as the former islanders would still frequent their old fishing grounds. However, this practice stopped within a matter of years as access to the sea became more difficult and with the urbanization of the resettled communities. Today, the Yeo\u2019s Association (now called Hokkien Yeo See Association) still own about a 1+ hectare plot for their association building, just a few hops from our archery club.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/telok_blangah_archery_club.webp"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/telok_blangah_archery_club_logo.webp",
         "user_ratings_total": null,
         "website": "https://eaglesoftbac.wordpress.com",
         "activities": [
@@ -3318,14 +3272,13 @@
                 "Sunday: 8:00AM\u20131:00PM"
             ]
         },
-        "description": "A registered society established since 1982, Temasek Club is the social home for all active SAF officers (Regulars & NSFs), Senior Military Experts, NS Key/R(NS) Appointment Holders and retired SAF officers. Our purpose is to promote greater cohesion and interaction among the officers with our wide array of facilities."
-        ,
+        "description": "A registered society established since 1982, Temasek Club is the social home for all active SAF officers (Regulars & NSFs), Senior Military Experts, NS Key/R(NS) Appointment Holders and retired SAF officers. Our purpose is to promote greater cohesion and interaction among the officers with our wide array of facilities.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/temasek_club.jpg"
         ],
         "rating": 4.3,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/temasek_club_logo.jpg",
         "user_ratings_total": 1380,
         "website": "https://temasekclub.org.sg",
         "activities": [
@@ -3436,14 +3389,13 @@
                 "Sunday: 11:00AM\u20131:00PM"
             ]
         },
-        "description": "Located in the heart of Marina Square, The Par Club Singapore features state of the art technology from Foresight, 6 fully equipped indoor golf simulation bays, an interactive putting green as well as amazing food, alcohol and beverages."
-        ,
+        "description": "Located in the heart of Marina Square, The Par Club Singapore features state of the art technology from Foresight, 6 fully equipped indoor golf simulation bays, an interactive putting green as well as amazing food, alcohol and beverages.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_par_club_singapore.jpg"
         ],
         "rating": 4.5,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_par_club_singapore_logo.jpg",
         "user_ratings_total": 73,
         "website": "https://theparclubsg.com",
         "activities": [
@@ -3464,14 +3416,13 @@
         "international_phone_number": "65 6737-3388, 656438-3673",
         "name": "Tower Club Singapore",
         "opening_hours": null,
-        "description": "Opened in January 1997, Tower Club Singapore, a subsidiary of City Developments Limited has been established as the nation’s premier private business-social club. Situated on the 62nd – 64th penthouse floors of the award-winning-Republic Plaza building, in the heart of the Central Business District. Enter the heights of unparalleled grandeur with a Tower Club membership. Tower Club was founded by distinguished Board of Governors from the top echelons of the business community, a Tower Club membership opens the doors to a world of privileges in Singapore, and around the world, as well as reciprocal access to other Singapore social clubs. An atmosphere of camaraderie outside a formal business setting, community leaders, professionals and the elite of the Singapore business community come together where business and pleasure meet amidst breathtaking views of Singapore’s dynamic city skyline. An oasis of distinctive elegance in an exclusive penthouse location, the majestic lobby unfolds into top-class facilities, stylish sky-level dining options, and a range of activities for members and their guests. As business opportunities abound, Tower Club presents the perfect backdrop to build success. Feel the world at your feet with a revitalizing workout at the elegant Fitness Centre. With top-of-the-line fitness equipment for a regular fitness workout, the Centre also offers a dedicated team of personal trainers at hand to customize workouts and a fully-equipped gym. After a workout, relax and recline in the Relaxation Room, before returning refreshed, to meet the challenges of the day. Towering above neighboring edifices of the vibrant CBD, Tower Club brings a unique and prestigious location with spectacular 360 degree views of the city below. Designed for an immersive experience, each room allows the effortless accommodation of events and meetings of every size and persuasion."
-        ,
+        "description": "Opened in January 1997, Tower Club Singapore, a subsidiary of City Developments Limited has been established as the nation\u2019s premier private business-social club. Situated on the 62nd \u2013 64th penthouse floors of the award-winning-Republic Plaza building, in the heart of the Central Business District. Enter the heights of unparalleled grandeur with a Tower Club membership. Tower Club was founded by distinguished Board of Governors from the top echelons of the business community, a Tower Club membership opens the doors to a world of privileges in Singapore, and around the world, as well as reciprocal access to other Singapore social clubs. An atmosphere of camaraderie outside a formal business setting, community leaders, professionals and the elite of the Singapore business community come together where business and pleasure meet amidst breathtaking views of Singapore\u2019s dynamic city skyline. An oasis of distinctive elegance in an exclusive penthouse location, the majestic lobby unfolds into top-class facilities, stylish sky-level dining options, and a range of activities for members and their guests. As business opportunities abound, Tower Club presents the perfect backdrop to build success. Feel the world at your feet with a revitalizing workout at the elegant Fitness Centre. With top-of-the-line fitness equipment for a regular fitness workout, the Centre also offers a dedicated team of personal trainers at hand to customize workouts and a fully-equipped gym. After a workout, relax and recline in the Relaxation Room, before returning refreshed, to meet the challenges of the day. Towering above neighboring edifices of the vibrant CBD, Tower Club brings a unique and prestigious location with spectacular 360 degree views of the city below. Designed for an immersive experience, each room allows the effortless accommodation of events and meetings of every size and persuasion.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tower_club_singapore.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tower_club_singapore_logo.jpg",
         "user_ratings_total": null,
         "website": "https://tower-club.com.sg",
         "activities": [
@@ -3575,14 +3526,13 @@
                 "Sunday: Open 24 hours"
             ]
         },
-        "description": "TT Lab was formed out of a passion for table tennis in order to provide an engaging learning experience, and competitive opportunities in a welcoming environment for players of all abilities and ages in Singapore to reach their full potential."
-        ,
+        "description": "TT Lab was formed out of a passion for table tennis in order to provide an engaging learning experience, and competitive opportunities in a welcoming environment for players of all abilities and ages in Singapore to reach their full potential.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tt_lab_table_tennis_club_(novena).webp"
         ],
         "rating": 4.8,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tt_lab_table_tennis_club_novena_logo.webp",
         "user_ratings_total": 38,
         "website": "https://tabletennislab.com.sg",
         "activities": [
@@ -3687,14 +3637,13 @@
                 "Sunday: Open 24 hours"
             ]
         },
-        "description": "TT Lab was formed out of a passion for table tennis in order to provide an engaging learning experience, and competitive opportunities in a welcoming environment for players of all abilities and ages in Singapore to reach their full potential."
-        ,
+        "description": "TT Lab was formed out of a passion for table tennis in order to provide an engaging learning experience, and competitive opportunities in a welcoming environment for players of all abilities and ages in Singapore to reach their full potential.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tt_lab_table_tennis_club_thomson.jpg"
         ],
         "rating": 4.9,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tt_lab_table_tennis_club_novena_logo.webp",
         "user_ratings_total": 69,
         "website": "https://tabletennislab.com.sg",
         "activities": [
@@ -3799,14 +3748,13 @@
                 "Sunday: 7:00AM\u20132:00AM"
             ]
         },
-        "description": "Warren Golf & Country Club (formerly known as Warren Golf Club) was founded by the late Brigadier Derek Warren of the British 18th Signal Regiment. The Club started with a 4-hole golf course and quickly expanded to feature a 9-hole golf course together with a driving range when it officially opened at Folkestone Road in 1962. Over the years, the Club progressed and it now has an 18-hole championship golf course as well as an extensive range of social and recreational facilities. Designed by Nelson & Haworth, the 18-hole championship golf course is a Par 71 with a maximum playing distance of 6234m. Located on the southern bank of the Kranji Reservoir, the scenic beauty of the golf course can be admired at a number of holes, where the reservoir forms the backdrop of the golf course, providing golfers with a breathtaking view during their play. Warren Golf & Country Club is only 40 minutes from Singapore Changi Airport."
-        ,
+        "description": "Warren Golf & Country Club (formerly known as Warren Golf Club) was founded by the late Brigadier Derek Warren of the British 18th Signal Regiment. The Club started with a 4-hole golf course and quickly expanded to feature a 9-hole golf course together with a driving range when it officially opened at Folkestone Road in 1962. Over the years, the Club progressed and it now has an 18-hole championship golf course as well as an extensive range of social and recreational facilities. Designed by Nelson & Haworth, the 18-hole championship golf course is a Par 71 with a maximum playing distance of 6234m. Located on the southern bank of the Kranji Reservoir, the scenic beauty of the golf course can be admired at a number of holes, where the reservoir forms the backdrop of the golf course, providing golfers with a breathtaking view during their play. Warren Golf & Country Club is only 40 minutes from Singapore Changi Airport.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/warren_golf_&_country_club.jpg"
         ],
         "rating": 4.3,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/warren_golf_&_country_club_logo.jpg",
         "user_ratings_total": 966,
         "website": "https://warren.org.sg",
         "activities": [
@@ -3827,14 +3775,13 @@
         "international_phone_number": "+65 6408 0100",
         "name": "No18 Singapore Capitol",
         "opening_hours": null,
-        "description": "Located in the thriving melting pot of downtown Singapore, No18 Singapore Capitol offers members an inspiring setting in which to work, meet, entertain and relax. Accessed directly from the high-end shopping mall and luxury apartments above, this unique venue features elegant office space and meeting space along with a vibrant bistro and bar that can be used as private event space if required. From your office, you will have a fine view of the piazza and nearby park while, inside the building, the scene is a carefully curated showcase of vintage furniture and art."
-        ,
+        "description": "Located in the thriving melting pot of downtown Singapore, No18 Singapore Capitol offers members an inspiring setting in which to work, meet, entertain and relax. Accessed directly from the high-end shopping mall and luxury apartments above, this unique venue features elegant office space and meeting space along with a vibrant bistro and bar that can be used as private event space if required. From your office, you will have a fine view of the piazza and nearby park while, inside the building, the scene is a carefully curated showcase of vintage furniture and art.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/no_18_singapore_capitol.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/no_18_singapore_capitol_logo.jpg",
         "user_ratings_total": null,
         "website": "https://no18.com",
         "activities": [
@@ -3856,14 +3803,13 @@
         "international_phone_number": null,
         "name": "67 Pall Mall Singapore",
         "opening_hours": null,
-        "description": "Having thrown open both Club and cellar door on February 14th 2022, following a multi-million dollar refurbishment, 67 Pall Mall Singapore welcomes Members into the Club’s spectacular 15,000 sq ft Shaw Centre penthouse in the heart of Orchard Road. Membership to the Club allows access to a collection of 6,000 wines, of which 1,000 are available by the glass – the biggest and most diverse wine list in Southeast Asia. Not only are the world’s finest and rarest wines within reach, but the underlying premise of the Club is to also make wine more affordable. True to the ethos adopted since our beginnings in London, 67 Pall Mall allows unprecedented access to fine wines that excite, challenge and captivate Members."
-        ,
+        "description": "Having thrown open both Club and cellar door on February 14th 2022, following a multi-million dollar refurbishment, 67 Pall Mall Singapore welcomes Members into the Club\u2019s spectacular 15,000 sq ft Shaw Centre penthouse in the heart of Orchard Road. Membership to the Club allows access to a collection of 6,000 wines, of which 1,000 are available by the glass \u2013 the biggest and most diverse wine list in Southeast Asia. Not only are the world\u2019s finest and rarest wines within reach, but the underlying premise of the Club is to also make wine more affordable. True to the ethos adopted since our beginnings in London, 67 Pall Mall allows unprecedented access to fine wines that excite, challenge and captivate Members.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/67_pall_mall_singapore.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/67_pall_mall_singapore_logo.png",
         "user_ratings_total": null,
         "website": "https://67pallmall.com/the-singapore-club",
         "activities": [],
@@ -3875,25 +3821,24 @@
         "formatted_phone_number": "+65 6970 0033",
         "geometry": {
             "location": {
-                "lat": 1.283960,
+                "lat": 1.28396,
                 "lng": 103.850902
             }
         },
         "international_phone_number": "+65 6970 0033",
         "name": "33 Club",
         "opening_hours": null,
-        "description": "33 Club was created as a means to bring together a community of watch collectors and enthusiasts. Here, members can expect exciting lineups of unique masterclasses by some of the world’s best watchmakers; private bespoke watch-sourcing services; and priority access to over 500 watches, including exclusive and rare timepieces. Apart from this, members will also have access to a private bar, offering some of the most acclaimed wines and spirits"
-        ,
+        "description": "33 Club was created as a means to bring together a community of watch collectors and enthusiasts. Here, members can expect exciting lineups of unique masterclasses by some of the world\u2019s best watchmakers; private bespoke watch-sourcing services; and priority access to over 500 watches, including exclusive and rare timepieces. Apart from this, members will also have access to a private bar, offering some of the most acclaimed wines and spirits",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/33_club.webp"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/33_club_logo.png",
         "user_ratings_total": null,
         "website": "https://33club.sg",
         "activities": [],
-        "latitude": 1.283960,
+        "latitude": 1.28396,
         "longitude": 103.850902
     },
     "MandalaClub": {
@@ -3908,14 +3853,13 @@
         "international_phone_number": "+65 8822 9154",
         "name": "Mandala Club",
         "opening_hours": null,
-        "description": "Mandala Club is a next-generation private member’s club that strives to be a little different from its traditional predecessors. It serves as a networking space for Singapore’s entrepreneurs, business and thought leaders as well as creatives across various industries. Previously home to Straits Clan, the 22,000 sq ft, four-storey building comprises a gym, entertainment, meeting, and event spaces. Last year, Mandala Club launched its Mandala Masters series, inviting world-renowned chefs to take over its ground floor restaurant. Mauro Colagreco's Mirazur, and Gaggan Anand, have previously taken up residency at Mandala, with more to come. Art lovers will appreciate Mandala Club's museum-worthy collection of artwork by artists such as Salvador Dali and Pablo Picasso."
-        ,
+        "description": "Mandala Club is a next-generation private member\u2019s club that strives to be a little different from its traditional predecessors. It serves as a networking space for Singapore\u2019s entrepreneurs, business and thought leaders as well as creatives across various industries. Previously home to Straits Clan, the 22,000 sq ft, four-storey building comprises a gym, entertainment, meeting, and event spaces. Last year, Mandala Club launched its Mandala Masters series, inviting world-renowned chefs to take over its ground floor restaurant. Mauro Colagreco's Mirazur, and Gaggan Anand, have previously taken up residency at Mandala, with more to come. Art lovers will appreciate Mandala Club's museum-worthy collection of artwork by artists such as Salvador Dali and Pablo Picasso.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mandala_club.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mandala_club_logo.png",
         "user_ratings_total": null,
         "website": "https://mandala.club",
         "activities": [
@@ -3929,21 +3873,20 @@
         "geometry": {
             "location": {
                 "lat": 1.304374,
-                "lng": 103.824580
+                "lng": 103.82458
             }
         },
         "international_phone_number": "+65 8069 0310",
         "name": "Atlas Private Club",
         "formatted_address": "Virtual",
         "opening_hours": null,
-        "description": "Atlas Private Club is a community of ambitious and driven individuals from diverse cross industry backgrounds who are shaping the next chapter in business, leadership and innovation. We aim to cultivate strong and meaningful connections, furthering our members' goals and aspirations through a diverse array of initiatives that enhances both professional and personal growth. Membership to Atlas Private Club is by invitation, to ensure that our community is filled with dedicated individuals who are relentless in pushing the boundaries and making a difference in their field. This allows us to nurture an environment of authentic connections and opportunities."
-        ,
+        "description": "Atlas Private Club is a community of ambitious and driven individuals from diverse cross industry backgrounds who are shaping the next chapter in business, leadership and innovation. We aim to cultivate strong and meaningful connections, furthering our members' goals and aspirations through a diverse array of initiatives that enhances both professional and personal growth. Membership to Atlas Private Club is by invitation, to ensure that our community is filled with dedicated individuals who are relentless in pushing the boundaries and making a difference in their field. This allows us to nurture an environment of authentic connections and opportunities.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/atlas_private_club.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/atlas_private_club_logo.png",
         "user_ratings_total": null,
         "website": "https://atlas.com.sg",
         "activities": [],
@@ -3955,26 +3898,25 @@
         "formatted_phone_number": "+65 6545 2876",
         "geometry": {
             "location": {
-                "lat": 1.392240,
+                "lat": 1.39224,
                 "lng": 103.979557
             }
         },
         "international_phone_number": "+65 6545 2876",
         "name": "Changi Sailing Club",
         "opening_hours": null,
-        "description": "The Club’s origins go back to 1936 when the Changi Garrison Yacht Club was formed by a group of British soldiers from the Royal Engineers stationed in Singapore before World War II. The Club has undergone many changes since then. Parts of the old architecture remain and many photos of the club in its early days still adorn the facilities, contributing to its rustic charm. Today, the Club has full amenities including food and beverage, a swimming pool and chalets. In addition, swing mooring is available to members and visiting yachts. From Beach Catamarans to Platus, rentals of various dinghies and keelboats for leisure and competitive use are available. Regular Sailing Courses with relevant certifications, conducted by our qualified and experienced instructors, are open to members and non-members alike. At CSC, there are activities for all ages! There is a variety of competitive and social events which are permanent features on our calendar. Some of the key events are: the annual Ambassadors’ Cup, Commodore’s Cup, New Year’s Eve Party, CSC Optimist Championships and various National Regattas. We have our active weekend Sunday Series & Saturday Twilights, Monthly Dinghy Races, Members’ Night and regular social-in-the-city organised exclusively for members. In addition, the club has an ongoing Sailing Programme for schools, and is an ideal location for customised team-building and corporate events."
-        ,
+        "description": "The Club\u2019s origins go back to 1936 when the Changi Garrison Yacht Club was formed by a group of British soldiers from the Royal Engineers stationed in Singapore before World War II. The Club has undergone many changes since then. Parts of the old architecture remain and many photos of the club in its early days still adorn the facilities, contributing to its rustic charm. Today, the Club has full amenities including food and beverage, a swimming pool and chalets. In addition, swing mooring is available to members and visiting yachts. From Beach Catamarans to Platus, rentals of various dinghies and keelboats for leisure and competitive use are available. Regular Sailing Courses with relevant certifications, conducted by our qualified and experienced instructors, are open to members and non-members alike. At CSC, there are activities for all ages! There is a variety of competitive and social events which are permanent features on our calendar. Some of the key events are: the annual Ambassadors\u2019 Cup, Commodore\u2019s Cup, New Year\u2019s Eve Party, CSC Optimist Championships and various National Regattas. We have our active weekend Sunday Series & Saturday Twilights, Monthly Dinghy Races, Members\u2019 Night and regular social-in-the-city organised exclusively for members. In addition, the club has an ongoing Sailing Programme for schools, and is an ideal location for customised team-building and corporate events.",
         "photo_urls": [],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/changi_sailing_club_logo.webp",
         "user_ratings_total": null,
         "website": "https://csc.org.sg",
         "activities": [
             "swimming",
             "sailing"
         ],
-        "latitude": 1.392240,
+        "latitude": 1.39224,
         "longitude": 103.979557
     },
     "ChuiHuayLimClub": {
@@ -3989,14 +3931,13 @@
         "international_phone_number": "+65 6253 0111",
         "name": "Chui Huay Lim Club",
         "opening_hours": null,
-        "description": "Chui Huay Lim Club was founded in 1845 during the Qing Dynasty period and is one of the oldest clubs in Singapore. During the early days, it was popularly known as the  - Teochew Gentlemen's Club. Chui Huay Lim Club played a unique role in early Chinese society. During the colonial period, it was a meeting place where local Teochews gathered to exchange ideas. Prominent local Teochews played a pivotal role in the Teochew Community, enhancing its reputation. The late Tan Cheng Bao saw the need for a social venue for Teochews when the community was growing and prospering. Hence, Tan Cheng Bao initiated the idea and successfully founded Chui Huay Lim Club in temporary premises at 190 Kee Lam Road. In 1879, with the passing of Tan Cheng Bao, 10 members Chen Yongxi, Wang Zheliu, Wu Hedi, Chen Yaliang, She Zhiqiang, Zhuang Zhenhao, Lu Laos, Chen Mingke, He Ruiju, Huang Jinran donated $4000 to purchase the land from the Tan family. These 10 people thus became Chui Huay Lim Club's trustees."
-        ,
+        "description": "Chui Huay Lim Club was founded in 1845 during the Qing Dynasty period and is one of the oldest clubs in Singapore. During the early days, it was popularly known as the  - Teochew Gentlemen's Club. Chui Huay Lim Club played a unique role in early Chinese society. During the colonial period, it was a meeting place where local Teochews gathered to exchange ideas. Prominent local Teochews played a pivotal role in the Teochew Community, enhancing its reputation. The late Tan Cheng Bao saw the need for a social venue for Teochews when the community was growing and prospering. Hence, Tan Cheng Bao initiated the idea and successfully founded Chui Huay Lim Club in temporary premises at 190 Kee Lam Road. In 1879, with the passing of Tan Cheng Bao, 10 members Chen Yongxi, Wang Zheliu, Wu Hedi, Chen Yaliang, She Zhiqiang, Zhuang Zhenhao, Lu Laos, Chen Mingke, He Ruiju, Huang Jinran donated $4000 to purchase the land from the Tan family. These 10 people thus became Chui Huay Lim Club's trustees.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chui_huay_lim_club.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chui_huay_lim_club_logo.png",
         "user_ratings_total": null,
         "website": "https://chuihuaylimclub.com",
         "activities": [
@@ -4017,14 +3958,13 @@
         "international_phone_number": "+65 6505 5699",
         "name": "Club 5",
         "opening_hours": null,
-        "description": "Club 5 beckons with a newly remodelled space that pays homage to the diversity of Singapore’s cultural heritage. Savour the innovative creations of our talented mixologists who blend a beguiling mix of flavours in each cocktail, paired with classic bar bites with a modern twist."
-        ,
+        "description": "Club 5 beckons with a newly remodelled space that pays homage to the diversity of Singapore\u2019s cultural heritage. Savour the innovative creations of our talented mixologists who blend a beguiling mix of flavours in each cocktail, paired with classic bar bites with a modern twist.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/club_5.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/club_5_logo.png",
         "user_ratings_total": null,
         "website": "https://panpacific.com/en/hotels-and-resorts/pr-beach-road/eat/club-5.html",
         "activities": [],
@@ -4043,14 +3983,13 @@
         "international_phone_number": "81134704",
         "name": "El Pico Social",
         "opening_hours": null,
-        "description": "Asia's first 24/7 private members social club and art gallery, inspired by Cuba. A casa (second home) to hang your hat, we are located in the heart of the CBD, tucked away for your privacy. Our community are the accomplished, rebellious but easy going la famila whose lifestyle combine work, play and creativity. We are in Singapore, Saigon and Shibuya. EL PICO is a multi-functional 2 storey space hidden on the top floor of 6 Hong Kong Street. The first floor at 1800 sqf is a large space highlighted by art from our partner Gallery Quynh in Saigon, a grand table, lounge seating with capacity of up to 40 comfortably and can be converted to a standing space depending on the event type. We also have a mezzanine level with a private bar and attached meeting room, perfect for more intimate events, tastings, corporate meetings etc. With 12 metre high ceilings, we are a hidden, private concept for event use, decked out with art, a private luxury feel with a flair for fun.. Our biometric access for members means you can enter this progressive space anytime with your guests. This is part of ELPICO's welcoming spirit - this progressive social club belongs to us all. Artfully hidden in the middle of Singapore's CBD, work or play at your convenience."
-        ,
+        "description": "Asia's first 24/7 private members social club and art gallery, inspired by Cuba. A casa (second home) to hang your hat, we are located in the heart of the CBD, tucked away for your privacy. Our community are the accomplished, rebellious but easy going la famila whose lifestyle combine work, play and creativity. We are in Singapore, Saigon and Shibuya. EL PICO is a multi-functional 2 storey space hidden on the top floor of 6 Hong Kong Street. The first floor at 1800 sqf is a large space highlighted by art from our partner Gallery Quynh in Saigon, a grand table, lounge seating with capacity of up to 40 comfortably and can be converted to a standing space depending on the event type. We also have a mezzanine level with a private bar and attached meeting room, perfect for more intimate events, tastings, corporate meetings etc. With 12 metre high ceilings, we are a hidden, private concept for event use, decked out with art, a private luxury feel with a flair for fun.. Our biometric access for members means you can enter this progressive space anytime with your guests. This is part of ELPICO's welcoming spirit - this progressive social club belongs to us all. Artfully hidden in the middle of Singapore's CBD, work or play at your convenience.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/el_pico_social.avif"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/el_pico_social_logo.avif",
         "user_ratings_total": null,
         "website": "https://clubelpico.com",
         "activities": [],
@@ -4069,14 +4008,13 @@
         "international_phone_number": "+65 6738 5535",
         "name": "Paragon Club Members' Lounge",
         "opening_hours": null,
-        "description": "Paragon, a premier upscale retail mall and medical suites/office property, is located in the heart of Orchard Road, Singapore’s most famous shopping and tourist precinct. Paragon consists of a six-storey retail podium and one basement level with close to 492,000 sq ft of retail space, a 14-storey tower and another three-storey tower sitting on top of the retail podium with a total of close to 223.000 sq ft of medical suites/ office space. The mall has always been the choice destination of discerning and upmarket shoppers in search of top-notch quality merchandise and services. This shopping gem exudes style and class and is home to a diverse mix of international luxury brands such as Gucci, Prada and Givenchy, accessible luxury brands such as Coach and Longchamp, trendy high street fashion and stylish home-grown labels, plus an exciting line-up of dining options. The mall constantly seeks to delight shoppers by offering engaging and interactive touches to fulfil the discerning shoppers’ diverse experiential shopping needs."
-        ,
+        "description": "Paragon, a premier upscale retail mall and medical suites/office property, is located in the heart of Orchard Road, Singapore\u2019s most famous shopping and tourist precinct. Paragon consists of a six-storey retail podium and one basement level with close to 492,000 sq ft of retail space, a 14-storey tower and another three-storey tower sitting on top of the retail podium with a total of close to 223.000 sq ft of medical suites/ office space. The mall has always been the choice destination of discerning and upmarket shoppers in search of top-notch quality merchandise and services. This shopping gem exudes style and class and is home to a diverse mix of international luxury brands such as Gucci, Prada and Givenchy, accessible luxury brands such as Coach and Longchamp, trendy high street fashion and stylish home-grown labels, plus an exciting line-up of dining options. The mall constantly seeks to delight shoppers by offering engaging and interactive touches to fulfil the discerning shoppers\u2019 diverse experiential shopping needs.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paragon_club_members_lounge.png"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paragon_club_members'_lounge_logo.webp",
         "user_ratings_total": null,
         "website": "https://paragon.com.sg",
         "activities": [],
@@ -4095,14 +4033,13 @@
         "international_phone_number": "+65 6768 9288",
         "name": "Republic of Singapore Yacht Club",
         "opening_hours": null,
-        "description": "The Republic of Singapore Yacht Club is the oldest yacht club in Asia and the only member-owned yacht club in Singapore. Founded in 1826, the history of the RSYC goes back more than 191 years to an elegant era when the officers and men of Sir Stamford Raffles were our earliest members."
-        ,
+        "description": "The Republic of Singapore Yacht Club is the oldest yacht club in Asia and the only member-owned yacht club in Singapore. Founded in 1826, the history of the RSYC goes back more than 191 years to an elegant era when the officers and men of Sir Stamford Raffles were our earliest members.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/republic_of_singapore_yacht.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/republic_of_singapore_yacht_club_logo.jpg",
         "user_ratings_total": null,
         "website": "https://rsyc.org.sg",
         "activities": [
@@ -4125,14 +4062,13 @@
         "international_phone_number": "+65 6286 8888",
         "name": "Serangoon Gardens Country Club",
         "opening_hours": null,
-        "description": "Serangoon Gardens Country Club is one of the oldest and most well-respected clubs in Singapore. Established on 29 April 1955 by Mr. S. C. Macey and some residents of Serangoon Gardens, it was then known as the Serangoon Gardens Sports Club. Membership was just $2 but was exclusive to residents of Serangoon Gardens estate. Majority were British servicemen who enjoyed gathering at the Club for soccer and hockey matches or a game of billiards, darts, bridge or tombola. Children also had a splashing time when the soccer field occasionally doubled-up as a pool and fishing pond after heavy rain. Today, the Club boasts a strong heritage of patrons such as Mr. George Yeo, Mrs. Lim Hwee Hua and Member of Parliament for Aljunied GRC, Ms Sylvia Lim. The Club also prides itself as a Members’ Club. This means members have voting rights and own a part of the property and assets of the Club. However, much more than that is the friendship, the relationship, the camaraderie and the sense of belonging formed at Serangoon Gardens Country Club. They are truly priceless and for a lifetime. Indeed, it’s a privilege to belong."
-        ,
+        "description": "Serangoon Gardens Country Club is one of the oldest and most well-respected clubs in Singapore. Established on 29 April 1955 by Mr. S. C. Macey and some residents of Serangoon Gardens, it was then known as the Serangoon Gardens Sports Club. Membership was just $2 but was exclusive to residents of Serangoon Gardens estate. Majority were British servicemen who enjoyed gathering at the Club for soccer and hockey matches or a game of billiards, darts, bridge or tombola. Children also had a splashing time when the soccer field occasionally doubled-up as a pool and fishing pond after heavy rain. Today, the Club boasts a strong heritage of patrons such as Mr. George Yeo, Mrs. Lim Hwee Hua and Member of Parliament for Aljunied GRC, Ms Sylvia Lim. The Club also prides itself as a Members\u2019 Club. This means members have voting rights and own a part of the property and assets of the Club. However, much more than that is the friendship, the relationship, the camaraderie and the sense of belonging formed at Serangoon Gardens Country Club. They are truly priceless and for a lifetime. Indeed, it\u2019s a privilege to belong.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/serangoon_gardens_country_club.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/serangoon_gardens_country_club_logo.jpg",
         "user_ratings_total": null,
         "website": "https://sgcc.com.sg",
         "activities": [
@@ -4164,14 +4100,13 @@
         "international_phone_number": "+65 8035 6161",
         "name": "White House Private Club",
         "opening_hours": null,
-        "description": "Singapore's premier private club, offering exclusive services for high-end members. The club operates on a membership basis, dedicated to providing a private space for business entertainment and leisure."
-        ,
+        "description": "Singapore's premier private club, offering exclusive services for high-end members. The club operates on a membership basis, dedicated to providing a private space for business entertainment and leisure.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/white_house_private_club.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/white_house_private_club_logo.jpg",
         "user_ratings_total": null,
         "website": "https://thewhitehouseclub.com",
         "activities": [],
@@ -4190,12 +4125,11 @@
         "international_phone_number": "6468 0066",
         "name": "Belgian Luxembourg Association",
         "opening_hours": null,
-        "description": "The Belgian and Luxemburg Assiociation in Singapore (BLAS) is an association that brings Belgians and Luxembourgers together in Singapore. Its purpose is to provide a network, help families settle and create a home far away from home."
-        ,
+        "description": "The Belgian and Luxemburg Assiociation in Singapore (BLAS) is an association that brings Belgians and Luxembourgers together in Singapore. Its purpose is to provide a network, help families settle and create a home far away from home.",
         "photo_urls": [],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/belgian_luxembourg_association_logo.jpg",
         "user_ratings_total": null,
         "website": "https://blas.org.sg",
         "activities": [],
@@ -4208,20 +4142,19 @@
         "geometry": {
             "location": {
                 "lat": 1.304374,
-                "lng": 103.824580
+                "lng": 103.82458
             }
         },
         "international_phone_number": "+65 9012 2109",
         "name": "Launchpad Singapore",
         "opening_hours": null,
-        "description": "Backed by Honeycombers, founded by Chris Edwards, Launchpad is more than just a networking platform—it's your entrepreneurial community of conscious entrepreneurs dedicated to propelling your business forward with its kind and generous culture."
-        ,
+        "description": "Backed by Honeycombers, founded by Chris Edwards, Launchpad is more than just a networking platform\u2014it's your entrepreneurial community of conscious entrepreneurs dedicated to propelling your business forward with its kind and generous culture.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/launchpad_singapore.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/launchpad_singapore_logo.webp",
         "user_ratings_total": null,
         "website": "https://thelaunchpad.group",
         "activities": [],
@@ -4240,14 +4173,13 @@
         "international_phone_number": "+65 6291 6301",
         "name": "The Australian and New Zealand Association (Anza)",
         "opening_hours": null,
-        "description": "The Australian and New Zealand Association (ANZA) has a long history of welcoming newcomers to Singapore and supporting our members with a range of sports, events, tours, interest groups, networking and volunteering opportunities. ANZA is a diverse and inclusive association. Our 7000+ members value our strong sense of community and connection, especially if they’re expats living away from home and loved ones. ANZA’s membership is made up of a wide range of nationalities – everyone is welcome."
-        ,
+        "description": "The Australian and New Zealand Association (ANZA) has a long history of welcoming newcomers to Singapore and supporting our members with a range of sports, events, tours, interest groups, networking and volunteering opportunities. ANZA is a diverse and inclusive association. Our 7000+ members value our strong sense of community and connection, especially if they\u2019re expats living away from home and loved ones. ANZA\u2019s membership is made up of a wide range of nationalities \u2013 everyone is welcome.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_australian_and_new_zealand_association_(anza).jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_australian_and_new_zealand_association_anza_logo.jpg",
         "user_ratings_total": null,
         "website": "https://anza.org.sg",
         "activities": [
@@ -4276,14 +4208,13 @@
         "international_phone_number": null,
         "name": "Goh Loo Club",
         "opening_hours": null,
-        "description": "Goh Loo Club’s membership is capped at 250 people. You’ll find an array of activities, F&B events, as well as lifestyle, arts and culture partners here. This revived club sits atop a three-level shophouse. It fuses the building’s original elements with modern features, and it’s decorated with a mural of its late members."
-        ,
+        "description": "Goh Loo Club\u2019s membership is capped at 250 people. You\u2019ll find an array of activities, F&B events, as well as lifestyle, arts and culture partners here. This revived club sits atop a three-level shophouse. It fuses the building\u2019s original elements with modern features, and it\u2019s decorated with a mural of its late members.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/goh_loo_club.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/goh_loo_club_logo.jpg",
         "user_ratings_total": null,
         "website": "https://facebook.com/wuluclub",
         "activities": [],
@@ -4302,13 +4233,13 @@
         "international_phone_number": "+65 9144 6272",
         "name": "Danish Business Association",
         "opening_hours": null,
-        "description": "The Danish Business Association of Singapore (DABS) is the beating heart of the Danish business community in Singapore. We bring together Danish companies and professionals, creating a platform to exchange insights, foster collaboration, and navigate the Asian business landscape. Our mission is simple yet impactful: to strengthen business ties between Denmark and Singapore while supporting the growth and success of our members. As a vital link to other business associations across Singapore and the region, we connect you with opportunities, expertise, and networks that matter. Through our diverse and engaging events, you’ll gain access to unique opportunities to share experiences, discover fresh perspectives, and build meaningful relationships. From breakfast talks and lunch presentations to lively social gatherings, our 25+ annual events are designed to engage, enrich, and bring people together. Partners are welcome too, ensuring an inclusive and vibrant community for all.",
+        "description": "The Danish Business Association of Singapore (DABS) is the beating heart of the Danish business community in Singapore. We bring together Danish companies and professionals, creating a platform to exchange insights, foster collaboration, and navigate the Asian business landscape. Our mission is simple yet impactful: to strengthen business ties between Denmark and Singapore while supporting the growth and success of our members. As a vital link to other business associations across Singapore and the region, we connect you with opportunities, expertise, and networks that matter. Through our diverse and engaging events, you\u2019ll gain access to unique opportunities to share experiences, discover fresh perspectives, and build meaningful relationships. From breakfast talks and lunch presentations to lively social gatherings, our 25+ annual events are designed to engage, enrich, and bring people together. Partners are welcome too, ensuring an inclusive and vibrant community for all.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/danish_business_association.jpg"
         ],
         "rating": null,
         "reviews": [],
-        "types": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/danish_business_association_logo.png",
         "user_ratings_total": null,
         "website": "https://dabs-singapore.com",
         "activities": [],
