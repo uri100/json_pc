@@ -2161,8 +2161,8 @@
         "formatted_phone_number": "+65 6861 8000",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": 1.342560,
+                "lng": 103.635246
             }
         },
         "international_phone_number": "+65 6861 8000",
@@ -2183,8 +2183,8 @@
             "swimming",
             "sea sports"
         ],
-        "latitude": null,
-        "longitude": null
+        "latitude": 1.342560,
+        "longitude": 103.635246
     },
     "RafflesTownClub": {
         "formatted_address": "1 Plymouth Ave, Singapore 297753",
