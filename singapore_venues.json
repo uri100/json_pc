@@ -4136,6 +4136,7 @@
         "longitude": 103.815739
     },
     "LaunchpadSingapore": {
+        "formatted_address": "Virtual",
         "formatted_phone_number": "+65 9012 2109",
         "geometry": {
             "location": {
