@@ -70,30 +70,5 @@
         "activities": null,
         "latitude": 49.601544,
         "longitude": 6.119522
-    },
-    "Danish Business Association": {
-        "formatted_address": "Unknown",
-        "formatted_phone_number": "+65 9144 6272",
-        "geometry": {
-            "location": {
-                "lat": 1.317123,
-                "lng": 103.843616
-            }
-        },
-        "international_phone_number": "+65 9144 6272",
-        "name": "Danish Business Association",
-        "opening_hours": null,
-        "description": "The Danish Business Association of Singapore (DABS) is the beating heart of the Danish business community in Singapore.",
-        "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/danish_business_association.jpg"
-        ],
-        "rating": null,
-        "reviews": [],
-        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/danish_business_association_logo.png",
-        "user_ratings_total": null,
-        "website": "https://dabs-singapore.com",
-        "activities": [],
-        "latitude": 1.317123,
-        "longitude": 103.843616
     }
 }
