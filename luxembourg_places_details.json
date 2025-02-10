@@ -1,25 +1,15 @@
 {
-    "1880Club": {
-        "formatted_address": "1 Nanson Road, Level 3, Singapore, Singapore 238909, SG",
-        "formatted_phone_number": "+65 6304 3200",
+    "Cercle Munster": {
+        "formatted_address": "5-7 Rue Münster, 2160 Luxembourg",
+        "formatted_phone_number": "+352 4706431",
         "geometry": {
             "location": {
-                "lat": 1.2908,
-                "lng": 103.8392
-            },
-            "viewport": {
-                "northeast": {
-                    "lat": 1.2915,
-                    "lng": 103.8400
-                },
-                "southwest": {
-                    "lat": 1.2900,
-                    "lng": 103.8390
-                }
+                "lat": 49.6086,
+                "lng": 6.135382
             }
         },
-        "international_phone_number": "+65 6304 3200",
-        "name": "1880 Club",
+        "international_phone_number": "+352 4706431",
+        "name": "Cercle Munster",
         "opening_hours": {
             "open_now": true,
             "periods": [
@@ -31,86 +21,77 @@
                 }
             ],
             "weekday_text": [
-                "Sunday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-                "Monday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-                "Tuesday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-                "Wednesday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-                "Thursday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-                "Friday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
-                "Saturday: 10:00\u202fAM\u2009\u2013\u20091:00\u202fAM"
+                "Sunday: Closed",
+                "Monday: 11:00 AM – 1:00 AM",
+                "Tuesday: 11:00 AM – 1:00 AM",
+                "Wednesday: 11:00 AM – 1:00 AM",
+                "Thursday: 11:00 AM – 1:00 AM",
+                "Friday: 11:00 AM – 1:00 AM",
+                "Saturday: 6:00 PM – 1:00 AM"
             ]
         },
-        "photos": [
-            {
-                "height": 3072,
-                "html_attributions": [
-                    "<a href=\"https://example.com\">1880 Club</a>"
-                ],
-                "photo_reference": null,
-                "width": 4080
-            }
+        "description": "The Cercle Munster was founded in 1982 by a group of entrepreneurs who sought to create a Luxembourg club modeled on the Anglo-Saxon tradition of a Gentleman’s Club.",
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxmebourg/cercle_munster.jpg",
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxmebourg/cercle_munster2.jpg"
         ],
-        "rating": 4.8,
+        "rating": 4.7,
         "reviews": [],
-        "types": [],
-        "user_ratings_total": 338,
-        "website": "https://www.1880.com.sg/"
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxembourg/cercle_munster_logo.png",
+        "user_ratings_total": 164,
+        "website": "https://munster.lu",
+        "activities": ["golf"],
+        "latitude": 49.6086,
+        "longitude": 6.135382
     },
-    "AmericanClubSingapore": {
-        "formatted_address": "10 Claymore Hl, Singapore 229573",
-        "formatted_phone_number": "+65 6737-3411",
+    "The British Club": {
+        "formatted_address": "73 Bukit Tinggi Road",
+        "formatted_phone_number": "+65 6410 1100",
         "geometry": {
             "location": {
-                "lat": 1.308473,
-                "lng": 103.832239
-            },
-            "viewport": {
-                "northeast": {
-                    "lat": 1.3090,
-                    "lng": 103.8330
-                },
-                "southwest": {
-                    "lat": 1.3075,
-                    "lng": 103.8315
-                }
+                "lat": 1.345874,
+                "lng": 103.792505
             }
         },
-        "international_phone_number": "+65 6737-3411",
-        "name": "American Club Singapore",
-        "opening_hours": {
-            "open_now": true,
-            "periods": [
-                {
-                    "open": {
-                        "day": 0,
-                        "time": "0000"
-                    }
-                }
-            ],
-            "weekday_text": [
-                "Sunday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                "Monday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                "Tuesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                "Wednesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                "Thursday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-                "Friday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-                "Saturday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
-            ]
-        },
-        "photos": [
-            {
-                "height": 1200,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/106063969474875741861\">24XFITNESS SINGPOST PAYA LEBAR</a>"
-                ],
-                "photo_reference": null,
-                "width": 1600
-            }
+        "international_phone_number": "+65 6410 1100",
+        "name": "The British Club",
+        "opening_hours": null,
+        "description": "The British Club is Singapore’s only Hilltop Retreat, a unique private community where Members of more than 50 nationalities and their families enjoy superb facilities.",
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_british_club.jpg"
         ],
-        "rating": 4.4,
+        "rating": null,
         "reviews": [],
-        "types": [],
-        "user_ratings_total": 703,
-        "website": "http://amclub.org.sg/"
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_british_club_logo.png",
+        "user_ratings_total": null,
+        "website": "https://britishclub.org.sg",
+        "activities": ["tennis", "swimming", "athletic"],
+        "latitude": 1.345874,
+        "longitude": 103.792505
+    },
+    "Danish Business Association": {
+        "formatted_address": "Unknown",
+        "formatted_phone_number": "+65 9144 6272",
+        "geometry": {
+            "location": {
+                "lat": 1.317123,
+                "lng": 103.843616
+            }
+        },
+        "international_phone_number": "+65 9144 6272",
+        "name": "Danish Business Association",
+        "opening_hours": null,
+        "description": "The Danish Business Association of Singapore (DABS) is the beating heart of the Danish business community in Singapore.",
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/danish_business_association.jpg"
+        ],
+        "rating": null,
+        "reviews": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/danish_business_association_logo.png",
+        "user_ratings_total": null,
+        "website": "https://dabs-singapore.com",
+        "activities": [],
+        "latitude": 1.317123,
+        "longitude": 103.843616
     }
 }
