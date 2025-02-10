@@ -58,13 +58,13 @@
         "opening_hours": null,
         "description": "The Car'tell is Luxembourg's only Private Members Car Club. Become a member and drive your dream cars; from classic cars to modern sportscars. Porsche, Ferrari, Lotus, Morgan, Rolls-Royce; we have them all. Our fleet is constantly evolving and we had over 40 different cars since our creation in 2016.",
         "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxembourg/cartell.jpeg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxembourg/cartell2.jpeg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxembourg/cartell3.jpeg"
+            "https://github.com/uri100/json_pc/blob/3c3406093e98302c732dc0d4e2dba3511aa29777/images/clubs/luxmebourg/cartell.jpeg",
+            "https://github.com/uri100/json_pc/blob/3c3406093e98302c732dc0d4e2dba3511aa29777/images/clubs/luxmebourg/cartell2.jpeg",
+            "https://github.com/uri100/json_pc/blob/3c3406093e98302c732dc0d4e2dba3511aa29777/images/clubs/luxmebourg/cartell3.jpeg"
         ],
         "rating": 4.5,
         "reviews": [],
-        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxembourg/caretll_logo.png",
+        "logo": "https://github.com/uri100/json_pc/blob/3c3406093e98302c732dc0d4e2dba3511aa29777/images/clubs/luxmebourg/cartell_logo.png",
         "user_ratings_total": 36,
         "website": "https://www.thecartell.lu/",
         "activities": null,
