@@ -44,30 +44,32 @@
         "latitude": 49.6086,
         "longitude": 6.135382
     },
-    "The British Club": {
-        "formatted_address": "73 Bukit Tinggi Road",
-        "formatted_phone_number": "+65 6410 1100",
+    "The Car’tell": {
+        "formatted_address": "70 route d'Esch - L-1470 Luxembourg",
+        "formatted_phone_number": "+352 28 89 25 01",
         "geometry": {
             "location": {
-                "lat": 1.345874,
-                "lng": 103.792505
+                "lat": 49.601544,
+                "lng": 6.119522
             }
         },
-        "international_phone_number": "+65 6410 1100",
-        "name": "The British Club",
+        "international_phone_number": "+352 28 89 25 01",
+        "name": "The Car’tell",
         "opening_hours": null,
-        "description": "The British Club is Singapore’s only Hilltop Retreat, a unique private community where Members of more than 50 nationalities and their families enjoy superb facilities.",
+        "description": "The Car'tell is Luxembourg's only Private Members Car Club. Become a member and drive your dream cars; from classic cars to modern sportscars. Porsche, Ferrari, Lotus, Morgan, Rolls-Royce; we have them all. Our fleet is constantly evolving and we had over 40 different cars since our creation in 2016.",
         "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_british_club.jpg"
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxembourg/cartell.webp",
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxembourg/cartell2.webp",
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxembourg/cartell3.webp"
         ],
-        "rating": null,
+        "rating": 4.5,
         "reviews": [],
-        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_british_club_logo.png",
-        "user_ratings_total": null,
-        "website": "https://britishclub.org.sg",
-        "activities": ["tennis", "swimming", "athletic"],
-        "latitude": 1.345874,
-        "longitude": 103.792505
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxembourg/caretll_logo.png",
+        "user_ratings_total": 36,
+        "website": "https://www.thecartell.lu/",
+        "activities": null,
+        "latitude": 49.601544,
+        "longitude": 6.119522
     },
     "Danish Business Association": {
         "formatted_address": "Unknown",
