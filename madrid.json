@@ -1,0 +1,187 @@
+{
+    "Casino de Madrid": {
+        "formatted_address": "Madrid, Madrid, Spain",
+        "formatted_phone_number": null,
+        "international_phone_number": null,
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            }
+        },
+        "name": "Casino de Madrid",
+        "opening_hours": null,
+        "description": null,
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid.jpg"
+        ],
+        "rating": null,
+        "reviews": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid_logo.png",
+        "user_ratings_total": null,
+        "website": "casinodemadrid.es",
+        "activities": null,
+        "latitude": null,
+        "longitude": null,
+        "city": "Madrid"
+    },
+    "Centro Cultural de los Ejércitos": {
+        "formatted_address": "Madrid, Spain",
+        "formatted_phone_number": null,
+        "international_phone_number": null,
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            }
+        },
+        "name": "Centro Cultural de los Ejércitos",
+        "opening_hours": null,
+        "description": null,
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/centro_cultural_de_los_ejrcitos.jpg"
+        ],
+        "rating": null,
+        "reviews": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/centro_cultural_de_los_ejrcitos_logo.png",
+        "user_ratings_total": null,
+        "website": "cculturalejercitos.com",
+        "activities": null,
+        "latitude": null,
+        "longitude": null,
+        "city": "Madrid"
+    },
+    "Círculo de Bellas Artes": {
+        "formatted_address": "Madrid, Madrid, Spain",
+        "formatted_phone_number": null,
+        "international_phone_number": null,
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            }
+        },
+        "name": "Círculo de Bellas Artes",
+        "opening_hours": null,
+        "description": null,
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/crculo_de_bellas_artes.jpg"
+        ],
+        "rating": null,
+        "reviews": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/crculo_de_bellas_artes_logo.png",
+        "user_ratings_total": null,
+        "website": "circulobellasartes.com",
+        "activities": null,
+        "latitude": null,
+        "longitude": null,
+        "city": "Madrid"
+    },
+    "Club Financiero Génova": {
+        "formatted_address": "Madrid, Madrid, Spain",
+        "formatted_phone_number": null,
+        "international_phone_number": null,
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            }
+        },
+        "name": "Club Financiero Génova",
+        "opening_hours": null,
+        "description": null,
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_financiero_gnova.jpg"
+        ],
+        "rating": null,
+        "reviews": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_financiero_gnova_logo.png",
+        "user_ratings_total": null,
+        "website": "clubfinancierogenova.com",
+        "activities": null,
+        "latitude": null,
+        "longitude": null,
+        "city": "Madrid"
+    },
+    "Club Matador": {
+        "formatted_address": "Madrid, Madrid, Spain",
+        "formatted_phone_number": null,
+        "international_phone_number": null,
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            }
+        },
+        "name": "Club Matador",
+        "opening_hours": null,
+        "description": null,
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_matador.jpg"
+        ],
+        "rating": null,
+        "reviews": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_matador_logo.png",
+        "user_ratings_total": null,
+        "website": "clubmatador.com",
+        "activities": null,
+        "latitude": null,
+        "longitude": null,
+        "city": "Madrid"
+    },
+    "La Gran Peña": {
+        "formatted_address": "Madrid, Madrid, Spain",
+        "formatted_phone_number": null,
+        "international_phone_number": null,
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            }
+        },
+        "name": "La Gran Peña",
+        "opening_hours": null,
+        "description": null,
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pea.jpg"
+        ],
+        "rating": null,
+        "reviews": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pea_logo.png",
+        "user_ratings_total": null,
+        "website": "wikipedia.org/wiki/La_Gran_Pe%C3%B1a",
+        "activities": null,
+        "latitude": null,
+        "longitude": null,
+        "city": "Madrid"
+    },
+    "Real Casino de Madrid": {
+        "formatted_address": "Calle de Alcalá, 15, Madrid, Spain",
+        "formatted_phone_number": "+34 91 5211735",
+        "international_phone_number": "+34 91 5211735",
+        "geometry": {
+            "location": {
+                "lat": null,
+                "lng": null
+            }
+        },
+        "name": "Real Casino de Madrid",
+        "opening_hours": null,
+        "description": null,
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/real_casino_de_madrid.jpg"
+        ],
+        "rating": null,
+        "reviews": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/real_casino_de_madrid_logo.png",
+        "user_ratings_total": null,
+        "website": null,
+        "activities": [
+            "athletic",
+            "swimming"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "city": "Madrid"
+    }
+}
