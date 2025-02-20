@@ -1,187 +1,74 @@
 {
-    "Casino de Madrid": {
-        "formatted_address": "Madrid, Madrid, Spain",
-        "formatted_phone_number": null,
-        "international_phone_number": null,
+    "Cercle Munster": {
+        "formatted_address": "5-7 Rue Münster, 2160 Luxembourg",
+        "formatted_phone_number": "+352 4706431",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": 49.6086,
+                "lng": 6.135382
             }
         },
-        "name": "Casino de Madrid",
-        "opening_hours": null,
-        "description": null,
+        "international_phone_number": "+352 4706431",
+        "name": "Cercle Munster",
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Sunday: Closed",
+                "Monday: 11:00 AM – 1:00 AM",
+                "Tuesday: 11:00 AM – 1:00 AM",
+                "Wednesday: 11:00 AM – 1:00 AM",
+                "Thursday: 11:00 AM – 1:00 AM",
+                "Friday: 11:00 AM – 1:00 AM",
+                "Saturday: 6:00 PM – 1:00 AM"
+            ]
+        },
+        "description": "The Cercle Munster was founded in 1982 by a group of entrepreneurs who sought to create a Luxembourg club modeled on the Anglo-Saxon tradition of a Gentleman’s Club",
         "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid.jpg"
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxmebourg/cercle_munster.jpg",
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxmebourg/cercle_munster2.jpg"
         ],
-        "rating": null,
+        "rating": 4.7,
         "reviews": [],
-        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid_logo.png",
-        "user_ratings_total": null,
-        "website": "casinodemadrid.es",
-        "activities": null,
-        "latitude": null,
-        "longitude": null,
-        "city": "Madrid"
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxmebourg/cercle_munster_logo.png",
+        "user_ratings_total": 164,
+        "website": "https://munster.lu",
+        "activities": ["golf"],
+        "latitude": 49.6086,
+        "longitude": 6.135382
     },
-    "Centro Cultural de los Ejércitos": {
-        "formatted_address": "Madrid, Spain",
-        "formatted_phone_number": null,
-        "international_phone_number": null,
+    "The Car’tell": {
+        "formatted_address": "70 route d'Esch - L-1470 Luxembourg",
+        "formatted_phone_number": "+352 28 89 25 01",
         "geometry": {
             "location": {
-                "lat": null,
-                "lng": null
+                "lat": 49.601544,
+                "lng": 6.119522
             }
         },
-        "name": "Centro Cultural de los Ejércitos",
+        "international_phone_number": "+352 28 89 25 01",
+        "name": "The Car’tell",
         "opening_hours": null,
-        "description": null,
+        "description": "The Car'tell is Luxembourg's only Private Members Car Club. Become a member and drive your dream cars; from classic cars to modern sportscars. Porsche, Ferrari, Lotus, Morgan, Rolls-Royce; we have them all. Our fleet is constantly evolving and we had over 40 different cars since our creation in 2016.",
         "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/centro_cultural_de_los_ejrcitos.jpg"
+            "https://raw.githubusercontent.com/uri100/json_pc/3c3406093e98302c732dc0d4e2dba3511aa29777/images/clubs/luxmebourg/cartell.jpeg",
+            "https://raw.githubusercontent.com/uri100/json_pc/3c3406093e98302c732dc0d4e2dba3511aa29777/images/clubs/luxmebourg/cartell2.jpeg",
+            "https://raw.githubusercontent.com/uri100/json_pc/3c3406093e98302c732dc0d4e2dba3511aa29777/images/clubs/luxmebourg/cartell3.jpeg"
         ],
-        "rating": null,
+        "rating": 4.5,
         "reviews": [],
-        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/centro_cultural_de_los_ejrcitos_logo.png",
-        "user_ratings_total": null,
-        "website": "cculturalejercitos.com",
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/3c3406093e98302c732dc0d4e2dba3511aa29777/images/clubs/luxmebourg/cartell_logo.png",
+        "user_ratings_total": 36,
+        "website": "https://www.thecartell.lu/",
         "activities": null,
-        "latitude": null,
-        "longitude": null,
-        "city": "Madrid"
-    },
-    "Círculo de Bellas Artes": {
-        "formatted_address": "Madrid, Madrid, Spain",
-        "formatted_phone_number": null,
-        "international_phone_number": null,
-        "geometry": {
-            "location": {
-                "lat": null,
-                "lng": null
-            }
-        },
-        "name": "Círculo de Bellas Artes",
-        "opening_hours": null,
-        "description": null,
-        "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/crculo_de_bellas_artes.jpg"
-        ],
-        "rating": null,
-        "reviews": [],
-        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/crculo_de_bellas_artes_logo.png",
-        "user_ratings_total": null,
-        "website": "circulobellasartes.com",
-        "activities": null,
-        "latitude": null,
-        "longitude": null,
-        "city": "Madrid"
-    },
-    "Club Financiero Génova": {
-        "formatted_address": "Madrid, Madrid, Spain",
-        "formatted_phone_number": null,
-        "international_phone_number": null,
-        "geometry": {
-            "location": {
-                "lat": null,
-                "lng": null
-            }
-        },
-        "name": "Club Financiero Génova",
-        "opening_hours": null,
-        "description": null,
-        "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_financiero_gnova.jpg"
-        ],
-        "rating": null,
-        "reviews": [],
-        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_financiero_gnova_logo.png",
-        "user_ratings_total": null,
-        "website": "clubfinancierogenova.com",
-        "activities": null,
-        "latitude": null,
-        "longitude": null,
-        "city": "Madrid"
-    },
-    "Club Matador": {
-        "formatted_address": "Madrid, Madrid, Spain",
-        "formatted_phone_number": null,
-        "international_phone_number": null,
-        "geometry": {
-            "location": {
-                "lat": null,
-                "lng": null
-            }
-        },
-        "name": "Club Matador",
-        "opening_hours": null,
-        "description": null,
-        "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_matador.jpg"
-        ],
-        "rating": null,
-        "reviews": [],
-        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_matador_logo.png",
-        "user_ratings_total": null,
-        "website": "clubmatador.com",
-        "activities": null,
-        "latitude": null,
-        "longitude": null,
-        "city": "Madrid"
-    },
-    "La Gran Peña": {
-        "formatted_address": "Madrid, Madrid, Spain",
-        "formatted_phone_number": null,
-        "international_phone_number": null,
-        "geometry": {
-            "location": {
-                "lat": null,
-                "lng": null
-            }
-        },
-        "name": "La Gran Peña",
-        "opening_hours": null,
-        "description": null,
-        "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pea.jpg"
-        ],
-        "rating": null,
-        "reviews": [],
-        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pea_logo.png",
-        "user_ratings_total": null,
-        "website": "wikipedia.org/wiki/La_Gran_Pe%C3%B1a",
-        "activities": null,
-        "latitude": null,
-        "longitude": null,
-        "city": "Madrid"
-    },
-    "Real Casino de Madrid": {
-        "formatted_address": "Calle de Alcalá, 15, Madrid, Spain",
-        "formatted_phone_number": "+34 91 5211735",
-        "international_phone_number": "+34 91 5211735",
-        "geometry": {
-            "location": {
-                "lat": null,
-                "lng": null
-            }
-        },
-        "name": "Real Casino de Madrid",
-        "opening_hours": null,
-        "description": null,
-        "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/real_casino_de_madrid.jpg"
-        ],
-        "rating": null,
-        "reviews": [],
-        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/real_casino_de_madrid_logo.png",
-        "user_ratings_total": null,
-        "website": null,
-        "activities": [
-            "athletic",
-            "swimming"
-        ],
-        "latitude": null,
-        "longitude": null,
-        "city": "Madrid"
+        "latitude": 49.601544,
+        "longitude": 6.119522
     }
 }
