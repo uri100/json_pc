@@ -99,6 +99,57 @@
         "latitude": 40.418372,
         "longitude": -3.696576
     },
+"La Gran Peña": {
+        "formatted_address": "C/ Gran Vía, 2 - 28013 Madrid",
+        "formatted_phone_number": "+34 910 60 98 83",
+        "geometry": {
+            "location": {
+                "lat": 40.468149,
+                "lng": -3.870846
+            }
+        },
+        "international_phone_number": "+34 910 60 98 83",
+        "name": "La Gran Peña",
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Sunday: Closed",
+                "Monday: 12:00-24:00",
+                "Tuesday: 12:00-24:00",
+                "Wednesday: 12:00-24:00",
+                "Thursday: 12:00-24:00",
+                "Friday: 12:00-24:00",
+                "Saturday: 12:00-24:00"
+            ]            
+        },
+        "description": "La Gran Peña (also known as el Círculo de la Gran Peña) is a private community centre located in the building on Gran Vía 2 in Madrid. The community was created in 1869 by the Spanish military. Presidents of the institution are usually high-ranking military personnel or members of the Grandee. Politicians like José Canalejas, José Calvo Sotelo, as well as royals as Alfonso XIII, and since 1975 Juan Carlos I, are among the most illustrious club members.",
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pena1.jpg",
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pena2.jpg",
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pena3.jpg",
+             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pena4.jpg",
+
+        ],
+        "rating": 4.7,
+        "reviews": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pena_logo.png",
+        "user_ratings_total": 238,
+        "website": "https://realgp.es",
+         "activities": [
+             "billiard",
+             "tennis"
+         ],        
+        "latitude": 40.468149,
+        "longitude": -3.870846
+    },
 
 "Club Matador": {
         "formatted_address": "Calle Jorge Juan, 5 28001 Madrid",
