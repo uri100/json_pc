@@ -4,8 +4,8 @@
         "formatted_phone_number": "+34 91 521 87 00",
         "geometry": {
             "location": {
-                "lat": 49.6086,
-                "lng": 6.135382
+                "lat": 40.471666,
+                "lng": -3.411158
             }
         },
         "international_phone_number": "+352 4706431",
@@ -47,8 +47,8 @@
             "gym",
             "padel",
             "golf"
-        ],        "latitude": 49.6086,
-        "longitude": 6.135382
+        ],        "latitude": 40.471666,
+        "longitude": -3.411158
     },
     "The Car’tell": {
         "formatted_address": "70 route d'Esch - L-1470 Luxembourg",
