@@ -41,8 +41,13 @@
         "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid_logo.png",
         "user_ratings_total": 2100,
         "website": "https://casinodemadrid.es",
-        "activities": ["golf"],
-        "latitude": 49.6086,
+         "activities": [
+            "billiard",
+            "swimming",
+            "gym",
+            "padel",
+            "golf"
+        ],        "latitude": 49.6086,
         "longitude": 6.135382
     },
     "The Car’tell": {
