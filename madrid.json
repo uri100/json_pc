@@ -1,48 +1,36 @@
 {
-    "Madrid Munster": {
-        "formatted_address": "5-7 Rue Münster, 2160 Luxembourg",
-        "formatted_phone_number": "+352 4706431",
+    "Casino de Madrid": {
+        "formatted_address": "Royal Casino of Madrid, Alcalá 15, Madrid",
+        "formatted_phone_number": "+(34) 91 521 87 00",
         "geometry": {
             "location": {
-                "lat": 49.6086,
-                "lng": 6.135382
+                "lat": 40.471666,
+                "lng": -3.411158
             }
         },
-        "international_phone_number": "+352 4706431",
-        "name": "Madrid Munster",
-        "opening_hours": {
-            "open_now": true,
-            "periods": [
-                {
-                    "open": {
-                        "day": 0,
-                        "time": "0000"
-                    }
-                }
-            ],
-            "weekday_text": [
-                "Sunday: Closed",
-                "Monday: 11:00 AM – 1:00 AM",
-                "Tuesday: 11:00 AM – 1:00 AM",
-                "Wednesday: 11:00 AM – 1:00 AM",
-                "Thursday: 11:00 AM – 1:00 AM",
-                "Friday: 11:00 AM – 1:00 AM",
-                "Saturday: 6:00 PM – 1:00 AM"
-            ]
-        },
-        "description": "The Madrid Munster was founded in 1982 by a group of entrepreneurs who sought to create a Luxembourg club modeled on the Anglo-Saxon tradition of a Gentleman’s Club",
+        "name": "Casino de Madrid",
+        "opening_hours": null,
+        "description": "In 1836, when a group of romantic and progressive young people, tired of so much political exaltation, decided to find a quiet place where they could meet in peace and harmony, the first step was being taken towards what would eventually become the Real Casino de Madrid."
         "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxmebourg/cercle_munster.jpg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxmebourg/cercle_munster2.jpg"
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid1.jpg",
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid2.jpg",
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid3.jpg"
+            
         ],
-        "rating": 4.7,
+        "rating": 4.6,
         "reviews": [],
-        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxmebourg/cercle_munster_logo.png",
-        "user_ratings_total": 164,
-        "website": "https://munster.lu",
-        "activities": ["golf"],
-        "latitude": 49.6086,
-        "longitude": 6.135382
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid_logo.png",
+        "user_ratings_total": 2100,
+        "website": "casinodemadrid.es",
+        "activities": [
+            "golf",
+            "gym",
+            "padel",
+            "billiard"
+        ],
+        "latitude": 40.471666,
+        "longitude": -3.411158,
+        "city": "Madrid"
     },
     "The Car’tell": {
         "formatted_address": "70 route d'Esch - L-1470 Luxembourg",
