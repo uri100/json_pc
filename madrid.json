@@ -51,31 +51,31 @@
         ],        "latitude": 40.471666,
         "longitude": -3.411158
     },
-    "The Car’tell": {
-        "formatted_address": "70 route d'Esch - L-1470 Luxembourg",
-        "formatted_phone_number": "+352 28 89 25 01",
+    "Centro Cultural de los Ejércitos": {
+        "formatted_address": "Gran Vía, 13 -28013 Madrid ",
+        "formatted_phone_number": "+34 915222309",
         "geometry": {
             "location": {
-                "lat": 49.601544,
-                "lng": 6.119522
+                "lat": 40.419655,
+                "lng": -3.699892
             }
         },
-        "international_phone_number": "+352 28 89 25 01",
+        "international_phone_number": "+34 915222309",
         "name": "The Car’tell",
         "opening_hours": null,
-        "description": "The Car'tell is Luxembourg's only Private Members Car Club. Become a member and drive your dream cars; from classic cars to modern sportscars. Porsche, Ferrari, Lotus, Morgan, Rolls-Royce; we have them all. Our fleet is constantly evolving and we had over 40 different cars since our creation in 2016.",
+        "description": "This centre, also known as the Military Casino, was opened in 1916 by King Alfonso XIII and since its creation it has had a recreational function. It is a private non-profit association that promotes knowledge and cultural development (focusing mainly on military history and culture and national defence), with different activities and spaces, such as gaming rooms and a fencing area, which also hosts conferences, congresses, concerts and exhibitions. In addition, it has several rooms for members who need to stay there temporarily as well as a restaurant open to the public where meals are served daily.",
         "photo_urls": [
             "https://raw.githubusercontent.com/uri100/json_pc/3c3406093e98302c732dc0d4e2dba3511aa29777/images/clubs/luxmebourg/cartell.jpeg",
             "https://raw.githubusercontent.com/uri100/json_pc/3c3406093e98302c732dc0d4e2dba3511aa29777/images/clubs/luxmebourg/cartell2.jpeg",
             "https://raw.githubusercontent.com/uri100/json_pc/3c3406093e98302c732dc0d4e2dba3511aa29777/images/clubs/luxmebourg/cartell3.jpeg"
         ],
-        "rating": 4.5,
+        "rating": 4.1,
         "reviews": [],
         "logo": "https://raw.githubusercontent.com/uri100/json_pc/3c3406093e98302c732dc0d4e2dba3511aa29777/images/clubs/luxmebourg/cartell_logo.png",
-        "user_ratings_total": 36,
-        "website": "https://www.thecartell.lu/",
+        "user_ratings_total": 699,
+        "website": "https://www.cculturalejercitos.com",
         "activities": null,
-        "latitude": 49.601544,
-        "longitude": 6.119522
+        "latitude": 40.419655,
+        "longitude": -3.699892
     }
 }
