@@ -99,6 +99,59 @@
         "latitude": 40.418372,
         "longitude": -3.696576
     },
+
+"Club Matador": {
+        "formatted_address": "Calle Jorge Juan, 5 28001 Madrid",
+        "formatted_phone_number": "+34 910609883",
+        "geometry": {
+            "location": {
+                "lat": 40.418372,
+                "lng": -3.696576
+            }
+        },
+        "international_phone_number": "+34 910609883",
+        "name": "Club Matador",
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Sunday: 12:00 – 18:00",
+                "Monday: 8:30 - 13:00",
+                "Tuesday: 8:30 - 13:00",
+                "Wednesday: 8:30 - 13:00",
+                "Thursday: 8:30 – 13:00",
+                "Friday: 8:30 – 14:00",
+                "Saturday: 12:00 – 14:00"
+            ]            
+        },
+        "description": "The Club was launched in 2013 in the spirit of Matador magazine. It is a meeting place where professionals of different ages, backgrounds, training and cultures enjoy an extraordinary space. A meeting point with other people where culture and ideas are the pillars of the project.",
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_matador1.jpg",
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_matador2.jpg",
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_matador3.jpg",
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_matador4.jpg",
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_matador5.jpg"
+
+        ],
+        "rating": 4.7,
+        "reviews": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_matador_logo.png",
+        "user_ratings_total": 497,
+        "website": "https://clubmatador.com",
+         "activities": [],        
+        "latitude": 40.418372,
+        "longitude": -3.696576
+    },
+
+
+    
     "Club Financiero Génova": {
         "formatted_address": "C/ Marqués de la Ensenada, 14 - Madrid",
         "formatted_phone_number": "+34 91 310 49 00",
