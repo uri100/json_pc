@@ -48,7 +48,8 @@
             "gym",
             "padel",
             "golf"
-        ],        "latitude": 40.471666,
+        ],        
+        "latitude": 40.471666,
         "longitude": -3.411158
     },
     "Centro Cultural de los Ejércitos": {
@@ -74,7 +75,11 @@
         "logo": "https://raw.githubusercontent.com/uri100/json_pc/3c3406093e98302c732dc0d4e2dba3511aa29777/images/clubs/luxmebourg/cartell_logo.png",
         "user_ratings_total": 699,
         "website": "https://www.cculturalejercitos.com",
-        "activities": null,
+        "activities": [
+            "fencing", 
+            "billiard", 
+            "gym"
+        ],
         "latitude": 40.419655,
         "longitude": -3.699892
     }
