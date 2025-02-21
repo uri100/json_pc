@@ -30,16 +30,17 @@
                 "Saturday: 6:00 PM – 1:00 AM"
             ]
         },
-        "description": "The Cercle Munster was founded in 1982 by a group of entrepreneurs who sought to create a Luxembourg club modeled on the Anglo-Saxon tradition of a Gentleman’s Club",
+        "description": "In 1836, when a group of romantic and progressive young people, tired of so much political exaltation, decided to find a quiet place where they could meet in peace and harmony, the first step was being taken towards what would eventually become the Real Casino de Madrid.",
         "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxmebourg/cercle_munster.jpg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxmebourg/cercle_munster2.jpg"
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid1.jpg",
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid2.jpg",
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid3.jpg"
         ],
-        "rating": 4.7,
+        "rating": 4.6,
         "reviews": [],
-        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxmebourg/cercle_munster_logo.png",
-        "user_ratings_total": 164,
-        "website": "https://munster.lu",
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid_logo.png",
+        "user_ratings_total": 2100,
+        "website": "https://casinodemadrid.es",
         "activities": ["golf"],
         "latitude": 49.6086,
         "longitude": 6.135382
