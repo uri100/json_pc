@@ -63,16 +63,36 @@
         },
         "international_phone_number": "+34 915222309",
         "name": "The Car’tell",
-        "opening_hours": null,
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Sunday: 00:00 - 00:00",
+                "Monday: 00:00 - 00:00",
+                "Tuesday: 00:00 - 00:00",
+                "Wednesday: 00:00 - 00:00",
+                "Thursday: 00:00 - 00:00",
+                "Friday: 00:00 - 00:00",
+                "Saturday: 00:00 - 00:00"
+            ]
+        },
         "description": "This centre, also known as the Military Casino, was opened in 1916 by King Alfonso XIII and since its creation it has had a recreational function. It is a private non-profit association that promotes knowledge and cultural development (focusing mainly on military history and culture and national defence), with different activities and spaces, such as gaming rooms and a fencing area, which also hosts conferences, congresses, concerts and exhibitions. In addition, it has several rooms for members who need to stay there temporarily as well as a restaurant open to the public where meals are served daily.",
         "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/3c3406093e98302c732dc0d4e2dba3511aa29777/images/clubs/luxmebourg/cartell.jpeg",
-            "https://raw.githubusercontent.com/uri100/json_pc/3c3406093e98302c732dc0d4e2dba3511aa29777/images/clubs/luxmebourg/cartell2.jpeg",
-            "https://raw.githubusercontent.com/uri100/json_pc/3c3406093e98302c732dc0d4e2dba3511aa29777/images/clubs/luxmebourg/cartell3.jpeg"
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/Centro_Cultural_de_los_Ejercitos1.jpg",
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/Centro_Cultural_de_los_Ejercitos2.jpg",
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/Centro_Cultural_de_los_Ejercitos3.jpg",
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/Centro_Cultural_de_los_Ejercitos4.jpg"
         ],
         "rating": 4.1,
         "reviews": [],
-        "logo": "https://raw.githubusercontent.com/uri100/json_pc/3c3406093e98302c732dc0d4e2dba3511aa29777/images/clubs/luxmebourg/cartell_logo.png",
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/Centro_Cultural_de_los_Ejercitos_logo.png",
         "user_ratings_total": 699,
         "website": "https://www.cculturalejercitos.com",
         "activities": [
