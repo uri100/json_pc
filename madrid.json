@@ -143,8 +143,14 @@
         "reviews": [],
         "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_financiero_genova_logo.png",
         "user_ratings_total": 30661,
-        "website": "https://www.circulobellasartes.com",
-         "activities": ["swimming", "gym", "spa", "pilates", "squash"],        
+        "website": "https://www.clubfinancierogenova.com/",
+         "activities": [
+             "swimming",
+             "gym", 
+             "spa", 
+             "pilates", 
+             "squash"
+         ],        
         "latitude": 40.424933,
         "longitude": -3.69215
     },
