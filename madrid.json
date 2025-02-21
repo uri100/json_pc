@@ -52,6 +52,60 @@
         "latitude": 40.471666,
         "longitude": -3.411158
     },
+
+"Real2 Casino de Madrid": {
+        "formatted_address": "Alcalá 15, Madrid",
+        "formatted_phone_number": "+34 91 5211735",
+        "geometry": {
+            "location": {
+                "lat": 40.471666,
+                "lng": -3.411158
+            }
+        },
+        "international_phone_number": "+34 91 5211735",
+        "name": "Real3 Casino de Madrid",
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Sunday: 9:00 - 22:00",
+                "Monday: 9:00 – 00:30",
+                "Tuesday: 9:00 – 00:30",
+                "Wednesday: 9:00 – 00:30",
+                "Thursday: 9:00 – 00:30",
+                "Friday: 9:00 – 00:30",
+                "Saturday: 9:00 – 00:30"
+            ]
+        },
+        "description": "In 1836, when a group of romantic and progressive young people, tired of so much political exaltation, decided to find a quiet place where they could meet in peace and harmony, the first step was being taken towards what would eventually become the Real Casino de Madrid. The Club boasts the best social facilities in Spain. The most distinguished social events in Madrid are held at the Club as it has two bars, two restaurants, four events halls, four private function rooms, one small ball-room and a large multi-functional room (used as party room and discotheque, also for shows and performances). There is also a conference hall, normally used for lectures and debates, and cinema for members. Apart from these rooms, there is also a Neo-Gothic style library containing 45,000 books, a splendid journal reading room, a gymnasium, a billiard room, indoor swimming pool, steam bath and sauna, barber, hairdresser, pedicure, Physiotherapist and a comfortable TV room. The Club has two restaurants, one of them, La Terraza, has two Michelin Stars and is the only part of the Club open to the public, where club members and reciprocal guests have a 20% discount for up to four persons. It offers vanguard cuisine and is considered one of the best restaurants in Madrid. The members restaurant, Recoletos offers more traditional food, which is excellent too. The Club has a special agreement with the Hotel Regina, Hotel Europa and 2 chains: NH Hoteles and Hispano Hotelera.",
+        "photo_urls": [
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid1.jpg",
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid2.jpg",
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid3.jpg"
+        ],
+        "rating": 4.6,
+        "reviews": [],
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid_logo.png",
+        "user_ratings_total": 2100,
+        "website": "https://casinodemadrid.es",
+         "activities": [
+            "billiard",
+            "swimming",
+            "athletic",
+            "gym",
+            "padel",
+            "golf"
+        ],        
+        "latitude": 40.471666,
+        "longitude": -3.411158
+    },
     "Centro Cultural de los Ejércitos": {
         "formatted_address": "Gran Vía, 13 -28013 Madrid ",
         "formatted_phone_number": "+34 915222309",
