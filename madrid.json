@@ -132,13 +132,16 @@
         },
         "description": "Established in 1972 as a non-profit civil association, it is one of the most accredited clubs with the best facilities in Spain, with a strong brand presence in the business and corporate world. Located in the centre of Madrid's financial, cultural and artistic district, it is a symbol and meeting point for the business, financial and political sectors of Spain. The Club is a networking centre that facilitates and encourages relationships between its members in the personal and professional sphere. It is a space where ideas and experiences can be exchanged, promoting the business network and strengthening Civil Society to improve the exchange of private initiative. It has eight private rooms for events and a magnificent restaurant with a spectacular 360-degree view of Madrid. It also has a summer terrace (Sky Club), swimming pool, gym and spa. The Club has established different correspondent alliances with more than 70 exclusive clubs spread throughout the world so that our members can enjoy the facilities and services of these clubs on their trips.",
         "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/circulo_de_bellas_artes1.jpg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/circulo_de_bellas_artes2.jpg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/circulo_de_bellas_artes3.jpg"
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_financiero_genova1.jpg",
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_financiero_genova2.jpg",
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_financiero_genova3.jpg",
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_financiero_genova4.jpg",
+            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_financiero_genova5.jpg",
+
         ],
         "rating": 4.4,
         "reviews": [],
-        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/circulo_de_bellas_artes_logo.png",
+        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_financiero_genova_logo.png",
         "user_ratings_total": 30661,
         "website": "https://www.circulobellasartes.com",
          "activities": ["swimming", "gym", "spa", "pilates", "squash"],        
