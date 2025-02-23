@@ -1,11 +1,25 @@
 {
   "Messi Casino de Madrid": {
     "formatted_address": "Alcalá 15, Madrid",
-    "phone_number": "+34 91 5211735",
-    "location": { "lat": 40.471666, "lng": -3.411158 },
+    "formatted_phone_number": "+34 91 5211735",
+    "geometry": {
+      "location": {
+        "lat": 40.471666,
+        "lng": -3.411158
+      }
+    },
+    "international_phone_number": "+34 91 5211735",
     "name": "Messi Casino de Madrid",
     "opening_hours": {
       "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
       "weekday_text": [
         "Sunday: 9:00 - 22:00",
         "Monday: 9:00 – 00:30",
@@ -23,18 +37,35 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid3.jpg"
     ],
     "rating": 4.6,
+    "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid_logo.png",
     "user_ratings_total": 2100,
     "website": "https://casinodemadrid.es",
-    "activities": ["billiard", "swimming", "athletic", "gym", "padel", "golf"]
+    "activities": ["billiard", "swimming", "athletic", "gym", "padel", "golf"],
+    "latitude": 40.471666,
+    "longitude": -3.411158
   },
   "Círculo de Bellas Artes": {
     "formatted_address": "Alcalá 42, 28014 Madrid",
-    "phone_number": "+34 91 360 54 00",
-    "location": { "lat": 40.418372, "lng": -3.696576 },
+    "formatted_phone_number": "+34 91 360 54 00",
+    "geometry": {
+      "location": {
+        "lat": 40.418372,
+        "lng": -3.696576
+      }
+    },
+    "international_phone_number": "+34 91 360 54 00",
     "name": "Círculo de Bellas Artes",
     "opening_hours": {
       "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
       "weekday_text": [
         "Sunday: 11:00 – 14:00; 17:00-21:00",
         "Monday: Closed",
@@ -52,18 +83,35 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/circulo_de_bellas_artes3.jpg"
     ],
     "rating": 4.4,
+    "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/circulo_de_bellas_artes_logo.png",
     "user_ratings_total": 30661,
     "website": "https://www.circulobellasartes.com",
-    "activities": []
+    "activities": [],
+    "latitude": 40.418372,
+    "longitude": -3.696576
   },
   "La Gran Peña": {
     "formatted_address": "C/ Gran Vía, 2 - 28013 Madrid",
-    "phone_number": "+34 910 60 98 83",
-    "location": { "lat": 40.468149, "lng": -3.870846 },
+    "formatted_phone_number": "+34 910 60 98 83",
+    "geometry": {
+      "location": {
+        "lat": 40.468149,
+        "lng": -3.870846
+      }
+    },
+    "international_phone_number": "+34 910 60 98 83",
     "name": "La Gran Peña",
     "opening_hours": {
       "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
       "weekday_text": [
         "Sunday: Closed",
         "Monday: 12:00-24:00",
@@ -82,9 +130,12 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pena4.jpg"
     ],
     "rating": 4.7,
+    "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pena_logo.png",
     "user_ratings_total": 238,
     "website": "https://realgp.es",
-    "activities": ["billiard", "tennis"]
+    "activities": ["billiard", "tennis"],
+    "latitude": 40.468149,
+    "longitude": -3.870846
   }
 }
