@@ -1,5 +1,5 @@
 {
-  "Am Hof 8": {
+  "Bear Lakes Country Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Am Hof 8",
+    "name": "Bear Lakes Country Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,10 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "amhof8.com",
+    "website": "bearlakes.org",
     "activities": []
   },
-  "Grand Etage Club at Grand Ferdinand": {
+  "Emerald Dunes Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "Grand Etage Club at Grand Ferdinand",
+    "name": "Emerald Dunes Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,10 +44,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "grandferdinand.com",
+    "website": "emeralddunesclub.com",
     "activities": []
   },
-  "Österreichische Campagnereiter-Gesellschaft": {
+  "Palm Beach Yacht Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -56,7 +56,7 @@
         "lng": 0.0
       }
     },
-    "name": "Österreichische Campagnereiter-Gesellschaft",
+    "name": "Palm Beach Yacht Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -68,10 +68,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "campagnereiter.at",
+    "website": "pbyc.com",
     "activities": []
   },
-  "St Johanns Club": {
+  "Trump International Golf Club - West Palm Beach (\"Trump organization)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -80,7 +80,7 @@
         "lng": 0.0
       }
     },
-    "name": "St Johanns Club",
+    "name": "Trump International Golf Club - West Palm Beach (\"Trump organization)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -92,55 +92,7 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "sjc.at",
-    "activities": []
-  },
-  "Wiener Rennverein": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Wiener Rennverein",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "rennverein.at",
-    "activities": []
-  },
-  "Westwood Country Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Westwood Country Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "westwoodcc.com",
+    "website": "trumpinternationalpalmbeaches.com",
     "activities": []
   }
 }

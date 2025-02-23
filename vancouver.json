@@ -1,5 +1,29 @@
 {
-  "116 Club (aka One Sixteen Club)": {
+  "Arbutus Club": {
+    "formatted_address": "2001 Nanton Avenue, Vancouver, BC, V6J 4A1, Canada",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Arbutus Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "arbutusclub.com",
+    "activities": []
+  },
+  "Burrard Yacht Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "116 Club (aka One Sixteen Club)",
+    "name": "Burrard Yacht Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,10 +44,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "",
+    "website": "burrardyachtclub.com",
     "activities": []
   },
-  "Alibi Club": {
+  "Capilano Golf & Country Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,7 +56,7 @@
         "lng": 0.0
       }
     },
-    "name": "Alibi Club",
+    "name": "Capilano Golf & Country Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,19 +68,19 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Alibi_Club",
+    "website": "capilanogolf.com",
     "activities": []
   },
-  "Army and Navy Club": {
-    "formatted_address": "901 17th Street, NW, Washington DC 20006",
-    "formatted_phone_number": "202 628 8400 , 2027852481",
+  "Hollyburn Country Club": {
+    "formatted_address": "950 Crosscreek Road, West Vancouver, British Columbia, V7S 2S5",
+    "formatted_phone_number": "+1 604 9220161",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Army and Navy Club",
+    "name": "Hollyburn Country Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -68,10 +92,38 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "armynavyclub.org",
+    "website": "hollyburn.org",
+    "activities": [
+      "tennis",
+      "athletic",
+      "swimming"
+    ]
+  },
+  "Jericho Tennis Club": {
+    "formatted_address": "3837 Point Grey Road, Vancouver, BC, V6R 1B3, Canada",
+    "formatted_phone_number": "604 224 2348 , 6042243539",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Jericho Tennis Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "jerichotennisclub.com",
     "activities": []
   },
-  "Arts Club of Washington": {
+  "Point Grey Golf & Country Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -80,7 +132,7 @@
         "lng": 0.0
       }
     },
-    "name": "Arts Club of Washington",
+    "name": "Point Grey Golf & Country Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -92,10 +144,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "artsclubofwashington.org",
+    "website": "pointgreygolf.com",
     "activities": []
   },
-  "Capitol Hill Club (\"The National Republican Club)": {
+  "Royal Vancouver Yacht Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -104,7 +156,7 @@
         "lng": 0.0
       }
     },
-    "name": "Capitol Hill Club (\"The National Republican Club)",
+    "name": "Royal Vancouver Yacht Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -116,10 +168,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "capitolhillclub.org",
+    "website": "royalvan.com",
     "activities": []
   },
-  "City Tavern Club": {
+  "Seymour Golf & Country Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -128,7 +180,7 @@
         "lng": 0.0
       }
     },
-    "name": "City Tavern Club",
+    "name": "Seymour Golf & Country Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -140,10 +192,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "citytavernclubdc.org",
+    "website": "seymourgolf.com",
     "activities": []
   },
-  "Cosmos Club": {
+  "Shaughnessy Golf & Country Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -152,7 +204,7 @@
         "lng": 0.0
       }
     },
-    "name": "Cosmos Club",
+    "name": "Shaughnessy Golf & Country Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -164,10 +216,41 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "cosmosclub.org",
+    "website": "shaughnessy.org",
     "activities": []
   },
-  "George Town Club": {
+  "Terminal City Club": {
+    "formatted_address": "837 West Hastings Street, Vancouver, BC, V6C 1B6, Canada",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Terminal City Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "tcclub.com",
+    "activities": [
+      "swimming",
+      "badminton",
+      "tennis",
+      "gym",
+      "golf",
+      ""
+    ]
+  },
+  "University Women’s Club of Vancouver": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -176,7 +259,7 @@
         "lng": 0.0
       }
     },
-    "name": "George Town Club",
+    "name": "University Women’s Club of Vancouver",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -188,10 +271,36 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "georgetownclub.org",
+    "website": "uwcvancouver.ca",
     "activities": []
   },
-  "Metropolitan Club DC": {
+  "Vancouver Club": {
+    "formatted_address": "915 West Hastings, Vancouver, BC, V6C 1C6, Canada",
+    "formatted_phone_number": "+1 604 6859321",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Vancouver Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "vancouverclub.ca",
+    "activities": [
+      "athletic"
+    ]
+  },
+  "Vancouver Golf Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -200,7 +309,7 @@
         "lng": 0.0
       }
     },
-    "name": "Metropolitan Club DC",
+    "name": "Vancouver Golf Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -212,19 +321,19 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "metroclub.com",
+    "website": "vancouvergolfclub.com",
     "activities": []
   },
-  "National Democratic Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Vancouver Lawn Tennis & Badminton Club": {
+    "formatted_address": "1630 West 15th Avenue, Vancouver, V6J 2K7, Canada",
+    "formatted_phone_number": "+1 604 7312191",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "National Democratic Club",
+    "name": "Vancouver Lawn Tennis & Badminton Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -236,103 +345,11 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "natdemclub.org",
-    "activities": []
-  },
-  "National Press Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "National Press Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "press.org",
-    "activities": []
-  },
-  "Sulgrave Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Sulgrave Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "sulgraveclub.org",
-    "activities": []
-  },
-  "University Club Of Washington DC": {
-    "formatted_address": "1135 16th Street, NW, Washington DC 20036",
-    "formatted_phone_number": "202 862 8800 , 2022962347",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "University Club Of Washington DC",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "universityclubdc.com",
-    "activities": []
-  },
-  "wineLAIR D.C.": {
-    "formatted_address": "1120 22nd Street NW",
-    "formatted_phone_number": "+1 202 525 1209",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "wineLAIR D.C.",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "",
-    "activities": []
+    "website": "vanlawn.com",
+    "activities": [
+      "tennis",
+      "athletic",
+      "swimming"
+    ]
   }
 }

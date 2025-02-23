@@ -1,5 +1,5 @@
 {
-  "Klub Polskiej Rady Biznesu": {
+  "Dobson Yacht Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Klub Polskiej Rady Biznesu",
+    "name": "Dobson Yacht Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,7 +20,7 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "amber-room.pl",
+    "website": "dobsonyachtclub.com",
     "activities": []
   }
 }

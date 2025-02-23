@@ -1,14 +1,14 @@
 {
-  "Klub Polskiej Rady Biznesu": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Michigan Shores Club": {
+    "formatted_address": "911 Michigan Avenue",
+    "formatted_phone_number": "+1 847 251 4100",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Klub Polskiej Rady Biznesu",
+    "name": "Michigan Shores Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,7 +20,9 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "amber-room.pl",
-    "activities": []
+    "website": "michiganshores.org",
+    "activities": [
+      "athletic"
+    ]
   }
 }

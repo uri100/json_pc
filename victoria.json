@@ -1,6 +1,6 @@
 {
-  "Am Hof 8": {
-    "formatted_address": "",
+  "Kooyong Lawn Tennis Club": {
+    "formatted_address": "489 Glenferrie Road, Kooyong, VIC 3144",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Am Hof 8",
+    "name": "Kooyong Lawn Tennis Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,11 +20,11 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "amhof8.com",
+    "website": "kooyong.com.au",
     "activities": []
   },
-  "Grand Etage Club at Grand Ferdinand": {
-    "formatted_address": "",
+  "Peninsula Kingswood Country Golf Club": {
+    "formatted_address": "211-279 Skye Road, Frankston, Victoria 3199",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
@@ -32,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "Grand Etage Club at Grand Ferdinand",
+    "name": "Peninsula Kingswood Country Golf Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,10 +44,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "grandferdinand.com",
+    "website": "peninsulakingswood.com.au",
     "activities": []
   },
-  "Österreichische Campagnereiter-Gesellschaft": {
+  "Gorge Vale Golf Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -56,7 +56,7 @@
         "lng": 0.0
       }
     },
-    "name": "Österreichische Campagnereiter-Gesellschaft",
+    "name": "Gorge Vale Golf Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -68,10 +68,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "campagnereiter.at",
+    "website": "gorgevalegolf.com",
     "activities": []
   },
-  "St Johanns Club": {
+  "Royal Victoria Yacht Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -80,7 +80,7 @@
         "lng": 0.0
       }
     },
-    "name": "St Johanns Club",
+    "name": "Royal Victoria Yacht Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -92,11 +92,11 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "sjc.at",
+    "website": "rvyc.bc.ca",
     "activities": []
   },
-  "Wiener Rennverein": {
-    "formatted_address": "",
+  "Union Club of British Columbia": {
+    "formatted_address": "805 Gordon Street, Victoria, BC, V8W 1Z6, Canada",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
@@ -104,7 +104,7 @@
         "lng": 0.0
       }
     },
-    "name": "Wiener Rennverein",
+    "name": "Union Club of British Columbia",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -116,10 +116,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "rennverein.at",
+    "website": "unionclub.com",
     "activities": []
   },
-  "Westwood Country Club": {
+  "Uplands Golf Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -128,7 +128,7 @@
         "lng": 0.0
       }
     },
-    "name": "Westwood Country Club",
+    "name": "Uplands Golf Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -140,7 +140,55 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "westwoodcc.com",
+    "website": "uplandsgolfclub.com",
+    "activities": []
+  },
+  "Victoria Golf Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Victoria Golf Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "victoriagolf.com",
+    "activities": []
+  },
+  "Seychelles Yacht Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Seychelles Yacht Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "seychellesyachtclub.net.sc",
     "activities": []
   }
 }

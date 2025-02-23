@@ -1,14 +1,14 @@
 {
-  "Klub Polskiej Rady Biznesu": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Blue Lakes Country Club": {
+    "formatted_address": "1940 Blue Lake Grade, P.O. Box 5729, Twin Falls, ID 83303",
+    "formatted_phone_number": "208 733 2330 , 2087332583",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Klub Polskiej Rady Biznesu",
+    "name": "Blue Lakes Country Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,7 +20,7 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "amber-room.pl",
+    "website": "bluelakescc.com",
     "activities": []
   }
 }

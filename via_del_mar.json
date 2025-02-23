@@ -1,14 +1,14 @@
 {
-  "Klub Polskiej Rady Biznesu": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Club de Vina": {
+    "formatted_address": "Plaza Sucre",
+    "formatted_phone_number": "+56 32 680016",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Klub Polskiej Rady Biznesu",
+    "name": "Club de Vina",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,7 +20,7 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "amber-room.pl",
+    "website": "",
     "activities": []
   }
 }
