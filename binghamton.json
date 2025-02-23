@@ -1,0 +1,26 @@
+{
+  "Binghamton Club": {
+    "formatted_address": "83 Front Street, Binghamton, NY 13905",
+    "formatted_phone_number": "607 722 2329 , 6077226164",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Binghamton Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "binghamtonclub.com",
+    "activities": []
+  }
+}

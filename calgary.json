@@ -1,0 +1,106 @@
+{
+  "Calgary Petroleum Club": {
+    "formatted_address": "319 - 5 Avenue S.W., Calgary, Alberta, T2P 0L5",
+    "formatted_phone_number": "+1 403 269 7981 , '+1 4032621299",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Calgary Petroleum Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "calpeteclub.com",
+    "activities": []
+  },
+  "Eau Claire Athletic Club (under development)": {
+    "formatted_address": "101 3 Street SW, Calgary T2P 4G6, Canada",
+    "formatted_phone_number": "+1 825 962 3222",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Eau Claire Athletic Club (under development)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "The Eau Claire Athletic Club is an exclusive members-only private club set to open in 2025 in the iconic former Eau Claire YMCA. The historic building is being completely modernized, seamlessly blending classic architecture with contemporary luxury. ECAC is proud to preserve beloved amenities such as the 6-lane lap pool, squash courts and fourth-floor running track, ensuring the heart of the building is stewarded to it’s next life. Members will enjoy a host of brand new amenities including a 2000 sq ft Nordic Spa, two Food and Beverage outlets, cutting-edge Wellness and Fitness Tech, and luxury locker rooms.ECAC is Calgary’s modern, sophisticated downtown club and will redefine the wellness landscape in the heart of Alberta.",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": [
+      "fitness",
+      "swimming",
+      "running",
+      "squash",
+      "golf",
+      "yoga",
+      "pilates"
+    ]
+  },
+  "Glencoe Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Glencoe Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "glencoe.org",
+    "activities": []
+  },
+  "Ranchmen’s Club of Calgary": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Ranchmen’s Club of Calgary",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "ranchmensclub.com",
+    "activities": []
+  }
+}

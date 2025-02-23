@@ -1,0 +1,26 @@
+{
+  "Chateau Sainte-Anne": {
+    "formatted_address": "Rue Du Vieux-moulin, 103-1160 Bruxelles, Belgium",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Chateau Sainte-Anne",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "chateau-sainte-anne.be",
+    "activities": []
+  }
+}

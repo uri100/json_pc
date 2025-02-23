@@ -1,0 +1,53 @@
+{
+  "Club de Banqueros y Empresarios": {
+    "formatted_address": "Carrera 8 # 12b - 82, third floor",
+    "formatted_phone_number": "+571 3361999",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Club de Banqueros y Empresarios",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "clubcbe.com",
+    "activities": []
+  },
+  "Club El Nogal": {
+    "formatted_address": "Cra. 7 No. 78-96",
+    "formatted_phone_number": "+57 1 3267700",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Club El Nogal",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "clubelnogal.com",
+    "activities": [
+      "athletic",
+      "swimming"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Bellevue Club": {
+    "formatted_address": "11200 SE 6th Street, Bellevue, WA 98004",
+    "formatted_phone_number": "425 455 1616 , 4254544424",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Bellevue Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "bellevueclub.com",
+    "activities": [
+      "tennis",
+      "athletic",
+      "swimming"
+    ]
+  }
+}

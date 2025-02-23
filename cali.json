@@ -1,0 +1,53 @@
+{
+  "Club Colombia": {
+    "formatted_address": "Avenida 3 Norte # 16 N 23",
+    "formatted_phone_number": "+57 2 685 7600",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Club Colombia",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "clubcolombia.org",
+    "activities": [
+      "athletic",
+      "swimming"
+    ]
+  },
+  "Club de Ejecutivos Cali": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Club de Ejecutivos Cali",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "clubdeejecutivos.com",
+    "activities": []
+  }
+}

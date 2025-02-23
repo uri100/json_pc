@@ -1,0 +1,28 @@
+{
+  "Golfclub Beuerberg e.V.": {
+    "formatted_address": "Gut Sterz",
+    "formatted_phone_number": "+49 8179 617ext728",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Golfclub Beuerberg e.V.",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": [
+      "golf"
+    ]
+  }
+}

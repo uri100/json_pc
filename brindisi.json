@@ -1,0 +1,29 @@
+{
+  "San Domenico Golf": {
+    "formatted_address": "72010 Savelletri di Fasano (Brindisi)",
+    "formatted_phone_number": "+39 080 4829200",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "San Domenico Golf",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": [
+      "golf",
+      "swimming"
+    ]
+  }
+}
