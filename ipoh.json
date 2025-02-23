@@ -1,0 +1,52 @@
+{
+  "Clearwater Sanctuary Golf Resort": {
+    "formatted_address": "Lot 6019, Jalan Changkat Larang",
+    "formatted_phone_number": "+605 366 7433",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Clearwater Sanctuary Golf Resort",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": [
+      "golf"
+    ]
+  },
+  "Ipoh Swimming Club": {
+    "formatted_address": "144 Jalan Gopeng, Ipoh 31350, Malaysia",
+    "formatted_phone_number": "02 05 254 4176 , 2052416519",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Ipoh Swimming Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": []
+  }
+}

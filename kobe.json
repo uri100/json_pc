@@ -1,0 +1,50 @@
+{
+  "Kobe Club": {
+    "formatted_address": "4-15-1 Kitano-cho, Chuo-Ku, Kobe, Japan 650-0002",
+    "formatted_phone_number": "81 78 241 2588 , 81782918054",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Kobe Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "kobeclub.org",
+    "activities": []
+  },
+  "Kobe Regatta & Athletic Club": {
+    "formatted_address": "1-20, 2-chome, Hachiman-dori, Chuo-Ku, Kobe, Japan 651-0085",
+    "formatted_phone_number": "81 78 231 2271 , 81782217502",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Kobe Regatta & Athletic Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "krac.org",
+    "activities": []
+  }
+}

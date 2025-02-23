@@ -1,0 +1,26 @@
+{
+  "The Hill Society": {
+    "formatted_address": "One North Second Street, Harrisburg, PA 17101",
+    "formatted_phone_number": "717 255 1808 , 7172336271",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Hill Society",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "thehillsociety.com",
+    "activities": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Hudson Yacht Club": {
+    "formatted_address": "10 Yacht Club Road, Hudson, QC J0P 1H0",
+    "formatted_phone_number": "450 458 5326 , 4504585141",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Hudson Yacht Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "hudsonyachtclub.com",
+    "activities": []
+  }
+}

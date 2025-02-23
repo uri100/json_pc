@@ -1,0 +1,74 @@
+{
+  "Deercreek Country Club (\"ClubCorp)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Deercreek Country Club (\"ClubCorp)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "clubcorp.com/Clubs/Deercreek-Country-Club",
+    "activities": []
+  },
+  "Epping-Forest Yacht & Country Club": {
+    "formatted_address": "1830 Epping Forest Drive, Jacksonville, FL 32217",
+    "formatted_phone_number": "904 739 7200 , 9044487070",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Epping-Forest Yacht & Country Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "efyc.com",
+    "activities": []
+  },
+  "River Club of Jacksonville": {
+    "formatted_address": "1 Independent Drive, Suite 3500, Jacksonville, FL 32202",
+    "formatted_phone_number": "904 354 1111 , 9043500346",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "River Club of Jacksonville",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "jaxriverclub.com",
+    "activities": []
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "Outrigger Canoe Club": {
+    "formatted_address": "2909 Kalakaua Avenue, Honolulu, HI 96815",
+    "formatted_phone_number": "808 923 1585 , 8089211414",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Outrigger Canoe Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "outriggercanoeclub.com",
+    "activities": []
+  },
+  "The Pacific Club": {
+    "formatted_address": "1451 Queen Emma Street, Honolulu, HI 96813",
+    "formatted_phone_number": "808 536 0836 , 8085336710",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Pacific Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "thepacificclub.org",
+    "activities": []
+  }
+}

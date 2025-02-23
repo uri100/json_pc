@@ -1,0 +1,28 @@
+{
+  "Royal Langkawi Yacht Club": {
+    "formatted_address": "Jln Dato Syed Omar, 07000 Kuah Langkawi, Kedah, Darul Aman, Malaysia",
+    "formatted_phone_number": "6 04 966 4078 , 6049665078",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Royal Langkawi Yacht Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "langkawiyachtclub.com",
+    "activities": [
+      "swimming"
+    ]
+  }
+}
