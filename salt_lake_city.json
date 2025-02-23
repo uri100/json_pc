@@ -1,0 +1,53 @@
+{
+  "Alta Club": {
+    "formatted_address": "100 East South Temple",
+    "formatted_phone_number": "801 322 1081 , 8013221083",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Alta Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "altaclub.org",
+    "activities": []
+  },
+  "Edison House": {
+    "formatted_address": "335 S 200 W",
+    "formatted_phone_number": "+1 385 799 7630",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Edison House",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": [
+      "athletic",
+      "swimming"
+    ]
+  }
+}

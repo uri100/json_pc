@@ -1,0 +1,29 @@
+{
+  "Sarasota Yacht Club": {
+    "formatted_address": "1100 John Ringling Boulevard, Sarasota, Florida, 34236",
+    "formatted_phone_number": "941 365 4191 , 9413730121",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Sarasota Yacht Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "sarasotayachtclub.org",
+    "activities": [
+      "swimming",
+      "athletic"
+    ]
+  }
+}

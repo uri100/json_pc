@@ -1,0 +1,50 @@
+{
+  "Castle Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Castle Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "westernclub.co.uk/club/castle-club-gentlemen-only",
+    "activities": []
+  },
+  "Genesee Valley Club": {
+    "formatted_address": "421 East Avenue, Rochester, NY 14607",
+    "formatted_phone_number": "585 271 1010 , 5852711197",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Genesee Valley Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "gvalleyclub.org",
+    "activities": []
+  }
+}

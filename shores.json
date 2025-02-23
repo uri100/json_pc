@@ -1,0 +1,26 @@
+{
+  "Grosse Pointe Yacht Club": {
+    "formatted_address": "788 Lake Shore Road, Grosse Pointe Shore, MI 48236",
+    "formatted_phone_number": "313 884 2500 , 3138847956",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Grosse Pointe Yacht Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "gpyc.org",
+    "activities": []
+  }
+}

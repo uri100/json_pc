@@ -1,6 +1,6 @@
 {
-  "Circolo Antico Tiro a Volo": {
-    "formatted_address": "",
+  "Ambassy Club": {
+    "formatted_address": "1500 Central Huai Hai Road, Shanghai, 200031",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Circolo Antico Tiro a Volo",
+    "name": "Ambassy Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,19 +20,19 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "anticotiroavolo.com",
+    "website": "ambassyclub.com.cn",
     "activities": []
   },
-  "Circolo Canottieri Aniene": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Calgary Winter Club": {
+    "formatted_address": "4611-14th St. NW, Calgary, Alberta, T2K 1J7, Canada",
+    "formatted_phone_number": "403 289 5511 , 4032826392",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Circolo Canottieri Aniene",
+    "name": "Calgary Winter Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,10 +44,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "ccaniene.com",
+    "website": "calgarywinterclub.com",
     "activities": []
   },
-  "Circolo del Ministero degli Esteri": {
+  "Kee Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -56,7 +56,7 @@
         "lng": 0.0
       }
     },
-    "name": "Circolo del Ministero degli Esteri",
+    "name": "Kee Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -68,10 +68,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "circoloesteri.it",
+    "website": "smartshanghai.com/venue/4104/Kee_Club_shanghai",
     "activities": []
   },
-  "Circolo della Caccia Roma": {
+  "Roosevelt Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -80,7 +80,7 @@
         "lng": 0.0
       }
     },
-    "name": "Circolo della Caccia Roma",
+    "name": "Roosevelt Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -92,19 +92,19 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "circolodellacaccia.it",
+    "website": "27bund.com",
     "activities": []
   },
-  "Nuovo Circolo degli Scacchi": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Shanghai Racquet Club": {
+    "formatted_address": "Lane 555 Jinfeng Road, Hua Cao Town, Minhang District",
+    "formatted_phone_number": "+86 21 22010000",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Nuovo Circolo degli Scacchi",
+    "name": "Shanghai Racquet Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -116,11 +116,39 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "ccaniene.com",
+    "website": "src.com.cn",
+    "activities": [
+      "tennis",
+      "athletic",
+      "swimming"
+    ]
+  },
+  "Shanghai Savage Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Shanghai Savage Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "shanghaisavage.club",
     "activities": []
   },
-  "Reale Circolo Canottieri Tevere Remo": {
-    "formatted_address": "",
+  "Shanghai Town & Country Club": {
+    "formatted_address": "No. 46 Luding Road, Putuo District, Shanghai, P.R. China, 200062",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
@@ -128,7 +156,7 @@
         "lng": 0.0
       }
     },
-    "name": "Reale Circolo Canottieri Tevere Remo",
+    "name": "Shanghai Town & Country Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -140,19 +168,19 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "rcctevereremo.it",
+    "website": "stcclifestyle.cn",
     "activities": []
   },
-  "Tennis Club Parioli": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Yongfoo Elite": {
+    "formatted_address": "200 Yong Fu Road",
+    "formatted_phone_number": "+86 21 54662727",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Tennis Club Parioli",
+    "name": "Yongfoo Elite",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -164,31 +192,7 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "tcparioli.it",
-    "activities": []
-  },
-  "Roma Polo Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Roma Polo Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "romapoloclub.it",
+    "website": "",
     "activities": []
   }
 }

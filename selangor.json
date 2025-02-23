@@ -1,0 +1,54 @@
+{
+  "Bukit Unggul Country Club": {
+    "formatted_address": "Lot PT 2180-2182, Mukim Dengkil, Daerah Sepang, 43807 Sepang",
+    "formatted_phone_number": "+60 3 89201129",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Bukit Unggul Country Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": [
+      "golf",
+      "athletic",
+      "swimming"
+    ]
+  },
+  "Kelab Shah Alam Selangor": {
+    "formatted_address": "No.1A Jln Aerobik 13/43, Persiaran Kayangan, Seksyen 8, 40704 Shah Alam, Selangor, Malaysia",
+    "formatted_phone_number": "02 03 5510 0001 , 20355100596",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Kelab Shah Alam Selangor",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "kelabshahalam.com",
+    "activities": []
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "Circolo Antico Tiro a Volo": {
+  "College Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Circolo Antico Tiro a Volo",
+    "name": "College Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,10 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "anticotiroavolo.com",
+    "website": "collegeclubseattle.com",
     "activities": []
   },
-  "Circolo Canottieri Aniene": {
+  "Columbia Tower Club (\"ClubCorp)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "Circolo Canottieri Aniene",
+    "name": "Columbia Tower Club (\"ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,10 +44,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "ccaniene.com",
+    "website": "clubcorp.com/Clubs/Columbia-Tower-Club",
     "activities": []
   },
-  "Circolo del Ministero degli Esteri": {
+  "Rainier Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -56,7 +56,7 @@
         "lng": 0.0
       }
     },
-    "name": "Circolo del Ministero degli Esteri",
+    "name": "Rainier Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -68,10 +68,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "circoloesteri.it",
+    "website": "therainierclub.com",
     "activities": []
   },
-  "Circolo della Caccia Roma": {
+  "Sunset Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -80,7 +80,7 @@
         "lng": 0.0
       }
     },
-    "name": "Circolo della Caccia Roma",
+    "name": "Sunset Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -92,10 +92,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "circolodellacaccia.it",
+    "website": "sunset-club.org",
     "activities": []
   },
-  "Nuovo Circolo degli Scacchi": {
+  "University of Washington Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -104,7 +104,7 @@
         "lng": 0.0
       }
     },
-    "name": "Nuovo Circolo degli Scacchi",
+    "name": "University of Washington Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -116,11 +116,11 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "ccaniene.com",
+    "website": "uofwashingtonclub.org",
     "activities": []
   },
-  "Reale Circolo Canottieri Tevere Remo": {
-    "formatted_address": "",
+  "Washington Athletic Club": {
+    "formatted_address": "1325 Sixth Avenue, Seattle, WA 9811",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
@@ -128,7 +128,7 @@
         "lng": 0.0
       }
     },
-    "name": "Reale Circolo Canottieri Tevere Remo",
+    "name": "Washington Athletic Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -140,10 +140,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "rcctevereremo.it",
+    "website": "wac.net",
     "activities": []
   },
-  "Tennis Club Parioli": {
+  "Women’s University Club of Seattle": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -152,7 +152,7 @@
         "lng": 0.0
       }
     },
-    "name": "Tennis Club Parioli",
+    "name": "Women’s University Club of Seattle",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -164,31 +164,7 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "tcparioli.it",
-    "activities": []
-  },
-  "Roma Polo Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Roma Polo Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "romapoloclub.it",
+    "website": "womensuniversityclub.com",
     "activities": []
   }
 }

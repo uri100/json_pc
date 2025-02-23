@@ -1,0 +1,50 @@
+{
+  "Club Unión San Jose": {
+    "formatted_address": "Entre la Avenida 1 y 3, en la Calle 2, frente al Correo Central, San José, Costa Rica 10102",
+    "formatted_phone_number": "(506) 2257 1555",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Club Unión San Jose",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "clubunion.com",
+    "activities": []
+  },
+  "Costa Rica Country Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Costa Rica Country Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "elcountry.cr",
+    "activities": []
+  }
+}

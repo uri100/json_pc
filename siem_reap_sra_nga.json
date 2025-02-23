@@ -1,0 +1,28 @@
+{
+  "Angkor Golf Resort": {
+    "formatted_address": "Kasekam Village",
+    "formatted_phone_number": "+855 63 767 688 / 89",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Angkor Golf Resort",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": [
+      "golf"
+    ]
+  }
+}

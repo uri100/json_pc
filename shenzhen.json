@@ -1,0 +1,29 @@
+{
+  "Shenzhen Bay Club": {
+    "formatted_address": "No. 3223-8, Keyuan Nan Road, Nanshan District",
+    "formatted_phone_number": "+86 755 8666 6688",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Shenzhen Bay Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "szprl.com",
+    "activities": [
+      "athletic",
+      "swimming"
+    ]
+  }
+}
