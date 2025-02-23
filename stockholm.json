@@ -1,5 +1,5 @@
 {
-  "Foreign Correspondents’ Club of Japan": {
+  "Alma": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Foreign Correspondents’ Club of Japan",
+    "name": "Alma",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,10 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "fccj.or.jp",
+    "website": "thisisalma.com",
     "activities": []
   },
-  "International House of Japan": {
+  "Djursholm Country Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "International House of Japan",
+    "name": "Djursholm Country Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,10 +44,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "ihj.global",
+    "website": "djursholmcountryclub.com",
     "activities": []
   },
-  "Kasumi Kaikan": {
+  "Militärsällskapet": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -56,7 +56,7 @@
         "lng": 0.0
       }
     },
-    "name": "Kasumi Kaikan",
+    "name": "Militärsällskapet",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -68,10 +68,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "",
+    "website": "militarsallskapet.se",
     "activities": []
   },
-  "New City Club of Tokyo": {
+  "Nya Sällskapet": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -80,7 +80,7 @@
         "lng": 0.0
       }
     },
-    "name": "New City Club of Tokyo",
+    "name": "Nya Sällskapet",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -92,19 +92,19 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "newcitycluboftokyo.jp",
+    "website": "wikipedia.org/wiki/Nya_S%C3%A4llskapet",
     "activities": []
   },
-  "Roppongi Hills Club": {
-    "formatted_address": "51 Fl Roponggi Hills Mori Tower, 6-10-1 Roppongi, Minato-Ku, Tokyo 106-6151, Japan",
-    "formatted_phone_number": "81 36 406 6001 , 81364066002",
+  "The Club Sallskapet": {
+    "formatted_address": "Arsenalsgatan 7, SE-11147 Stockholm, Sweden",
+    "formatted_phone_number": "46 8 679 5590 , 4686115596",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Roppongi Hills Club",
+    "name": "The Club Sallskapet",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -116,31 +116,7 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "roppongihillsclub.com",
-    "activities": []
-  },
-  "Tokyo American Club & TAC Nihonbashi": {
-    "formatted_address": "2-1-2 Azabudai, Minato-Ku, 108-8649, Tokyo, Japan",
-    "formatted_phone_number": "81 03 4588 0381 , 810345880703",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Tokyo American Club & TAC Nihonbashi",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "tokyoamericanclub.org",
+    "website": "sallskapet.se",
     "activities": []
   }
 }

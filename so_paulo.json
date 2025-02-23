@@ -1,5 +1,5 @@
 {
-  "Foreign Correspondents’ Club of Japan": {
+  "Clube Atlético São Paulo": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Foreign Correspondents’ Club of Japan",
+    "name": "Clube Atlético São Paulo",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,10 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "fccj.or.jp",
+    "website": "spac.org.br",
     "activities": []
   },
-  "International House of Japan": {
+  "Clube Círculo Militar de Sáo Paulo": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "International House of Japan",
+    "name": "Clube Círculo Militar de Sáo Paulo",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,10 +44,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "ihj.global",
+    "website": "circulomilitar.org.br",
     "activities": []
   },
-  "Kasumi Kaikan": {
+  "Iate Clube de Santos": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -56,7 +56,7 @@
         "lng": 0.0
       }
     },
-    "name": "Kasumi Kaikan",
+    "name": "Iate Clube de Santos",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -68,10 +68,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "",
+    "website": "icsantos.com.br",
     "activities": []
   },
-  "New City Club of Tokyo": {
+  "Jockey Club de São Paulo": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -80,7 +80,7 @@
         "lng": 0.0
       }
     },
-    "name": "New City Club of Tokyo",
+    "name": "Jockey Club de São Paulo",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -92,19 +92,19 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "newcitycluboftokyo.jp",
+    "website": "jockeysp.com.br",
     "activities": []
   },
-  "Roppongi Hills Club": {
-    "formatted_address": "51 Fl Roponggi Hills Mori Tower, 6-10-1 Roppongi, Minato-Ku, Tokyo 106-6151, Japan",
-    "formatted_phone_number": "81 36 406 6001 , 81364066002",
+  "Nacional Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Roppongi Hills Club",
+    "name": "Nacional Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -116,19 +116,19 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "roppongihillsclub.com",
+    "website": "nacionalclub.com.br",
     "activities": []
   },
-  "Tokyo American Club & TAC Nihonbashi": {
-    "formatted_address": "2-1-2 Azabudai, Minato-Ku, 108-8649, Tokyo, Japan",
-    "formatted_phone_number": "81 03 4588 0381 , 810345880703",
+  "São Paulo Yacht Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Tokyo American Club & TAC Nihonbashi",
+    "name": "São Paulo Yacht Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -140,7 +140,31 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "tokyoamericanclub.org",
+    "website": "spyc.com.br",
+    "activities": []
+  },
+  "Sociedade Harmonia de Tenis": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Sociedade Harmonia de Tenis",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "sht.org.br",
     "activities": []
   }
 }

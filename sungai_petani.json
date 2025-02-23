@@ -1,0 +1,31 @@
+{
+  "Cinta Sayang Golf & Country Resort": {
+    "formatted_address": "Persiaran Cinta Sayang",
+    "formatted_phone_number": "+60 4 4414666",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Cinta Sayang Golf & Country Resort",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": [
+      "golf",
+      "tennis",
+      "athletic",
+      "swimming"
+    ]
+  }
+}

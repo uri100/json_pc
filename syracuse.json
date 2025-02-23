@@ -1,0 +1,26 @@
+{
+  "Century Club of Syracuse": {
+    "formatted_address": "480 James Street, Syracuse, NY 13203",
+    "formatted_phone_number": "315 422 6161 , 3154722547",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Century Club of Syracuse",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "centuryclubofsyracuse.com",
+    "activities": []
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "American Club Taipei": {
+    "formatted_address": "47 Bei-An Road, Taipei, 10462, Taiwan ROC",
+    "formatted_phone_number": "886 22885 8260 , 886228858055",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "American Club Taipei",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "americanclub.org.tw",
+    "activities": []
+  },
+  "Yuan Shan Club of Taipei": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Yuan Shan Club of Taipei",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "grand-hotel.org",
+    "activities": []
+  }
+}

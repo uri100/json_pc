@@ -1,0 +1,30 @@
+{
+  "Bayview Country Club": {
+    "formatted_address": "25 Fairway Heights Drive",
+    "formatted_phone_number": "+1 905 8894833",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Bayview Country Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": [
+      "tennis",
+      "athletic",
+      "swimming"
+    ]
+  }
+}
