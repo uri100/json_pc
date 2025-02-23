@@ -1,0 +1,26 @@
+{
+  "Chateau des Vigiers Hotel, Golf & Country Club": {
+    "formatted_address": "Lieu dit Le Vigier, 24240 Monestier, France",
+    "formatted_phone_number": "33 5 5361 5000 , 33553615020",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Chateau des Vigiers Hotel, Golf & Country Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "vigiers.com",
+    "activities": []
+  }
+}

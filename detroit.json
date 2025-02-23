@@ -1,5 +1,5 @@
 {
-  "Kildare Street and University Club": {
+  "Book Club of Detroit": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Kildare Street and University Club",
+    "name": "Book Club of Detroit",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,10 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "ksuc.ie",
+    "website": "bookclubofdetroit.org",
     "activities": []
   },
-  "Royal Dublin Society": {
+  "Detroit Athletic Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "Royal Dublin Society",
+    "name": "Detroit Athletic Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,19 +44,19 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "rds.ie",
+    "website": "thedac.com",
     "activities": []
   },
-  "Royal Dublin Society (RDS)": {
-    "formatted_address": "Ballsbridge",
-    "formatted_phone_number": "+353 1 2407296",
+  "Detroit Club": {
+    "formatted_address": "712 Cass Avenue",
+    "formatted_phone_number": "+1 313 3383222",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Royal Dublin Society (RDS)",
+    "name": "Detroit Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -68,10 +68,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "",
+    "website": "thedetroitclub.com",
     "activities": []
   },
-  "Royal Irish Automobile Club": {
+  "Detroit Racquet Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -80,7 +80,7 @@
         "lng": 0.0
       }
     },
-    "name": "Royal Irish Automobile Club",
+    "name": "Detroit Racquet Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -92,10 +92,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "riac.ie",
+    "website": "drc-1902.com",
     "activities": []
   },
-  "Stephen's Green Hibernian Club": {
+  "The Players Detroit": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -104,7 +104,7 @@
         "lng": 0.0
       }
     },
-    "name": "Stephen's Green Hibernian Club",
+    "name": "The Players Detroit",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -116,31 +116,7 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "sghc.ie",
-    "activities": []
-  },
-  "United Arts Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "United Arts Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "dublinarts.com",
+    "website": "playersdetroit.org",
     "activities": []
   }
 }

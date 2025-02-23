@@ -1,5 +1,5 @@
 {
-  "Kildare Street and University Club": {
+  "Arboretum": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Kildare Street and University Club",
+    "name": "Arboretum",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,10 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "ksuc.ie",
+    "website": "arboretumlondon.com",
     "activities": []
   },
-  "Royal Dublin Society": {
+  "Brydges Place Club (\"formerly Two Brydges Club until 2020)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "Royal Dublin Society",
+    "name": "Brydges Place Club (\"formerly Two Brydges Club until 2020)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,34 +44,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "rds.ie",
+    "website": "brydgesplace.com",
     "activities": []
   },
-  "Royal Dublin Society (RDS)": {
-    "formatted_address": "Ballsbridge",
-    "formatted_phone_number": "+353 1 2407296",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Royal Dublin Society (RDS)",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "",
-    "activities": []
-  },
-  "Royal Irish Automobile Club": {
+  "Garrick Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -80,7 +56,7 @@
         "lng": 0.0
       }
     },
-    "name": "Royal Irish Automobile Club",
+    "name": "Garrick Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -92,10 +68,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "riac.ie",
+    "website": "garrickclub.co.uk",
     "activities": []
   },
-  "Stephen's Green Hibernian Club": {
+  "The Club at the Ivy": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -104,7 +80,7 @@
         "lng": 0.0
       }
     },
-    "name": "Stephen's Green Hibernian Club",
+    "name": "The Club at the Ivy",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -116,10 +92,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "sghc.ie",
+    "website": "the-ivyclub.co.uk",
     "activities": []
   },
-  "United Arts Club": {
+  "The Conduit": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -128,7 +104,7 @@
         "lng": 0.0
       }
     },
-    "name": "United Arts Club",
+    "name": "The Conduit",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -140,7 +116,7 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "dublinarts.com",
+    "website": "theconduit.com",
     "activities": []
   }
 }

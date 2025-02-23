@@ -1,5 +1,5 @@
 {
-  "Kildare Street and University Club": {
+  "Dana Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Kildare Street and University Club",
+    "name": "Dana Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,10 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "ksuc.ie",
+    "website": "danaclub.com.qa",
     "activities": []
   },
-  "Royal Dublin Society": {
+  "Diplomatic Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "Royal Dublin Society",
+    "name": "Diplomatic Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,19 +44,91 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "rds.ie",
+    "website": "thediplomaticclub.com",
     "activities": []
   },
-  "Royal Dublin Society (RDS)": {
-    "formatted_address": "Ballsbridge",
-    "formatted_phone_number": "+353 1 2407296",
+  "Katara Beach Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Royal Dublin Society (RDS)",
+    "name": "Katara Beach Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "katara-livnordic.com",
+    "activities": []
+  },
+  "Saint Tropez": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Saint Tropez",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "saint-tropez-doha.com",
+    "activities": []
+  },
+  "TaliaMare Beach Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "TaliaMare Beach Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "taliamare.com",
+    "activities": []
+  },
+  "The Diplomatic Club": {
+    "formatted_address": "Al Istiqlal Street",
+    "formatted_phone_number": "+974 44847444",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Diplomatic Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -69,78 +141,10 @@
     "logo": "",
     "user_ratings_total": 0,
     "website": "",
-    "activities": []
-  },
-  "Royal Irish Automobile Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Royal Irish Automobile Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "riac.ie",
-    "activities": []
-  },
-  "Stephen's Green Hibernian Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Stephen's Green Hibernian Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "sghc.ie",
-    "activities": []
-  },
-  "United Arts Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "United Arts Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "dublinarts.com",
-    "activities": []
+    "activities": [
+      "tennis",
+      "athletic",
+      "swimming"
+    ]
   }
 }

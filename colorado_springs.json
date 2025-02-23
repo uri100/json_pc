@@ -1,0 +1,26 @@
+{
+  "El Paso Club Colorado": {
+    "formatted_address": "30 East Platte",
+    "formatted_phone_number": "+1 719 6341564",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "El Paso Club Colorado",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "elpasoclub.com",
+    "activities": []
+  }
+}

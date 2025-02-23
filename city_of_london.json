@@ -1,5 +1,5 @@
 {
-  "Kildare Street and University Club": {
+  "City Livery Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Kildare Street and University Club",
+    "name": "City Livery Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,10 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "ksuc.ie",
+    "website": "cityliveryclub.com",
     "activities": []
   },
-  "Royal Dublin Society": {
+  "City of London Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "Royal Dublin Society",
+    "name": "City of London Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,34 +44,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "rds.ie",
+    "website": "cityoflondonclub.com",
     "activities": []
   },
-  "Royal Dublin Society (RDS)": {
-    "formatted_address": "Ballsbridge",
-    "formatted_phone_number": "+353 1 2407296",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Royal Dublin Society (RDS)",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "",
-    "activities": []
-  },
-  "Royal Irish Automobile Club": {
+  "City University Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -80,7 +56,7 @@
         "lng": 0.0
       }
     },
-    "name": "Royal Irish Automobile Club",
+    "name": "City University Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -92,10 +68,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "riac.ie",
+    "website": "cityuniversityclub.co.uk",
     "activities": []
   },
-  "Stephen's Green Hibernian Club": {
+  "Little Ship Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -104,7 +80,7 @@
         "lng": 0.0
       }
     },
-    "name": "Stephen's Green Hibernian Club",
+    "name": "Little Ship Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -116,10 +92,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "sghc.ie",
+    "website": "littleshipclub.co.uk",
     "activities": []
   },
-  "United Arts Club": {
+  "Ned’s Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -128,7 +104,7 @@
         "lng": 0.0
       }
     },
-    "name": "United Arts Club",
+    "name": "Ned’s Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -140,7 +116,103 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "dublinarts.com",
+    "website": "thened.com",
+    "activities": []
+  },
+  "Pavilion Club London": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Pavilion Club London",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "pavilion.club",
+    "activities": []
+  },
+  "Ten Trinity Square": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Ten Trinity Square",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "club.tentrinitysquare.com",
+    "activities": []
+  },
+  "The Clubhouse Bank (\"Blaskey Group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Clubhouse Bank (\"Blaskey Group)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "theclubhouselondon.com/locations/bank",
+    "activities": []
+  },
+  "Walbrook Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Walbrook Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "walbrook-club.co.uk",
     "activities": []
   }
 }

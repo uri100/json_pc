@@ -1,5 +1,5 @@
 {
-  "Kildare Street and University Club": {
+  "Coimbatore Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Kildare Street and University Club",
+    "name": "Coimbatore Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,10 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "ksuc.ie",
+    "website": "thecoimbatore.club",
     "activities": []
   },
-  "Royal Dublin Society": {
+  "Coimbatore Cosmopolitan Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "Royal Dublin Society",
+    "name": "Coimbatore Cosmopolitan Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,34 +44,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "rds.ie",
+    "website": "cbecosmoclub.in",
     "activities": []
   },
-  "Royal Dublin Society (RDS)": {
-    "formatted_address": "Ballsbridge",
-    "formatted_phone_number": "+353 1 2407296",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Royal Dublin Society (RDS)",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "",
-    "activities": []
-  },
-  "Royal Irish Automobile Club": {
+  "Coimbatore Golf Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -80,7 +56,7 @@
         "lng": 0.0
       }
     },
-    "name": "Royal Irish Automobile Club",
+    "name": "Coimbatore Golf Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -92,10 +68,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "riac.ie",
+    "website": "coimbatoregolfclub.com",
     "activities": []
   },
-  "Stephen's Green Hibernian Club": {
+  "Jenney's Residency": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -104,7 +80,7 @@
         "lng": 0.0
       }
     },
-    "name": "Stephen's Green Hibernian Club",
+    "name": "Jenney's Residency",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -116,10 +92,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "sghc.ie",
+    "website": "jenneyresidency.in",
     "activities": []
   },
-  "United Arts Club": {
+  "Kerala Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -128,7 +104,7 @@
         "lng": 0.0
       }
     },
-    "name": "United Arts Club",
+    "name": "Kerala Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -140,7 +116,31 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "dublinarts.com",
+    "website": "thekeralaclub.com",
+    "activities": []
+  },
+  "R. S. Puram Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "R. S. Puram Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "therspuramclub.com",
     "activities": []
   }
 }

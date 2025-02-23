@@ -1,5 +1,5 @@
 {
-  "Kildare Street and University Club": {
+  "Hermit Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Kildare Street and University Club",
+    "name": "Hermit Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,10 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "ksuc.ie",
+    "website": "thehermitclub.org",
     "activities": []
   },
-  "Royal Dublin Society": {
+  "Rowfant Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "Royal Dublin Society",
+    "name": "Rowfant Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,34 +44,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "rds.ie",
+    "website": "rowfant.org",
     "activities": []
   },
-  "Royal Dublin Society (RDS)": {
-    "formatted_address": "Ballsbridge",
-    "formatted_phone_number": "+353 1 2407296",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Royal Dublin Society (RDS)",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "",
-    "activities": []
-  },
-  "Royal Irish Automobile Club": {
+  "Tavern Club Cleveland": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -80,7 +56,7 @@
         "lng": 0.0
       }
     },
-    "name": "Royal Irish Automobile Club",
+    "name": "Tavern Club Cleveland",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -92,10 +68,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "riac.ie",
+    "website": "wikipedia.org/wiki/Tavern_Club_(Cleveland,_Ohio)",
     "activities": []
   },
-  "Stephen's Green Hibernian Club": {
+  "Union Club Cleveland": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -104,7 +80,7 @@
         "lng": 0.0
       }
     },
-    "name": "Stephen's Green Hibernian Club",
+    "name": "Union Club Cleveland",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -116,31 +92,7 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "sghc.ie",
-    "activities": []
-  },
-  "United Arts Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "United Arts Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "dublinarts.com",
+    "website": "theunionclub.org",
     "activities": []
   }
 }

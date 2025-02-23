@@ -1,5 +1,5 @@
 {
-  "Kildare Street and University Club": {
+  "Canterbury Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Kildare Street and University Club",
+    "name": "Canterbury Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,10 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "ksuc.ie",
+    "website": "canterburyclub.co.nz",
     "activities": []
   },
-  "Royal Dublin Society": {
+  "Christchurch Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "Royal Dublin Society",
+    "name": "Christchurch Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,19 +44,19 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "rds.ie",
+    "website": "christchurchclub.co.nz",
     "activities": []
   },
-  "Royal Dublin Society (RDS)": {
-    "formatted_address": "Ballsbridge",
-    "formatted_phone_number": "+353 1 2407296",
+  "Terrace Downs High Country Resort": {
+    "formatted_address": "623 Coleridge Road",
+    "formatted_phone_number": "+64 3 317 9370",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Royal Dublin Society (RDS)",
+    "name": "Terrace Downs High Country Resort",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -69,9 +69,13 @@
     "logo": "",
     "user_ratings_total": 0,
     "website": "",
-    "activities": []
+    "activities": [
+      "golf",
+      "tennis",
+      "athletic"
+    ]
   },
-  "Royal Irish Automobile Club": {
+  "University of Canterbury Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -80,7 +84,7 @@
         "lng": 0.0
       }
     },
-    "name": "Royal Irish Automobile Club",
+    "name": "University of Canterbury Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -92,55 +96,7 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "riac.ie",
-    "activities": []
-  },
-  "Stephen's Green Hibernian Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Stephen's Green Hibernian Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "sghc.ie",
-    "activities": []
-  },
-  "United Arts Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "United Arts Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "dublinarts.com",
+    "website": "ucc.org.nz",
     "activities": []
   }
 }

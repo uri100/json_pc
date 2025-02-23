@@ -1,0 +1,26 @@
+{
+  "Stellar Gymkhana": {
+    "formatted_address": "R-1 Knowledge Park-2, Opp. India Expo Mart, Greater Noida, Uttar Pradesh 201306, Delhi NCR, India",
+    "formatted_phone_number": "91 120 464 7500 , 911204647555",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Stellar Gymkhana",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "stellargym.co.in",
+    "activities": []
+  }
+}

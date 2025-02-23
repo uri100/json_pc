@@ -1,5 +1,5 @@
 {
-  "Kildare Street and University Club": {
+  "55Seventy": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Kildare Street and University Club",
+    "name": "55Seventy",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,10 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "ksuc.ie",
+    "website": "55seventy.com",
     "activities": []
   },
-  "Royal Dublin Society": {
+  "Brookhaven Country Club (\"ClubCorp)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "Royal Dublin Society",
+    "name": "Brookhaven Country Club (\"ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,25 +44,25 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "rds.ie",
+    "website": "clubcorp.com/Clubs/Brookhaven-Country-Club",
     "activities": []
   },
-  "Royal Dublin Society (RDS)": {
-    "formatted_address": "Ballsbridge",
-    "formatted_phone_number": "+353 1 2407296",
+  "City Club Dallas": {
+    "formatted_address": "901 Main Street, Dallas, TX, United States",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Royal Dublin Society (RDS)",
+    "name": "City Club Dallas",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "City Club Dallas is one of the original and most prestigious private clubs in Dallas, TX. Upon arrival into the city, one is immediately welcomed into the city with the view of our unmistakable downtown sky-line, complete with the green-lit accent of the Bank of America Plaza. Located high atop this building, the tallest downtown, City Club Dallas offers the most spectacular view of the city, as well as countless, highly recognized entertainment venues and historical landmarks. Inside, well-appointed quarters and beautiful décor provide the perfect setting for both member and non-member private parties to include seated dinners or unforgettable receptions. The entire club can accommodate up to 650 guests for receptions or 300 for seated dinners. The City Club invites you and your guests to experience the breathtaking panoramic views as well as be pampered by our first class staff and cuisine.",
     "photo_urls": [],
     "rating": 0.0,
     "reviews": [],
@@ -71,7 +71,7 @@
     "website": "",
     "activities": []
   },
-  "Royal Irish Automobile Club": {
+  "Dallas Petroleum Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -80,7 +80,7 @@
         "lng": 0.0
       }
     },
-    "name": "Royal Irish Automobile Club",
+    "name": "Dallas Petroleum Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -92,10 +92,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "riac.ie",
+    "website": "thedallaspetroleumclub.com",
     "activities": []
   },
-  "Stephen's Green Hibernian Club": {
+  "Faculty Club of Southern Methodist University": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -104,7 +104,7 @@
         "lng": 0.0
       }
     },
-    "name": "Stephen's Green Hibernian Club",
+    "name": "Faculty Club of Southern Methodist University",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -116,19 +116,19 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "sghc.ie",
+    "website": "smu.edu/orgs/facultyclub",
     "activities": []
   },
-  "United Arts Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Park City Club": {
+    "formatted_address": "5956 Sherry Lane, Suite 1700, Dallas, TX 75225",
+    "formatted_phone_number": "214 373 0756 , 2143738305",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "United Arts Club",
+    "name": "Park City Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -140,7 +140,31 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "dublinarts.com",
+    "website": "parkcityclub.net",
+    "activities": []
+  },
+  "Park House": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Park House",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "parkhousedallas.com",
     "activities": []
   }
 }
