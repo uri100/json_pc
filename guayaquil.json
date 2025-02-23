@@ -1,0 +1,76 @@
+{
+  "Bankers Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Bankers Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "bankersclubecuador.com",
+    "activities": []
+  },
+  "Bankers Club de Guayaquil": {
+    "formatted_address": "Edificio La Previsora, Malecón Simón Bolivar",
+    "formatted_phone_number": "+593 4 2515066",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Bankers Club de Guayaquil",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": [
+      "athletic"
+    ]
+  },
+  "Club de la Unión Guayaquil": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Club de la Unión Guayaquil",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "clubdelaunion.net",
+    "activities": []
+  }
+}

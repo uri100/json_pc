@@ -1,14 +1,14 @@
 {
-  "Union International Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Eléa Golf Club": {
+    "formatted_address": "Eleon Avenue 1,",
+    "formatted_phone_number": "+357 26 202004",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Union International Club",
+    "name": "Eléa Golf Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,7 +20,9 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "union-club.com",
-    "activities": []
+    "website": "",
+    "activities": [
+      "golf"
+    ]
   }
 }

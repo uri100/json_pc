@@ -1,0 +1,50 @@
+{
+  "Edmonton Petroleum Club": {
+    "formatted_address": "11110-108 Street, Edmonton, Alberta, Canada, T5G 2T2",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Edmonton Petroleum Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "edpetroleumclub.com",
+    "activities": []
+  },
+  "Royal Glenora Club": {
+    "formatted_address": "11160 River Valley Northwest, Edmonton, AB, T5J 2G7, P.O. Box 3180",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Royal Glenora Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "royalglenora.com",
+    "activities": []
+  }
+}

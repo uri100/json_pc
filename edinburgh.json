@@ -1,0 +1,74 @@
+{
+  "New Club Edinbrough": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "New Club Edinbrough",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "newclub.co.uk",
+    "activities": []
+  },
+  "Royal Scots Club": {
+    "formatted_address": "29 - 31 Abercromby Place, Edinburgh, EH3 6QE, Scotland, UK",
+    "formatted_phone_number": "44 13 1556 4270 , 441315583769",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Royal Scots Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "royalscotsclub.com",
+    "activities": []
+  },
+  "Scottish Arts Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Scottish Arts Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "scottishartsclub.com",
+    "activities": []
+  }
+}

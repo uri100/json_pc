@@ -1,0 +1,50 @@
+{
+  "Casino Ferrolano-Tenis Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Casino Ferrolano-Tenis Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "casinoferrolano.com",
+    "activities": []
+  },
+  "Círculo Mercantil e Industrial -C.C.": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Círculo Mercantil e Industrial -C.C.",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "clubcampoferrol.com",
+    "activities": []
+  }
+}

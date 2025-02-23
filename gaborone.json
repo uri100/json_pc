@@ -1,0 +1,50 @@
+{
+  "Gaborone Yacht Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Gaborone Yacht Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "gaboroneyachtclub.weebly.com",
+    "activities": []
+  },
+  "The Princeton Lounge": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Princeton Lounge",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "theprincetonlounge.com",
+    "activities": []
+  }
+}

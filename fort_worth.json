@@ -1,0 +1,74 @@
+{
+  "City Club of Fort Worth": {
+    "formatted_address": "301 Commerce Street, Fort Worth, TX 76102",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "City Club of Fort Worth",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "cityclubfw.com",
+    "activities": []
+  },
+  "Fort Worth Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Fort Worth Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "fortworthclub.com",
+    "activities": []
+  },
+  "Petroleum Club of Fort Worth": {
+    "formatted_address": "777 Main #4000, Forth Worth, TX 76102",
+    "formatted_phone_number": "817 335 7571 , 8173380748",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Petroleum Club of Fort Worth",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "fwpetroleumclub.com",
+    "activities": []
+  }
+}

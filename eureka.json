@@ -1,14 +1,14 @@
 {
-  "Union International Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Ingomar Club": {
+    "formatted_address": "143 M Street",
+    "formatted_phone_number": "001 707 443 5665",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Union International Club",
+    "name": "Ingomar Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,7 +20,9 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "union-club.com",
-    "activities": []
+    "website": "ingomar.org",
+    "activities": [
+      "swimming"
+    ]
   }
 }

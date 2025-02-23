@@ -1,0 +1,77 @@
+{
+  "Guangzhou Luhu Golf & Country Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Guangzhou Luhu Golf & Country Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "luhugolf.com",
+    "activities": []
+  },
+  "Sky54 Club": {
+    "formatted_address": "Rm 5405-06 East Tower, Tianying Plaza, 222 Xingmin Road, Tianhe District",
+    "formatted_phone_number": "86 20 38856938",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Sky54 Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": []
+  },
+  "The Canton Club": {
+    "formatted_address": "T24, The Canton Place, Zhujiang New City",
+    "formatted_phone_number": "+86 20 38361998",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Canton Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": [
+      "athletic",
+      "swimming"
+    ]
+  }
+}

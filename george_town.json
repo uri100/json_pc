@@ -1,0 +1,50 @@
+{
+  "Penang Club": {
+    "formatted_address": "42B Jalan Sultan Ahmad Shah, 10050 Penang, Malaysia",
+    "formatted_phone_number": "6 04 227 7366 , 6042276804",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Penang Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "penangclub.net",
+    "activities": []
+  },
+  "Penang Sports Club": {
+    "formatted_address": "Jalan Utama, 10450 Penang, Malaysia",
+    "formatted_phone_number": "6 04 229 7834 , 6042292391",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Penang Sports Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "pgsportsclub.com.my",
+    "activities": []
+  }
+}

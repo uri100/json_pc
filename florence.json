@@ -1,14 +1,14 @@
 {
-  "Union International Club": {
+  "Circolo dell’Unione Firenze": {
     "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_phone_number": "055 210412",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Union International Club",
+    "name": "Circolo dell’Unione Firenze",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,7 +20,7 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "union-club.com",
+    "website": "circolounionefirenze.it",
     "activities": []
   }
 }

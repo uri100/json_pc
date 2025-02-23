@@ -1,14 +1,14 @@
 {
-  "Union International Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "The Pillars Hotel & Club": {
+    "formatted_address": "111 N Birch Road",
+    "formatted_phone_number": "001 954 467 9639",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Union International Club",
+    "name": "The Pillars Hotel & Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,7 +20,7 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "union-club.com",
+    "website": "",
     "activities": []
   }
 }

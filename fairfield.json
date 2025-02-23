@@ -1,6 +1,6 @@
 {
-  "Union International Club": {
-    "formatted_address": "",
+  "Brooklawn Country Club": {
+    "formatted_address": "500 Algonquin Road, Fairfield, CT 06825",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Union International Club",
+    "name": "Brooklawn Country Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,7 +20,7 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "union-club.com",
+    "website": "brooklawncc.com",
     "activities": []
   }
 }

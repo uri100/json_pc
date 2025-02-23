@@ -1,26 +1,26 @@
 {
-  "Union International Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "El Paso Club Texas": {
+    "formatted_address": "201 East Main Street, 18th Floor, El Paso, TX 79901 (Club is temporarily closed until further notice)",
+    "formatted_phone_number": "915 544 1135 , 9155441179",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Union International Club",
+    "name": "El Paso Club Texas",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "temporarily closed",
     "photo_urls": [],
     "rating": 0.0,
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "union-club.com",
+    "website": "theelpasoclub.com",
     "activities": []
   }
 }
