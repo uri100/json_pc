@@ -1,313 +1,90 @@
 {
-    "Messi Casino de Madrid": {
-        "formatted_address": "Alcalá 15, Madrid",
-        "formatted_phone_number": "+34 91 5211735",
-        "geometry": {
-            "location": {
-                "lat": 40.471666,
-                "lng": -3.411158
-            }
-        },
-        "international_phone_number": "+34 91 5211735",
-        "name": "Messi Casino de Madrid",
-        "opening_hours": {
-            "open_now": true,
-            "periods": [
-                {
-                    "open": {
-                        "day": 0,
-                        "time": "0000"
-                    }
-                }
-            ],
-            "weekday_text": [
-                "Sunday: 9:00 - 22:00",
-                "Monday: 9:00 – 00:30",
-                "Tuesday: 9:00 – 00:30",
-                "Wednesday: 9:00 – 00:30",
-                "Thursday: 9:00 – 00:30",
-                "Friday: 9:00 – 00:30",
-                "Saturday: 9:00 – 00:30"
-            ]
-        },
-        "description": "In 1836, when a group of romantic and progressive young people, tired of so much political exaltation, decided to find a quiet place where they could meet in peace and harmony, the first step was being taken towards what would eventually become the Real Casino de Madrid. The Club boasts the best social facilities in Spain. The most distinguished social events in Madrid are held at the Club as it has two bars, two restaurants, four events halls, four private function rooms, one small ball-room and a large multi-functional room (used as party room and discotheque, also for shows and performances). There is also a conference hall, normally used for lectures and debates, and cinema for members. Apart from these rooms, there is also a Neo-Gothic style library containing 45,000 books, a splendid journal reading room, a gymnasium, a billiard room, indoor swimming pool, steam bath and sauna, barber, hairdresser, pedicure, Physiotherapist and a comfortable TV room. The Club has two restaurants, one of them, La Terraza, has two Michelin Stars and is the only part of the Club open to the public, where club members and reciprocal guests have a 20% discount for up to four persons. It offers vanguard cuisine and is considered one of the best restaurants in Madrid. The members restaurant, Recoletos offers more traditional food, which is excellent too. The Club has a special agreement with the Hotel Regina, Hotel Europa and 2 chains: NH Hoteles and Hispano Hotelera.",
-        "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid1.jpg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid2.jpg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid3.jpg"
-        ],
-        "rating": 4.6,
-        "reviews": [],
-        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid_logo.png",
-        "user_ratings_total": 2100,
-        "website": "https://casinodemadrid.es",
-         "activities": [
-            "billiard",
-            "swimming",
-            "athletic",
-            "gym",
-            "padel",
-            "golf"
-        ],        
-        "latitude": 40.471666,
-        "longitude": -3.411158
+  "Messi Casino de Madrid": {
+    "formatted_address": "Alcalá 15, Madrid",
+    "phone_number": "+34 91 5211735",
+    "location": { "lat": 40.471666, "lng": -3.411158 },
+    "name": "Messi Casino de Madrid",
+    "opening_hours": {
+      "open_now": true,
+      "weekday_text": [
+        "Sunday: 9:00 - 22:00",
+        "Monday: 9:00 – 00:30",
+        "Tuesday: 9:00 – 00:30",
+        "Wednesday: 9:00 – 00:30",
+        "Thursday: 9:00 – 00:30",
+        "Friday: 9:00 – 00:30",
+        "Saturday: 9:00 – 00:30"
+      ]
     },
-
-"Círculo de Bellas Artes": {
-        "formatted_address": "Alcalá 42,  28014 Madrid",
-        "formatted_phone_number": "+34 91 360 54 00",
-        "geometry": {
-            "location": {
-                "lat": 40.418372,
-                "lng": -3.696576
-            }
-        },
-        "international_phone_number": "+34 91 360 54 00",
-        "name": "Círculo de Bellas Artes",
-        "opening_hours": {
-            "open_now": true,
-            "periods": [
-                {
-                    "open": {
-                        "day": 0,
-                        "time": "0000"
-                    }
-                }
-            ],
-            "weekday_text": [
-                "Sunday: 11:00 – 14:00; 17:00-21:00",
-                "Monday: Closed",
-                "Tuesday: 11:00 – 14:00; 17:00-21:00",
-                "Wednesday: 11:00 – 14:00; 17:00-21:00",
-                "Thursday: 11:00 – 14:00",
-                "Friday: 11:00 – 14:00; 17:00-21:00",
-                "Saturday: 11:00 – 14:00; 17:00-21:00"
-            ]            
-        },
-        "description": "The Círculo de Bellas Artes de Madrid (CBA) is a private, non-profit cultural entity declared a “Centre for the Protection of Fine Arts and of Public Utility”. Since its creation, it has carried out important work of international scope in the field of cultural creation and dissemination. One of the most important private cultural centres in Europe, the CBA is characterised by its open attitude towards the most outstanding and innovative artistic currents. It is a multidisciplinary centre in which activities ranging from the visual arts to literature, passing through science, philosophy, cinema and the performing arts are developed. The Círculo de Bellas Artes de Madrid (CBA) was founded in April 1880 thanks to the efforts of a small group of artists. In its origins it was a fairly restricted society, but with a cultural scope. Its first president was the painter Juan Martínez de Espinosa. Between 1880 and 1926, the Círculo changed its headquarters ten times: Barquillo, 5; Madera, 8; Lobo, 10; Abada, 2; Libertad, 16; Barquillo, 11; Alcalá, 7; Alcalá, 14 and finally Alcalá, 42. During the first years of the 20th century, important figures of the cultural life of the time passed through the CBA board of directors, such as Jacinto Benavente and Carlos Arniches, while the young Picasso attended his painting classes as a student and Ramón María del Valle-Inclán frequented his salons.",
-        "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/circulo_de_bellas_artes1.jpg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/circulo_de_bellas_artes2.jpg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/circulo_de_bellas_artes3.jpg"
-        ],
-        "rating": 4.4,
-        "reviews": [],
-        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/circulo_de_bellas_artes_logo.png",
-        "user_ratings_total": 30661,
-        "website": "https://www.circulobellasartes.com",
-         "activities": [],        
-        "latitude": 40.418372,
-        "longitude": -3.696576
+    "description": "The Real Casino de Madrid offers top-tier social facilities, restaurants, event halls, and recreational areas such as a gym, billiard room, indoor swimming pool, and spa. The club also hosts cultural activities, lectures, and a Michelin-starred restaurant, La Terraza.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid3.jpg"
+    ],
+    "rating": 4.6,
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/casino_de_madrid_logo.png",
+    "user_ratings_total": 2100,
+    "website": "https://casinodemadrid.es",
+    "activities": ["billiard", "swimming", "athletic", "gym", "padel", "golf"]
+  },
+  "Círculo de Bellas Artes": {
+    "formatted_address": "Alcalá 42, 28014 Madrid",
+    "phone_number": "+34 91 360 54 00",
+    "location": { "lat": 40.418372, "lng": -3.696576 },
+    "name": "Círculo de Bellas Artes",
+    "opening_hours": {
+      "open_now": true,
+      "weekday_text": [
+        "Sunday: 11:00 – 14:00; 17:00-21:00",
+        "Monday: Closed",
+        "Tuesday: 11:00 – 14:00; 17:00-21:00",
+        "Wednesday: 11:00 – 14:00; 17:00-21:00",
+        "Thursday: 11:00 – 14:00",
+        "Friday: 11:00 – 14:00; 17:00-21:00",
+        "Saturday: 11:00 – 14:00; 17:00-21:00"
+      ]
     },
-"La Gran Peña": {
-        "formatted_address": "C/ Gran Vía, 2 - 28013 Madrid",
-        "formatted_phone_number": "+34 910 60 98 83",
-        "geometry": {
-            "location": {
-                "lat": 40.468149,
-                "lng": -3.870846
-            }
-        },
-        "international_phone_number": "+34 910 60 98 83",
-        "name": "La Gran Peña",
-        "opening_hours": {
-            "open_now": true,
-            "periods": [
-                {
-                    "open": {
-                        "day": 0,
-                        "time": "0000"
-                    }
-                }
-            ],
-            "weekday_text": [
-                "Sunday: Closed",
-                "Monday: 12:00-24:00",
-                "Tuesday: 12:00-24:00",
-                "Wednesday: 12:00-24:00",
-                "Thursday: 12:00-24:00",
-                "Friday: 12:00-24:00",
-                "Saturday: 12:00-24:00"
-            ]            
-        },
-        "description": "La Gran Peña (also known as el Círculo de la Gran Peña) is a private community centre located in the building on Gran Vía 2 in Madrid. The community was created in 1869 by the Spanish military. Presidents of the institution are usually high-ranking military personnel or members of the Grandee. Politicians like José Canalejas, José Calvo Sotelo, as well as royals as Alfonso XIII, and since 1975 Juan Carlos I, are among the most illustrious club members.",
-        "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pena1.jpg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pena2.jpg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pena3.jpg",
-             "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pena4.jpg"
-
-        ],
-        "rating": 4.7,
-        "reviews": [],
-        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pena_logo.png",
-        "user_ratings_total": 238,
-        "website": "https://realgp.es",
-         "activities": [
-             "billiard",
-             "tennis"
-         ],        
-        "latitude": 40.468149,
-        "longitude": -3.870846
+    "description": "The Círculo de Bellas Artes de Madrid is a private, non-profit cultural center known for its outstanding contributions to the arts, including exhibitions, performances, and lectures across various disciplines such as literature, philosophy, cinema, and science.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/circulo_de_bellas_artes1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/circulo_de_bellas_artes2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/circulo_de_bellas_artes3.jpg"
+    ],
+    "rating": 4.4,
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/circulo_de_bellas_artes_logo.png",
+    "user_ratings_total": 30661,
+    "website": "https://www.circulobellasartes.com",
+    "activities": []
+  },
+  "La Gran Peña": {
+    "formatted_address": "C/ Gran Vía, 2 - 28013 Madrid",
+    "phone_number": "+34 910 60 98 83",
+    "location": { "lat": 40.468149, "lng": -3.870846 },
+    "name": "La Gran Peña",
+    "opening_hours": {
+      "open_now": true,
+      "weekday_text": [
+        "Sunday: Closed",
+        "Monday: 12:00-24:00",
+        "Tuesday: 12:00-24:00",
+        "Wednesday: 12:00-24:00",
+        "Thursday: 12:00-24:00",
+        "Friday: 12:00-24:00",
+        "Saturday: 12:00-24:00"
+      ]
     },
-
-"Club Matador": {
-        "formatted_address": "Calle Jorge Juan, 5 28001 Madrid",
-        "formatted_phone_number": "+34 910609883",
-        "geometry": {
-            "location": {
-                "lat": 40.418372,
-                "lng": -3.696576
-            }
-        },
-        "international_phone_number": "+34 910609883",
-        "name": "Club Matador",
-        "opening_hours": {
-            "open_now": true,
-            "periods": [
-                {
-                    "open": {
-                        "day": 0,
-                        "time": "0000"
-                    }
-                }
-            ],
-            "weekday_text": [
-                "Sunday: 12:00 – 18:00",
-                "Monday: 8:30 - 13:00",
-                "Tuesday: 8:30 - 13:00",
-                "Wednesday: 8:30 - 13:00",
-                "Thursday: 8:30 – 13:00",
-                "Friday: 8:30 – 14:00",
-                "Saturday: 12:00 – 14:00"
-            ]            
-        },
-        "description": "The Club was launched in 2013 in the spirit of Matador magazine. It is a meeting place where professionals of different ages, backgrounds, training and cultures enjoy an extraordinary space. A meeting point with other people where culture and ideas are the pillars of the project.",
-        "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_matador1.jpg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_matador2.jpg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_matador3.jpg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_matador4.jpg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_matador5.jpg"
-
-        ],
-        "rating": 4.7,
-        "reviews": [],
-        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_matador_logo.png",
-        "user_ratings_total": 497,
-        "website": "https://clubmatador.com",
-         "activities": [],        
-        "latitude": 40.418372,
-        "longitude": -3.696576
-    },
-
-
-    
-    "Club Financiero Génova": {
-        "formatted_address": "C/ Marqués de la Ensenada, 14 - Madrid",
-        "formatted_phone_number": "+34 91 310 49 00",
-        "geometry": {
-            "location": {
-                "lat": 40.424933,
-                "lng": -3.69215
-            }
-        },
-        "international_phone_number": "+34 91 310 49 00",
-        "name": "Club Financiero Génova",
-        "opening_hours": {
-            "open_now": true,
-            "periods": [
-                {
-                    "open": {
-                        "day": 0,
-                        "time": "0000"
-                    }
-                }
-            ],
-            "weekday_text": [
-                "Sunday: 12:00 – 00:00",
-                "Monday: 9:00 - 00:00",
-                "Tuesday: 9:00 - 00:00",
-                "Wednesday: 9:00 - 00:00",
-                "Thursday: 9:00 - 00:00",
-                "Friday: 9:00 - 00:00",
-                "Saturday: 12:00 - 00:00"
-            ]            
-        },
-        "description": "Established in 1972 as a non-profit civil association, it is one of the most accredited clubs with the best facilities in Spain, with a strong brand presence in the business and corporate world. Located in the centre of Madrid's financial, cultural and artistic district, it is a symbol and meeting point for the business, financial and political sectors of Spain. The Club is a networking centre that facilitates and encourages relationships between its members in the personal and professional sphere. It is a space where ideas and experiences can be exchanged, promoting the business network and strengthening Civil Society to improve the exchange of private initiative. It has eight private rooms for events and a magnificent restaurant with a spectacular 360-degree view of Madrid. It also has a summer terrace (Sky Club), swimming pool, gym and spa. The Club has established different correspondent alliances with more than 70 exclusive clubs spread throughout the world so that our members can enjoy the facilities and services of these clubs on their trips.",
-        "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_financiero_genova1.jpg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_financiero_genova2.jpg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_financiero_genova3.jpg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_financiero_genova4.jpg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_financiero_genova5.jpg"
-
-        ],
-        "rating": 4.4,
-        "reviews": [],
-        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/club_financiero_genova_logo.png",
-        "user_ratings_total": 30661,
-        "website": "https://www.clubfinancierogenova.com/",
-         "activities": [
-             "swimming",
-             "gym", 
-             "spa", 
-             "pilates", 
-             "squash"
-         ],        
-        "latitude": 40.424933,
-        "longitude": -3.69215
-    },
-
-    "Centro Cultural de los Ejércitos": {
-        "formatted_address": "Gran Vía, 13 -28013 Madrid ",
-        "formatted_phone_number": "+34 915222309",
-        "geometry": {
-            "location": {
-                "lat": 40.419655,
-                "lng": -3.699892
-            }
-        },
-        "international_phone_number": "+34 915222309",
-        "name": "Centro Cultural de los Ejércitos",
-        "opening_hours": {
-            "open_now": true,
-            "periods": [
-                {
-                    "open": {
-                        "day": 0,
-                        "time": "0000"
-                    }
-                }
-            ],
-            "weekday_text": [
-                "Sunday: 00:00 - 00:00",
-                "Monday: 00:00 - 00:00",
-                "Tuesday: 00:00 - 00:00",
-                "Wednesday: 00:00 - 00:00",
-                "Thursday: 00:00 - 00:00",
-                "Friday: 00:00 - 00:00",
-                "Saturday: 00:00 - 00:00"
-            ]
-        },
-        "description": "This centre, also known as the Military Casino, was opened in 1916 by King Alfonso XIII and since its creation it has had a recreational function. It is a private non-profit association that promotes knowledge and cultural development (focusing mainly on military history and culture and national defence), with different activities and spaces, such as gaming rooms and a fencing area, which also hosts conferences, congresses, concerts and exhibitions. In addition, it has several rooms for members who need to stay there temporarily as well as a restaurant open to the public where meals are served daily.",
-        "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/Centro_Cultural_de_los_Ejercitos1.jpg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/Centro_Cultural_de_los_Ejercitos2.jpg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/Centro_Cultural_de_los_Ejercitos3.jpg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/Centro_Cultural_de_los_Ejercitos4.jpg"
-        ],
-        "rating": 4.1,
-        "reviews": [],
-        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/Centro_Cultural_de_los_Ejercitos_logo.png",
-        "user_ratings_total": 699,
-        "website": "https://www.cculturalejercitos.com",
-        "activities": [
-            "fencing", 
-            "billiard", 
-            "gym"
-        ],
-        "latitude": 40.419655,
-        "longitude": -3.699892
-    }
+    "description": "La Gran Peña is a historic private community center founded by Spanish military members in 1869. It serves as an exclusive venue for social gatherings, cultural events, and professional networking, attracting prominent figures from politics, business, and royalty.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pena1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pena2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pena3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pena4.jpg"
+    ],
+    "rating": 4.7,
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pena_logo.png",
+    "user_ratings_total": 238,
+    "website": "https://realgp.es",
+    "activities": ["billiard", "tennis"]
+  }
 }
