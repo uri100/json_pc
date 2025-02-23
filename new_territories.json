@@ -1,0 +1,30 @@
+{
+  "The Country Club at Hong Lok Yuen": {
+    "formatted_address": "8 Town Centre Crescent, Hong Lok Yuen",
+    "formatted_phone_number": "+852 26578899",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Country Club at Hong Lok Yuen",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": [
+      "tennis",
+      "athletic",
+      "swimming"
+    ]
+  }
+}

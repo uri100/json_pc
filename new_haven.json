@@ -1,29 +1,5 @@
 {
-  "Drivers & Business Club Munich": {
-    "formatted_address": "Lilienthalallee 39",
-    "formatted_phone_number": "+49 89 2153 68 60",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Drivers & Business Club Munich",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "",
-    "activities": []
-  },
-  "Famtain Member Club (\"formerly the Hearthouse)": {
+  "Graduate Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Famtain Member Club (\"formerly the Hearthouse)",
+    "name": "Graduate Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,10 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "famtain.com",
+    "website": "graduateclub.com",
     "activities": []
   },
-  "Münchener Herrenclub": {
+  "Mory's Association": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -56,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "Münchener Herrenclub",
+    "name": "Mory's Association",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -68,7 +44,55 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "mhc1851.de",
+    "website": "morys1849.org",
+    "activities": []
+  },
+  "New Haven Lawn Club": {
+    "formatted_address": "193 Whitney Avenue, New Haven, CT 06511",
+    "formatted_phone_number": "203 777 3494 , 2037775657",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "New Haven Lawn Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "nhlawnclub.com",
+    "activities": []
+  },
+  "The Q Clubhouse": {
+    "formatted_address": "221 Church St., New Haven, CT 06510",
+    "formatted_phone_number": "203-562-3147 , 203-624-3341",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Q Clubhouse",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "graduateclub.com/The_Q_Club",
     "activities": []
   }
 }

@@ -1,0 +1,26 @@
+{
+  "Club Atwater": {
+    "formatted_address": "3505 Atwater Avenue, Montreal, QC H3H 1Y2",
+    "formatted_phone_number": "514 935 2431 , 5149353754",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Club Atwater",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "clubatwater.ca",
+    "activities": []
+  }
+}

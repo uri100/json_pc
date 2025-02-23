@@ -1,29 +1,5 @@
 {
-  "Drivers & Business Club Munich": {
-    "formatted_address": "Lilienthalallee 39",
-    "formatted_phone_number": "+49 89 2153 68 60",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Drivers & Business Club Munich",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "",
-    "activities": []
-  },
-  "Famtain Member Club (\"formerly the Hearthouse)": {
+  "Club Uruguay": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Famtain Member Club (\"formerly the Hearthouse)",
+    "name": "Club Uruguay",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,10 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "famtain.com",
+    "website": "cluburuguay.com.uy",
     "activities": []
   },
-  "Münchener Herrenclub": {
+  "Yacht Club Uruguayo": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -56,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "Münchener Herrenclub",
+    "name": "Yacht Club Uruguayo",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -68,7 +44,7 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "mhc1851.de",
+    "website": "ycu.org.uy",
     "activities": []
   }
 }

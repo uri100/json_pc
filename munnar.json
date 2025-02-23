@@ -1,14 +1,38 @@
 {
-  "Drivers & Business Club Munich": {
-    "formatted_address": "Lilienthalallee 39",
-    "formatted_phone_number": "+49 89 2153 68 60",
+  "High Range Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Drivers & Business Club Munich",
+    "name": "High Range Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "highrangeclubmunnar.com",
+    "activities": []
+  },
+  "Kundale Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Kundale Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -21,54 +45,6 @@
     "logo": "",
     "user_ratings_total": 0,
     "website": "",
-    "activities": []
-  },
-  "Famtain Member Club (\"formerly the Hearthouse)": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Famtain Member Club (\"formerly the Hearthouse)",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "famtain.com",
-    "activities": []
-  },
-  "Münchener Herrenclub": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Münchener Herrenclub",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "mhc1851.de",
     "activities": []
   }
 }

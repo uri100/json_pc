@@ -1,0 +1,30 @@
+{
+  "The Palms Country Club": {
+    "formatted_address": "1410 Laguna Heights Drive, Filinvest City, Alabang, Muntinlupa City 1781",
+    "formatted_phone_number": "63 2 8771 7171 , 63287714864",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Palms Country Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "thepalmsclub.com",
+    "activities": [
+      "swimming",
+      "athletic",
+      "tennis"
+    ]
+  }
+}

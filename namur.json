@@ -1,0 +1,26 @@
+{
+  "CWB (Cercle de Wallonie Brussles) Namur": {
+    "formatted_address": "",
+    "formatted_phone_number": "+32 81 73 40 80",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "CWB (Cercle de Wallonie Brussles) Namur",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "cercledewallonie.com",
+    "activities": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Balboa Bay Club": {
+    "formatted_address": "1221 West Coast Highway, Newport Beach, CA 92663",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Balboa Bay Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "balboabayclub.com",
+    "activities": []
+  }
+}

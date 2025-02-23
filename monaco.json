@@ -1,29 +1,5 @@
 {
-  "Drivers & Business Club Munich": {
-    "formatted_address": "Lilienthalallee 39",
-    "formatted_phone_number": "+49 89 2153 68 60",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Drivers & Business Club Munich",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "",
-    "activities": []
-  },
-  "Famtain Member Club (\"formerly the Hearthouse)": {
+  "Automobile Club de Monaco": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Famtain Member Club (\"formerly the Hearthouse)",
+    "name": "Automobile Club de Monaco",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,10 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "famtain.com",
+    "website": "acm.mc",
     "activities": []
   },
-  "Münchener Herrenclub": {
+  "Club des Résidents Etrangers de Monaco": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -56,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "Münchener Herrenclub",
+    "name": "Club des Résidents Etrangers de Monaco",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -68,7 +44,55 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "mhc1851.de",
+    "website": "club-residents-etrangers-monaco.com",
+    "activities": []
+  },
+  "Thirty Nine": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Thirty Nine",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "39montecarlo.com",
+    "activities": []
+  },
+  "Yacht Club de Monaco": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Yacht Club de Monaco",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "yacht-club-monaco.mc",
     "activities": []
   }
 }

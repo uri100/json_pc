@@ -1,14 +1,14 @@
 {
-  "Drivers & Business Club Munich": {
-    "formatted_address": "Lilienthalallee 39",
-    "formatted_phone_number": "+49 89 2153 68 60",
+  "Campus Club Minneapolis": {
+    "formatted_address": "403 Coffman Memorial Union | 300 Washington Avenue SE | Minneapolis MN 55455",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Drivers & Business Club Munich",
+    "name": "Campus Club Minneapolis",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,10 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "",
+    "website": "campusclubumn.org",
     "activities": []
   },
-  "Famtain Member Club (\"formerly the Hearthouse)": {
+  "Lafayette Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "Famtain Member Club (\"formerly the Hearthouse)",
+    "name": "Lafayette Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,11 +44,11 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "famtain.com",
+    "website": "lafayetteclub.com",
     "activities": []
   },
-  "Münchener Herrenclub": {
-    "formatted_address": "",
+  "Minneapolis Club": {
+    "formatted_address": "729 Second Avenue South, Minneapolis, MN 55402",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
@@ -56,7 +56,7 @@
         "lng": 0.0
       }
     },
-    "name": "Münchener Herrenclub",
+    "name": "Minneapolis Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -68,7 +68,7 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "mhc1851.de",
+    "website": "mplsclub.org",
     "activities": []
   }
 }

@@ -1,0 +1,53 @@
+{
+  "Club Lafair": {
+    "formatted_address": "P20, Trimbak Road, Satpur Midc",
+    "formatted_phone_number": "+91 253 6644000",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Club Lafair",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "clublafairblvd.com",
+    "activities": [
+      "athletic",
+      "swimming"
+    ]
+  },
+  "Nasiklub": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Nasiklub",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "nasiklub.in",
+    "activities": []
+  }
+}

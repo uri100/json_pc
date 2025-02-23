@@ -1,14 +1,62 @@
 {
-  "Drivers & Business Club Munich": {
-    "formatted_address": "Lilienthalallee 39",
-    "formatted_phone_number": "+49 89 2153 68 60",
+  "Casino Español de México": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Drivers & Business Club Munich",
+    "name": "Casino Español de México",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "casinoespanolmexico.com",
+    "activities": []
+  },
+  "Club de Banqueros de México": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Club de Banqueros de México",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "clubdebanqueros.com.mx",
+    "activities": []
+  },
+  "The University Club of Mexico": {
+    "formatted_address": "Paseo de la Reforma 150",
+    "formatted_phone_number": "52 55 55662266",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The University Club of Mexico",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -23,7 +71,7 @@
     "website": "",
     "activities": []
   },
-  "Famtain Member Club (\"formerly the Hearthouse)": {
+  "University Club of Mexico": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,7 +80,7 @@
         "lng": 0.0
       }
     },
-    "name": "Famtain Member Club (\"formerly the Hearthouse)",
+    "name": "University Club of Mexico",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,31 +92,7 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "famtain.com",
-    "activities": []
-  },
-  "Münchener Herrenclub": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Münchener Herrenclub",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "mhc1851.de",
+    "website": "universityclub.com.mx",
     "activities": []
   }
 }
