@@ -1,0 +1,74 @@
+{
+  "British Club Las Palmas (Club Inglés)": {
+    "formatted_address": "C. León y Castillo, 274, 35005 Las Palmas de Gran Canaria, Las Palmas, Spain",
+    "formatted_phone_number": "+34928246879",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "British Club Las Palmas (Club Inglés)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "britishclublaspalmas.es",
+    "activities": []
+  },
+  "Gabinete Literario": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Gabinete Literario",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "gabineteliterario.com",
+    "activities": []
+  },
+  "Real Club Nautico de Gran Canaria": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Real Club Nautico de Gran Canaria",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "rcngc.com",
+    "activities": []
+  }
+}

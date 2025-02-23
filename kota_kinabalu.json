@@ -1,0 +1,26 @@
+{
+  "Sutera Harbour Marina & Country Club": {
+    "formatted_address": "1 Sutera Harbour Boulevard, Kota Kinabalu, 88100 Sabah, Malaysia",
+    "formatted_phone_number": "6088 318 888 , 6088317777",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Sutera Harbour Marina & Country Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "suteraharbour.com",
+    "activities": []
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "London Club": {
+  "Apapa Boat Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "London Club",
+    "name": "Apapa Boat Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,19 +20,43 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "londonclub.com",
+    "website": "apapaboatclub.org",
     "activities": []
   },
-  "The London Club": {
-    "formatted_address": "177 Queens Avenue",
-    "formatted_phone_number": "+1 519 4346889",
+  "Apapa Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "The London Club",
+    "name": "Apapa Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "theapapaclub.org",
+    "activities": []
+  },
+  "Capital Club Lagos": {
+    "formatted_address": "6 Elsie Femi Pearse, Victoria Island",
+    "formatted_phone_number": "+234 8143000074",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Capital Club Lagos",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -47,55 +71,7 @@
     "website": "",
     "activities": []
   },
-  "St James’s Hotel and Club": {
-    "formatted_address": "7-8 Park Pl, St. James's",
-    "formatted_phone_number": "+44 207 3161600",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "St James’s Hotel and Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "",
-    "activities": []
-  },
-  "St. James's Hotel and Club Mayfair": {
-    "formatted_address": "7-8 Park Place, St James's, London, SW1A 1LS",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "St. James's Hotel and Club Mayfair",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "stjameshotelandclub.com",
-    "activities": []
-  },
-  "City Livery Club": {
+  "Capital Club Lagos (\"Signature Clubs International)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -104,7 +80,7 @@
         "lng": 0.0
       }
     },
-    "name": "City Livery Club",
+    "name": "Capital Club Lagos (\"Signature Clubs International)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -116,10 +92,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "cityliveryclub.com",
+    "website": "capitalclublagos.com",
     "activities": []
   },
-  "City of London Club": {
+  "Ikoyi Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -128,7 +104,7 @@
         "lng": 0.0
       }
     },
-    "name": "City of London Club",
+    "name": "Ikoyi Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -140,10 +116,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "cityoflondonclub.com",
+    "website": "ikoyiclub1938.net",
     "activities": []
   },
-  "City University Club": {
+  "Island Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -152,7 +128,7 @@
         "lng": 0.0
       }
     },
-    "name": "City University Club",
+    "name": "Island Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -164,10 +140,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "cityuniversityclub.co.uk",
+    "website": "wikipedia.org/wiki/Island_Club",
     "activities": []
   },
-  "Little Ship Club": {
+  "Lagos Country Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -176,7 +152,7 @@
         "lng": 0.0
       }
     },
-    "name": "Little Ship Club",
+    "name": "Lagos Country Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -188,10 +164,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "littleshipclub.co.uk",
+    "website": "lagoscountryclub.net",
     "activities": []
   },
-  "Ned’s Club": {
+  "Lagos Motor Boat Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -200,7 +176,7 @@
         "lng": 0.0
       }
     },
-    "name": "Ned’s Club",
+    "name": "Lagos Motor Boat Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -212,10 +188,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "thened.com",
+    "website": "lagosmotorboatclub.com.ng",
     "activities": []
   },
-  "Pavilion Club London": {
+  "Lagos Polo Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -224,7 +200,7 @@
         "lng": 0.0
       }
     },
-    "name": "Pavilion Club London",
+    "name": "Lagos Polo Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -236,10 +212,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "pavilion.club",
+    "website": "lagospolo.com",
     "activities": []
   },
-  "Ten Trinity Square": {
+  "Lagos Yacht Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -248,7 +224,7 @@
         "lng": 0.0
       }
     },
-    "name": "Ten Trinity Square",
+    "name": "Lagos Yacht Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -260,10 +236,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "club.tentrinitysquare.com",
+    "website": "lagosyc.org",
     "activities": []
   },
-  "The Clubhouse Bank (\"Blaskey Group)": {
+  "Metropolitan Club Lagos": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -272,7 +248,7 @@
         "lng": 0.0
       }
     },
-    "name": "The Clubhouse Bank (\"Blaskey Group)",
+    "name": "Metropolitan Club Lagos",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -284,10 +260,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "theclubhouselondon.com/locations/bank",
+    "website": "metclub.ng",
     "activities": []
   },
-  "Walbrook Club": {
+  "Yoruba Tennis Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -296,7 +272,7 @@
         "lng": 0.0
       }
     },
-    "name": "Walbrook Club",
+    "name": "Yoruba Tennis Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -308,7 +284,7 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "walbrook-club.co.uk",
+    "website": "yorubatennisclub.com",
     "activities": []
   }
 }

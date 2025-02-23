@@ -1,0 +1,30 @@
+{
+  "Sarawak Club": {
+    "formatted_address": "Jln Taman Budaya, 93000 Kuching, Malaysia",
+    "formatted_phone_number": "6 082 242 299 , 6082245654",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Sarawak Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "sarawakclub.com",
+    "activities": [
+      "tennis",
+      "athletic",
+      "swimming"
+    ]
+  }
+}

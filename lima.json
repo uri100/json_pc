@@ -1,5 +1,5 @@
 {
-  "London Club": {
+  "Club de la Banca y Comercio": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "London Club",
+    "name": "Club de la Banca y Comercio",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,82 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "londonclub.com",
+    "website": "clubdelabancaycomercio.com",
     "activities": []
   },
-  "The London Club": {
-    "formatted_address": "177 Queens Avenue",
-    "formatted_phone_number": "+1 519 4346889",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "The London Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "",
-    "activities": []
-  },
-  "St James’s Hotel and Club": {
-    "formatted_address": "7-8 Park Pl, St. James's",
-    "formatted_phone_number": "+44 207 3161600",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "St James’s Hotel and Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "",
-    "activities": []
-  },
-  "St. James's Hotel and Club Mayfair": {
-    "formatted_address": "7-8 Park Place, St James's, London, SW1A 1LS",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "St. James's Hotel and Club Mayfair",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "stjameshotelandclub.com",
-    "activities": []
-  },
-  "City Livery Club": {
+  "Club de la Unión Lima": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -104,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "City Livery Club",
+    "name": "Club de la Unión Lima",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -116,10 +44,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "cityliveryclub.com",
+    "website": "clubdelaunion.com.pe",
     "activities": []
   },
-  "City of London Club": {
+  "Club de Regatas Lima": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -128,7 +56,7 @@
         "lng": 0.0
       }
     },
-    "name": "City of London Club",
+    "name": "Club de Regatas Lima",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -140,10 +68,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "cityoflondonclub.com",
+    "website": "regataslima.pe",
     "activities": []
   },
-  "City University Club": {
+  "Club Empresarial": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -152,7 +80,7 @@
         "lng": 0.0
       }
     },
-    "name": "City University Club",
+    "name": "Club Empresarial",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -164,10 +92,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "cityuniversityclub.co.uk",
+    "website": "clubempresarial.pe",
     "activities": []
   },
-  "Little Ship Club": {
+  "Club Nacional": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -176,7 +104,7 @@
         "lng": 0.0
       }
     },
-    "name": "Little Ship Club",
+    "name": "Club Nacional",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -188,10 +116,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "littleshipclub.co.uk",
+    "website": "wikipedia.org/wiki/Club_Nacional_(Lima)",
     "activities": []
   },
-  "Ned’s Club": {
+  "Country Club La Planicie": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -200,7 +128,7 @@
         "lng": 0.0
       }
     },
-    "name": "Ned’s Club",
+    "name": "Country Club La Planicie",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -212,10 +140,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "thened.com",
+    "website": "clublaplanicie.org",
     "activities": []
   },
-  "Pavilion Club London": {
+  "Lima Cricket and Football Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -224,7 +152,7 @@
         "lng": 0.0
       }
     },
-    "name": "Pavilion Club London",
+    "name": "Lima Cricket and Football Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -236,10 +164,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "pavilion.club",
+    "website": "clublimacricket.com",
     "activities": []
   },
-  "Ten Trinity Square": {
+  "Lima Golf & Country Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -248,7 +176,7 @@
         "lng": 0.0
       }
     },
-    "name": "Ten Trinity Square",
+    "name": "Lima Golf & Country Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -260,10 +188,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "club.tentrinitysquare.com",
+    "website": "limagolf.com",
     "activities": []
   },
-  "The Clubhouse Bank (\"Blaskey Group)": {
+  "Phoenix Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -272,7 +200,7 @@
         "lng": 0.0
       }
     },
-    "name": "The Clubhouse Bank (\"Blaskey Group)",
+    "name": "Phoenix Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -284,31 +212,7 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "theclubhouselondon.com/locations/bank",
-    "activities": []
-  },
-  "Walbrook Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Walbrook Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "walbrook-club.co.uk",
+    "website": "thephoenix-club.com",
     "activities": []
   }
 }

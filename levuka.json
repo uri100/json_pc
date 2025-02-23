@@ -1,0 +1,26 @@
+{
+  "Ovalau Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Ovalau Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "lonelyplanet.com/fiji/levuka/nightlife/ovalau-club/a/poi-dri/1037354/1005003",
+    "activities": []
+  }
+}

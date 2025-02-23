@@ -1,0 +1,28 @@
+{
+  "Krakow Valley Golf & Country Club": {
+    "formatted_address": "Paczółtowice 328",
+    "formatted_phone_number": "+48 12 258 85 00",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Krakow Valley Golf & Country Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": [
+      "golf"
+    ]
+  }
+}

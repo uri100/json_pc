@@ -1,5 +1,5 @@
 {
-  "London Club": {
+  "Academy of Magical Arts": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "London Club",
+    "name": "Academy of Magical Arts",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,82 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "londonclub.com",
+    "website": "magiccastle.com",
     "activities": []
   },
-  "The London Club": {
-    "formatted_address": "177 Queens Avenue",
-    "formatted_phone_number": "+1 519 4346889",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "The London Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "",
-    "activities": []
-  },
-  "St James’s Hotel and Club": {
-    "formatted_address": "7-8 Park Pl, St. James's",
-    "formatted_phone_number": "+44 207 3161600",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "St James’s Hotel and Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "",
-    "activities": []
-  },
-  "St. James's Hotel and Club Mayfair": {
-    "formatted_address": "7-8 Park Place, St James's, London, SW1A 1LS",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "St. James's Hotel and Club Mayfair",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "stjameshotelandclub.com",
-    "activities": []
-  },
-  "City Livery Club": {
+  "Adventurers’ Club of Los Angeles": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -104,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "City Livery Club",
+    "name": "Adventurers’ Club of Los Angeles",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -116,10 +44,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "cityliveryclub.com",
+    "website": "adventurersclub.org",
     "activities": []
   },
-  "City of London Club": {
+  "Bel-Air Country Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -128,7 +56,7 @@
         "lng": 0.0
       }
     },
-    "name": "City of London Club",
+    "name": "Bel-Air Country Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -140,10 +68,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "cityoflondonclub.com",
+    "website": "bel-aircc.golf",
     "activities": []
   },
-  "City University Club": {
+  "California Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -152,7 +80,7 @@
         "lng": 0.0
       }
     },
-    "name": "City University Club",
+    "name": "California Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -164,10 +92,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "cityuniversityclub.co.uk",
+    "website": "californiaclub.org",
     "activities": []
   },
-  "Little Ship Club": {
+  "City Club (ClubCorp)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -176,7 +104,7 @@
         "lng": 0.0
       }
     },
-    "name": "Little Ship Club",
+    "name": "City Club (ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -188,10 +116,34 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "littleshipclub.co.uk",
+    "website": "clubcorp.com/Clubs/City-Club-Los-Angeles",
     "activities": []
   },
-  "Ned’s Club": {
+  "Jonathan Club": {
+    "formatted_address": "545 South Figueroa Street, LA, California, 90071",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Jonathan Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "jc.org",
+    "activities": []
+  },
+  "Little Beach House Malibu (\"Soho House group)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -200,7 +152,7 @@
         "lng": 0.0
       }
     },
-    "name": "Ned’s Club",
+    "name": "Little Beach House Malibu (\"Soho House group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -212,10 +164,34 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "thened.com",
+    "website": "littlebeachhousemalibu.com",
     "activities": []
   },
-  "Pavilion Club London": {
+  "Los Angeles Athletic Club": {
+    "formatted_address": "431 West Seventh Street, LA, California, 90014",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Los Angeles Athletic Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "laac.com",
+    "activities": []
+  },
+  "Marina City Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -224,7 +200,7 @@
         "lng": 0.0
       }
     },
-    "name": "Pavilion Club London",
+    "name": "Marina City Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -236,10 +212,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "pavilion.club",
+    "website": "marinacityclub.net",
     "activities": []
   },
-  "Ten Trinity Square": {
+  "Private Rooftop Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -248,7 +224,7 @@
         "lng": 0.0
       }
     },
-    "name": "Ten Trinity Square",
+    "name": "Private Rooftop Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -260,10 +236,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "club.tentrinitysquare.com",
+    "website": "petitermitage.com/the-private-rooftop-west-hollywood/",
     "activities": []
   },
-  "The Clubhouse Bank (\"Blaskey Group)": {
+  "Riviera Country Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -272,7 +248,7 @@
         "lng": 0.0
       }
     },
-    "name": "The Clubhouse Bank (\"Blaskey Group)",
+    "name": "Riviera Country Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -284,10 +260,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "theclubhouselondon.com/locations/bank",
+    "website": "therivieracountryclub.com",
     "activities": []
   },
-  "Walbrook Club": {
+  "Soho House West Hollywood (\"Soho House group)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -296,7 +272,7 @@
         "lng": 0.0
       }
     },
-    "name": "Walbrook Club",
+    "name": "Soho House West Hollywood (\"Soho House group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -308,7 +284,55 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "walbrook-club.co.uk",
+    "website": "sohohousewh.com",
+    "activities": []
+  },
+  "The Aster": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Aster",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "theasterla.com",
+    "activities": []
+  },
+  "Trump National Golf Club - Los Angeles (\"Trump organization)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Trump National Golf Club - Los Angeles (\"Trump organization)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "trumpnationallosangeles.com",
     "activities": []
   }
 }

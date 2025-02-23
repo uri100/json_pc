@@ -1,0 +1,26 @@
+{
+  "City Hall Club": {
+    "formatted_address": "Jalan Balai Kota, No. 1, Medan 20112, North Sumatra, Indonesia",
+    "formatted_phone_number": "62 61 415 1999 , 62614554545",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "City Hall Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "thecityhallclub.com",
+    "activities": []
+  }
+}

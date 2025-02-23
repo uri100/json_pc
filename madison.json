@@ -1,0 +1,50 @@
+{
+  "Madison Club": {
+    "formatted_address": "5 East Wilson St., Madison, Wisconsin 53703",
+    "formatted_phone_number": "+1 608 2554861, 6 03 2166 3200 , 60321663199",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Madison Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "madisonclub.org",
+    "activities": []
+  },
+  "University Club of the University of Wisconsin": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "University Club of the University of Wisconsin",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "uclub.wisc.edu",
+    "activities": []
+  }
+}

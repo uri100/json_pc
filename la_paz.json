@@ -1,0 +1,101 @@
+{
+  "Circulo de la Union": {
+    "formatted_address": "333 Aspiazu Street, Sopocachi",
+    "formatted_phone_number": "+591 2 2441289",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Circulo de la Union",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": []
+  },
+  "Círculo de la Unión Bolivia": {
+    "formatted_address": "Calle Aspiazu No. 333, Ciudad La Paz, Bolivia",
+    "formatted_phone_number": "+591 2 2441289",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Círculo de la Unión Bolivia",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "circulodelaunion.com",
+    "activities": []
+  },
+  "Club de la Paz": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Club de la Paz",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "clubdelapaz.org.bo",
+    "activities": []
+  },
+  "Club de Tenis La Paz": {
+    "formatted_address": "Av. Arequipa # 8450 La Florida",
+    "formatted_phone_number": "+591 2 2792590",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Club de Tenis La Paz",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": [
+      "tennis",
+      "swimming"
+    ]
+  }
+}
