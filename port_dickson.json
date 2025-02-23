@@ -1,0 +1,26 @@
+{
+  "Royal Port Dickson Yacht Club": {
+    "formatted_address": "4½ Mile Jln Pantai, 71050 Batu Sirusa, Port Dickson, Negeri Sembilan, Malaysia",
+    "formatted_phone_number": "6 06 647 1635 , 6066474470",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Royal Port Dickson Yacht Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "rpdyc.com.my",
+    "activities": []
+  }
+}

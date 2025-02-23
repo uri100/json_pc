@@ -1,0 +1,53 @@
+{
+  "The Athenaeum at Caltech": {
+    "formatted_address": "551 South Hill Avenue",
+    "formatted_phone_number": "+1 626 3958200",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Athenaeum at Caltech",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "athenaeumcaltech.com",
+    "activities": [
+      "tennis",
+      "athletic"
+    ]
+  },
+  "University Club of Pasadena": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "University Club of Pasadena",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "universityclubpasadena.com",
+    "activities": []
+  }
+}

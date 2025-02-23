@@ -1,5 +1,5 @@
 {
-  "Automobile Club de France": {
+  "67 Pall Mall": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Automobile Club de France",
+    "name": "67 Pall Mall",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,10 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "automobileclubdefrance.fr",
+    "website": "67pallmall.co.uk",
     "activities": []
   },
-  "Cercle de l'Union interalliée": {
+  "Army and Navy Club (\"“The Rag”)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "Cercle de l'Union interalliée",
+    "name": "Army and Navy Club (\"“The Rag”)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,10 +44,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "union-interalliee.fr",
+    "website": "therag.co.uk",
     "activities": []
   },
-  "Cercle National des Armées": {
+  "Athenaeum": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -56,7 +56,7 @@
         "lng": 0.0
       }
     },
-    "name": "Cercle National des Armées",
+    "name": "Athenaeum",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -68,10 +68,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "cnaparis.com",
+    "website": "athenaeumclub.co.uk",
     "activities": []
   },
-  "Cercle Norvégien de Paris": {
+  "Oxford and Cambridge Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -80,7 +80,7 @@
         "lng": 0.0
       }
     },
-    "name": "Cercle Norvégien de Paris",
+    "name": "Oxford and Cambridge Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -92,10 +92,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "cerclenorvegien.com/klubben/salonger.html",
+    "website": "oxfordandcambridgeclub.co.uk",
     "activities": []
   },
-  "Cercle Suédois": {
+  "Reform Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -104,7 +104,7 @@
         "lng": 0.0
       }
     },
-    "name": "Cercle Suédois",
+    "name": "Reform Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -116,10 +116,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "cercle-suedois.com",
+    "website": "reformclub.com",
     "activities": []
   },
-  "Club de la Chasse et de la Nature": {
+  "Royal Automobile Club (\"“RAC”)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -128,7 +128,7 @@
         "lng": 0.0
       }
     },
-    "name": "Club de la Chasse et de la Nature",
+    "name": "Royal Automobile Club (\"“RAC”)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -140,10 +140,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "clubchassenature.fr",
+    "website": "royalautomobileclub.co.uk",
     "activities": []
   },
-  "Jockey Club de Paris": {
+  "Travellers Club London": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -152,7 +152,7 @@
         "lng": 0.0
       }
     },
-    "name": "Jockey Club de Paris",
+    "name": "Travellers Club London",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -164,103 +164,7 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Jockey-Club_de_Paris",
-    "activities": []
-  },
-  "Nouveau Cercle de l’Union": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Nouveau Cercle de l’Union",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Nouveau_Cercle_de_l%27Union",
-    "activities": []
-  },
-  "Saint James Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Saint James Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "",
-    "activities": []
-  },
-  "Silencio": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Silencio",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "silencio-club.com",
-    "activities": []
-  },
-  "Travellers Club Paris": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Travellers Club Paris",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "",
+    "website": "thetravellersclub.org.uk",
     "activities": []
   }
 }

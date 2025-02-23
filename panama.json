@@ -1,0 +1,30 @@
+{
+  "Club Union": {
+    "formatted_address": "Calle 56 Este, Tomás Gabriel Duque, Paitilla",
+    "formatted_phone_number": "+507 2085300, 507 63785076",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Club Union",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": [
+      "swimming",
+      "athletic",
+      "tennis"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Bukit Jawi Golf Resort": {
+    "formatted_address": "414/Mukim 6, Jl. Paya Kemian Sempayi",
+    "formatted_phone_number": "+60 4 5820760",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Bukit Jawi Golf Resort",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": [
+      "golf",
+      "tennis",
+      "athletic",
+      "swimming"
+    ]
+  },
+  "Penang Swimming Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Penang Swimming Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "penangswimmingclub.com",
+    "activities": []
+  }
+}

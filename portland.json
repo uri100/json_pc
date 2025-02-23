@@ -1,5 +1,5 @@
 {
-  "Automobile Club de France": {
+  "Arlington Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Automobile Club de France",
+    "name": "Arlington Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,19 +20,19 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "automobileclubdefrance.fr",
+    "website": "arlingtonclub.com",
     "activities": []
   },
-  "Cercle de l'Union interalliée": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Cumberland Club": {
+    "formatted_address": "116 High Street, Portland, ME 04101",
+    "formatted_phone_number": "207 773 6402 , 2077733200",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Cercle de l'Union interalliée",
+    "name": "Cumberland Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,10 +44,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "union-interalliee.fr",
+    "website": "cumberlandclub.org",
     "activities": []
   },
-  "Cercle National des Armées": {
+  "Founders Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -56,151 +56,7 @@
         "lng": 0.0
       }
     },
-    "name": "Cercle National des Armées",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "cnaparis.com",
-    "activities": []
-  },
-  "Cercle Norvégien de Paris": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Cercle Norvégien de Paris",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "cerclenorvegien.com/klubben/salonger.html",
-    "activities": []
-  },
-  "Cercle Suédois": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Cercle Suédois",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "cercle-suedois.com",
-    "activities": []
-  },
-  "Club de la Chasse et de la Nature": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Club de la Chasse et de la Nature",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "clubchassenature.fr",
-    "activities": []
-  },
-  "Jockey Club de Paris": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Jockey Club de Paris",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Jockey-Club_de_Paris",
-    "activities": []
-  },
-  "Nouveau Cercle de l’Union": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Nouveau Cercle de l’Union",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Nouveau_Cercle_de_l%27Union",
-    "activities": []
-  },
-  "Saint James Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Saint James Club",
+    "name": "Founders Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -215,8 +71,8 @@
     "website": "",
     "activities": []
   },
-  "Silencio": {
-    "formatted_address": "",
+  "Multnomah Athletic Club": {
+    "formatted_address": "1849 SW Salmon Street, Portland, OR 97205",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
@@ -224,7 +80,7 @@
         "lng": 0.0
       }
     },
-    "name": "Silencio",
+    "name": "Multnomah Athletic Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -236,10 +92,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "silencio-club.com",
+    "website": "themac.com",
     "activities": []
   },
-  "Travellers Club Paris": {
+  "Portland Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -248,7 +104,31 @@
         "lng": 0.0
       }
     },
-    "name": "Travellers Club Paris",
+    "name": "Portland Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "theportlandclub.org",
+    "activities": []
+  },
+  "The University Club of Portland": {
+    "formatted_address": "1225 S W 6th Avenue",
+    "formatted_phone_number": "+1 503 2236237",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The University Club of Portland",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -261,6 +141,54 @@
     "logo": "",
     "user_ratings_total": 0,
     "website": "",
+    "activities": []
+  },
+  "University Club of Portland": {
+    "formatted_address": "1225 SW 6th Avenue, Portland, OR 97204",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "University Club of Portland",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "uclubpdx.com",
+    "activities": []
+  },
+  "Woodfords Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Woodfords Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "woodfordsclub.org",
     "activities": []
   }
 }

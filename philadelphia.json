@@ -1,5 +1,5 @@
 {
-  "Automobile Club de France": {
+  "Acorn Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Automobile Club de France",
+    "name": "Acorn Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,10 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "automobileclubdefrance.fr",
+    "website": "acornclub.org",
     "activities": []
   },
-  "Cercle de l'Union interalliée": {
+  "Corinthian Yacht Club of Philadelphia": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "Cercle de l'Union interalliée",
+    "name": "Corinthian Yacht Club of Philadelphia",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,10 +44,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "union-interalliee.fr",
+    "website": "corinthianyachtclub.clubhouseonline-e3.com",
     "activities": []
   },
-  "Cercle National des Armées": {
+  "Cosmopolitan Club of Philadelphia": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -56,7 +56,7 @@
         "lng": 0.0
       }
     },
-    "name": "Cercle National des Armées",
+    "name": "Cosmopolitan Club of Philadelphia",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -68,19 +68,19 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "cnaparis.com",
+    "website": "cosclub.org",
     "activities": []
   },
-  "Cercle Norvégien de Paris": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Fitler Club": {
+    "formatted_address": "24 S 24th St",
+    "formatted_phone_number": "+1 215 575 9092",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Cercle Norvégien de Paris",
+    "name": "Fitler Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -92,10 +92,36 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "cerclenorvegien.com/klubben/salonger.html",
+    "website": "fitlerclub.com",
+    "activities": [
+      "swimming"
+    ]
+  },
+  "Franklin Inn Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Franklin Inn Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "thefranklininn.com",
     "activities": []
   },
-  "Cercle Suédois": {
+  "Mask and Wig Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -104,7 +130,7 @@
         "lng": 0.0
       }
     },
-    "name": "Cercle Suédois",
+    "name": "Mask and Wig Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -116,10 +142,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "cercle-suedois.com",
+    "website": "maskandwig.com",
     "activities": []
   },
-  "Club de la Chasse et de la Nature": {
+  "Pen & Pencil Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -128,7 +154,7 @@
         "lng": 0.0
       }
     },
-    "name": "Club de la Chasse et de la Nature",
+    "name": "Pen & Pencil Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -140,10 +166,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "clubchassenature.fr",
+    "website": "penandpencil.org",
     "activities": []
   },
-  "Jockey Club de Paris": {
+  "Penn Club of Philadelphia": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -152,7 +178,7 @@
         "lng": 0.0
       }
     },
-    "name": "Jockey Club de Paris",
+    "name": "Penn Club of Philadelphia",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -164,10 +190,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Jockey-Club_de_Paris",
+    "website": "wikipedia.org/wiki/The_Penn_Club_of_Philadelphia",
     "activities": []
   },
-  "Nouveau Cercle de l’Union": {
+  "Philadelphia Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -176,7 +202,7 @@
         "lng": 0.0
       }
     },
-    "name": "Nouveau Cercle de l’Union",
+    "name": "Philadelphia Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -188,10 +214,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Nouveau_Cercle_de_l%27Union",
+    "website": "wikipedia.org/wiki/Philadelphia_Club",
     "activities": []
   },
-  "Saint James Club": {
+  "Philadelphia Sketch Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -200,7 +226,7 @@
         "lng": 0.0
       }
     },
-    "name": "Saint James Club",
+    "name": "Philadelphia Sketch Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -212,19 +238,19 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "",
+    "website": "sketchclub.org",
     "activities": []
   },
-  "Silencio": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Racquet Club of Philadelphia": {
+    "formatted_address": "215 South 16th Street, Philadelphia, PA 19102",
+    "formatted_phone_number": "215 735 1525 , 2156709527",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Silencio",
+    "name": "Racquet Club of Philadelphia",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -236,10 +262,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "silencio-club.com",
+    "website": "rcop.com",
     "activities": []
   },
-  "Travellers Club Paris": {
+  "Trump National Golf Club - Philadelphia (\"Trump organization)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -248,7 +274,7 @@
         "lng": 0.0
       }
     },
-    "name": "Travellers Club Paris",
+    "name": "Trump National Golf Club - Philadelphia (\"Trump organization)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -260,7 +286,79 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "",
+    "website": "trumpnationalphiladelphia.com",
+    "activities": []
+  },
+  "Union League of Philadelphia": {
+    "formatted_address": "140 South Broad Street, Philadelphia, PA 19102",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Union League of Philadelphia",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "unionleague.org",
+    "activities": []
+  },
+  "United Republican Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "United Republican Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "urcphila.com",
+    "activities": []
+  },
+  "University Club at Penn": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "University Club at Penn",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "cms.business-services.upenn.edu/universityclub/",
     "activities": []
   }
 }

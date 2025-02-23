@@ -1,0 +1,76 @@
+{
+  "Humewood Golf Club": {
+    "formatted_address": "Marine Drive, Summerstrand",
+    "formatted_phone_number": "+27 41 5832137",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Humewood Golf Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "humewoodgolf.co.za",
+    "activities": [
+      "golf"
+    ]
+  },
+  "Port Elizabeth St George's Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Port Elizabeth St George's Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "pestgeorgesclub.co.za",
+    "activities": []
+  },
+  "Port Elizabeth St. George’s Club": {
+    "formatted_address": "12 Bird Street, Central",
+    "formatted_phone_number": "+27 41 5851919",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Port Elizabeth St. George’s Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": []
+  }
+}

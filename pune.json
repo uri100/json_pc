@@ -1,5 +1,5 @@
 {
-  "Automobile Club de France": {
+  "Amanora Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Automobile Club de France",
+    "name": "Amanora Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,10 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "automobileclubdefrance.fr",
+    "website": "amanora.com",
     "activities": []
   },
-  "Cercle de l'Union interalliée": {
+  "Corinthians Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "Cercle de l'Union interalliée",
+    "name": "Corinthians Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,10 +44,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "union-interalliee.fr",
+    "website": "thecorinthianspune.com",
     "activities": []
   },
-  "Cercle National des Armées": {
+  "Dasvino Town and Country Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -56,7 +56,7 @@
         "lng": 0.0
       }
     },
-    "name": "Cercle National des Armées",
+    "name": "Dasvino Town and Country Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -68,10 +68,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "cnaparis.com",
+    "website": "dasvino.in",
     "activities": []
   },
-  "Cercle Norvégien de Paris": {
+  "Deccan Gymkhana": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -80,7 +80,7 @@
         "lng": 0.0
       }
     },
-    "name": "Cercle Norvégien de Paris",
+    "name": "Deccan Gymkhana",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -92,10 +92,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "cerclenorvegien.com/klubben/salonger.html",
+    "website": "deccangymkhana.org",
     "activities": []
   },
-  "Cercle Suédois": {
+  "New Club Poona": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -104,7 +104,7 @@
         "lng": 0.0
       }
     },
-    "name": "Cercle Suédois",
+    "name": "New Club Poona",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -116,10 +116,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "cercle-suedois.com",
+    "website": "thenewclubpoona.com",
     "activities": []
   },
-  "Club de la Chasse et de la Nature": {
+  "Poona Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -128,7 +128,7 @@
         "lng": 0.0
       }
     },
-    "name": "Club de la Chasse et de la Nature",
+    "name": "Poona Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -140,10 +140,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "clubchassenature.fr",
+    "website": "poonaclubltd.com",
     "activities": []
   },
-  "Jockey Club de Paris": {
+  "PYC Hindu Gymkhana": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -152,7 +152,7 @@
         "lng": 0.0
       }
     },
-    "name": "Jockey Club de Paris",
+    "name": "PYC Hindu Gymkhana",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -164,10 +164,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Jockey-Club_de_Paris",
+    "website": "pycgymkhana.com",
     "activities": []
   },
-  "Nouveau Cercle de l’Union": {
+  "Residency Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -176,7 +176,7 @@
         "lng": 0.0
       }
     },
-    "name": "Nouveau Cercle de l’Union",
+    "name": "Residency Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -188,19 +188,19 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Nouveau_Cercle_de_l%27Union",
+    "website": "residencyclub.co.in",
     "activities": []
   },
-  "Saint James Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Royal Connaught Boat Club": {
+    "formatted_address": "7/8 Boat Club Road, Pune 411001, India",
+    "formatted_phone_number": "91 20 2616 3512 , 912026163511",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Saint James Club",
+    "name": "Royal Connaught Boat Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -212,55 +212,7 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "",
-    "activities": []
-  },
-  "Silencio": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Silencio",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "silencio-club.com",
-    "activities": []
-  },
-  "Travellers Club Paris": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Travellers Club Paris",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "",
+    "website": "boatclubpune.com",
     "activities": []
   }
 }
