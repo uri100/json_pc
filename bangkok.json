@@ -1,14 +1,14 @@
 {
-  "Circulo del Liceo": {
-    "formatted_address": "La Rambla, 65",
-    "formatted_phone_number": "+34 93 318 79 25",
+  "Bangkok Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Circulo del Liceo",
+    "name": "Bangkok Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,19 +20,19 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "circulodelliceo.es",
+    "website": "thebangkokclub.com",
     "activities": []
   },
-  "Circulo Ecuestre el Club de Barcelona": {
-    "formatted_address": "Balmes, 169 Bis, 08006 Barcelona, España",
-    "formatted_phone_number": "34 934 156 000 , 34932172853",
+  "British Club Bangkok": {
+    "formatted_address": "189 Surawonga Road, Bangkok 10500, Thailand",
+    "formatted_phone_number": "66 22 3402 47 , 6622351560",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Circulo Ecuestre el Club de Barcelona",
+    "name": "British Club Bangkok",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,13 +44,108 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "circuloecuestre.es",
+    "website": "britishclubbangkok.org",
+    "activities": []
+  },
+  "Foreign Correspondents’ Club of Thailand": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Foreign Correspondents’ Club of Thailand",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "fccthai.com",
+    "activities": []
+  },
+  "Garden City Lagoon Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Garden City Lagoon Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "nlc.org.uk/members/reciprocal-clubs/garden-city-sports-club",
+    "activities": []
+  },
+  "Garden City Sports Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Garden City Sports Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": []
+  },
+  "Pacific City Club": {
+    "formatted_address": "28th Floor, Two Pacific Place, 142 Sukhumvit Road, Bangkok 10110",
+    "formatted_phone_number": "66 26 5324 50 , 6626532473, '+662 653 2451",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Pacific City Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "pacificcityclub.com",
     "activities": [
-      "athletic",
-      "swimming"
+      "athletic"
     ]
   },
-  "Little Beach House Barcelona (\"Soho House group)": {
+  "Royal Bangkok Sports Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -59,7 +154,7 @@
         "lng": 0.0
       }
     },
-    "name": "Little Beach House Barcelona (\"Soho House group)",
+    "name": "Royal Bangkok Sports Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -71,19 +166,19 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "littlebeachhousebarcelona.com",
+    "website": "rbsc.org",
     "activities": []
   },
-  "Real Club de Polo de Barcelona": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "The Bangkok Club": {
+    "formatted_address": "Sathorn City Tower - 28th-31st Floor",
+    "formatted_phone_number": "+66 2 6795550",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Real Club de Polo de Barcelona",
+    "name": "The Bangkok Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -95,55 +190,9 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "rcpolo.com",
-    "activities": []
-  },
-  "Real Club Náutico de Barcelona": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Real Club Náutico de Barcelona",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "rcnb.com",
-    "activities": []
-  },
-  "Soho House Barcelona (\"Soho House group)": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Soho House Barcelona (\"Soho House group)",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "sohohouse.com/houses/soho-house-barcelona",
-    "activities": []
+    "website": "",
+    "activities": [
+      "athletic"
+    ]
   }
 }

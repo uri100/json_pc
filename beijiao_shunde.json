@@ -1,0 +1,30 @@
+{
+  "Royal Harmony Club": {
+    "formatted_address": "No.2 Junlan Junling Road",
+    "formatted_phone_number": "+86 757 2297 6888",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Royal Harmony Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": [
+      "golf",
+      "swimming",
+      "athletic"
+    ]
+  }
+}

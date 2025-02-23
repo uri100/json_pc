@@ -1,56 +1,5 @@
 {
-  "Circulo del Liceo": {
-    "formatted_address": "La Rambla, 65",
-    "formatted_phone_number": "+34 93 318 79 25",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Circulo del Liceo",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "circulodelliceo.es",
-    "activities": []
-  },
-  "Circulo Ecuestre el Club de Barcelona": {
-    "formatted_address": "Balmes, 169 Bis, 08006 Barcelona, España",
-    "formatted_phone_number": "34 934 156 000 , 34932172853",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Circulo Ecuestre el Club de Barcelona",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "circuloecuestre.es",
-    "activities": [
-      "athletic",
-      "swimming"
-    ]
-  },
-  "Little Beach House Barcelona (\"Soho House group)": {
+  "Ahmedabad Gymkhana": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -59,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Little Beach House Barcelona (\"Soho House group)",
+    "name": "Ahmedabad Gymkhana",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -71,10 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "littlebeachhousebarcelona.com",
+    "website": "",
     "activities": []
   },
-  "Real Club de Polo de Barcelona": {
+  "Club O7": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -83,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "Real Club de Polo de Barcelona",
+    "name": "Club O7",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -95,10 +44,34 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "rcpolo.com",
+    "website": "clubo7.com",
     "activities": []
   },
-  "Real Club Náutico de Barcelona": {
+  "Ellisbridge Gymkhana": {
+    "formatted_address": "Netaji Marg., Ahmedabab 380006, Gujarat, India",
+    "formatted_phone_number": "91 79 2642 5240-45 , 917926425239",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Ellisbridge Gymkhana",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "ellisbridgegymkhana.com",
+    "activities": []
+  },
+  "Karnavati Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -107,7 +80,7 @@
         "lng": 0.0
       }
     },
-    "name": "Real Club Náutico de Barcelona",
+    "name": "Karnavati Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -119,10 +92,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "rcnb.com",
+    "website": "karnavaticlub.com",
     "activities": []
   },
-  "Soho House Barcelona (\"Soho House group)": {
+  "Rajpath Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -131,7 +104,7 @@
         "lng": 0.0
       }
     },
-    "name": "Soho House Barcelona (\"Soho House group)",
+    "name": "Rajpath Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -143,7 +116,31 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "sohohouse.com/houses/soho-house-barcelona",
+    "website": "rajpathclub.com",
+    "activities": []
+  },
+  "The Sports Club of Gujarat": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Sports Club of Gujarat",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "sportsclub-gujarat.com",
     "activities": []
   }
 }

@@ -1,56 +1,5 @@
 {
-  "Circulo del Liceo": {
-    "formatted_address": "La Rambla, 65",
-    "formatted_phone_number": "+34 93 318 79 25",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Circulo del Liceo",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "circulodelliceo.es",
-    "activities": []
-  },
-  "Circulo Ecuestre el Club de Barcelona": {
-    "formatted_address": "Balmes, 169 Bis, 08006 Barcelona, España",
-    "formatted_phone_number": "34 934 156 000 , 34932172853",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Circulo Ecuestre el Club de Barcelona",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "circuloecuestre.es",
-    "activities": [
-      "athletic",
-      "swimming"
-    ]
-  },
-  "Little Beach House Barcelona (\"Soho House group)": {
+  "Adelaide Club Australia": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -59,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Little Beach House Barcelona (\"Soho House group)",
+    "name": "Adelaide Club Australia",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -71,10 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "littlebeachhousebarcelona.com",
+    "website": "adelaide-club.asn.au",
     "activities": []
   },
-  "Real Club de Polo de Barcelona": {
+  "Lyceum Club Adelaide": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -83,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "Real Club de Polo de Barcelona",
+    "name": "Lyceum Club Adelaide",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -95,10 +44,58 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "rcpolo.com",
+    "website": "facebook.com/LyceumAdelaide",
     "activities": []
   },
-  "Real Club Náutico de Barcelona": {
+  "Naval Military & Air Force Club of South Australia": {
+    "formatted_address": "111 Hutt Street, Adelaide, South Australia 5000",
+    "formatted_phone_number": "61 88223 2422, 61882323082",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Naval Military & Air Force Club of South Australia",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "navmil.org",
+    "activities": []
+  },
+  "Naval, Military and Air Force Club of South Australia Inc.": {
+    "formatted_address": "111 Hutt Street",
+    "formatted_phone_number": "+61 8 82232422",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Naval, Military and Air Force Club of South Australia Inc.",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": []
+  },
+  "Public Schools Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -107,7 +104,7 @@
         "lng": 0.0
       }
     },
-    "name": "Real Club Náutico de Barcelona",
+    "name": "Public Schools Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -119,10 +116,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "rcnb.com",
+    "website": "publicschoolsclub.com.au",
     "activities": []
   },
-  "Soho House Barcelona (\"Soho House group)": {
+  "Queen Adelaide Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -131,7 +128,7 @@
         "lng": 0.0
       }
     },
-    "name": "Soho House Barcelona (\"Soho House group)",
+    "name": "Queen Adelaide Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -143,7 +140,7 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "sohohouse.com/houses/soho-house-barcelona",
+    "website": "queenadelaideclub.com",
     "activities": []
   }
 }

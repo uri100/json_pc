@@ -1,0 +1,26 @@
+{
+  "Petroleum Club of Bakersfield": {
+    "formatted_address": "5060 California Ave., 12th Floor, Bakersfield",
+    "formatted_phone_number": "661 324 6561 , 6613243744",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Petroleum Club of Bakersfield",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "thepetroleumclub.com",
+    "activities": []
+  }
+}

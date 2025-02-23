@@ -1,14 +1,14 @@
 {
-  "Circulo del Liceo": {
-    "formatted_address": "La Rambla, 65",
-    "formatted_phone_number": "+34 93 318 79 25",
+  "Beijing American Club": {
+    "formatted_address": "28F/29F, China Resources Building, No. 8, North Avenue (not accepting reciprocal members until further notice), Jianguomen, Dongcheng District, Beijing",
+    "formatted_phone_number": "8610 8519 1801, 861085192800",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Circulo del Liceo",
+    "name": "Beijing American Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -20,19 +20,19 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "circulodelliceo.es",
+    "website": "americanclubbeijing.com",
     "activities": []
   },
-  "Circulo Ecuestre el Club de Barcelona": {
-    "formatted_address": "Balmes, 169 Bis, 08006 Barcelona, España",
-    "formatted_phone_number": "34 934 156 000 , 34932172853",
+  "Beijing Riviera Country Club": {
+    "formatted_address": "No.1 Xiang Jiang Bei Lu, Chaoyang District, Beijing, 101117",
+    "formatted_phone_number": "8610 8450 6888 , 861084506999",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "Circulo Ecuestre el Club de Barcelona",
+    "name": "Beijing Riviera Country Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -44,13 +44,62 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "circuloecuestre.es",
+    "website": "bjriviera.com",
+    "activities": []
+  },
+  "Capital Club Beijing": {
+    "formatted_address": "50/F Capital Mansion, 6 Xin Yuan Nan Road, Chao Yang District, Beijing, 100004, China",
+    "formatted_phone_number": "8610 8486 2225 , 861084863331",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Capital Club Beijing",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "thecapitalclub.com",
+    "activities": []
+  },
+  "Chang An Club": {
+    "formatted_address": "10 East Chang An Avenue",
+    "formatted_phone_number": "+86 10 65229988",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Chang An Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "changan-club.com",
     "activities": [
+      "tennis",
       "athletic",
       "swimming"
     ]
   },
-  "Little Beach House Barcelona (\"Soho House group)": {
+  "Manet Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -59,7 +108,7 @@
         "lng": 0.0
       }
     },
-    "name": "Little Beach House Barcelona (\"Soho House group)",
+    "name": "Manet Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -71,79 +120,7 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "littlebeachhousebarcelona.com",
-    "activities": []
-  },
-  "Real Club de Polo de Barcelona": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Real Club de Polo de Barcelona",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "rcpolo.com",
-    "activities": []
-  },
-  "Real Club Náutico de Barcelona": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Real Club Náutico de Barcelona",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "rcnb.com",
-    "activities": []
-  },
-  "Soho House Barcelona (\"Soho House group)": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Soho House Barcelona (\"Soho House group)",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "sohohouse.com/houses/soho-house-barcelona",
+    "website": "hospitalityonline.com/manet",
     "activities": []
   }
 }

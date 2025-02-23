@@ -1,56 +1,5 @@
 {
-  "Circulo del Liceo": {
-    "formatted_address": "La Rambla, 65",
-    "formatted_phone_number": "+34 93 318 79 25",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Circulo del Liceo",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "circulodelliceo.es",
-    "activities": []
-  },
-  "Circulo Ecuestre el Club de Barcelona": {
-    "formatted_address": "Balmes, 169 Bis, 08006 Barcelona, España",
-    "formatted_phone_number": "34 934 156 000 , 34932172853",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Circulo Ecuestre el Club de Barcelona",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "circuloecuestre.es",
-    "activities": [
-      "athletic",
-      "swimming"
-    ]
-  },
-  "Little Beach House Barcelona (\"Soho House group)": {
+  "Center Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -59,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Little Beach House Barcelona (\"Soho House group)",
+    "name": "Center Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -71,10 +20,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "littlebeachhousebarcelona.com",
+    "website": "centerclub.org",
     "activities": []
   },
-  "Real Club de Polo de Barcelona": {
+  "Engineers Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -83,7 +32,7 @@
         "lng": 0.0
       }
     },
-    "name": "Real Club de Polo de Barcelona",
+    "name": "Engineers Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -95,10 +44,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "rcpolo.com",
+    "website": "esb.org",
     "activities": []
   },
-  "Real Club Náutico de Barcelona": {
+  "Johns Hopkins Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -107,7 +56,7 @@
         "lng": 0.0
       }
     },
-    "name": "Real Club Náutico de Barcelona",
+    "name": "Johns Hopkins Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -119,10 +68,10 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "rcnb.com",
+    "website": "jhuclub.jhu.edu",
     "activities": []
   },
-  "Soho House Barcelona (\"Soho House group)": {
+  "Maryland Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -131,7 +80,7 @@
         "lng": 0.0
       }
     },
-    "name": "Soho House Barcelona (\"Soho House group)",
+    "name": "Maryland Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -143,7 +92,31 @@
     "reviews": [],
     "logo": "",
     "user_ratings_total": 0,
-    "website": "sohohouse.com/houses/soho-house-barcelona",
+    "website": "marylandclub1857.org",
+    "activities": []
+  },
+  "Mount Vernon Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Mount Vernon Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "mountvernonclub.net",
     "activities": []
   }
 }

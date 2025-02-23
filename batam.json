@@ -1,0 +1,83 @@
+{
+  "Batam Island Country Club": {
+    "formatted_address": "Jalan Hang Lekiu Km 4, Nongsa",
+    "formatted_phone_number": "+62 778 761818",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Batam Island Country Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": [
+      "golf"
+    ]
+  },
+  "Indah Puri Golf Resort": {
+    "formatted_address": "Jln. Ir Sutami",
+    "formatted_phone_number": "+62 778 323702/03",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Indah Puri Golf Resort",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": [
+      "golf",
+      "tennis",
+      "athletic",
+      "swimming"
+    ]
+  },
+  "Palm Springs Golf & Country Club": {
+    "formatted_address": "Jalan Hang Lekiu, Nongsa",
+    "formatted_phone_number": "+62 778 761220",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Palm Springs Golf & Country Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": [
+      "golf"
+    ]
+  }
+}

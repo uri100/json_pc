@@ -1,0 +1,26 @@
+{
+  "Campus Club Texas": {
+    "formatted_address": "AT&T Hotel and Conference Center, 1900 University Avenue, Austin, Texas 78705",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Campus Club Texas",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Campus Club is a dynamic benefits-driven organization and the social center for the campus community. The club is hosted at the AT&T Hotel and Conference Center for faculty, staff, and retirees of The University of Texas. Campus Club membership is open to all University of Texas faculty and staff, UT System administration, and retirees. With no initiation or cancellation fees and monthly dues of $25 (or $156 annually for retirees), Campus Club membership is the best deal on campus, entitling you to a full slate of professional and personal benefits.",
+    "photo_urls": [],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "",
+    "user_ratings_total": 0,
+    "website": "campusclubut.com",
+    "activities": []
+  }
+}
