@@ -1,11 +1,11 @@
 {
   "Automobile Club de France": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "6 Pl. de la Concorde, 75008 Paris, France",
+    "formatted_phone_number": "+33 1 43 12 43 12",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 48.866932,
+        "lng": 2.321491
       }
     },
     "name": "Automobile Club de France",
@@ -14,46 +14,73 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
+    "description": "The Automobile Club of France (ACF) is a men's club founded in 1895. The club still occupies more than 10,000 square meters in the Hotels du Plessis-Bellière and Moreau, both located between the Hôtel de Crillon and the Hôtel de Coislin, where France signed a treaty by which it became the first nation to recognize the independence of the United States. The members of the Automobile Club of France enjoy several lounges, a swimming pool, a gym, a library containing more than 50,000 references, a movie theatre, bars, and dining rooms. Numerous activities are offered, including yoga, squash, shooting, billiards, and fencing. The facilities also include a hair salon and a travel agency. From 1906 to 1914 the Club regulated major races in France and established the rules for the annual national race dubbed a Grand Prix that was open to competitors from any country. Today, the club maintains its head office and facilities on the Place de la Concorde in Paris.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/automobile_club_de_france1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/automobile_club_de_france2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/automobile_club_de_france3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/automobile_club_de_france4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/automobile_club_de_france5.jpg"
+    ],
+    "rating": 4.7,
     "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "automobileclubdefrance.fr",
-    "activities": []
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/automobile_club_de_france_logo.png",
+    "user_ratings_total": 274,
+    "website": "https://www.automobileclubdefrance.fr",
+    "activities": [
+      "swimming",
+      "gym",
+      "yoga",
+      "squash",
+      "shooting",
+      "billiards",
+      "fencing"
+    ]
   },
-  "Cercle de l'Union interalliée": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Le Cercle de l'Union Interalliée": {
+    "formatted_address": "33 Rue du Faubourg Saint-Honoré, 75008 Paris",
+    "formatted_phone_number": "+33 1 42 65 96 00",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 48.869192,
+        "lng": 2.319976
       }
     },
-    "name": "Cercle de l'Union interalliée",
+    "name": "Le Cercle de l'Union Interalliée",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
+    "description": "A harbor of peace in the heart of Paris, with its magnificent salons, its splendid gardens, its contemporary sports complex, its quality cuisine and its rich century-old history, it helps maintain the art of fine living French-style and as a result, France's influence. The clubhouse is the Hôtel Perrinet de Jars at 33 rue du Faubourg Saint-Honoré in Paris, France. It adjoins the British Embassy and an annex of the embassy of Japan. Because of its very central Paris address (a stone throw from the Place de la Concorde), its majestic interiors and its beautiful French gardens, the clubhouse is often considered as one of the most beautiful if not the most prestigious in France. The club's second president was Ferdinand Foch, Marshal of France, Field Marshal of the United Kingdom, Marshal of Poland and supreme commander of the Allies of World War I. The club includes royalty and political figures among its international members. The sports facility offers a 25m (5 lanes) swimming pool, squash courts, saunas, hammam, gym and training rooms, and is completed with a casual restaurant overlooking the swimming pool. A formal club dining room on the 1st floor and out in the garden during the summer months complete this club's amenities.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/le_cercle_de_lunion_interallie1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/le_cercle_de_lunion_interallie2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/le_cercle_de_lunion_interallie3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/le_cercle_de_lunion_interallie4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/le_cercle_de_lunion_interallie5.jpg"
+    ],
+    "rating": 4.7,
     "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "union-interalliee.fr",
-    "activities": []
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/le_cercle_de_lunion_interallie_logo.png",
+    "user_ratings_total": 586,
+    "website": "https://www.union-interalliee.fr",
+    "activities": [
+      "swimming",
+      "squash",
+      "sauna",
+      "hammam",
+      "gym",
+      "fitness"
+    ]
   },
   "Cercle National des Armées": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "8 Pl. Saint-Augustin, 75008 Paris, France",
+    "formatted_phone_number": "+33 1 44 90 26 26",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 48.875276,
+        "lng": 2.32
       }
     },
     "name": "Cercle National des Armées",
@@ -62,22 +89,31 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
+    "description": "The Cercle National des Armées (CNA) is a unique institution, occupying a building on Place Saint-Augustin, built exclusively for it by Charles Lemaresquier in 1924. It is also present on two other sites, the Hôtel Sainte-Geneviève (Paris 5) and the Hôtel Lacordaire (Paris 15). Today, the “Maison des Officiers de France” (its second name) still welcomes, as a priority, active officers from the three services and armies as well as loyal members who all share the values conveyed by our institution. As a social and cultural organization, the NAC regularly offers activities and events that you will find in the “news” section. The NAC has been headed since August 1, 2022 by Senior Commissioner Marion DIAZ.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_national_des_armes1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_national_des_armes2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_national_des_armes3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_national_des_armes4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_national_des_armes5.jpg"
+    ],
+    "rating": 4.4,
     "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "cnaparis.com",
-    "activities": []
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_national_des_armes_logo.png",
+    "user_ratings_total": 376,
+    "website": "https://www.cnaparis.com",
+    "activities": [
+      "gym",
+      "fitness"
+    ]
   },
   "Cercle Norvégien de Paris": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "20 rue de l'Arcade, Paris",
+    "formatted_phone_number": "+33188223344",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 48.872044,
+        "lng": 2.323862
       }
     },
     "name": "Cercle Norvégien de Paris",
@@ -86,46 +122,58 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
+    "description": "The Norwegian Circle of Paris was founded on June 7, 1926. It is a private circle that has been an important meeting place for the Norwegian community and friends of Norway for years. From autumn 2024, the Norwegian Circle of Paris will move to new premises. An agreement has been concluded with the Hôtel Alfred Sommier, located at 20 rue de l'Arcade, in the heart of Paris, near the Madeleine Church. We organize various events for our members and their guests: concerts, themed lunches, themed dinners and traditional celebrations, such as May 17 and the Christmas buffet. The restaurant is open from Tuesday to Saturday from 12:00 to 14:30 and from 19:30 to 21:30. You can enjoy the daily special at a reasonable price, a business lunch or a full dinner. You can also invite your friends and colleagues to a business breakfast at the restaurant every day (7 days a week) from 07:00 to 10:00. At the bar, also open every day and in the evening, you can read a newspaper, chat while enjoying a cup of coffee, a good glass of wine or a cocktail.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_norvgien_de_paris1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_norvgien_de_paris2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_norvgien_de_paris3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_norvgien_de_paris4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_norvgien_de_paris5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_norvgien_de_paris_logo.png",
     "user_ratings_total": 0,
-    "website": "cerclenorvegien.com/klubben/salonger.html",
+    "website": "https://cerclenorvegien.com/",
     "activities": []
   },
-  "Cercle Suédois": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Cercle Suedois": {
+    "formatted_address": "6 pl. de la république dominicaine 75017 paris",
+    "formatted_phone_number": "+33 1 42 60 76 67",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 48.880628,
+        "lng": 2.30876
       }
     },
-    "name": "Cercle Suédois",
+    "name": "Cercle Suedois",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
+    "description": "Founded in 1891, the “Svenska Klubben i Paris” is the oldest Swedish Circle abroad. A stone's throw from Parc Monceau in the heart of Paris, the Swedish Circle welcomes its members and their guests in its lounges. In addition to Jazz Wednesday, the Swedish Circle organizes events for its members and their guests dedicated to Swedish traditions and culture, as well as other gatherings connected to the spirit of the times (After Works, conferences, etc).",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_suedois1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_suedois2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_suedois3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_suedois4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_suedois5.jpg"
+    ],
+    "rating": 4.6,
     "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "cercle-suedois.com",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_suedois_logo.png",
+    "user_ratings_total": 256,
+    "website": "https://www.cercle-suedois.com",
     "activities": []
   },
   "Club de la Chasse et de la Nature": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "60 Rue des Archives, 75003 Paris, France",
+    "formatted_phone_number": "+33 1 53 01 92 40",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 48.861168,
+        "lng": 2.3587046
       }
     },
     "name": "Club de la Chasse et de la Nature",
@@ -134,22 +182,30 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
+    "description": "It was in 1964 that François Sommer, supported by his wife Jacqueline, concretized his love of Nature by creating the Maison de la Chasse et de la Nature. Faithful to their humanist aspirations, they added to this Foundation an association which must take an active part in the promotion of the values ​​they defend.\n This will be the Hunting and Nature Club, founded on January 12, 1966. The club is placed under the sign of friendship and camaraderie: its first 34 members are close to the Sommers who combine qualities and values. Coming from the world of politics, business, and the arts, they formed the constituent assembly of the club of the House of Hunting and Nature.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/club_de_la_chasse_et_de_la_nature1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/club_de_la_chasse_et_de_la_nature2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/club_de_la_chasse_et_de_la_nature3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/club_de_la_chasse_et_de_la_nature4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/club_de_la_chasse_et_de_la_nature5.jpg"
+    ],
+    "rating": 4.3,
     "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "clubchassenature.fr",
-    "activities": []
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/club_de_la_chasse_et_de_la_nature_logo.png",
+    "user_ratings_total": 58,
+    "website": "https://www.clubchassenature.fr",
+    "activities": [
+      "Hunting"
+    ]
   },
   "Jockey Club de Paris": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "2 rue Rabelais, Paris",
+    "formatted_phone_number": "+33 156591550",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 48.870681,
+        "lng": 2.3127831
       }
     },
     "name": "Jockey Club de Paris",
@@ -158,46 +214,30 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
+    "description": "The Jockey Club de Paris is a traditional gentlemen's club and is regarded as the most prestigious of private clubs in Paris. It is best remembered as a gathering place of the elite of nineteenth-century French society. Today it is decidedly but not exclusively aristocratic. The club seat is at 2, rue Rabelais in Paris, near the Champs-Elysées and it hosts the International Federation of Racing Authorities.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/jockey_club_de_paris1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/jockey_club_de_paris2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/jockey_club_de_paris3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/jockey_club_de_paris4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/jockey_club_de_paris5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/jockey_club_de_paris_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Jockey-Club_de_Paris",
-    "activities": []
-  },
-  "Nouveau Cercle de l’Union": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Nouveau Cercle de l’Union",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Nouveau_Cercle_de_l%27Union",
-    "activities": []
+    "website": "https://www.wikipedia.org/wiki/Jockey-Club_de_Paris",
+    "activities": [
+      "horse racing"
+    ]
   },
   "Saint James Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "5 Pl. du Chancelier Adenauer, 75116 Paris,",
+    "formatted_phone_number": "+33 1 44 05 81 81",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 48.8708928,
+        "lng": 2.2793486
       }
     },
     "name": "Saint James Club",
@@ -206,22 +246,34 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
+    "description": "Since its foundation in 1987 by Peter de Savary - who at the time was also the owner of the clubs in London, Los Angeles and Antigua - the Saint James Club has a special spot in the heart of Parisians. They find an exclusive and discreet venue to hold their professional and private meetings, or to enjoy a meal. They meet at the Club during their visits and at events organized for them (tastings, presentations, conferences, themed dinners, etc.). They sometimes rub shoulders with travellers from around the globe who visit to discover the Parisian art de vivre. Members of the Saint James Club benefit from exceptional services and generous welcome that make the reputation of Relais & Châteaux properties. They also become part of a growing, informal community. The majestic residence hosting the Club began its life in 1892 on the site of Paris' first air-balloon landing field, as a home to the Thiers Foundation.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/saint_james_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/saint_james_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/saint_james_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/saint_james_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/saint_james_club5.jpg"
+    ],
+    "rating": 4.7,
     "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "",
-    "activities": []
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/saint_james_club_logo.png",
+    "user_ratings_total": 1200,
+    "website": "https://www.saintjamesclub.com",
+    "activities": [
+      "spa",
+      "swimming",
+      "gym",
+      "fitness",
+      "."
+    ]
   },
   "Silencio": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "142 Rue Montmartre, 75002 Paris, France",
+    "formatted_phone_number": "+33 (0) 1 53 65 65 58",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 48.8689365,
+        "lng": 2.3434678
       }
     },
     "name": "Silencio",
@@ -230,22 +282,28 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
+    "description": "A playground for artists and a meeting spot for those who support them, an uncommon think-tank and an attractive party scene, a realm of words, music, colors, poetry and movement. Silencio is a one-of-a-kind members’ club. Here, hearts and bodies come alive, nourished by the shared breath of discovery. Whether in Paris, Ibiza, or even Cannes, Miami or Venice, whether in broad daylight or in the glowing darkness of velvety nights, with its cutting-edge curating, Silencio relentlessly explores the now to capture the essence of tomorrow. Its cosmopolitan mindset comes to life in places infused with both the vibrancy of capital cities and the melodies of inner worlds. Beating to the rhythm of an inspiring program, it takes shape through concerts, screenings, exhibitions, talks, and encounters, giving birth to hybrid creations. In our intimate settings, creatives are given the utmost freedom for magic to happen. Welcome to Silencio.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/silencio1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/silencio2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/silencio3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/silencio4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/silencio5.jpg"
+    ],
+    "rating": 2.3,
     "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "silencio-club.com",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/silencio_logo.png",
+    "user_ratings_total": 657,
+    "website": "https://www.silencio-club.com",
     "activities": []
   },
   "Travellers Club Paris": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "25 Av. des Champs-Élysées, 75008 Paris, France",
+    "formatted_phone_number": "+ 33 1 43 59 75 00",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 48.8693884,
+        "lng": 2.3077361
       }
     },
     "name": "Travellers Club Paris",
@@ -254,13 +312,24 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
+    "description": "The Travelers has been located at Hotel Païva since 1904, in the magnificent building that belonged to the Marchioness of Païva. It offers a unique space to its members in the center of Paris, on the Avenue des Champs-Elysées. It has spaces for the member, such as a restaurant, cafeterias, lounges, event rooms and recreation rooms.\n The required dress code is a jacket and tie for all spaces. A cover letter is required to access.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/travellers_club_paris1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/travellers_club_paris2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/travellers_club_paris3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/travellers_club_paris4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/travellers_club_paris5.jpg"
+    ],
+    "rating": 4.3,
     "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "",
-    "activities": []
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/travellers_club_paris_logo.png",
+    "user_ratings_total": 33,
+    "website": "http://thetravellersparis.com",
+    "activities": [
+      "gym",
+      "spa",
+      "fitness",
+      "sauna"
+    ]
   }
 }
