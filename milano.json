@@ -27,7 +27,7 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/milano/circolo_dellunione_di_milano_logo.png",
     "user_ratings_total": 41,
     "website": "https://www.circolodellunione.it",
-    "activities": ["billiard"]
+    "activities": ["billiards"]
   },
   "Clubhouse Brera": {
     "formatted_address": "Via dell'Orso, 7, 20121 Milano MI, Italy",
@@ -150,7 +150,7 @@
     "activities": [
       "fencing",
       "gym",
-      "billiard",
+      "billiards",
       "fitness",
       "golf"
     ]
