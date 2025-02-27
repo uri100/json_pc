@@ -1,11 +1,43 @@
 {
-  "Circolo Antico Tiro a Volo": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Roma Polo Club": {
+    "formatted_address": "Via dei Campi Sportivi, 43, 00197 Roma RM, Italy",
+    "formatted_phone_number": "+39 06 807 0907",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.936741,
+        "lng": 12.49039
+      }
+    },
+    "name": "Roma Polo Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "The Roma Polo Club is the oldest of the Italian clubs founded in the 1930s. Trophies, period photos and significant memorabilia, testify inside the colonial-style clubhouse, not only to the intense sporting activity of the club members but also, over the course of seventy years of activity, the presence of a group of passionate spectators of absolute respect. The club has a competition field and a training field, stables, sand and round tracks, changing rooms, an excellent restaurant and a splendid swimming pool surrounded by greenery. Courses are held for beginners or improvement for players. In the month of June, night tournaments are held, considered among the most evocative in Italy.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/roma_polo_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/roma_polo_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/roma_polo_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/roma_polo_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/roma_polo_club5.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/roma_polo_club_logo.png",
+    "user_ratings_total": 112,
+    "website": "https://www.romapoloclub.it",
+    "activities": [
+      "Polo"
+    ]
+  },
+  "Circolo Antico Tiro a Volo": {
+    "formatted_address": "Via E. Vajna 21, 00197 Rome",
+    "formatted_phone_number": "+39 06 808 2367",
+    "geometry": {
+      "location": {
+        "lat": 41.929978,
+        "lng": 12.48905
       }
     },
     "name": "Circolo Antico Tiro a Volo",
@@ -14,22 +46,37 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
+    "description": "Boasting one of Rome’s most beautiful views and a century-long tradition, the Circolo Antico Tiro a Volo is one of the capital’s greatest award-winning, best-known and most popular prestigious sports and cultural clubs.After the initial years, when the club’s activities revolved around the sport of wing shooting that is still proudly recalled in the name and of which it was Italy’s greatest representative, Antico Tiro a Volo has now upgraded and updated its facilities to house a number of other sports, including tennis, swimming, five-a-side football, etc., and has collected a number of awards and prizes won by its athletes in various disciplines. Alongside sports, the Club also hosts cultural and social activities in areas as diverse as literature, science, arts, law, which are led by qualified experts in the various fields and are extremely popular among members, who enjoy attending these events, showing interest and participation. At the Club a great deal of space is devoted to recreational activities such as card games, which attract both members and their friends and guests, convivial gatherings, film viewings and concerts. Last but not least, the Club’s social life and the daily, friendly meetings of members are occasions to spend some time cheerfully with friends.The in-house restaurant is widely recognised as the boast of Circolo Antico Tiro a Volo, where members and their guests can enjoy the best dishes of Italian and international cuisine, prepared by renowned chefs with top-quality ingredients.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_antico_tiro_a_volo1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_antico_tiro_a_volo2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_antico_tiro_a_volo3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_antico_tiro_a_volo4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_antico_tiro_a_volo5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_antico_tiro_a_volo_logo.png",
     "user_ratings_total": 0,
-    "website": "anticotiroavolo.com",
-    "activities": []
+    "website": "https://www.anticotiroavolo.com",
+    "activities": [
+      "Shooting",
+      "Tennis",
+      "Swimming",
+      "five-a-side football",
+      "Padel",
+      "Fitness",
+      "Gym",
+      "Billiards"
+    ]
   },
   "Circolo Canottieri Aniene": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Lungotevere dell'Acqua Acetosa, 119, 00197 Roma RM, Italy",
+    "formatted_phone_number": "+39 06 807 0777",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.931704,
+        "lng": 12.483694
       }
     },
     "name": "Circolo Canottieri Aniene",
@@ -38,22 +85,38 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
+    "description": "AQUANIENE The Sport Club is the meeting and aggregation point open to the public, for those who love sport and share its values, born from the passion, courage and will that have always distinguished the sporting philosophy of the Circolo Canottieri Aniene. Children, teenagers, parents and entire families can practice sports alongside the stars of national and international sport who have chosen Aquaniene as their second home, surrounded by a healthy, relaxed and professional environment.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_canottieri_aniene1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_canottieri_aniene2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_canottieri_aniene3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_canottieri_aniene4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_canottieri_aniene5.jpg"
+    ],
+    "rating": 4.6,
     "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "ccaniene.com",
-    "activities": []
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_canottieri_aniene_logo.png",
+    "user_ratings_total": 649,
+    "website": "https://www.ccaniene.com",
+    "activities": [
+      "5-a-side football",
+      "Padel",
+      "Tennis",
+      "Swimming",
+      "Fitness",
+      "Gym",
+      "diving",
+      "canoe",
+      "boating"
+    ]
   },
   "Circolo del Ministero degli Esteri": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Lungotevere dell'Acqua Acetosa, 42, 00197 Roma RM, Italy",
+    "formatted_phone_number": "+39 06 808 6130",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.935302,
+        "lng": 12.477412
       }
     },
     "name": "Circolo del Ministero degli Esteri",
@@ -62,22 +125,43 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
+    "description": "The Foreign Affairs Club, established in 1936 to represent the Ministry of Foreign Affairs, still maintains a strong international vocation and contributes to the institutional and representational activities of the Ministry of Foreign Affairs and International Cooperation by hosting official ceremonies and offering its facilities as an elegant venue for both formal and informal business meetings. Large halls and representative spaces, bridge rooms, a pool table and television, restaurant, cafeteria, and a café are all available at the club. The practise of sports activities is an important part of the offerings of the Foreign Affairs Club, which are popular with members of all ages: swimming, gym, fitness room, tennis, rowing, running, five-a-side football, table tennis, and sport climbing. Furthermore, we are building a cutting-edge padel court. Solid is also the club’s cultural tradition, which offers a broad array of musical, literary, artistic, as well as scientific events. Its mission is endorsed, however, by the considerable exhibition space dedicated to contemporary art. The prestigious art collection on exhibit in the club’s internal spaces absolutely differentiates it as “unique” in the landscape of Roman clubs. Dancing parties, theme nights, charity events, bridge courses, and buraco tournaments all contribute to the generous social activities program. Please feel free to contact the secretariat if you require any further information concerning guests’ and members’ admittance. The Foreign Affairs Club is located on the Tiber’s left bank in Lungotevere dell’Acqua Acetosa 42, a true haven of peace and nature amidst the noise of urban traffic and the frenetic rhythms of life in a capital. We especially recommend reading “Il Circolo del Ministero degli Affari Esteri” by Ugo Colombo Sacco di Albiano, Publisher Gangemi, pp. 287, Rome 2008 for an exhaustive look at the club history.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_del_ministero_degli_esteri1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_del_ministero_degli_esteri2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_del_ministero_degli_esteri3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_del_ministero_degli_esteri4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_del_ministero_degli_esteri5.jpg"
+    ],
+    "rating": 4.5,
     "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "circoloesteri.it",
-    "activities": []
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_del_ministero_degli_esteri_logo.png",
+    "user_ratings_total": 360,
+    "website": "https://www.circoloesteri.it",
+    "activities": [
+      "Swimming",
+      "Tennis",
+      "Boating",
+      "Gym",
+      "Running",
+      "football",
+      "basketball",
+      "Padel",
+      "climbing",
+      "fitness",
+      "tennis",
+      "rowing",
+      "five-a-side football",
+      "table tennis"
+    ]
   },
   "Circolo della Caccia Roma": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Largo Fontanella di Borghese, 19 Roma",
+    "formatted_phone_number": "+39 06 6810 68224",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.903777,
+        "lng": 12.476718
       }
     },
     "name": "Circolo della Caccia Roma",
@@ -86,22 +170,33 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
+    "description": "The Circolo della Caccia is a gentlemen's club that brings together representatives of the Roman and Italian aristocracy. The club, founded in November 1869, has had its headquarters since 1922 on the noble of the seventeenth-century Palazzo Borghese, which stands in the old district of Campo Marzio.The club has 700 members divided between honorary members, founding members and foreign members. Among others, King Philip VI of Spain, King Charles III of the United Kingdom and Prince Albert II of Monaco. The fixed appointments are the wild boar evening at the end of February, the Christmas greetings lunch and the presentations of new members with the speech of the youngest at the end of the evening. The association also participates in numerous sporting events, distinguishing itself in the practice of polo, sailing, clay pigeon shooting and skiing.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_della_caccia_roma1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_della_caccia_roma2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_della_caccia_roma3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_della_caccia_roma4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_della_caccia_roma5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_della_caccia_roma_logo.png",
     "user_ratings_total": 0,
-    "website": "circolodellacaccia.it",
-    "activities": []
+    "website": "https://www.circolodellacaccia.it",
+    "activities": [
+      "polo",
+      "sailing",
+      "clay pigeon shooting",
+      "skiing."
+    ]
   },
   "Nuovo Circolo degli Scacchi": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Piazza del Gesù, 49, 00186 Roma RM, Italy",
+    "formatted_phone_number": "+39 06 321 0543",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.8957061,
+        "lng": 12.4789129
       }
     },
     "name": "Nuovo Circolo degli Scacchi",
@@ -110,22 +205,28 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
+    "description": "The Nuovo Circolo degli Scacchi is a gentlemen's club founded in Rome in 1916 from the union of the Circolo degli Scacchi, founded in 1872 and having as its president Prince Don Giovanni Torlonia, and the Nuovo Circolo founded in 1906 and presided over by the Prince and Duke of Paliano Don Fabrizio. Starting from September 2023, the Club moved to its new headquarters, in Palazzo Altieri, in Piazza del Gesù, 49. Palazzo Altieri, one of the most important and significant examples of Roman Baroque, occupies a large block in the center of the city between the Pantheon and Piazza Venezia, overlooking Via del Plebiscito and Piazza del Gesù with its main facade. Commissioned by Cardinal Giovanni Battista Altieri to the architect Giovanni Antonio De Rossi, the palace was built starting in 1650 on a nucleus of medieval origin. It was then further expanded between 1670 and 1673, at the behest of Pope Clement X and under the control of his cardinal nephew, Paluzzo Paluzzi Altieri degli Albertoni. The second noble floor, now home to the Nuovo Circolo degli Scacchi, has become representative of the entire Palace over time due to its rich and refined furnishings and valuable decorations.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/nuovo_circolo_degli_scacchi1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/nuovo_circolo_degli_scacchi2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/nuovo_circolo_degli_scacchi3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/nuovo_circolo_degli_scacchi4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/nuovo_circolo_degli_scacchi5.jpg"
+    ],
+    "rating": 4.7,
     "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "ccaniene.com",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/nuovo_circolo_degli_scacchi_logo.png",
+    "user_ratings_total": 98,
+    "website": "https://www.circolodegliscacchi.it",
     "activities": []
   },
   "Reale Circolo Canottieri Tevere Remo": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Lungotevere in Augusta 28, 00186 Roma",
+    "formatted_phone_number": "+39 63612274",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.9087346,
+        "lng": 12.473888
       }
     },
     "name": "Reale Circolo Canottieri Tevere Remo",
@@ -134,22 +235,39 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
+    "description": "The Società Ginnastica dei Canottieri del Tevere – today the Reale Circolo Canottieri Tevere Remo – was formally founded in 1872. The Society, which was the first to introduce gymnastics and rowing to Rome, had a clear Risorgimento vocation, so much so that after the annexation of Rome to the Kingdom of Italy, it received high recognition from the Royal House of Savoy and the highest authorities of the government. Among these recognitions is the membership, since its foundation as honorary members, of Prince Tommaso of Savoy, Duke of Genoa, brother of the future Queen Margherita, of the Minister of the Navy at the time, Admiral Benedetto Brin, and of the Mayor of the Capital. Before the establishment of the Royal Yacht Club of Italy (RYCI) in 1879, in which the Club participated directly, the Società Ginnastica dei Canottieri del Tevere set up a sailing base in Palo Laziale, on the estate of Prince Ladislao Odescalchi, founder of the town of Ladispoli and second President, after Guglielmo Grant, of the Society. In 1912, with the merger with the Circolo del Remo, the base was transferred to Anzio where it is still in full operation. The club has a long history in the field of competitive rowing and sailing and has won many titles, medals and trophies since 1875; many of them are on display in the Palazzina della Sede Sociale.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/reale_circolo_canottieri_tevere_remo1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/reale_circolo_canottieri_tevere_remo2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/reale_circolo_canottieri_tevere_remo3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/reale_circolo_canottieri_tevere_remo4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/reale_circolo_canottieri_tevere_remo5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/reale_circolo_canottieri_tevere_remo_logo.png",
     "user_ratings_total": 0,
-    "website": "rcctevereremo.it",
-    "activities": []
+    "website": "https://www.rcctevereremo.it",
+    "activities": [
+      "Rowing",
+      "Sailing",
+      "Canoe",
+      "Football",
+      "Tennis",
+      "Swimming",
+      "Billiards",
+      "motorbiking",
+      "hiking",
+      "horse racing"
+    ]
   },
   "Tennis Club Parioli": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Largo Uberto De Morpurgo, 2, 00199 Roma RM, Italy",
+    "formatted_phone_number": "+39 06 897851",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.9362535,
+        "lng": 12.5077085
       }
     },
     "name": "Tennis Club Parioli",
@@ -159,36 +277,27 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/tennis_club_parioli1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/tennis_club_parioli2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/tennis_club_parioli3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/tennis_club_parioli4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/tennis_club_parioli5.jpg"
+    ],
+    "rating": 4.3,
     "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "tcparioli.it",
-    "activities": []
-  },
-  "Roma Polo Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Roma Polo Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "romapoloclub.it",
-    "activities": []
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/tennis_club_parioli_logo.png",
+    "user_ratings_total": 293,
+    "website": "https://www.tcparioli.it",
+    "activities": [
+      "tennis",
+      "gym",
+      "fitness",
+      "football",
+      "padel",
+      "running",
+      "billiards",
+      "ski"
+    ]
   }
 }
