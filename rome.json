@@ -187,7 +187,7 @@
       "polo",
       "sailing",
       "clay pigeon shooting",
-      "ski"
+      "skiing."
     ]
   },
   "Nuovo Circolo degli Scacchi": {
@@ -298,6 +298,150 @@
       "running",
       "billiards",
       "ski"
+    ]
+  },
+  "Olgiata Golf Club": {
+    "formatted_address": "L.go Olgiata, 15, 00123 Roma RM, Italy",
+    "formatted_phone_number": "+39 06 3088 9141",
+    "geometry": {
+      "location": {
+        "lat": 42.022559,
+        "lng": 12.3716967
+      }
+    },
+    "name": "Olgiata Golf Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "C. K. Cotton with Frank Pennink laid out the original 18 holes at Olgiata Golf Club, one of several Italian courses that he designed or restyled in the 1960s. A second nine holes have since been incorporated into the same large estate that lies to the north of the capital. The property was once a stud farm, producing world class thoroughbreds – like Nearco in the 1930s and Ribot in the 1950s – and a horse racing track still exists to the south of this massive golf and residential complex. All 27 holes at Olgiata are set in sumptuous parkland surroundings where the terrain is mildly undulating and fairways are separated by avenues of magnificent mature trees. The two 9-hole loops of the West course fan out from the clubhouse in opposite directions with many of the well-bunkered holes gently doglegging left or right. The club co-hosted the Italian Open with Roma Acquasanta in 1973. More recently, Ian Poulter claimed the Italian Open title here in 2002 and Bernd Wiesberger prevailed in 2019. The club has twice hosted the World Cup; the first time in 1968 when the Canadian two-man team of Al Balding and George Knudson lifted the trophy; and the second occasion in 1984, with the Spanish winners from two years previous, José Maria Cañizares and José Rivero, triumphing again.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/olgiata_golf_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/olgiata_golf_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/olgiata_golf_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/olgiata_golf_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/olgiata_golf_club5.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/olgiata_golf_club_logo.png",
+    "user_ratings_total": 638,
+    "website": "https://www.olgiatagolfclub.com",
+    "activities": [
+      "golf",
+      "swimming",
+      "sauna",
+      "gym",
+      "tennis"
+    ]
+  },
+  "Castelgandolfo Golf Club": {
+    "formatted_address": "Via Santo Spirito, 13, 00040 Castel Gandolfo RM, Italy",
+    "formatted_phone_number": "+39 06 931 2301",
+    "geometry": {
+      "location": {
+        "lat": 41.7379257,
+        "lng": 12.6221487
+      }
+    },
+    "name": "Castelgandolfo Golf Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A mansion built in the seventeenth century overlooks the crater of an extinct volcano. The residence, originally commissioned by Cardinal Flavio Chigi, is now considered the most charming club house among golf clubs; the crater, thanks to the creative flair of Robert Trent Jones Sr., has been transformed into a challenging golf course, full of intriguing technical features. The naturally laid ground has been endowed with one hundred and one tricks among centenarian olive trees, oaks and cluster pines. The balcony of the club house offers a fascinating and complete panorama of the course: the 18 holes can be embraced in a single look, giving the feeling of an intimate and evocative atmosphere, while four centuries of history provide protection within the walls of the club house and the seafront shines in the background. In the charming halls as well as on the delightful garden of the terrace takes place the performance of our chef of the restaurant, whose recipes of revisited regional cuisine fulfill the gusto of every guest.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/castelgandolfo_golf_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/castelgandolfo_golf_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/castelgandolfo_golf_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/castelgandolfo_golf_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/castelgandolfo_golf_club5.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/castelgandolfo_golf_club_logo.png",
+    "user_ratings_total": 383,
+    "website": "https://www.countryclubcastelgandolfo.it",
+    "activities": [
+      "golf",
+      "tennis",
+      "swimming",
+      "billiards",
+      "5-a-side-football"
+    ]
+  },
+  "Fioranello Golf Club": {
+    "formatted_address": "Via della Falcognana, 61, 00134 Roma RM, Italy",
+    "formatted_phone_number": "+39 06 713 8080",
+    "geometry": {
+      "location": {
+        "lat": 41.7594681,
+        "lng": 12.5722332
+      }
+    },
+    "name": "Fioranello Golf Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Fioranello Golf Club was founded in 1979 in the evocative Roman countryside, once belonged to the household of the Princes Boncompagni Ludovisi, at the borders of the archeological park of Appia Antica. After the clubhouse was built, in 1984, the construction of the course and driving Range started to take place. In 1990 the club celebrates its 18th holes’ course opening, thoughtfully improved over the following years. Eventually it became one of the most pleasing and suggestive courses in Rome. In such a short time Fioranello Golf Club builds its success on its standards and image, thanks to the course and club’s design, which reflect the true spirit of the countryside golf club, the original British vision of the Golf Club. A precise identity, that evokes a unique atmosphere, hard to find in the clubs of the Capitol. The social life, sport and wellness, in their best functionality and environment, without “pricey/posh” demands, but still giving off the “Old English” vibes. Our Club definitely outstands for these aspects, and charm our guests to discover it for the first time.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/fioranello_golf_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/fioranello_golf_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/fioranello_golf_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/fioranello_golf_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/fioranello_golf_club5.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/fioranello_golf_club_logo.png",
+    "user_ratings_total": 361,
+    "website": "https://www.fioranellogolf.it",
+    "activities": [
+      "golf",
+      "swimming"
+    ]
+  },
+  "Circolo Canottieri Roma": {
+    "formatted_address": "Lungotevere Flaminio, 39, 00196 Roma RM, Italy",
+    "formatted_phone_number": "+39 06 361 2921",
+    "geometry": {
+      "location": {
+        "lat": 41.9241259,
+        "lng": 12.4645473
+      }
+    },
+    "name": "Circolo Canottieri Roma",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Founded on September 28, 1919, the Circolo Canottieri Roma began with modest expenses for its first yellow-red flag and a rented riverside location. Emerging in post-WWI Italy, the club fostered rowing, inspired by British tradition, and quickly became a hub for sports and social life along the Tiber. Over the decades, it evolved into one of Italy’s premier sports clubs, expanding its facilities to include rowing, tennis, paddle, football, and even cultural activities. Its legacy includes national and international titles in rowing, canoeing, and tennis, with a significant membership growth from just over 100 in 1922 to 1,000 today. The club’s infrastructure now boasts state-of-the-art equipment, including a fleet of 50 boats, a floating dock, gyms, and multiple courts. Competitive rivalries, particularly with Canottieri Lazio, and iconic figures like Nicola Pietrangeli have enriched its history. Honored with the CONI Golden Star for Sporting Merit in 1971, the club remains a vibrant hub where generations engage in sports, leisure, and cultural events, solidifying its role as a cornerstone of Roman sports tradition.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_canottieri_roma1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_canottieri_roma2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_canottieri_roma3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_canottieri_roma4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_canottieri_roma5.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/circolo_canottieri_roma_logo.png",
+    "user_ratings_total": 351,
+    "website": "https://www.canottieriroma.it",
+    "activities": [
+      "rowing",
+      "boating",
+      "tennis",
+      "football",
+      "running",
+      "gym",
+      "fitness",
+      "cycling"
     ]
   }
 }
