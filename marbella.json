@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/marbella/sociedad_recreativa_y_cultural_casino_de_marbella1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/marbella/sociedad_recreativa_y_cultural_casino_de_marbella2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/marbella/sociedad_recreativa_y_cultural_casino_de_marbella3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/marbella/sociedad_recreativa_y_cultural_casino_de_marbella4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/marbella/sociedad_recreativa_y_cultural_casino_de_marbella5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/marbella/sociedad_recreativa_y_cultural_casino_de_marbella_logo.png",
     "user_ratings_total": 0,
-    "website": "facebook.com/casinomarb/",
+    "website": "https://www.facebook.com/casinomarb/",
     "activities": []
   }
 }

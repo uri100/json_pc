@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manama/bahrain_capital_club_signature_clubs_international1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manama/bahrain_capital_club_signature_clubs_international2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manama/bahrain_capital_club_signature_clubs_international3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manama/bahrain_capital_club_signature_clubs_international4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manama/bahrain_capital_club_signature_clubs_international5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manama/bahrain_capital_club_signature_clubs_international_logo.png",
     "user_ratings_total": 0,
-    "website": "capitalclubbahrain.com",
+    "website": "https://www.capitalclubbahrain.com",
     "activities": []
   },
   "British Club Bahrain": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manama/british_club_bahrain1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manama/british_club_bahrain2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manama/british_club_bahrain3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manama/british_club_bahrain4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manama/british_club_bahrain5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manama/british_club_bahrain_logo.png",
     "user_ratings_total": 0,
-    "website": "britishclubbahrain.com",
+    "website": "https://www.britishclubbahrain.com",
     "activities": []
   }
 }

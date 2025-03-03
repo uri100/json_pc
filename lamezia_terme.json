@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lamezia_terme/circolo_di_riunione1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lamezia_terme/circolo_di_riunione2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lamezia_terme/circolo_di_riunione3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lamezia_terme/circolo_di_riunione4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lamezia_terme/circolo_di_riunione5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lamezia_terme/circolo_di_riunione_logo.png",
     "user_ratings_total": 0,
-    "website": "paginebianche.it/lamezia-terme/circolo-riunione-circolo-ricreativo.2869174",
+    "website": "https://www.paginebianche.it/lamezia-terme/circolo-riunione-circolo-ricreativo.2869174",
     "activities": []
   }
 }

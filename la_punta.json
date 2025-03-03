@@ -1,5 +1,5 @@
 {
-  "Club Náutico Del Centro Naval": {
+  "Club NĂˇutico Del Centro Naval": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Club Náutico Del Centro Naval",
+    "name": "Club NĂˇutico Del Centro Naval",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_punta/club_nutico_del_centro_naval1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_punta/club_nutico_del_centro_naval2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_punta/club_nutico_del_centro_naval3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_punta/club_nutico_del_centro_naval4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_punta/club_nutico_del_centro_naval5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_punta/club_nutico_del_centro_naval_logo.png",
     "user_ratings_total": 0,
-    "website": "centronaval.org.pe/sedes/sede/CN",
+    "website": "https://www.centronaval.org.pe/sedes/sede/CN",
     "activities": []
   },
   "Yacht Club Peruano": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_punta/yacht_club_peruano1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_punta/yacht_club_peruano2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_punta/yacht_club_peruano3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_punta/yacht_club_peruano4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_punta/yacht_club_peruano5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_punta/yacht_club_peruano_logo.png",
     "user_ratings_total": 0,
-    "website": "yachtclubperuano.com",
+    "website": "https://www.yachtclubperuano.com",
     "activities": []
   }
 }

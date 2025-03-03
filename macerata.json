@@ -1,5 +1,5 @@
 {
-  "Società Filarmonica Drammatica": {
+  "SocietĂ Filarmonica Drammatica": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Società Filarmonica Drammatica",
+    "name": "SocietĂ Filarmonica Drammatica",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/macerata/societ_filarmonica_drammatica1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/macerata/societ_filarmonica_drammatica2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/macerata/societ_filarmonica_drammatica3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/macerata/societ_filarmonica_drammatica4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/macerata/societ_filarmonica_drammatica5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/macerata/societ_filarmonica_drammatica_logo.png",
     "user_ratings_total": 0,
-    "website": "sfdmacerata.it",
+    "website": "https://www.sfdmacerata.it",
     "activities": []
   }
 }

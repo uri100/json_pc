@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mandi_gobindgarh/gobindgarh_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mandi_gobindgarh/gobindgarh_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mandi_gobindgarh/gobindgarh_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mandi_gobindgarh/gobindgarh_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mandi_gobindgarh/gobindgarh_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mandi_gobindgarh/gobindgarh_club_logo.png",
     "user_ratings_total": 0,
-    "website": "gobindgarhclub.com",
+    "website": "https://www.gobindgarhclub.com",
     "activities": []
   }
 }

@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lafayette/city_club_of_river_ranch1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lafayette/city_club_of_river_ranch2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lafayette/city_club_of_river_ranch3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lafayette/city_club_of_river_ranch4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lafayette/city_club_of_river_ranch5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lafayette/city_club_of_river_ranch_logo.png",
     "user_ratings_total": 0,
-    "website": "cityclubatriverranch.com",
+    "website": "https://www.cityclubatriverranch.com",
     "activities": []
   },
   "Petroleum Club of Lafayette": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lafayette/petroleum_club_of_lafayette1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lafayette/petroleum_club_of_lafayette2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lafayette/petroleum_club_of_lafayette3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lafayette/petroleum_club_of_lafayette4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lafayette/petroleum_club_of_lafayette5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lafayette/petroleum_club_of_lafayette_logo.png",
     "user_ratings_total": 0,
-    "website": "pclafayette.com",
+    "website": "https://www.pclafayette.com",
     "activities": []
   }
 }

@@ -1,5 +1,5 @@
 {
-  "Abbaye de l’arc": {
+  "Abbaye de l'arc": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,22 +8,28 @@
         "lng": 0.0
       }
     },
-    "name": "Abbaye de l’arc",
+    "name": "Abbaye de l'arc",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lausanne/abbaye_de_larc1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lausanne/abbaye_de_larc2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lausanne/abbaye_de_larc3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lausanne/abbaye_de_larc4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lausanne/abbaye_de_larc5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lausanne/abbaye_de_larc_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Abbaye_de_l%27Arc_(Lausanne)",
+    "website": "https://www.wikipedia.org/wiki/Abbaye_de_l%27Arc_(Lausanne)",
     "activities": []
   },
-  "Cercle Littéraire": {
+  "Cercle LittĂ©raire": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,19 +38,25 @@
         "lng": 0.0
       }
     },
-    "name": "Cercle Littéraire",
+    "name": "Cercle LittĂ©raire",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lausanne/cercle_littraire1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lausanne/cercle_littraire2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lausanne/cercle_littraire3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lausanne/cercle_littraire4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lausanne/cercle_littraire5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lausanne/cercle_littraire_logo.png",
     "user_ratings_total": 0,
-    "website": "cerclelitteraire.ch",
+    "website": "https://www.cerclelitteraire.ch",
     "activities": []
   }
 }

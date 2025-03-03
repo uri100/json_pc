@@ -1,5 +1,5 @@
 {
-  "Cercle de l’Union": {
+  "Cercle de l'Union": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Cercle de l’Union",
+    "name": "Cercle de l'Union",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lyon/cercle_de_lunion1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lyon/cercle_de_lunion2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lyon/cercle_de_lunion3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lyon/cercle_de_lunion4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lyon/cercle_de_lunion5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lyon/cercle_de_lunion_logo.png",
     "user_ratings_total": 0,
-    "website": "Cercle de l’Union",
+    "website": "https://www.Cercle de l'Union",
     "activities": []
   }
 }

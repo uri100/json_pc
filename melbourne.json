@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/alexandra_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/alexandra_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/alexandra_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/alexandra_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/alexandra_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/alexandra_club_logo.png",
     "user_ratings_total": 0,
-    "website": "alexandraclub.com.au",
+    "website": "https://www.alexandraclub.com.au",
     "activities": []
   },
   "Australian Club Melbourne": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/australian_club_melbourne1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/australian_club_melbourne2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/australian_club_melbourne3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/australian_club_melbourne4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/australian_club_melbourne5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/australian_club_melbourne_logo.png",
     "user_ratings_total": 0,
-    "website": "165macquariestreet.com.au",
+    "website": "https://www.165macquariestreet.com.au",
     "activities": []
   },
   "Candela Nuevo": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/candela_nuevo1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/candela_nuevo2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/candela_nuevo3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/candela_nuevo4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/candela_nuevo5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/candela_nuevo_logo.png",
     "user_ratings_total": 0,
-    "website": "candelanuevo.com.au",
+    "website": "https://www.candelanuevo.com.au",
     "activities": []
   },
   "Kelvin Club": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/kelvin_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/kelvin_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/kelvin_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/kelvin_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/kelvin_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/kelvin_club_logo.png",
     "user_ratings_total": 0,
-    "website": "kelvinclub.com",
+    "website": "https://www.kelvinclub.com",
     "activities": []
   },
   "Lyceum Club Melbourne": {
@@ -111,12 +135,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/lyceum_club_melbourne1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/lyceum_club_melbourne2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/lyceum_club_melbourne3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/lyceum_club_melbourne4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/lyceum_club_melbourne5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/lyceum_club_melbourne_logo.png",
     "user_ratings_total": 0,
-    "website": "lyceumclubmelb.org.au",
+    "website": "https://www.lyceumclubmelb.org.au",
     "activities": []
   },
   "Melbourne Club": {
@@ -135,12 +165,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/melbourne_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/melbourne_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/melbourne_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/melbourne_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/melbourne_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/melbourne_club_logo.png",
     "user_ratings_total": 0,
-    "website": "melbourneclub.com.au",
+    "website": "https://www.melbourneclub.com.au",
     "activities": []
   },
   "Melbourne Savage Club": {
@@ -159,17 +195,23 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/melbourne_savage_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/melbourne_savage_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/melbourne_savage_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/melbourne_savage_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/melbourne_savage_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/melbourne_savage_club_logo.png",
     "user_ratings_total": 0,
-    "website": "melbournesavageclub.com",
+    "website": "https://www.melbournesavageclub.com",
     "activities": []
   },
   "Royal Automobile Club of Victoria": {
     "formatted_address": "501 Bourke Street, Melbourne, Australia, VIC 3000",
-    "formatted_phone_number": "1161399448888",
+    "formatted_phone_number": "1.16E+12",
     "geometry": {
       "location": {
         "lat": 0.0,
@@ -183,12 +225,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/royal_automobile_club_of_victoria1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/royal_automobile_club_of_victoria2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/royal_automobile_club_of_victoria3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/royal_automobile_club_of_victoria4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/royal_automobile_club_of_victoria5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/royal_automobile_club_of_victoria_logo.png",
     "user_ratings_total": 0,
-    "website": "racv.com.au",
+    "website": "https://www.racv.com.au",
     "activities": []
   },
   "Royal Melbourne Yacht Squadron": {
@@ -207,12 +255,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/royal_melbourne_yacht_squadron1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/royal_melbourne_yacht_squadron2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/royal_melbourne_yacht_squadron3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/royal_melbourne_yacht_squadron4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/royal_melbourne_yacht_squadron5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/royal_melbourne_yacht_squadron_logo.png",
     "user_ratings_total": 0,
-    "website": "rmys.com.au",
+    "website": "https://www.rmys.com.au",
     "activities": []
   },
   "Sandringham Club": {
@@ -231,12 +285,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/sandringham_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/sandringham_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/sandringham_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/sandringham_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/sandringham_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/sandringham_club_logo.png",
     "user_ratings_total": 0,
-    "website": "sandringhamclub.com.au",
+    "website": "https://www.sandringhamclub.com.au",
     "activities": []
   },
   "The Kelvin Club": {
@@ -255,10 +315,16 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/the_kelvin_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/the_kelvin_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/the_kelvin_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/the_kelvin_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/the_kelvin_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/melbourne/the_kelvin_club_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": []

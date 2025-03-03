@@ -1,5 +1,5 @@
 {
-  "Associaçáo Naval de Lisboa": {
+  "AssociaĂ§Ăˇo Naval de Lisboa": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Associaçáo Naval de Lisboa",
+    "name": "AssociaĂ§Ăˇo Naval de Lisboa",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/associao_naval_de_lisboa1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/associao_naval_de_lisboa2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/associao_naval_de_lisboa3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/associao_naval_de_lisboa4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/associao_naval_de_lisboa5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/associao_naval_de_lisboa_logo.png",
     "user_ratings_total": 0,
-    "website": "anl.pt",
+    "website": "https://www.anl.pt",
     "activities": []
   },
   "Belas Clube de Campo": {
@@ -39,17 +45,23 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/belas_clube_de_campo1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/belas_clube_de_campo2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/belas_clube_de_campo3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/belas_clube_de_campo4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/belas_clube_de_campo5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/belas_clube_de_campo_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": [
       "golf"
     ]
   },
-  "Circulo Eça de Queiroz": {
+  "Circulo EĂ§a de Queiroz": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -58,19 +70,25 @@
         "lng": 0.0
       }
     },
-    "name": "Circulo Eça de Queiroz",
+    "name": "Circulo EĂ§a de Queiroz",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/circulo_ea_de_queiroz1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/circulo_ea_de_queiroz2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/circulo_ea_de_queiroz3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/circulo_ea_de_queiroz4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/circulo_ea_de_queiroz5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/circulo_ea_de_queiroz_logo.png",
     "user_ratings_total": 0,
-    "website": "circuloecadequeiroz.com",
+    "website": "https://www.circuloecadequeiroz.com",
     "activities": []
   },
   "Clube Naval de Lisboa": {
@@ -89,15 +107,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/clube_naval_de_lisboa1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/clube_naval_de_lisboa2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/clube_naval_de_lisboa3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/clube_naval_de_lisboa4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/clube_naval_de_lisboa5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/clube_naval_de_lisboa_logo.png",
     "user_ratings_total": 0,
-    "website": "clubenavaldelisboa.pt",
+    "website": "https://www.clubenavaldelisboa.pt",
     "activities": []
   },
-  "Grémio Literário": {
+  "GrĂ©mio LiterĂˇrio": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -106,23 +130,29 @@
         "lng": 0.0
       }
     },
-    "name": "Grémio Literário",
+    "name": "GrĂ©mio LiterĂˇrio",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/grmio_literrio1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/grmio_literrio2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/grmio_literrio3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/grmio_literrio4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/grmio_literrio5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/grmio_literrio_logo.png",
     "user_ratings_total": 0,
-    "website": "gremioliterario.pt",
+    "website": "https://www.gremioliterario.pt",
     "activities": []
   },
   "Turf Club Lisbon": {
-    "formatted_address": "Rua Garrett 74, 1º Andar – 1200-204 Lisboa",
+    "formatted_address": "Rua Garrett 74, 1Âş Andar â€“ 1200-204 Lisboa",
     "formatted_phone_number": "+351 21 346 0975",
     "geometry": {
       "location": {
@@ -137,12 +167,18 @@
       "weekday_text": []
     },
     "description": "The Lisbon club located in the center of Chiado has spaces for the corresponding club members to have lunch (main dining room) and if they come with guests and ladies (Sala dos Reis). It has public parking on the same street. Access for members with guests",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/turf_club_lisbon1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/turf_club_lisbon2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/turf_club_lisbon3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/turf_club_lisbon4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/turf_club_lisbon5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/turf_club_lisbon_logo.png",
     "user_ratings_total": 0,
-    "website": "turf.pt",
+    "website": "https://www.turf.pt",
     "activities": []
   }
 }

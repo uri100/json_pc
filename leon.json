@@ -1,0 +1,32 @@
+{
+  "Asosiacion Club Penalba Casino": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Asosiacion Club Penalba Casino",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/leon/asosiacion_club_penalba_casino1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/leon/asosiacion_club_penalba_casino2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/leon/asosiacion_club_penalba_casino3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/leon/asosiacion_club_penalba_casino4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/leon/asosiacion_club_penalba_casino5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/leon/asosiacion_club_penalba_casino_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.casinodeleonpenalba.com",
+    "activities": []
+  }
+}

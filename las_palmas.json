@@ -1,26 +1,32 @@
 {
-  "British Club Las Palmas (Club Inglés)": {
-    "formatted_address": "C. León y Castillo, 274, 35005 Las Palmas de Gran Canaria, Las Palmas, Spain",
-    "formatted_phone_number": "+34928246879",
+  "British Club Las Palmas (Club InglĂ©s)": {
+    "formatted_address": "C. LeĂłn y Castillo, 274, 35005 Las Palmas de Gran Canaria, Las Palmas, Spain",
+    "formatted_phone_number": "34928246879",
     "geometry": {
       "location": {
         "lat": 0.0,
         "lng": 0.0
       }
     },
-    "name": "British Club Las Palmas (Club Inglés)",
+    "name": "British Club Las Palmas (Club InglĂ©s)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/las_palmas/british_club_las_palmas_club_ingls1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/las_palmas/british_club_las_palmas_club_ingls2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/las_palmas/british_club_las_palmas_club_ingls3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/las_palmas/british_club_las_palmas_club_ingls4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/las_palmas/british_club_las_palmas_club_ingls5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/las_palmas/british_club_las_palmas_club_ingls_logo.png",
     "user_ratings_total": 0,
-    "website": "britishclublaspalmas.es",
+    "website": "https://www.britishclublaspalmas.es",
     "activities": []
   },
   "Gabinete Literario": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/las_palmas/gabinete_literario1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/las_palmas/gabinete_literario2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/las_palmas/gabinete_literario3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/las_palmas/gabinete_literario4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/las_palmas/gabinete_literario5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/las_palmas/gabinete_literario_logo.png",
     "user_ratings_total": 0,
-    "website": "gabineteliterario.com",
+    "website": "https://www.gabineteliterario.com",
     "activities": []
   },
   "Real Club Nautico de Gran Canaria": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/las_palmas/real_club_nautico_de_gran_canaria1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/las_palmas/real_club_nautico_de_gran_canaria2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/las_palmas/real_club_nautico_de_gran_canaria3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/las_palmas/real_club_nautico_de_gran_canaria4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/las_palmas/real_club_nautico_de_gran_canaria5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/las_palmas/real_club_nautico_de_gran_canaria_logo.png",
     "user_ratings_total": 0,
-    "website": "rcngc.com",
+    "website": "https://www.rcngc.com",
     "activities": []
   }
 }

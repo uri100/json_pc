@@ -1,5 +1,5 @@
 {
-  "Casino Español de México": {
+  "Casino EspaĂ±ol de MĂ©xico": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,22 +8,28 @@
         "lng": 0.0
       }
     },
-    "name": "Casino Español de México",
+    "name": "Casino EspaĂ±ol de MĂ©xico",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/casino_espaol_de_mxico1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/casino_espaol_de_mxico2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/casino_espaol_de_mxico3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/casino_espaol_de_mxico4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/casino_espaol_de_mxico5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/casino_espaol_de_mxico_logo.png",
     "user_ratings_total": 0,
-    "website": "casinoespanolmexico.com",
+    "website": "https://www.casinoespanolmexico.com",
     "activities": []
   },
-  "Club de Banqueros de México": {
+  "Club de Banqueros de MĂ©xico": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,19 +38,25 @@
         "lng": 0.0
       }
     },
-    "name": "Club de Banqueros de México",
+    "name": "Club de Banqueros de MĂ©xico",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/club_de_banqueros_de_mxico1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/club_de_banqueros_de_mxico2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/club_de_banqueros_de_mxico3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/club_de_banqueros_de_mxico4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/club_de_banqueros_de_mxico5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/club_de_banqueros_de_mxico_logo.png",
     "user_ratings_total": 0,
-    "website": "clubdebanqueros.com.mx",
+    "website": "https://www.clubdebanqueros.com.mx",
     "activities": []
   },
   "The University Club of Mexico": {
@@ -63,10 +75,16 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/the_university_club_of_mexico1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/the_university_club_of_mexico2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/the_university_club_of_mexico3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/the_university_club_of_mexico4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/the_university_club_of_mexico5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/the_university_club_of_mexico_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": []
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/university_club_of_mexico1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/university_club_of_mexico2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/university_club_of_mexico3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/university_club_of_mexico4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/university_club_of_mexico5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mexico_city/university_club_of_mexico_logo.png",
     "user_ratings_total": 0,
-    "website": "universityclub.com.mx",
+    "website": "https://www.universityclub.com.mx",
     "activities": []
   }
 }

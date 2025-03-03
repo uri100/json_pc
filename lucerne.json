@@ -1,5 +1,5 @@
 {
-  "Gesellschaft Herren zu Schützen": {
+  "Gesellschaft Herren zu SchĂĽtzen": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Gesellschaft Herren zu Schützen",
+    "name": "Gesellschaft Herren zu SchĂĽtzen",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lucerne/gesellschaft_herren_zu_schtzen1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lucerne/gesellschaft_herren_zu_schtzen2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lucerne/gesellschaft_herren_zu_schtzen3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lucerne/gesellschaft_herren_zu_schtzen4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lucerne/gesellschaft_herren_zu_schtzen5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lucerne/gesellschaft_herren_zu_schtzen_logo.png",
     "user_ratings_total": 0,
-    "website": "herrenzuschuetzen.ch",
+    "website": "https://www.herrenzuschuetzen.ch",
     "activities": []
   }
 }

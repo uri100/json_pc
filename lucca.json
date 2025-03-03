@@ -1,5 +1,5 @@
 {
-  "Circolo dell’Unione Lucca": {
+  "Circolo dell'Unione Lucca": {
     "formatted_address": "Via Santa Giustina 17, Lucca",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Circolo dell’Unione Lucca",
+    "name": "Circolo dell'Unione Lucca",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lucca/circolo_dellunione_lucca1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lucca/circolo_dellunione_lucca2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lucca/circolo_dellunione_lucca3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lucca/circolo_dellunione_lucca4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lucca/circolo_dellunione_lucca5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lucca/circolo_dellunione_lucca_logo.png",
     "user_ratings_total": 0,
-    "website": "circolounionelucca.it",
+    "website": "https://www.circolounionelucca.it",
     "activities": []
   }
 }

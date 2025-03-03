@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/maldonado/yacht_club_punta_del_este1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/maldonado/yacht_club_punta_del_este2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/maldonado/yacht_club_punta_del_este3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/maldonado/yacht_club_punta_del_este4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/maldonado/yacht_club_punta_del_este5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/maldonado/yacht_club_punta_del_este_logo.png",
     "user_ratings_total": 0,
-    "website": "ycpe.org.uy",
+    "website": "https://www.ycpe.org.uy",
     "activities": []
   }
 }

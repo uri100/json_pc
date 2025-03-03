@@ -1,5 +1,5 @@
 {
-  "Club de Mar — Mallorca": {
+  "Club de Mar â€” Mallorca": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,22 +8,28 @@
         "lng": 0.0
       }
     },
-    "name": "Club de Mar — Mallorca",
+    "name": "Club de Mar â€” Mallorca",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/majorca/club_de_mar_mallorca1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/majorca/club_de_mar_mallorca2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/majorca/club_de_mar_mallorca3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/majorca/club_de_mar_mallorca4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/majorca/club_de_mar_mallorca5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/majorca/club_de_mar_mallorca_logo.png",
     "user_ratings_total": 0,
-    "website": "clubdemar-mallorca.com",
+    "website": "https://www.clubdemar-mallorca.com",
     "activities": []
   },
-  "Real Club Nàutico de Palma": {
+  "Real Club NĂ utico de Palma": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,19 +38,25 @@
         "lng": 0.0
       }
     },
-    "name": "Real Club Nàutico de Palma",
+    "name": "Real Club NĂ utico de Palma",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/majorca/real_club_n_utico_de_palma1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/majorca/real_club_n_utico_de_palma2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/majorca/real_club_n_utico_de_palma3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/majorca/real_club_n_utico_de_palma4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/majorca/real_club_n_utico_de_palma5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/majorca/real_club_n_utico_de_palma_logo.png",
     "user_ratings_total": 0,
-    "website": "rcnp.es",
+    "website": "https://www.rcnp.es",
     "activities": []
   }
 }

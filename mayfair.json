@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/12_hay_hill1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/12_hay_hill2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/12_hay_hill3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/12_hay_hill4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/12_hay_hill5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/12_hay_hill_logo.png",
     "user_ratings_total": 0,
-    "website": "12hayhill.com",
+    "website": "https://www.12hayhill.com",
     "activities": []
   },
   "AllBright Club": {
@@ -39,15 +45,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/allbright_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/allbright_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/allbright_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/allbright_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/allbright_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/allbright_club_logo.png",
     "user_ratings_total": 0,
-    "website": "allbrightcollective.com",
+    "website": "https://www.allbrightcollective.com",
     "activities": []
   },
-  "Annabel’s (Birley Group)": {
+  "Annabel's (Birley Group)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -56,22 +68,28 @@
         "lng": 0.0
       }
     },
-    "name": "Annabel’s (Birley Group)",
+    "name": "Annabel's (Birley Group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/annabels_birley_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/annabels_birley_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/annabels_birley_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/annabels_birley_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/annabels_birley_group5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/annabels_birley_group_logo.png",
     "user_ratings_total": 0,
-    "website": "annabels.co.uk",
+    "website": "https://www.annabels.co.uk",
     "activities": []
   },
-  "Apollo’s Mews": {
+  "Apollo's Mews": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -80,17 +98,23 @@
         "lng": 0.0
       }
     },
-    "name": "Apollo’s Mews",
+    "name": "Apollo's Mews",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/apollos_mews1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/apollos_mews2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/apollos_mews3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/apollos_mews4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/apollos_mews5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/apollos_mews_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": []
@@ -111,15 +135,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/arts_club_gary_landesberg_waney_family1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/arts_club_gary_landesberg_waney_family2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/arts_club_gary_landesberg_waney_family3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/arts_club_gary_landesberg_waney_family4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/arts_club_gary_landesberg_waney_family5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/arts_club_gary_landesberg_waney_family_logo.png",
     "user_ratings_total": 0,
-    "website": "theartsclub.co.uk",
+    "website": "https://www.theartsclub.co.uk",
     "activities": []
   },
-  "Aspinall’s": {
+  "Aspinall's": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -128,19 +158,25 @@
         "lng": 0.0
       }
     },
-    "name": "Aspinall’s",
+    "name": "Aspinall's",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/aspinalls1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/aspinalls2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/aspinalls3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/aspinalls4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/aspinalls5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/aspinalls_logo.png",
     "user_ratings_total": 0,
-    "website": "crownlondonaspinalls.com",
+    "website": "https://www.crownlondonaspinalls.com",
     "activities": []
   },
   "Bath & Racquets Club (\"Birley Group)": {
@@ -159,15 +195,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/bath_racquets_club_birley_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/bath_racquets_club_birley_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/bath_racquets_club_birley_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/bath_racquets_club_birley_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/bath_racquets_club_birley_group5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/bath_racquets_club_birley_group_logo.png",
     "user_ratings_total": 0,
-    "website": "bathandracquetsclub.co.uk",
+    "website": "https://www.bathandracquetsclub.co.uk",
     "activities": []
   },
-  "Buck’s": {
+  "Buck's": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -176,19 +218,25 @@
         "lng": 0.0
       }
     },
-    "name": "Buck’s",
+    "name": "Buck's",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/bucks1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/bucks2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/bucks3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/bucks4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/bucks5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/bucks_logo.png",
     "user_ratings_total": 0,
-    "website": "bucksclub.co.uk",
+    "website": "https://www.bucksclub.co.uk",
     "activities": []
   },
   "Fitzdares Club": {
@@ -207,15 +255,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/fitzdares_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/fitzdares_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/fitzdares_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/fitzdares_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/fitzdares_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/fitzdares_club_logo.png",
     "user_ratings_total": 0,
-    "website": "fitzdares.com",
+    "website": "https://www.fitzdares.com",
     "activities": []
   },
-  "Flyfishers’ Club": {
+  "Flyfishers' Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -224,19 +278,25 @@
         "lng": 0.0
       }
     },
-    "name": "Flyfishers’ Club",
+    "name": "Flyfishers' Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/flyfishers_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/flyfishers_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/flyfishers_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/flyfishers_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/flyfishers_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/flyfishers_club_logo.png",
     "user_ratings_total": 0,
-    "website": "flyfishersclub.org.uk",
+    "website": "https://www.flyfishersclub.org.uk",
     "activities": []
   },
   "George (\"Birley Group)": {
@@ -255,15 +315,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/george_birley_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/george_birley_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/george_birley_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/george_birley_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/george_birley_group5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/george_birley_group_logo.png",
     "user_ratings_total": 0,
-    "website": "georgeclub.com",
+    "website": "https://www.georgeclub.com",
     "activities": []
   },
-  "Harry’s Bar (\"Birley Group)": {
+  "Harry's Bar (\"Birley Group)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -272,19 +338,25 @@
         "lng": 0.0
       }
     },
-    "name": "Harry’s Bar (\"Birley Group)",
+    "name": "Harry's Bar (\"Birley Group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/harrys_bar_birley_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/harrys_bar_birley_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/harrys_bar_birley_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/harrys_bar_birley_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/harrys_bar_birley_group5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/harrys_bar_birley_group_logo.png",
     "user_ratings_total": 0,
-    "website": "harrysbar.co.uk",
+    "website": "https://www.harrysbar.co.uk",
     "activities": []
   },
   "Lansdowne Club": {
@@ -303,12 +375,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/lansdowne_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/lansdowne_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/lansdowne_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/lansdowne_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/lansdowne_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/lansdowne_club_logo.png",
     "user_ratings_total": 0,
-    "website": "lansdowneclub.com",
+    "website": "https://www.lansdowneclub.com",
     "activities": []
   },
   "Little House Mayfair (\"Soho House group)": {
@@ -327,12 +405,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/little_house_mayfair_soho_house_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/little_house_mayfair_soho_house_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/little_house_mayfair_soho_house_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/little_house_mayfair_soho_house_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/little_house_mayfair_soho_house_group5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/little_house_mayfair_soho_house_group_logo.png",
     "user_ratings_total": 0,
-    "website": "littlehousemayfair.com",
+    "website": "https://www.littlehousemayfair.com",
     "activities": []
   },
   "Maison Estelle": {
@@ -351,15 +435,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/maison_estelle1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/maison_estelle2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/maison_estelle3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/maison_estelle4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/maison_estelle5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/maison_estelle_logo.png",
     "user_ratings_total": 0,
-    "website": "maisonestelle.com",
+    "website": "https://www.maisonestelle.com",
     "activities": []
   },
-  "Mark’s Club (\"Birley Group)": {
+  "Mark's Club (\"Birley Group)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -368,22 +458,28 @@
         "lng": 0.0
       }
     },
-    "name": "Mark’s Club (\"Birley Group)",
+    "name": "Mark's Club (\"Birley Group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/marks_club_birley_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/marks_club_birley_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/marks_club_birley_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/marks_club_birley_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/marks_club_birley_group5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/marks_club_birley_group_logo.png",
     "user_ratings_total": 0,
-    "website": "marksclub.co.uk",
+    "website": "https://www.marksclub.co.uk",
     "activities": []
   },
-  "Morton’s Club": {
+  "Morton's Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -392,19 +488,25 @@
         "lng": 0.0
       }
     },
-    "name": "Morton’s Club",
+    "name": "Morton's Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/mortons_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/mortons_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/mortons_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/mortons_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/mortons_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/mortons_club_logo.png",
     "user_ratings_total": 0,
-    "website": "mortonsclub.com",
+    "website": "https://www.mortonsclub.com",
     "activities": []
   },
   "Naval Club": {
@@ -423,15 +525,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/naval_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/naval_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/naval_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/naval_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/naval_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/naval_club_logo.png",
     "user_ratings_total": 0,
-    "website": "navalclub.co.uk",
+    "website": "https://www.navalclub.co.uk",
     "activities": []
   },
-  "Oswald’s Club (\"Robin Birley clubs)": {
+  "Oswald's Club (\"Robin Birley clubs)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -440,19 +548,25 @@
         "lng": 0.0
       }
     },
-    "name": "Oswald’s Club (\"Robin Birley clubs)",
+    "name": "Oswald's Club (\"Robin Birley clubs)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/oswalds_club_robin_birley_clubs1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/oswalds_club_robin_birley_clubs2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/oswalds_club_robin_birley_clubs3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/oswalds_club_robin_birley_clubs4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/oswalds_club_robin_birley_clubs5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/oswalds_club_robin_birley_clubs_logo.png",
     "user_ratings_total": 0,
-    "website": "oswaldsclub.com",
+    "website": "https://www.oswaldsclub.com",
     "activities": []
   },
   "Pasley Tyler": {
@@ -471,12 +585,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/pasley_tyler1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/pasley_tyler2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/pasley_tyler3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/pasley_tyler4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/pasley_tyler5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/pasley_tyler_logo.png",
     "user_ratings_total": 0,
-    "website": "pasley-tyler.com",
+    "website": "https://www.pasley-tyler.com",
     "activities": []
   },
   "Portland Club Mayfair": {
@@ -495,12 +615,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/portland_club_mayfair1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/portland_club_mayfair2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/portland_club_mayfair3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/portland_club_mayfair4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/portland_club_mayfair5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/portland_club_mayfair_logo.png",
     "user_ratings_total": 0,
-    "website": "mayfaireccentrics.com",
+    "website": "https://www.mayfaireccentrics.com",
     "activities": []
   },
   "Savile Club": {
@@ -519,12 +645,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/savile_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/savile_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/savile_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/savile_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/savile_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/savile_club_logo.png",
     "user_ratings_total": 0,
-    "website": "savileclub.co.uk",
+    "website": "https://www.savileclub.co.uk",
     "activities": []
   },
   "The Clubhouse Mayfair (\"Blaskey Group)": {
@@ -543,15 +675,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/the_clubhouse_mayfair_blaskey_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/the_clubhouse_mayfair_blaskey_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/the_clubhouse_mayfair_blaskey_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/the_clubhouse_mayfair_blaskey_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/the_clubhouse_mayfair_blaskey_group5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/the_clubhouse_mayfair_blaskey_group_logo.png",
     "user_ratings_total": 0,
-    "website": "theclubhouselondon.com/locations/50-grosvenor-hill",
+    "website": "https://www.theclubhouselondon.com/locations/50-grosvenor-hill",
     "activities": []
   },
-  "University Women’s Club Mayfair": {
+  "University Women's Club Mayfair": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -560,19 +698,55 @@
         "lng": 0.0
       }
     },
-    "name": "University Women’s Club Mayfair",
+    "name": "University Women's Club Mayfair",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/university_womens_club_mayfair1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/university_womens_club_mayfair2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/university_womens_club_mayfair3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/university_womens_club_mayfair4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/university_womens_club_mayfair5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/university_womens_club_mayfair_logo.png",
     "user_ratings_total": 0,
-    "website": "universitywomensclub.com",
+    "website": "https://www.universitywomensclub.com",
+    "activities": []
+  },
+  "6 Grosvenor Place": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "6 Grosvenor Place",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/6_grosvenor_place1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/6_grosvenor_place2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/6_grosvenor_place3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/6_grosvenor_place4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/6_grosvenor_place5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mayfair/6_grosvenor_place_logo.png",
+    "user_ratings_total": 0,
+    "website": "",
     "activities": []
   }
 }
