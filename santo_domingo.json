@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santo_domingo/club_deportivo_naco1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santo_domingo/club_deportivo_naco2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santo_domingo/club_deportivo_naco3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santo_domingo/club_deportivo_naco4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santo_domingo/club_deportivo_naco5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santo_domingo/club_deportivo_naco_logo.png",
     "user_ratings_total": 0,
-    "website": "clubnaco.org.do",
+    "website": "https://www.clubnaco.org.do",
     "activities": []
   }
 }

@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/argyle_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/argyle_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/argyle_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/argyle_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/argyle_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/argyle_club_logo.png",
     "user_ratings_total": 0,
-    "website": "theargyle.com",
+    "website": "https://www.theargyle.com",
     "activities": []
   },
   "Club Giraud": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/club_giraud1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/club_giraud2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/club_giraud3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/club_giraud4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/club_giraud5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/club_giraud_logo.png",
     "user_ratings_total": 0,
-    "website": "clubgiraud.com",
+    "website": "https://www.clubgiraud.com",
     "activities": []
   },
   "Fair Oaks Ranch Golf & Country Club (\"ClubCorp)": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/fair_oaks_ranch_golf_country_club_clubcorp1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/fair_oaks_ranch_golf_country_club_clubcorp2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/fair_oaks_ranch_golf_country_club_clubcorp3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/fair_oaks_ranch_golf_country_club_clubcorp4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/fair_oaks_ranch_golf_country_club_clubcorp5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/fair_oaks_ranch_golf_country_club_clubcorp_logo.png",
     "user_ratings_total": 0,
-    "website": "clubcorp.com/Clubs/Fair-Oaks-Ranch-Golf-Country-Club",
+    "website": "https://www.clubcorp.com/Clubs/Fair-Oaks-Ranch-Golf-Country-Club",
     "activities": []
   },
   "Petroleum Club of San Antonio": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/petroleum_club_of_san_antonio1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/petroleum_club_of_san_antonio2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/petroleum_club_of_san_antonio3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/petroleum_club_of_san_antonio4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/petroleum_club_of_san_antonio5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_antonio/petroleum_club_of_san_antonio_logo.png",
     "user_ratings_total": 0,
-    "website": "petroleumclubsa.com",
+    "website": "https://www.petroleumclubsa.com",
     "activities": []
   }
 }

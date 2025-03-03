@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/siena/accademia_dei_rozzi1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/siena/accademia_dei_rozzi2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/siena/accademia_dei_rozzi3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/siena/accademia_dei_rozzi4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/siena/accademia_dei_rozzi5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/siena/accademia_dei_rozzi_logo.png",
     "user_ratings_total": 0,
-    "website": "accademiadeirozzi.it",
+    "website": "https://www.accademiadeirozzi.it",
     "activities": []
   },
   "Circolo degli Uniti": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/siena/circolo_degli_uniti1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/siena/circolo_degli_uniti2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/siena/circolo_degli_uniti3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/siena/circolo_degli_uniti4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/siena/circolo_degli_uniti5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/siena/circolo_degli_uniti_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Circolo_degli_Uniti",
+    "website": "https://www.wikipedia.org/wiki/Circolo_degli_Uniti",
     "activities": []
   }
 }

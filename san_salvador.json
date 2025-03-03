@@ -1,5 +1,5 @@
 {
-  "Círculo Deportivo Internacional": {
+  "CĂ­rculo Deportivo Internacional": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,22 +8,28 @@
         "lng": 0.0
       }
     },
-    "name": "Círculo Deportivo Internacional",
+    "name": "CĂ­rculo Deportivo Internacional",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_salvador/crculo_deportivo_internacional1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_salvador/crculo_deportivo_internacional2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_salvador/crculo_deportivo_internacional3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_salvador/crculo_deportivo_internacional4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_salvador/crculo_deportivo_internacional5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_salvador/crculo_deportivo_internacional_logo.png",
     "user_ratings_total": 0,
-    "website": "cdi.com.sv",
+    "website": "https://www.cdi.com.sv",
     "activities": []
   },
-  "Club Salvadoreño": {
+  "Club SalvadoreĂ±o": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,19 +38,25 @@
         "lng": 0.0
       }
     },
-    "name": "Club Salvadoreño",
+    "name": "Club SalvadoreĂ±o",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_salvador/club_salvadoreo1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_salvador/club_salvadoreo2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_salvador/club_salvadoreo3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_salvador/club_salvadoreo4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_salvador/club_salvadoreo5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_salvador/club_salvadoreo_logo.png",
     "user_ratings_total": 0,
-    "website": "clubsalvadoreno.com",
+    "website": "https://www.clubsalvadoreno.com",
     "activities": []
   }
 }

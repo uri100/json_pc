@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_diego/bernardo_heights_country_club_clubcorp1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_diego/bernardo_heights_country_club_clubcorp2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_diego/bernardo_heights_country_club_clubcorp3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_diego/bernardo_heights_country_club_clubcorp4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_diego/bernardo_heights_country_club_clubcorp5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_diego/bernardo_heights_country_club_clubcorp_logo.png",
     "user_ratings_total": 0,
-    "website": "clubcorp.com/Clubs/Bernardo-Heights-Country-Club",
+    "website": "https://www.clubcorp.com/Clubs/Bernardo-Heights-Country-Club",
     "activities": []
   },
   "Ida & Cecil Green Faculty Club": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_diego/ida_cecil_green_faculty_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_diego/ida_cecil_green_faculty_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_diego/ida_cecil_green_faculty_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_diego/ida_cecil_green_faculty_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_diego/ida_cecil_green_faculty_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_diego/ida_cecil_green_faculty_club_logo.png",
     "user_ratings_total": 0,
-    "website": "facultyclub.ucsd.edu",
+    "website": "https://www.facultyclub.ucsd.edu",
     "activities": []
   },
   "University Club of San Diego": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_diego/university_club_of_san_diego1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_diego/university_club_of_san_diego2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_diego/university_club_of_san_diego3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_diego/university_club_of_san_diego4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_diego/university_club_of_san_diego5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_diego/university_club_of_san_diego_logo.png",
     "user_ratings_total": 0,
-    "website": "clubcorp.com/Clubs/University-Club-atop-Symphony-Towers",
+    "website": "https://www.clubcorp.com/Clubs/University-Club-atop-Symphony-Towers",
     "activities": []
   }
 }

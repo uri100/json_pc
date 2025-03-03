@@ -15,10 +15,16 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/amador1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/amador2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/amador3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/amador4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/amador5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/amador_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": []
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/bohemian_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/bohemian_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/bohemian_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/bohemian_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/bohemian_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/bohemian_club_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Bohemian_Club",
+    "website": "https://www.wikipedia.org/wiki/Bohemian_Club",
     "activities": []
   },
   "Cercle de l'Union (\"French Club)": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/cercle_de_lunion_french_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/cercle_de_lunion_french_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/cercle_de_lunion_french_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/cercle_de_lunion_french_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/cercle_de_lunion_french_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/cercle_de_lunion_french_club_logo.png",
     "user_ratings_total": 0,
-    "website": "frenchclub.org",
+    "website": "https://www.frenchclub.org",
     "activities": []
   },
   "City Club of San Francisco": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/city_club_of_san_francisco1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/city_club_of_san_francisco2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/city_club_of_san_francisco3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/city_club_of_san_francisco4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/city_club_of_san_francisco5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/city_club_of_san_francisco_logo.png",
     "user_ratings_total": 0,
-    "website": "cityclubsf.com",
+    "website": "https://www.cityclubsf.com",
     "activities": []
   },
   "Corinthian Yacht Club of San Francisco": {
@@ -111,12 +135,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/corinthian_yacht_club_of_san_francisco1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/corinthian_yacht_club_of_san_francisco2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/corinthian_yacht_club_of_san_francisco3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/corinthian_yacht_club_of_san_francisco4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/corinthian_yacht_club_of_san_francisco5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/corinthian_yacht_club_of_san_francisco_logo.png",
     "user_ratings_total": 0,
-    "website": "cyc.org",
+    "website": "https://www.cyc.org",
     "activities": []
   },
   "Francisca Club": {
@@ -135,12 +165,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/francisca_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/francisca_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/francisca_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/francisca_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/francisca_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/francisca_club_logo.png",
     "user_ratings_total": 0,
-    "website": "franciscaclub.com",
+    "website": "https://www.franciscaclub.com",
     "activities": []
   },
   "Gotham Club": {
@@ -159,12 +195,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/gotham_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/gotham_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/gotham_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/gotham_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/gotham_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/gotham_club_logo.png",
     "user_ratings_total": 0,
-    "website": "mlb.com/giants/gc1883",
+    "website": "https://www.mlb.com/giants/gc1883",
     "activities": []
   },
   "Marines' Memorial Club": {
@@ -183,12 +225,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/marines_memorial_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/marines_memorial_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/marines_memorial_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/marines_memorial_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/marines_memorial_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/marines_memorial_club_logo.png",
     "user_ratings_total": 0,
-    "website": "marinesmemorial.org",
+    "website": "https://www.marinesmemorial.org",
     "activities": []
   },
   "Mariposa Hunters Point Yacht Club": {
@@ -207,12 +255,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/mariposa_hunters_point_yacht_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/mariposa_hunters_point_yacht_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/mariposa_hunters_point_yacht_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/mariposa_hunters_point_yacht_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/mariposa_hunters_point_yacht_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/mariposa_hunters_point_yacht_club_logo.png",
     "user_ratings_total": 0,
-    "website": "mhpyc.club",
+    "website": "https://www.mhpyc.club",
     "activities": []
   },
   "Metropolitan Club San Francisco": {
@@ -231,12 +285,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/metropolitan_club_san_francisco1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/metropolitan_club_san_francisco2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/metropolitan_club_san_francisco3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/metropolitan_club_san_francisco4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/metropolitan_club_san_francisco5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/metropolitan_club_san_francisco_logo.png",
     "user_ratings_total": 0,
-    "website": "metropolitanclubsf.org",
+    "website": "https://www.metropolitanclubsf.org",
     "activities": []
   },
   "Modernist": {
@@ -255,12 +315,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/modernist1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/modernist2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/modernist3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/modernist4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/modernist5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/modernist_logo.png",
     "user_ratings_total": 0,
-    "website": "modernist.club",
+    "website": "https://www.modernist.club",
     "activities": []
   },
   "Norwegian Club of San Francisco": {
@@ -279,12 +345,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/norwegian_club_of_san_francisco1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/norwegian_club_of_san_francisco2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/norwegian_club_of_san_francisco3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/norwegian_club_of_san_francisco4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/norwegian_club_of_san_francisco5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/norwegian_club_of_san_francisco_logo.png",
     "user_ratings_total": 0,
-    "website": "norwegianclub.org",
+    "website": "https://www.norwegianclub.org",
     "activities": []
   },
   "Olympic Club": {
@@ -303,12 +375,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/olympic_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/olympic_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/olympic_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/olympic_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/olympic_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/olympic_club_logo.png",
     "user_ratings_total": 0,
-    "website": "olyclub.com",
+    "website": "https://www.olyclub.com",
     "activities": []
   },
   "Pacific-Union Club": {
@@ -327,12 +405,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/pacificunion_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/pacificunion_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/pacificunion_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/pacificunion_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/pacificunion_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/pacificunion_club_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Pacific-Union_Club",
+    "website": "https://www.wikipedia.org/wiki/Pacific-Union_Club",
     "activities": []
   },
   "Presidio Golf & Concordia Club": {
@@ -351,12 +435,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/presidio_golf_concordia_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/presidio_golf_concordia_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/presidio_golf_concordia_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/presidio_golf_concordia_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/presidio_golf_concordia_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/presidio_golf_concordia_club_logo.png",
     "user_ratings_total": 0,
-    "website": "pgccsf.com",
+    "website": "https://www.pgccsf.com",
     "activities": []
   },
   "San Francisco Yacht Club": {
@@ -375,12 +465,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/san_francisco_yacht_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/san_francisco_yacht_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/san_francisco_yacht_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/san_francisco_yacht_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/san_francisco_yacht_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/san_francisco_yacht_club_logo.png",
     "user_ratings_total": 0,
-    "website": "sfyc.org",
+    "website": "https://www.sfyc.org",
     "activities": []
   },
   "Sausalito Cruising Club": {
@@ -399,12 +495,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/sausalito_cruising_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/sausalito_cruising_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/sausalito_cruising_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/sausalito_cruising_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/sausalito_cruising_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/sausalito_cruising_club_logo.png",
     "user_ratings_total": 0,
-    "website": "sausalitocruisingclub.org",
+    "website": "https://www.sausalitocruisingclub.org",
     "activities": []
   },
   "St. Francis Yacht Club": {
@@ -423,12 +525,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/st_francis_yacht_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/st_francis_yacht_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/st_francis_yacht_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/st_francis_yacht_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/st_francis_yacht_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/st_francis_yacht_club_logo.png",
     "user_ratings_total": 0,
-    "website": "stfyc.com",
+    "website": "https://www.stfyc.com",
     "activities": []
   },
   "The Academy": {
@@ -447,12 +555,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_academy1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_academy2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_academy3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_academy4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_academy5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_academy_logo.png",
     "user_ratings_total": 0,
-    "website": "academy-sf.com",
+    "website": "https://www.academy-sf.com",
     "activities": []
   },
   "The Battery": {
@@ -471,12 +585,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_battery1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_battery2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_battery3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_battery4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_battery5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_battery_logo.png",
     "user_ratings_total": 0,
-    "website": "thebatterysf.com",
+    "website": "https://www.thebatterysf.com",
     "activities": []
   },
   "The Family": {
@@ -495,12 +615,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_family1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_family2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_family3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_family4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_family5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_family_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/The_Family_(club)",
+    "website": "https://www.wikipedia.org/wiki/The_Family_(club)",
     "activities": []
   },
   "The Marines' Memorial Club & Hotel": {
@@ -519,12 +645,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_marines_memorial_club_hotel1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_marines_memorial_club_hotel2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_marines_memorial_club_hotel3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_marines_memorial_club_hotel4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_marines_memorial_club_hotel5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_marines_memorial_club_hotel_logo.png",
     "user_ratings_total": 0,
-    "website": "marineclub.com",
+    "website": "https://www.marineclub.com",
     "activities": []
   },
   "Town and Country Club": {
@@ -543,12 +675,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/town_and_country_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/town_and_country_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/town_and_country_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/town_and_country_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/town_and_country_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/town_and_country_club_logo.png",
     "user_ratings_total": 0,
-    "website": "tccsf.com",
+    "website": "https://www.tccsf.com",
     "activities": []
   },
   "University Club of San Francisco": {
@@ -567,12 +705,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/university_club_of_san_francisco1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/university_club_of_san_francisco2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/university_club_of_san_francisco3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/university_club_of_san_francisco4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/university_club_of_san_francisco5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/university_club_of_san_francisco_logo.png",
     "user_ratings_total": 0,
-    "website": "uclubsf.org",
+    "website": "https://www.uclubsf.org",
     "activities": [
       "athletic"
     ]
@@ -593,12 +737,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/villa_taverna1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/villa_taverna2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/villa_taverna3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/villa_taverna4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/villa_taverna5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/villa_taverna_logo.png",
     "user_ratings_total": 0,
-    "website": "villatavernasf.com",
+    "website": "https://www.villatavernasf.com",
     "activities": []
   },
   "Wingtip Club": {
@@ -617,12 +767,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/wingtip_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/wingtip_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/wingtip_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/wingtip_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/wingtip_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/wingtip_club_logo.png",
     "user_ratings_total": 0,
-    "website": "wingtip.club",
+    "website": "https://www.wingtip.club",
     "activities": []
   }
 }

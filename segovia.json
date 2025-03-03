@@ -1,5 +1,5 @@
 {
-  "Casino de la Unión": {
+  "Casino de la UniĂłn": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Casino de la Unión",
+    "name": "Casino de la UniĂłn",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/segovia/casino_de_la_unin1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/segovia/casino_de_la_unin2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/segovia/casino_de_la_unin3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/segovia/casino_de_la_unin4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/segovia/casino_de_la_unin5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/segovia/casino_de_la_unin_logo.png",
     "user_ratings_total": 0,
-    "website": "casinodelaunion.es",
+    "website": "https://www.casinodelaunion.es",
     "activities": []
   }
 }

@@ -15,15 +15,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santander/real_club_de_regatas1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santander/real_club_de_regatas2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santander/real_club_de_regatas3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santander/real_club_de_regatas4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santander/real_club_de_regatas5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santander/real_club_de_regatas_logo.png",
     "user_ratings_total": 0,
-    "website": "realclubderegatas.com",
+    "website": "https://www.realclubderegatas.com",
     "activities": []
   },
-  "Real Liga Naval Española": {
+  "Real Liga Naval EspaĂ±ola": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,19 +38,25 @@
         "lng": 0.0
       }
     },
-    "name": "Real Liga Naval Española",
+    "name": "Real Liga Naval EspaĂ±ola",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santander/real_liga_naval_espaola1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santander/real_liga_naval_espaola2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santander/real_liga_naval_espaola3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santander/real_liga_naval_espaola4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santander/real_liga_naval_espaola5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santander/real_liga_naval_espaola_logo.png",
     "user_ratings_total": 0,
-    "website": "realliganaval.com/la-asociacion/",
+    "website": "https://www.realliganaval.com/la-asociacion/",
     "activities": []
   },
   "Real Sociedad de Tenis de la Magdalena": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santander/real_sociedad_de_tenis_de_la_magdalena1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santander/real_sociedad_de_tenis_de_la_magdalena2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santander/real_sociedad_de_tenis_de_la_magdalena3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santander/real_sociedad_de_tenis_de_la_magdalena4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santander/real_sociedad_de_tenis_de_la_magdalena5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santander/real_sociedad_de_tenis_de_la_magdalena_logo.png",
     "user_ratings_total": 0,
-    "website": "rstenis.com",
+    "website": "https://www.rstenis.com",
     "activities": []
   }
 }

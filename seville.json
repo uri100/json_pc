@@ -1,5 +1,5 @@
 {
-  "Círculo Mercantil e Industrial": {
+  "CĂ­rculo Mercantil e Industrial": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Círculo Mercantil e Industrial",
+    "name": "CĂ­rculo Mercantil e Industrial",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/crculo_mercantil_e_industrial1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/crculo_mercantil_e_industrial2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/crculo_mercantil_e_industrial3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/crculo_mercantil_e_industrial4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/crculo_mercantil_e_industrial5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/crculo_mercantil_e_industrial_logo.png",
     "user_ratings_total": 0,
-    "website": "mercantilsevilla.com",
+    "website": "https://www.mercantilsevilla.com",
     "activities": []
   },
   "Club Antares": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/club_antares1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/club_antares2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/club_antares3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/club_antares4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/club_antares5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/club_antares_logo.png",
     "user_ratings_total": 0,
-    "website": "club-antares.com",
+    "website": "https://www.club-antares.com",
     "activities": []
   },
   "Real Circulo de Labradores": {
@@ -63,15 +75,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/real_circulo_de_labradores1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/real_circulo_de_labradores2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/real_circulo_de_labradores3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/real_circulo_de_labradores4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/real_circulo_de_labradores5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/real_circulo_de_labradores_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": []
   },
-  "Real Círculo de Labradores y Propietarios": {
+  "Real CĂ­rculo de Labradores y Propietarios": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -80,19 +98,25 @@
         "lng": 0.0
       }
     },
-    "name": "Real Círculo de Labradores y Propietarios",
+    "name": "Real CĂ­rculo de Labradores y Propietarios",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/real_crculo_de_labradores_y_propietarios1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/real_crculo_de_labradores_y_propietarios2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/real_crculo_de_labradores_y_propietarios3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/real_crculo_de_labradores_y_propietarios4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/real_crculo_de_labradores_y_propietarios5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/real_crculo_de_labradores_y_propietarios_logo.png",
     "user_ratings_total": 0,
-    "website": "realcirculodelabradores.com",
+    "website": "https://www.realcirculodelabradores.com",
     "activities": []
   },
   "Real Club Pineda": {
@@ -111,12 +135,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/real_club_pineda1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/real_club_pineda2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/real_club_pineda3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/real_club_pineda4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/real_club_pineda5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/seville/real_club_pineda_logo.png",
     "user_ratings_total": 0,
-    "website": "rcpineda.com",
+    "website": "https://www.rcpineda.com",
     "activities": []
   }
 }

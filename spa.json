@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/spa/royal_golf_club_des_fagnes1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/spa/royal_golf_club_des_fagnes2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/spa/royal_golf_club_des_fagnes3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/spa/royal_golf_club_des_fagnes4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/spa/royal_golf_club_des_fagnes5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/spa/royal_golf_club_des_fagnes_logo.png",
     "user_ratings_total": 0,
-    "website": "golfdespa.be",
+    "website": "https://www.golfdespa.be",
     "activities": []
   }
 }

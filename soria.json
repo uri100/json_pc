@@ -1,5 +1,5 @@
 {
-  "Círculo de La Amistad Numancia": {
+  "CĂ­rculo de La Amistad Numancia": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Círculo de La Amistad Numancia",
+    "name": "CĂ­rculo de La Amistad Numancia",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soria/crculo_de_la_amistad_numancia1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soria/crculo_de_la_amistad_numancia2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soria/crculo_de_la_amistad_numancia3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soria/crculo_de_la_amistad_numancia4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soria/crculo_de_la_amistad_numancia5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soria/crculo_de_la_amistad_numancia_logo.png",
     "user_ratings_total": 0,
-    "website": "circuloamistadnumancia.es",
+    "website": "https://www.circuloamistadnumancia.es",
     "activities": []
   }
 }

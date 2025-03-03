@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santa_fe/club_del_orden1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santa_fe/club_del_orden2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santa_fe/club_del_orden3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santa_fe/club_del_orden4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santa_fe/club_del_orden5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santa_fe/club_del_orden_logo.png",
     "user_ratings_total": 0,
-    "website": "clubdelorden.org.ar",
+    "website": "https://www.clubdelorden.org.ar",
     "activities": []
   },
   "Jockey Club de Santa Fe": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santa_fe/jockey_club_de_santa_fe1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santa_fe/jockey_club_de_santa_fe2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santa_fe/jockey_club_de_santa_fe3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santa_fe/jockey_club_de_santa_fe4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santa_fe/jockey_club_de_santa_fe5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santa_fe/jockey_club_de_santa_fe_logo.png",
     "user_ratings_total": 0,
-    "website": "jockeyclubdesantafe.com",
+    "website": "https://www.jockeyclubdesantafe.com",
     "activities": []
   },
   "Yacht Club Santa Fe": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santa_fe/yacht_club_santa_fe1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santa_fe/yacht_club_santa_fe2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santa_fe/yacht_club_santa_fe3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santa_fe/yacht_club_santa_fe4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santa_fe/yacht_club_santa_fe5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/santa_fe/yacht_club_santa_fe_logo.png",
     "user_ratings_total": 0,
-    "website": "ycsf.org.ar",
+    "website": "https://www.ycsf.org.ar",
     "activities": []
   }
 }

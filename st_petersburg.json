@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_petersburg/neva_yacht_club_of_st_petersburg1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_petersburg/neva_yacht_club_of_st_petersburg2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_petersburg/neva_yacht_club_of_st_petersburg3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_petersburg/neva_yacht_club_of_st_petersburg4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_petersburg/neva_yacht_club_of_st_petersburg5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_petersburg/neva_yacht_club_of_st_petersburg_logo.png",
     "user_ratings_total": 0,
-    "website": "yacht-club-spb.com",
+    "website": "https://www.yacht-club-spb.com",
     "activities": []
   }
 }

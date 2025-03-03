@@ -1,5 +1,5 @@
 {
-  "Société Nautique de Saint-Tropez": {
+  "SociĂ©tĂ© Nautique de Saint-Tropez": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Société Nautique de Saint-Tropez",
+    "name": "SociĂ©tĂ© Nautique de Saint-Tropez",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sainttropez/socit_nautique_de_sainttropez1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sainttropez/socit_nautique_de_sainttropez2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sainttropez/socit_nautique_de_sainttropez3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sainttropez/socit_nautique_de_sainttropez4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sainttropez/socit_nautique_de_sainttropez5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sainttropez/socit_nautique_de_sainttropez_logo.png",
     "user_ratings_total": 0,
-    "website": "societe-nautique-saint-tropez.fr",
+    "website": "https://www.societe-nautique-saint-tropez.fr",
     "activities": []
   }
 }

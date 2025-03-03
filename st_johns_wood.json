@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_johns_wood/marylebone_cricket_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_johns_wood/marylebone_cricket_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_johns_wood/marylebone_cricket_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_johns_wood/marylebone_cricket_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_johns_wood/marylebone_cricket_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_johns_wood/marylebone_cricket_club_logo.png",
     "user_ratings_total": 0,
-    "website": "lords.org/mcc",
+    "website": "https://www.lords.org/mcc",
     "activities": []
   }
 }

@@ -15,15 +15,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/beefsteak_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/beefsteak_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/beefsteak_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/beefsteak_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/beefsteak_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/beefsteak_club_logo.png",
     "user_ratings_total": 0,
-    "website": "thebeefsteakclub.co.uk",
+    "website": "https://www.thebeefsteakclub.co.uk",
     "activities": []
   },
-  "Black’s": {
+  "Black's": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,19 +38,25 @@
         "lng": 0.0
       }
     },
-    "name": "Black’s",
+    "name": "Black's",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/blacks1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/blacks2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/blacks3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/blacks4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/blacks5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/blacks_logo.png",
     "user_ratings_total": 0,
-    "website": "blacksclub.com",
+    "website": "https://www.blacksclub.com",
     "activities": []
   },
   "Century": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/century1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/century2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/century3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/century4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/century5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/century_logo.png",
     "user_ratings_total": 0,
-    "website": "centuryclub.co.uk",
+    "website": "https://www.centuryclub.co.uk",
     "activities": []
   },
   "Disrepute": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/disrepute1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/disrepute2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/disrepute3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/disrepute4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/disrepute5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/disrepute_logo.png",
     "user_ratings_total": 0,
-    "website": "disrepute.co.uk",
+    "website": "https://www.disrepute.co.uk",
     "activities": []
   },
   "Groucho Club": {
@@ -111,15 +135,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/groucho_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/groucho_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/groucho_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/groucho_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/groucho_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/groucho_club_logo.png",
     "user_ratings_total": 0,
-    "website": "thegrouchoclub.com",
+    "website": "https://www.thegrouchoclub.com",
     "activities": []
   },
-  "New Evaristo Club (\"“Trisha's\")": {
+  "New Evaristo Club (\"â€śTrisha's\")": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -128,19 +158,25 @@
         "lng": 0.0
       }
     },
-    "name": "New Evaristo Club (\"“Trisha's\")",
+    "name": "New Evaristo Club (\"â€śTrisha's\")",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/new_evaristo_club_trishas1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/new_evaristo_club_trishas2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/new_evaristo_club_trishas3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/new_evaristo_club_trishas4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/new_evaristo_club_trishas5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/new_evaristo_club_trishas_logo.png",
     "user_ratings_total": 0,
-    "website": "dojoapp.co/venue/the-new-evaristo-club-w1d-3dx-london",
+    "website": "https://www.dojoapp.co/venue/the-new-evaristo-club-w1d-3dx-london",
     "activities": []
   },
   "Quo Vadis": {
@@ -159,12 +195,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/quo_vadis1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/quo_vadis2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/quo_vadis3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/quo_vadis4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/quo_vadis5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/quo_vadis_logo.png",
     "user_ratings_total": 0,
-    "website": "quovadissoho.co.uk",
+    "website": "https://www.quovadissoho.co.uk",
     "activities": []
   },
   "Soho House 40 Greek Street (\"Soho House group)": {
@@ -183,12 +225,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/soho_house_40_greek_street_soho_house_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/soho_house_40_greek_street_soho_house_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/soho_house_40_greek_street_soho_house_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/soho_house_40_greek_street_soho_house_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/soho_house_40_greek_street_soho_house_group5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/soho_house_40_greek_street_soho_house_group_logo.png",
     "user_ratings_total": 0,
-    "website": "sohohouse.com/houses/soho-house-40-greek-street",
+    "website": "https://www.sohohouse.com/houses/soho-house-40-greek-street",
     "activities": []
   },
   "Soho House 76 Dean Street (\"Soho House group)": {
@@ -207,12 +255,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/soho_house_76_dean_street_soho_house_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/soho_house_76_dean_street_soho_house_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/soho_house_76_dean_street_soho_house_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/soho_house_76_dean_street_soho_house_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/soho_house_76_dean_street_soho_house_group5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/soho_house_76_dean_street_soho_house_group_logo.png",
     "user_ratings_total": 0,
-    "website": "deanstreettownhouse.com",
+    "website": "https://www.deanstreettownhouse.com",
     "activities": []
   },
   "The Court": {
@@ -231,12 +285,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/the_court1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/the_court2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/the_court3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/the_court4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/the_court5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/the_court_logo.png",
     "user_ratings_total": 0,
-    "website": "thecourt.co.uk",
+    "website": "https://www.thecourt.co.uk",
     "activities": []
   },
   "The House of St Barnabas": {
@@ -255,12 +315,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/the_house_of_st_barnabas1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/the_house_of_st_barnabas2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/the_house_of_st_barnabas3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/the_house_of_st_barnabas4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/the_house_of_st_barnabas5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/the_house_of_st_barnabas_logo.png",
     "user_ratings_total": 0,
-    "website": "hosb.org.uk",
+    "website": "https://www.hosb.org.uk",
     "activities": []
   },
   "Union Club Soho": {
@@ -279,15 +345,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/union_club_soho1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/union_club_soho2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/union_club_soho3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/union_club_soho4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/union_club_soho5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/union_club_soho_logo.png",
     "user_ratings_total": 0,
-    "website": "unionclub.co.uk",
+    "website": "https://www.unionclub.co.uk",
     "activities": []
   },
-  "Upstairs at L’Escargot": {
+  "Upstairs at L'Escargot": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -296,19 +368,25 @@
         "lng": 0.0
       }
     },
-    "name": "Upstairs at L’Escargot",
+    "name": "Upstairs at L'Escargot",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/upstairs_at_lescargot1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/upstairs_at_lescargot2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/upstairs_at_lescargot3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/upstairs_at_lescargot4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/upstairs_at_lescargot5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/soho/upstairs_at_lescargot_logo.png",
     "user_ratings_total": 0,
-    "website": "lescargot.co.uk/upstairs/",
+    "website": "https://www.lescargot.co.uk/upstairs/",
     "activities": []
   }
 }

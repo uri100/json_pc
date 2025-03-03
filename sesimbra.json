@@ -1,5 +1,5 @@
 {
-  "Clube Sesimbrese (\"AKA “Grémio”)": {
+  "Clube Sesimbrese (\"AKA â€śGrĂ©mioâ€ť)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Clube Sesimbrese (\"AKA “Grémio”)",
+    "name": "Clube Sesimbrese (\"AKA â€śGrĂ©mioâ€ť)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sesimbra/clube_sesimbrese_aka_grmio1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sesimbra/clube_sesimbrese_aka_grmio2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sesimbra/clube_sesimbrese_aka_grmio3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sesimbra/clube_sesimbrese_aka_grmio4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sesimbra/clube_sesimbrese_aka_grmio5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sesimbra/clube_sesimbrese_aka_grmio_logo.png",
     "user_ratings_total": 0,
-    "website": "facebook.com/ClubeSesimbrense/",
+    "website": "https://www.facebook.com/ClubeSesimbrense/",
     "activities": []
   }
 }

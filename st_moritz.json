@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_moritz/corviglia_ski_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_moritz/corviglia_ski_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_moritz/corviglia_ski_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_moritz/corviglia_ski_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_moritz/corviglia_ski_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_moritz/corviglia_ski_club_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Corviglia_Ski_Club",
+    "website": "https://www.wikipedia.org/wiki/Corviglia_Ski_Club",
     "activities": []
   }
 }
