@@ -1,0 +1,156 @@
+{
+  "Beijing American Club": {
+    "formatted_address": "28F/29F, China Resources Building, No. 8, North Avenue (not accepting reciprocal members until further notice), Jianguomen, Dongcheng District, Beijing",
+    "formatted_phone_number": "8610 8519 1801, 861085192800",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Beijing American Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/beijing_american_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/beijing_american_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/beijing_american_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/beijing_american_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/beijing_american_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/beijing_american_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.americanclubbeijing.com",
+    "activities": []
+  },
+  "Beijing Riviera Country Club": {
+    "formatted_address": "No.1 Xiang Jiang Bei Lu, Chaoyang District, Beijing, 101117",
+    "formatted_phone_number": "8610 8450 6888 , 861084506999",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Beijing Riviera Country Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/beijing_riviera_country_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/beijing_riviera_country_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/beijing_riviera_country_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/beijing_riviera_country_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/beijing_riviera_country_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/beijing_riviera_country_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.bjriviera.com",
+    "activities": []
+  },
+  "Capital Club Beijing": {
+    "formatted_address": "50/F Capital Mansion, 6 Xin Yuan Nan Road, Chao Yang District, Beijing, 100004, China",
+    "formatted_phone_number": "8610 8486 2225 , 861084863331",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Capital Club Beijing",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/capital_club_beijing1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/capital_club_beijing2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/capital_club_beijing3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/capital_club_beijing4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/capital_club_beijing5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/capital_club_beijing_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.thecapitalclub.com",
+    "activities": []
+  },
+  "Chang An Club": {
+    "formatted_address": "10 East Chang An Avenue",
+    "formatted_phone_number": "+86 10 65229988",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Chang An Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/chang_an_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/chang_an_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/chang_an_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/chang_an_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/chang_an_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/chang_an_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.changan-club.com",
+    "activities": [
+      "tennis",
+      "athletic",
+      "swimming"
+    ]
+  },
+  "Manet Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Manet Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/manet_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/manet_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/manet_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/manet_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/manet_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/manet_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.hospitalityonline.com/manet",
+    "activities": []
+  }
+}

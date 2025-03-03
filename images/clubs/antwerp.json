@@ -1,0 +1,32 @@
+{
+  "Cercle Royal Concorde-Philotaxe": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Cercle Royal Concorde-Philotaxe",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/antwerp/cercle_royal_concordephilotaxe1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/antwerp/cercle_royal_concordephilotaxe2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/antwerp/cercle_royal_concordephilotaxe3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/antwerp/cercle_royal_concordephilotaxe4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/antwerp/cercle_royal_concordephilotaxe5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/antwerp/cercle_royal_concordephilotaxe_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.concorde-philotaxe.be",
+    "activities": []
+  }
+}

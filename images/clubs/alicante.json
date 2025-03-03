@@ -1,0 +1,32 @@
+{
+  "Real Liceo Casino de Alicante": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Real Liceo Casino de Alicante",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/alicante/real_liceo_casino_de_alicante1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/alicante/real_liceo_casino_de_alicante2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/alicante/real_liceo_casino_de_alicante3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/alicante/real_liceo_casino_de_alicante4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/alicante/real_liceo_casino_de_alicante5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/alicante/real_liceo_casino_de_alicante_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.facebook.com/realliceocasinoalicante.es/",
+    "activities": []
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "City Club of Baton Rouge": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "City Club of Baton Rouge",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/baton_rouge/city_club_of_baton_rouge1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/baton_rouge/city_club_of_baton_rouge2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/baton_rouge/city_club_of_baton_rouge3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/baton_rouge/city_club_of_baton_rouge4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/baton_rouge/city_club_of_baton_rouge5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/baton_rouge/city_club_of_baton_rouge_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.cityclubbr.com",
+    "activities": []
+  }
+}

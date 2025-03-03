@@ -1,0 +1,32 @@
+{
+  "Schuylkill Fishing Company": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Schuylkill Fishing Company",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/andalusia/schuylkill_fishing_company1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/andalusia/schuylkill_fishing_company2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/andalusia/schuylkill_fishing_company3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/andalusia/schuylkill_fishing_company4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/andalusia/schuylkill_fishing_company5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/andalusia/schuylkill_fishing_company_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.wikipedia.org/wiki/Schuylkill_Fishing_Company",
+    "activities": []
+  }
+}

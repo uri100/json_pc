@@ -1,0 +1,32 @@
+{
+  "Foreign Correspondents' Club Angkor": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Foreign Correspondents' Club Angkor",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/angkor/foreign_correspondents_club_angkor1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/angkor/foreign_correspondents_club_angkor2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/angkor/foreign_correspondents_club_angkor3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/angkor/foreign_correspondents_club_angkor4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/angkor/foreign_correspondents_club_angkor5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/angkor/foreign_correspondents_club_angkor_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.fcccollection.com/angkor",
+    "activities": []
+  }
+}

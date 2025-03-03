@@ -1,0 +1,32 @@
+{
+  "Trump National Golf Club - Bedminster (\"Trump organization)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Trump National Golf Club - Bedminster (\"Trump organization)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bedminster/trump_national_golf_club_bedminster_trump_organization1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bedminster/trump_national_golf_club_bedminster_trump_organization2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bedminster/trump_national_golf_club_bedminster_trump_organization3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bedminster/trump_national_golf_club_bedminster_trump_organization4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bedminster/trump_national_golf_club_bedminster_trump_organization5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bedminster/trump_national_golf_club_bedminster_trump_organization_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.trumpnationalbedminster.com",
+    "activities": []
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Baguio Country Club": {
+    "formatted_address": "Baguio Country Club Rd, Baguio City 2600, Philippines",
+    "formatted_phone_number": "63 74 619 2050 , 63744426501",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Baguio Country Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/baguio_city/baguio_country_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/baguio_city/baguio_country_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/baguio_city/baguio_country_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/baguio_city/baguio_country_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/baguio_city/baguio_country_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/baguio_city/baguio_country_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.bcc.com.ph",
+    "activities": []
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "The Bow Valley Athletic Club": {
+    "formatted_address": "370 - 250 6 Ave S.W., Calgary, Alberta, T2P 3H7",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Bow Valley Athletic Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/alberta/the_bow_valley_athletic_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/alberta/the_bow_valley_athletic_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/alberta/the_bow_valley_athletic_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/alberta/the_bow_valley_athletic_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/alberta/the_bow_valley_athletic_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/alberta/the_bow_valley_athletic_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.bowvalleysthleticclub.com",
+    "activities": []
+  }
+}

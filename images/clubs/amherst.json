@@ -1,0 +1,32 @@
+{
+  "University of Massachusetts Amherst": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "University of Massachusetts Amherst",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amherst/university_of_massachusetts_amherst1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amherst/university_of_massachusetts_amherst2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amherst/university_of_massachusetts_amherst3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amherst/university_of_massachusetts_amherst4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amherst/university_of_massachusetts_amherst5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amherst/university_of_massachusetts_amherst_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.umassuclub.com",
+    "activities": []
+  }
+}
