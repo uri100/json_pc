@@ -1,4 +1,784 @@
 {
+  "Arboretum": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Arboretum",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/arboretum1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/arboretum2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/arboretum3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/arboretum4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/arboretum5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/arboretum_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.arboretumlondon.com",
+    "activities": []
+  },
+  "Brydges Place Club (\"formerly Two Brydges Club until 2020)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Brydges Place Club (\"formerly Two Brydges Club until 2020)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/brydges_place_club_formerly_two_brydges_club_until_20201.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/brydges_place_club_formerly_two_brydges_club_until_20202.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/brydges_place_club_formerly_two_brydges_club_until_20203.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/brydges_place_club_formerly_two_brydges_club_until_20204.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/brydges_place_club_formerly_two_brydges_club_until_20205.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/brydges_place_club_formerly_two_brydges_club_until_2020_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.brydgesplace.com",
+    "activities": []
+  },
+  "The Conduit": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Conduit",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_conduit1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_conduit2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_conduit3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_conduit4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_conduit5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_conduit_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.theconduit.com",
+    "activities": []
+  },
+  "The Clubhouse Holborn Circus (\"Blaskey Group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Clubhouse Holborn Circus (\"Blaskey Group)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_holborn_circus_blaskey_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_holborn_circus_blaskey_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_holborn_circus_blaskey_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_holborn_circus_blaskey_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_holborn_circus_blaskey_group5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_holborn_circus_blaskey_group_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.theclubhouselondon.com/locations/holborn",
+    "activities": []
+  },
+  "The Twenty Two": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Twenty Two",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_twenty_two1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_twenty_two2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_twenty_two3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_twenty_two4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_twenty_two5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_twenty_two_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.the22.london",
+    "activities": []
+  },
+  "Eight Bank (\"Brandon Kinsman clubs)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Eight Bank (\"Brandon Kinsman clubs)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/eight_bank_brandon_kinsman_clubs1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/eight_bank_brandon_kinsman_clubs2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/eight_bank_brandon_kinsman_clubs3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/eight_bank_brandon_kinsman_clubs4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/eight_bank_brandon_kinsman_clubs5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/eight_bank_brandon_kinsman_clubs_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.eightclub.co.uk/bank",
+    "activities": []
+  },
+  "One Alfred Place": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "One Alfred Place",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/one_alfred_place1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/one_alfred_place2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/one_alfred_place3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/one_alfred_place4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/one_alfred_place5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/one_alfred_place_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.onealfredplace.co.uk",
+    "activities": []
+  },
+  "Chelsea Arts Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Chelsea Arts Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/chelsea_arts_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/chelsea_arts_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/chelsea_arts_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/chelsea_arts_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/chelsea_arts_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/chelsea_arts_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.chelseaartsclub.com",
+    "activities": []
+  },
+  "London Sketch Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "London Sketch Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/london_sketch_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/london_sketch_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/london_sketch_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/london_sketch_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/london_sketch_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/london_sketch_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.londonsketchclub.com",
+    "activities": []
+  },
+  "Purple Dragon": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Purple Dragon",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/purple_dragon1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/purple_dragon2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/purple_dragon3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/purple_dragon4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/purple_dragon5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/purple_dragon_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.purpledragonplay.com/chelsea/",
+    "activities": []
+  },
+  "Sloane Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Sloane Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/sloane_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/sloane_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/sloane_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/sloane_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/sloane_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/sloane_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.sloaneclub.co.uk",
+    "activities": []
+  },
+  "High Road House (\"Soho House group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "High Road House (\"Soho House group)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/high_road_house_soho_house_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/high_road_house_soho_house_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/high_road_house_soho_house_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/high_road_house_soho_house_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/high_road_house_soho_house_group5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/high_road_house_soho_house_group_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.highroadhouse.co.uk",
+    "activities": []
+  },
+  "City Livery Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "City Livery Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/city_livery_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/city_livery_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/city_livery_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/city_livery_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/city_livery_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/city_livery_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.cityliveryclub.com",
+    "activities": []
+  },
+  "City of London Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "City of London Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/city_of_london_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/city_of_london_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/city_of_london_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/city_of_london_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/city_of_london_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/city_of_london_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.cityoflondonclub.com",
+    "activities": []
+  },
+  "City University Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "City University Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/city_university_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/city_university_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/city_university_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/city_university_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/city_university_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/city_university_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.cityuniversityclub.co.uk",
+    "activities": []
+  },
+  "Little Ship Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Little Ship Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/little_ship_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/little_ship_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/little_ship_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/little_ship_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/little_ship_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/little_ship_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.littleshipclub.co.uk",
+    "activities": []
+  },
+  "Ned's Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Ned's Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/neds_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/neds_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/neds_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/neds_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/neds_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/neds_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.thened.com",
+    "activities": []
+  },
+  "Pavilion Club London": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Pavilion Club London",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pavilion_club_london1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pavilion_club_london2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pavilion_club_london3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pavilion_club_london4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pavilion_club_london5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pavilion_club_london_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.pavilion.club",
+    "activities": []
+  },
+  "Ten Trinity Square": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Ten Trinity Square",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/ten_trinity_square1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/ten_trinity_square2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/ten_trinity_square3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/ten_trinity_square4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/ten_trinity_square5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/ten_trinity_square_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.club.tentrinitysquare.com",
+    "activities": []
+  },
+  "The Clubhouse Bank (\"Blaskey Group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Clubhouse Bank (\"Blaskey Group)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_bank_blaskey_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_bank_blaskey_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_bank_blaskey_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_bank_blaskey_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_bank_blaskey_group5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_bank_blaskey_group_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.theclubhouselondon.com/locations/bank",
+    "activities": []
+  },
+  "Walbrook Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Walbrook Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/walbrook_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/walbrook_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/walbrook_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/walbrook_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/walbrook_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/walbrook_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.walbrook-club.co.uk",
+    "activities": []
+  },
+  "Garrick Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Garrick Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/garrick_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/garrick_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/garrick_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/garrick_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/garrick_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/garrick_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.garrickclub.co.uk",
+    "activities": []
+  },
+  "The Club at the Ivy": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Club at the Ivy",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_club_at_the_ivy1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_club_at_the_ivy2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_club_at_the_ivy3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_club_at_the_ivy4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_club_at_the_ivy5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_club_at_the_ivy_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.the-ivyclub.co.uk",
+    "activities": []
+  },
+  "Royal Automobile Club - Woodcote Park Country Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Royal Automobile Club - Woodcote Park Country Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_automobile_club_woodcote_park_country_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_automobile_club_woodcote_park_country_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_automobile_club_woodcote_park_country_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_automobile_club_woodcote_park_country_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_automobile_club_woodcote_park_country_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_automobile_club_woodcote_park_country_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.royalautomobileclub.co.uk/facilities/woodcote-park",
+    "activities": []
+  },
+  "Hurlingham Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Hurlingham Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/hurlingham_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/hurlingham_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/hurlingham_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/hurlingham_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/hurlingham_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/hurlingham_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.hurlinghamclub.org.uk",
+    "activities": []
+  },
+  "Ognisko Polskie": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Ognisko Polskie",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/ognisko_polskie1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/ognisko_polskie2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/ognisko_polskie3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/ognisko_polskie4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/ognisko_polskie5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/ognisko_polskie_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.ogniskopolskie.org.uk",
+    "activities": []
+  },
   "London Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
@@ -119,6 +899,696 @@
     "website": "https://www.stjameshotelandclub.com",
     "activities": []
   },
+  "Home Grown (\"Home House group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Home Grown (\"Home House group)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/home_grown_home_house_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/home_grown_home_house_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/home_grown_home_house_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/home_grown_home_house_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/home_grown_home_house_group5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/home_grown_home_house_group_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.homegrownclub.co.uk",
+    "activities": []
+  },
+  "Home House (\"Home House group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Home House (\"Home House group)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/home_house_home_house_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/home_house_home_house_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/home_house_home_house_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/home_house_home_house_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/home_house_home_house_group5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/home_house_home_house_group_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.homehouse.co.uk",
+    "activities": []
+  },
+  "Oriental Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Oriental Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/oriental_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/oriental_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/oriental_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/oriental_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/oriental_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/oriental_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.orientalclub.org.uk",
+    "activities": []
+  },
+  "Annabel's (Birley Group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Annabel's (Birley Group)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/annabels_birley_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/annabels_birley_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/annabels_birley_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/annabels_birley_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/annabels_birley_group5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/annabels_birley_group_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.annabels.co.uk",
+    "activities": []
+  },
+  "Arts Club (\"Gary Landesberg & Waney family)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Arts Club (\"Gary Landesberg & Waney family)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/arts_club_gary_landesberg_waney_family1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/arts_club_gary_landesberg_waney_family2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/arts_club_gary_landesberg_waney_family3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/arts_club_gary_landesberg_waney_family4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/arts_club_gary_landesberg_waney_family5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/arts_club_gary_landesberg_waney_family_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.theartsclub.co.uk",
+    "activities": []
+  },
+  "Bath & Racquets Club (\"Birley Group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Bath & Racquets Club (\"Birley Group)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/bath_racquets_club_birley_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/bath_racquets_club_birley_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/bath_racquets_club_birley_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/bath_racquets_club_birley_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/bath_racquets_club_birley_group5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/bath_racquets_club_birley_group_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.bathandracquetsclub.co.uk",
+    "activities": []
+  },
+  "Buck's": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Buck's",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/bucks1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/bucks2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/bucks3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/bucks4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/bucks5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/bucks_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.bucksclub.co.uk",
+    "activities": []
+  },
+  "Flyfishers' Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Flyfishers' Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/flyfishers_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/flyfishers_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/flyfishers_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/flyfishers_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/flyfishers_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/flyfishers_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.flyfishersclub.org.uk",
+    "activities": []
+  },
+  "Harry's Bar (\"Birley Group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Harry's Bar (\"Birley Group)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/harrys_bar_birley_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/harrys_bar_birley_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/harrys_bar_birley_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/harrys_bar_birley_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/harrys_bar_birley_group5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/harrys_bar_birley_group_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.harrysbar.co.uk",
+    "activities": []
+  },
+  "Mark's Club (\"Birley Group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Mark's Club (\"Birley Group)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/marks_club_birley_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/marks_club_birley_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/marks_club_birley_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/marks_club_birley_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/marks_club_birley_group5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/marks_club_birley_group_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.marksclub.co.uk",
+    "activities": []
+  },
+  "Naval Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Naval Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/naval_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/naval_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/naval_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/naval_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/naval_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/naval_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.navalclub.co.uk",
+    "activities": []
+  },
+  "Savile Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Savile Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/savile_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/savile_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/savile_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/savile_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/savile_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/savile_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.savileclub.co.uk",
+    "activities": []
+  },
+  "Eight Moorgate (\"Brandon Kinsman clubs)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Eight Moorgate (\"Brandon Kinsman clubs)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/eight_moorgate_brandon_kinsman_clubs1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/eight_moorgate_brandon_kinsman_clubs2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/eight_moorgate_brandon_kinsman_clubs3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/eight_moorgate_brandon_kinsman_clubs4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/eight_moorgate_brandon_kinsman_clubs5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/eight_moorgate_brandon_kinsman_clubs_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.eightclub.co.uk/moorgate",
+    "activities": []
+  },
+  "Thames Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Thames Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/thames_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/thames_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/thames_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/thames_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/thames_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/thames_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.thamesclub.org",
+    "activities": []
+  },
+  "Cloud Twelve": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Cloud Twelve",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/cloud_twelve1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/cloud_twelve2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/cloud_twelve3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/cloud_twelve4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/cloud_twelve5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/cloud_twelve_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.cloudtwelve.co.uk",
+    "activities": []
+  },
+  "67 Pall Mall": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "67 Pall Mall",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/67_pall_mall1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/67_pall_mall2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/67_pall_mall3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/67_pall_mall4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/67_pall_mall5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/67_pall_mall_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.67pallmall.co.uk",
+    "activities": []
+  },
+  "Army and Navy Club (\"â€śThe Ragâ€ť)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Army and Navy Club (\"â€śThe Ragâ€ť)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/army_and_navy_club_the_rag1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/army_and_navy_club_the_rag2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/army_and_navy_club_the_rag3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/army_and_navy_club_the_rag4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/army_and_navy_club_the_rag5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/army_and_navy_club_the_rag_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.therag.co.uk",
+    "activities": []
+  },
+  "Athenaeum": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Athenaeum",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/athenaeum1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/athenaeum2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/athenaeum3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/athenaeum4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/athenaeum5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/athenaeum_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.athenaeumclub.co.uk",
+    "activities": []
+  },
+  "Oxford and Cambridge Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Oxford and Cambridge Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/oxford_and_cambridge_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/oxford_and_cambridge_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/oxford_and_cambridge_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/oxford_and_cambridge_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/oxford_and_cambridge_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/oxford_and_cambridge_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.oxfordandcambridgeclub.co.uk",
+    "activities": []
+  },
+  "Royal Automobile Club (\"â€śRACâ€ť)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Royal Automobile Club (\"â€śRACâ€ť)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_automobile_club_rac1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_automobile_club_rac2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_automobile_club_rac3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_automobile_club_rac4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_automobile_club_rac5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_automobile_club_rac_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.royalautomobileclub.co.uk",
+    "activities": []
+  },
+  "Travellers Club London": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Travellers Club London",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/travellers_club_london1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/travellers_club_london2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/travellers_club_london3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/travellers_club_london4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/travellers_club_london5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/travellers_club_london_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.thetravellersclub.org.uk",
+    "activities": []
+  },
+  "Cavalry and Guards Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Cavalry and Guards Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/cavalry_and_guards_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/cavalry_and_guards_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/cavalry_and_guards_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/cavalry_and_guards_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/cavalry_and_guards_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/cavalry_and_guards_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.cavgdsclub.co.uk",
+    "activities": []
+  },
+  "Royal Air Force Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Royal Air Force Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_air_force_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_air_force_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_air_force_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_air_force_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_air_force_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_air_force_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.rafclub.org.uk",
+    "activities": []
+  },
   "5 Hertford Street": {
     "formatted_address": "",
     "formatted_phone_number": "",
@@ -149,6 +1619,516 @@
     "website": "https://www.5hertfordstreet.co.uk",
     "activities": []
   },
+  "Roehampton Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Roehampton Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/roehampton_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/roehampton_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/roehampton_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/roehampton_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/roehampton_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/roehampton_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.roehamptonclub.co.uk",
+    "activities": []
+  },
+  "Alpine Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Alpine Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/alpine_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/alpine_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/alpine_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/alpine_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/alpine_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/alpine_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.alpine-club.org.uk",
+    "activities": []
+  },
+  "Beefsteak Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Beefsteak Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/beefsteak_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/beefsteak_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/beefsteak_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/beefsteak_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/beefsteak_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/beefsteak_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.thebeefsteakclub.co.uk",
+    "activities": []
+  },
+  "Century": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Century",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/century1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/century2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/century3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/century4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/century5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/century_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.centuryclub.co.uk",
+    "activities": []
+  },
+  "Disrepute": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Disrepute",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/disrepute1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/disrepute2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/disrepute3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/disrepute4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/disrepute5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/disrepute_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.disrepute.co.uk",
+    "activities": []
+  },
+  "Quo Vadis": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Quo Vadis",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/quo_vadis1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/quo_vadis2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/quo_vadis3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/quo_vadis4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/quo_vadis5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/quo_vadis_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.quovadissoho.co.uk",
+    "activities": []
+  },
+  "The Court": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Court",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_court1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_court2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_court3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_court4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_court5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_court_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.thecourt.co.uk",
+    "activities": []
+  },
+  "The House of St Barnabas": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The House of St Barnabas",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_house_of_st_barnabas1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_house_of_st_barnabas2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_house_of_st_barnabas3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_house_of_st_barnabas4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_house_of_st_barnabas5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_house_of_st_barnabas_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.hosb.org.uk",
+    "activities": []
+  },
+  "Union Club Soho": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Union Club Soho",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/union_club_soho1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/union_club_soho2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/union_club_soho3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/union_club_soho4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/union_club_soho5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/union_club_soho_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.unionclub.co.uk",
+    "activities": []
+  },
+  "Upstairs at L'Escargot": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Upstairs at L'Escargot",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/upstairs_at_lescargot1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/upstairs_at_lescargot2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/upstairs_at_lescargot3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/upstairs_at_lescargot4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/upstairs_at_lescargot5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/upstairs_at_lescargot_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.lescargot.co.uk/upstairs/",
+    "activities": []
+  },
+  "Canning Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Canning Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/canning_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/canning_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/canning_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/canning_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/canning_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/canning_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.theinandout.co.uk/Page/101/the-canning-club",
+    "activities": []
+  },
+  "Carlton Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Carlton Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/carlton_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/carlton_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/carlton_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/carlton_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/carlton_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/carlton_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.carltonclub.co.uk",
+    "activities": []
+  },
+  "Den Norske Klub": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Den Norske Klub",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/den_norske_klub1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/den_norske_klub2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/den_norske_klub3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/den_norske_klub4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/den_norske_klub5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/den_norske_klub_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.dennorskeklub.co.uk",
+    "activities": []
+  },
+  "East India Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "East India Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/east_india_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/east_india_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/east_india_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/east_india_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/east_india_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/east_india_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.eastindiaclub.co.uk",
+    "activities": []
+  },
+  "National Club St. James": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "National Club St. James",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/national_club_st_james1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/national_club_st_james2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/national_club_st_james3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/national_club_st_james4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/national_club_st_james5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/national_club_st_james_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.thenationalclub.org.uk",
+    "activities": []
+  },
+  "Naval and Military Club (\"â€śIn and Out Clubâ€ť)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Naval and Military Club (\"â€śIn and Out Clubâ€ť)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/naval_and_military_club_in_and_out_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/naval_and_military_club_in_and_out_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/naval_and_military_club_in_and_out_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/naval_and_military_club_in_and_out_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/naval_and_military_club_in_and_out_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/naval_and_military_club_in_and_out_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.theinandout.co.uk",
+    "activities": []
+  },
+  "Royal Over-Seas League": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Royal Over-Seas League",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_overseas_league1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_overseas_league2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_overseas_league3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_overseas_league4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_overseas_league5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_overseas_league_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.rosl.org.uk",
+    "activities": []
+  },
   "Admiralty Arch Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
@@ -177,6 +2157,996 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/admiralty_arch_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.admiraltyarch.co.uk",
+    "activities": []
+  },
+  "Queen's Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Queen's Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/queens_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/queens_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/queens_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/queens_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/queens_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/queens_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.queensclub.co.uk",
+    "activities": []
+  },
+  "Authors' Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Authors' Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/authors_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/authors_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/authors_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/authors_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/authors_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/authors_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.authorsclub.co.uk",
+    "activities": []
+  },
+  "Civil Service Club London": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Civil Service Club London",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/civil_service_club_london1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/civil_service_club_london2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/civil_service_club_london3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/civil_service_club_london4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/civil_service_club_london5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/civil_service_club_london_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.civilserviceclub.org.uk",
+    "activities": []
+  },
+  "National Liberal Club (\"â€śNLCâ€ť)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "National Liberal Club (\"â€śNLCâ€ť)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/national_liberal_club_nlc1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/national_liberal_club_nlc2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/national_liberal_club_nlc3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/national_liberal_club_nlc4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/national_liberal_club_nlc5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/national_liberal_club_nlc_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.nlc.org.uk",
+    "activities": []
+  },
+  "12 Hay Hill": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "12 Hay Hill",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/12_hay_hill1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/12_hay_hill2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/12_hay_hill3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/12_hay_hill4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/12_hay_hill5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/12_hay_hill_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.12hayhill.com",
+    "activities": []
+  },
+  "AllBright Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "AllBright Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/allbright_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/allbright_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/allbright_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/allbright_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/allbright_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/allbright_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.allbrightcollective.com",
+    "activities": []
+  },
+  "Apollo's Mews": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Apollo's Mews",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/apollos_mews1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/apollos_mews2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/apollos_mews3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/apollos_mews4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/apollos_mews5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/apollos_mews_logo.png",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": []
+  },
+  "Aspinall's": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Aspinall's",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/aspinalls1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/aspinalls2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/aspinalls3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/aspinalls4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/aspinalls5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/aspinalls_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.crownlondonaspinalls.com",
+    "activities": []
+  },
+  "Fitzdares Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Fitzdares Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/fitzdares_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/fitzdares_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/fitzdares_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/fitzdares_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/fitzdares_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/fitzdares_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.fitzdares.com",
+    "activities": []
+  },
+  "George (\"Birley Group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "George (\"Birley Group)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/george_birley_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/george_birley_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/george_birley_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/george_birley_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/george_birley_group5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/george_birley_group_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.georgeclub.com",
+    "activities": []
+  },
+  "Lansdowne Club": {
+    "formatted_address": "9, Fitzmaurice Place, London, W1J 5JD",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Lansdowne Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/lansdowne_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/lansdowne_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/lansdowne_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/lansdowne_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/lansdowne_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/lansdowne_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.lansdowneclub.com",
+    "activities": []
+  },
+  "Little House Mayfair (\"Soho House group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Little House Mayfair (\"Soho House group)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/little_house_mayfair_soho_house_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/little_house_mayfair_soho_house_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/little_house_mayfair_soho_house_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/little_house_mayfair_soho_house_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/little_house_mayfair_soho_house_group5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/little_house_mayfair_soho_house_group_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.littlehousemayfair.com",
+    "activities": []
+  },
+  "Maison Estelle": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Maison Estelle",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/maison_estelle1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/maison_estelle2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/maison_estelle3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/maison_estelle4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/maison_estelle5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/maison_estelle_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.maisonestelle.com",
+    "activities": []
+  },
+  "Morton's Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Morton's Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/mortons_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/mortons_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/mortons_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/mortons_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/mortons_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/mortons_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.mortonsclub.com",
+    "activities": []
+  },
+  "Oswald's Club (\"Robin Birley clubs)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Oswald's Club (\"Robin Birley clubs)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/oswalds_club_robin_birley_clubs1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/oswalds_club_robin_birley_clubs2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/oswalds_club_robin_birley_clubs3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/oswalds_club_robin_birley_clubs4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/oswalds_club_robin_birley_clubs5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/oswalds_club_robin_birley_clubs_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.oswaldsclub.com",
+    "activities": []
+  },
+  "Pasley Tyler": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Pasley Tyler",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pasley_tyler1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pasley_tyler2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pasley_tyler3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pasley_tyler4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pasley_tyler5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pasley_tyler_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.pasley-tyler.com",
+    "activities": []
+  },
+  "Portland Club Mayfair": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Portland Club Mayfair",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/portland_club_mayfair1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/portland_club_mayfair2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/portland_club_mayfair3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/portland_club_mayfair4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/portland_club_mayfair5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/portland_club_mayfair_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.mayfaireccentrics.com",
+    "activities": []
+  },
+  "The Clubhouse Mayfair (\"Blaskey Group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Clubhouse Mayfair (\"Blaskey Group)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_mayfair_blaskey_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_mayfair_blaskey_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_mayfair_blaskey_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_mayfair_blaskey_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_mayfair_blaskey_group5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_mayfair_blaskey_group_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.theclubhouselondon.com/locations/50-grosvenor-hill",
+    "activities": []
+  },
+  "University Women's Club Mayfair": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "University Women's Club Mayfair",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/university_womens_club_mayfair1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/university_womens_club_mayfair2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/university_womens_club_mayfair3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/university_womens_club_mayfair4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/university_womens_club_mayfair5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/university_womens_club_mayfair_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.universitywomensclub.com",
+    "activities": []
+  },
+  "6 Grosvenor Place": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "6 Grosvenor Place",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/6_grosvenor_place1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/6_grosvenor_place2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/6_grosvenor_place3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/6_grosvenor_place4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/6_grosvenor_place5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/6_grosvenor_place_logo.png",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": []
+  },
+  "Black's": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Black's",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/blacks1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/blacks2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/blacks3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/blacks4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/blacks5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/blacks_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.blacksclub.com",
+    "activities": []
+  },
+  "Groucho Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Groucho Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/groucho_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/groucho_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/groucho_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/groucho_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/groucho_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/groucho_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.thegrouchoclub.com",
+    "activities": []
+  },
+  "New Evaristo Club (\"â€śTrisha's\")": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "New Evaristo Club (\"â€śTrisha's\")",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/new_evaristo_club_trishas1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/new_evaristo_club_trishas2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/new_evaristo_club_trishas3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/new_evaristo_club_trishas4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/new_evaristo_club_trishas5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/new_evaristo_club_trishas_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.dojoapp.co/venue/the-new-evaristo-club-w1d-3dx-london",
+    "activities": []
+  },
+  "Soho House 40 Greek Street (\"Soho House group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Soho House 40 Greek Street (\"Soho House group)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/soho_house_40_greek_street_soho_house_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/soho_house_40_greek_street_soho_house_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/soho_house_40_greek_street_soho_house_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/soho_house_40_greek_street_soho_house_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/soho_house_40_greek_street_soho_house_group5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/soho_house_40_greek_street_soho_house_group_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.sohohouse.com/houses/soho-house-40-greek-street",
+    "activities": []
+  },
+  "Soho House 76 Dean Street (\"Soho House group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Soho House 76 Dean Street (\"Soho House group)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/soho_house_76_dean_street_soho_house_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/soho_house_76_dean_street_soho_house_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/soho_house_76_dean_street_soho_house_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/soho_house_76_dean_street_soho_house_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/soho_house_76_dean_street_soho_house_group5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/soho_house_76_dean_street_soho_house_group_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.deanstreettownhouse.com",
+    "activities": []
+  },
+  "Boodle's": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Boodle's",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/boodles1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/boodles2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/boodles3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/boodles4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/boodles5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/boodles_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.boodles.org",
+    "activities": []
+  },
+  "Brooks's": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Brooks's",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/brookss1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/brookss2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/brookss3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/brookss4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/brookss5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/brookss_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.brooksclub.org",
+    "activities": []
+  },
+  "Pratt's": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Pratt's",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pratts1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pratts2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pratts3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pratts4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pratts5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pratts_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.wikipedia.org/wiki/Pratt%27s",
+    "activities": []
+  },
+  "Royal Ocean Racing Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Royal Ocean Racing Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_ocean_racing_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_ocean_racing_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_ocean_racing_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_ocean_racing_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_ocean_racing_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_ocean_racing_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.rorc.org",
+    "activities": []
+  },
+  "The Clubhouse St James's (\"Blaskey Group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Clubhouse St James's (\"Blaskey Group)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_st_jamess_blaskey_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_st_jamess_blaskey_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_st_jamess_blaskey_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_st_jamess_blaskey_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_st_jamess_blaskey_group5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_st_jamess_blaskey_group_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.theclubhouselondon.com/locations/8-st-jamess-square",
+    "activities": []
+  },
+  "Turf Club St. James (FKA Arlington Club)": {
+    "formatted_address": "5 Carlton House Terrace SW1Y 5AQ",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Turf Club St. James (FKA Arlington Club)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/turf_club_st_james_fka_arlington_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/turf_club_st_james_fka_arlington_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/turf_club_st_james_fka_arlington_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/turf_club_st_james_fka_arlington_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/turf_club_st_james_fka_arlington_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/turf_club_st_james_fka_arlington_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.wikipedia.org/wiki/Turf_Club_(gentlemen%27s_club)",
+    "activities": []
+  },
+  "White's": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "White's",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/whites1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/whites2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/whites3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/whites4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/whites5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/whites_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.wikipedia.org/wiki/White%27s",
+    "activities": []
+  },
+  "Marylebone Cricket Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Marylebone Cricket Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/marylebone_cricket_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/marylebone_cricket_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/marylebone_cricket_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/marylebone_cricket_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/marylebone_cricket_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/marylebone_cricket_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.lords.org/mcc",
     "activities": []
   }
 }
