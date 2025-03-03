@@ -1,0 +1,62 @@
+{
+  "Industrie-Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Industrie-Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dusseldorf/industrieclub1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dusseldorf/industrieclub2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dusseldorf/industrieclub3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dusseldorf/industrieclub4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dusseldorf/industrieclub5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dusseldorf/industrieclub_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.industrie-club.de",
+    "activities": []
+  },
+  "Wirtschaftsclub Dusseldorf": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Wirtschaftsclub Dusseldorf",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dusseldorf/wirtschaftsclub_dusseldorf1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dusseldorf/wirtschaftsclub_dusseldorf2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dusseldorf/wirtschaftsclub_dusseldorf3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dusseldorf/wirtschaftsclub_dusseldorf4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dusseldorf/wirtschaftsclub_dusseldorf5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dusseldorf/wirtschaftsclub_dusseldorf_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.wirtschaftsclubduesseldorf.de",
+    "activities": []
+  }
+}

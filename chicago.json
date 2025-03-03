@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/casino_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/casino_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/casino_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/casino_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/casino_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/casino_club_logo.png",
     "user_ratings_total": 0,
-    "website": "yelp.com/biz/casino-club-chicago",
+    "website": "https://www.yelp.com/biz/casino-club-chicago",
     "activities": []
   },
   "Caxton Club": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/caxton_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/caxton_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/caxton_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/caxton_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/caxton_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/caxton_club_logo.png",
     "user_ratings_total": 0,
-    "website": "caxtonclub.org",
+    "website": "https://www.caxtonclub.org",
     "activities": []
   },
   "Chicago Club": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/chicago_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/chicago_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/chicago_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/chicago_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/chicago_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/chicago_club_logo.png",
     "user_ratings_total": 0,
-    "website": "thechicagoclub.org",
+    "website": "https://www.thechicagoclub.org",
     "activities": []
   },
   "Chicago Yacht Club": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/chicago_yacht_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/chicago_yacht_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/chicago_yacht_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/chicago_yacht_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/chicago_yacht_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/chicago_yacht_club_logo.png",
     "user_ratings_total": 0,
-    "website": "chicagoyachtclub.org",
+    "website": "https://www.chicagoyachtclub.org",
     "activities": []
   },
   "Cliff Dwellers Club": {
@@ -111,12 +135,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/cliff_dwellers_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/cliff_dwellers_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/cliff_dwellers_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/cliff_dwellers_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/cliff_dwellers_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/cliff_dwellers_club_logo.png",
     "user_ratings_total": 0,
-    "website": "cliff-chicago.org",
+    "website": "https://www.cliff-chicago.org",
     "activities": []
   },
   "Quadrangle Club": {
@@ -135,12 +165,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/quadrangle_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/quadrangle_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/quadrangle_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/quadrangle_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/quadrangle_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/quadrangle_club_logo.png",
     "user_ratings_total": 0,
-    "website": "quadclub.uchicago.edu",
+    "website": "https://www.quadclub.uchicago.edu",
     "activities": []
   },
   "Racquet Club of Chicago": {
@@ -159,12 +195,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/racquet_club_of_chicago1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/racquet_club_of_chicago2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/racquet_club_of_chicago3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/racquet_club_of_chicago4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/racquet_club_of_chicago5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/racquet_club_of_chicago_logo.png",
     "user_ratings_total": 0,
-    "website": "rcc.club",
+    "website": "https://www.rcc.club",
     "activities": []
   },
   "Soho House Chicago (\"Soho House group)": {
@@ -183,12 +225,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/soho_house_chicago_soho_house_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/soho_house_chicago_soho_house_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/soho_house_chicago_soho_house_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/soho_house_chicago_soho_house_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/soho_house_chicago_soho_house_group5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/soho_house_chicago_soho_house_group_logo.png",
     "user_ratings_total": 0,
-    "website": "sohohousechicago.com",
+    "website": "https://www.sohohousechicago.com",
     "activities": []
   },
   "Standard Club": {
@@ -207,12 +255,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/standard_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/standard_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/standard_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/standard_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/standard_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/standard_club_logo.png",
     "user_ratings_total": 0,
-    "website": "stclub.org",
+    "website": "https://www.stclub.org",
     "activities": []
   },
   "Union League Club of Chicago": {
@@ -231,12 +285,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/union_league_club_of_chicago1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/union_league_club_of_chicago2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/union_league_club_of_chicago3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/union_league_club_of_chicago4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/union_league_club_of_chicago5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/union_league_club_of_chicago_logo.png",
     "user_ratings_total": 0,
-    "website": "ulcc.org",
+    "website": "https://www.ulcc.org",
     "activities": [
       "athletic",
       "swimming"
@@ -258,15 +318,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/university_club_of_chicago1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/university_club_of_chicago2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/university_club_of_chicago3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/university_club_of_chicago4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/university_club_of_chicago5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/university_club_of_chicago_logo.png",
     "user_ratings_total": 0,
-    "website": "ucco.com",
+    "website": "https://www.ucco.com",
     "activities": []
   },
-  "Women’s Athletic Club": {
+  "Women's Athletic Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -275,19 +341,25 @@
         "lng": 0.0
       }
     },
-    "name": "Women’s Athletic Club",
+    "name": "Women's Athletic Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/womens_athletic_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/womens_athletic_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/womens_athletic_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/womens_athletic_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/womens_athletic_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/womens_athletic_club_logo.png",
     "user_ratings_total": 0,
-    "website": "wacchicago.com",
+    "website": "https://www.wacchicago.com",
     "activities": []
   }
 }

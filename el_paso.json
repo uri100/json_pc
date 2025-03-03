@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "temporarily closed",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/el_paso/el_paso_club_texas1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/el_paso/el_paso_club_texas2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/el_paso/el_paso_club_texas3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/el_paso/el_paso_club_texas4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/el_paso/el_paso_club_texas5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/el_paso/el_paso_club_texas_logo.png",
     "user_ratings_total": 0,
-    "website": "theelpasoclub.com",
+    "website": "https://www.theelpasoclub.com",
     "activities": []
   }
 }

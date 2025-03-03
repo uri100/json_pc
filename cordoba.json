@@ -1,0 +1,32 @@
+{
+  "Real Circulo de la Amistad": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Real Circulo de la Amistad",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cordoba/real_circulo_de_la_amistad1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cordoba/real_circulo_de_la_amistad2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cordoba/real_circulo_de_la_amistad3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cordoba/real_circulo_de_la_amistad4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cordoba/real_circulo_de_la_amistad5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cordoba/real_circulo_de_la_amistad_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.circuloamistad.com",
+    "activities": []
+  }
+}

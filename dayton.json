@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dayton/dayton_racquet_club_clubcorp1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dayton/dayton_racquet_club_clubcorp2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dayton/dayton_racquet_club_clubcorp3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dayton/dayton_racquet_club_clubcorp4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dayton/dayton_racquet_club_clubcorp5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dayton/dayton_racquet_club_clubcorp_logo.png",
     "user_ratings_total": 0,
-    "website": "clubcorp.com/Clubs/Dayton-Racquet-Club",
+    "website": "https://www.clubcorp.com/Clubs/Dayton-Racquet-Club",
     "activities": []
   },
   "Engineers Club of Dayton": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dayton/engineers_club_of_dayton1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dayton/engineers_club_of_dayton2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dayton/engineers_club_of_dayton3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dayton/engineers_club_of_dayton4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dayton/engineers_club_of_dayton5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dayton/engineers_club_of_dayton_logo.png",
     "user_ratings_total": 0,
-    "website": "engineersclub.org",
+    "website": "https://www.engineersclub.org",
     "activities": []
   }
 }

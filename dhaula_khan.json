@@ -1,5 +1,5 @@
 {
-  "Defence Services Officers’ Institute (\"DSOI)": {
+  "Defence Services Officers' Institute (\"DSOI)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Defence Services Officers’ Institute (\"DSOI)",
+    "name": "Defence Services Officers' Institute (\"DSOI)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dhaula_khan/defence_services_officers_institute_dsoi1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dhaula_khan/defence_services_officers_institute_dsoi2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dhaula_khan/defence_services_officers_institute_dsoi3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dhaula_khan/defence_services_officers_institute_dsoi4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dhaula_khan/defence_services_officers_institute_dsoi5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dhaula_khan/defence_services_officers_institute_dsoi_logo.png",
     "user_ratings_total": 0,
-    "website": "dsoidelhi.org",
+    "website": "https://www.dsoidelhi.org",
     "activities": []
   }
 }

@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/arboretum1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/arboretum2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/arboretum3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/arboretum4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/arboretum5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/arboretum_logo.png",
     "user_ratings_total": 0,
-    "website": "arboretumlondon.com",
+    "website": "https://www.arboretumlondon.com",
     "activities": []
   },
   "Brydges Place Club (\"formerly Two Brydges Club until 2020)": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/brydges_place_club_formerly_two_brydges_club_until_20201.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/brydges_place_club_formerly_two_brydges_club_until_20202.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/brydges_place_club_formerly_two_brydges_club_until_20203.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/brydges_place_club_formerly_two_brydges_club_until_20204.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/brydges_place_club_formerly_two_brydges_club_until_20205.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/brydges_place_club_formerly_two_brydges_club_until_2020_logo.png",
     "user_ratings_total": 0,
-    "website": "brydgesplace.com",
+    "website": "https://www.brydgesplace.com",
     "activities": []
   },
   "Garrick Club": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/garrick_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/garrick_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/garrick_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/garrick_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/garrick_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/garrick_club_logo.png",
     "user_ratings_total": 0,
-    "website": "garrickclub.co.uk",
+    "website": "https://www.garrickclub.co.uk",
     "activities": []
   },
   "The Club at the Ivy": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/the_club_at_the_ivy1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/the_club_at_the_ivy2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/the_club_at_the_ivy3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/the_club_at_the_ivy4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/the_club_at_the_ivy5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/the_club_at_the_ivy_logo.png",
     "user_ratings_total": 0,
-    "website": "the-ivyclub.co.uk",
+    "website": "https://www.the-ivyclub.co.uk",
     "activities": []
   },
   "The Conduit": {
@@ -111,12 +135,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/the_conduit1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/the_conduit2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/the_conduit3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/the_conduit4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/the_conduit5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/covent_garden/the_conduit_logo.png",
     "user_ratings_total": 0,
-    "website": "theconduit.com",
+    "website": "https://www.theconduit.com",
     "activities": []
   }
 }

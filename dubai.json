@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/capital_club_dubai_signature_clubs_international1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/capital_club_dubai_signature_clubs_international2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/capital_club_dubai_signature_clubs_international3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/capital_club_dubai_signature_clubs_international4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/capital_club_dubai_signature_clubs_international5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/capital_club_dubai_signature_clubs_international_logo.png",
     "user_ratings_total": 0,
-    "website": "capitalclubdubai.com",
+    "website": "https://www.capitalclubdubai.com",
     "activities": [
       "athletic"
     ]
@@ -41,12 +47,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/india_club_dubai1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/india_club_dubai2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/india_club_dubai3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/india_club_dubai4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/india_club_dubai5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/india_club_dubai_logo.png",
     "user_ratings_total": 0,
-    "website": "indiaclubdubai.com",
+    "website": "https://www.indiaclubdubai.com",
     "activities": []
   },
   "World Trade Club": {
@@ -65,12 +77,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/world_trade_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/world_trade_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/world_trade_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/world_trade_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/world_trade_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/world_trade_club_logo.png",
     "user_ratings_total": 0,
-    "website": "dwtc.com",
+    "website": "https://www.dwtc.com",
     "activities": []
   },
   "The Arts Club in Dubai": {
@@ -88,13 +106,19 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Arts Club Dubai, an extension of the historic London club founded in 1863, brings a piece of cultural and artistic heritage to DIFC’s ICD Brookfield Place. The social club features sophisticated interiors with a blend of contemporary and classic design, spanning several floors with three restaurants, a library, a rooftop terrace, a nightclub, a cigar lounge, and a blank canvas events space where creativity flows as freely as the cocktails (or mocktails).",
-    "photo_urls": [],
+    "description": "The Arts Club Dubai, an extension of the historic London club founded in 1863, brings a piece of cultural and artistic heritage to DIFC's ICD Brookfield Place. The social club features sophisticated interiors with a blend of contemporary and classic design, spanning several floors with three restaurants, a library, a rooftop terrace, a nightclub, a cigar lounge, and a blank canvas events space where creativity flows as freely as the cocktails (or mocktails).",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/the_arts_club_in_dubai1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/the_arts_club_in_dubai2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/the_arts_club_in_dubai3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/the_arts_club_in_dubai4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/the_arts_club_in_dubai5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/the_arts_club_in_dubai_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.theartsclub.ae/",
+    "website": "https://www.https://www.theartsclub.ae/",
     "activities": []
   },
   "Neera": {
@@ -112,13 +136,19 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Neera, though shrouded in mystery, is rumored to be Dubai’s latest enclave of exclusivity, championing sustainability and wellness. Picture a sanctuary where eco-friendly living and mindful wellness are not just encouraged but celebrated. \r\n\r\nWith an emphasis on green spaces and a serene atmosphere, the exclusive club is poised to be an invitation-only retreat for those who lead with conscience and live by the heart. Membership requirements whisper of an allegiance to the earth and to each other, promising an oasis of calm in the desert city",
-    "photo_urls": [],
+    "description": "Neera, though shrouded in mystery, is rumored to be Dubai's latest enclave of exclusivity, championing sustainability and wellness. Picture a sanctuary where eco-friendly living and mindful wellness are not just encouraged but celebrated. \n \n\n With an emphasis on green spaces and a serene atmosphere, the exclusive club is poised to be an invitation-only retreat for those who lead with conscience and live by the heart. Membership requirements whisper of an allegiance to the earth and to each other, promising an oasis of calm in the desert city",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/neera1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/neera2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/neera3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/neera4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/neera5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/neera_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.neeradubai.com/",
+    "website": "https://www.https://www.neeradubai.com/",
     "activities": []
   },
   "Nasab": {
@@ -136,17 +166,23 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Nasab reimagines the workspace and social club concept with a stylish twist, launched by KOA in 2019. It’s where work meets play in a luxurious setting, blending coworking spaces with wellness facilities, pools, private offices and a vibe that’s as productive as it is relaxing. \r\n\r\nAs one of the most exclusive clubs in Dubai, Nasab membership is extremely selective and aimed at highly successful creatives, entrepreneurs, and professionals. Tailored to discerning individuals, membership at Nasab means joining a dynamic community that values balance, design, and a good espresso.\r\n\r\nIt’s the ultimate backdrop for those who live to blur the lines between work and leisure, providing a holistic approach to the professional lifestyle in a meticulously designed, modern setting.",
-    "photo_urls": [],
+    "description": "Nasab reimagines the workspace and social club concept with a stylish twist, launched by KOA in 2019. It's where work meets play in a luxurious setting, blending coworking spaces with wellness facilities, pools, private offices and a vibe that's as productive as it is relaxing. \n \n\n As one of the most exclusive clubs in Dubai, Nasab membership is extremely selective and aimed at highly successful creatives, entrepreneurs, and professionals. Tailored to discerning individuals, membership at Nasab means joining a dynamic community that values balance, design, and a good espresso.\n \n\n It's the ultimate backdrop for those who live to blur the lines between work and leisure, providing a holistic approach to the professional lifestyle in a meticulously designed, modern setting.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/nasab1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/nasab2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/nasab3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/nasab4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/nasab5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/nasab_logo.png",
     "user_ratings_total": 0,
-    "website": "https://nasabdubai.com/",
+    "website": "https://www.https://nasabdubai.com/",
     "activities": []
   },
   "Za'abeel Sports District": {
-    "formatted_address": "9th Floor, The Dubai Mall Zabeel, Financial Centre Road, Za’abeel 2",
+    "formatted_address": "9th Floor, The Dubai Mall Zabeel, Financial Centre Road, Za'abeel 2",
     "formatted_phone_number": "+971 50 760 8475",
     "geometry": {
       "location": {
@@ -161,12 +197,18 @@
       "weekday_text": []
     },
     "description": "A dynamic sports complex spanning 20,000 sqft, offering state-of-the-art facilities for various sports, located on the rooftop of Dubai Mall.",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/zaabeel_sports_district1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/zaabeel_sports_district2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/zaabeel_sports_district3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/zaabeel_sports_district4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/zaabeel_sports_district5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/zaabeel_sports_district_logo.png",
     "user_ratings_total": 0,
-    "website": "https://zabeelsportsdistrict.com/",
+    "website": "https://www.https://zabeelsportsdistrict.com/",
     "activities": [
       "Padel tennis",
       "basketball",
@@ -191,12 +233,18 @@
       "weekday_text": []
     },
     "description": "A comprehensive sports club offering training in various disciplines, with a focus on personal development and community engagement.",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/champs_sports_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/champs_sports_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/champs_sports_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/champs_sports_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/champs_sports_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/champs_sports_club_logo.png",
     "user_ratings_total": 0,
-    "website": "https://champssportsclub.com/",
+    "website": "https://www.https://champssportsclub.com/",
     "activities": [
       "Football",
       "basketball",
@@ -220,12 +268,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/al_nasr_leisureland1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/al_nasr_leisureland2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/al_nasr_leisureland3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/al_nasr_leisureland4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/al_nasr_leisureland5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/al_nasr_leisureland_logo.png",
     "user_ratings_total": 0,
-    "website": "alnasrll.com",
+    "website": "https://www.alnasrll.com",
     "activities": []
   }
 }

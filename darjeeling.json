@@ -1,5 +1,5 @@
 {
-  "Darjeeling Club (Darjeeling Planters’ Club)": {
+  "Darjeeling Club (Darjeeling Planters' Club)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Darjeeling Club (Darjeeling Planters’ Club)",
+    "name": "Darjeeling Club (Darjeeling Planters' Club)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/darjeeling/darjeeling_club_darjeeling_planters_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/darjeeling/darjeeling_club_darjeeling_planters_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/darjeeling/darjeeling_club_darjeeling_planters_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/darjeeling/darjeeling_club_darjeeling_planters_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/darjeeling/darjeeling_club_darjeeling_planters_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/darjeeling/darjeeling_club_darjeeling_planters_club_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Darjeeling_Planters%27_Club",
+    "website": "https://www.wikipedia.org/wiki/Darjeeling_Planters%27_Club",
     "activities": []
   },
   "Darjeeling Gymkhana Club": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/darjeeling/darjeeling_gymkhana_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/darjeeling/darjeeling_gymkhana_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/darjeeling/darjeeling_gymkhana_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/darjeeling/darjeeling_gymkhana_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/darjeeling/darjeeling_gymkhana_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/darjeeling/darjeeling_gymkhana_club_logo.png",
     "user_ratings_total": 0,
-    "website": "darjeelinggymkhanaclub.com",
+    "website": "https://www.darjeelinggymkhanaclub.com",
     "activities": []
   }
 }

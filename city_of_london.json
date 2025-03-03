@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/city_livery_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/city_livery_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/city_livery_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/city_livery_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/city_livery_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/city_livery_club_logo.png",
     "user_ratings_total": 0,
-    "website": "cityliveryclub.com",
+    "website": "https://www.cityliveryclub.com",
     "activities": []
   },
   "City of London Club": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/city_of_london_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/city_of_london_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/city_of_london_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/city_of_london_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/city_of_london_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/city_of_london_club_logo.png",
     "user_ratings_total": 0,
-    "website": "cityoflondonclub.com",
+    "website": "https://www.cityoflondonclub.com",
     "activities": []
   },
   "City University Club": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/city_university_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/city_university_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/city_university_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/city_university_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/city_university_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/city_university_club_logo.png",
     "user_ratings_total": 0,
-    "website": "cityuniversityclub.co.uk",
+    "website": "https://www.cityuniversityclub.co.uk",
     "activities": []
   },
   "Little Ship Club": {
@@ -87,15 +105,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/little_ship_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/little_ship_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/little_ship_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/little_ship_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/little_ship_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/little_ship_club_logo.png",
     "user_ratings_total": 0,
-    "website": "littleshipclub.co.uk",
+    "website": "https://www.littleshipclub.co.uk",
     "activities": []
   },
-  "Ned’s Club": {
+  "Ned's Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -104,19 +128,25 @@
         "lng": 0.0
       }
     },
-    "name": "Ned’s Club",
+    "name": "Ned's Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/neds_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/neds_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/neds_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/neds_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/neds_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/neds_club_logo.png",
     "user_ratings_total": 0,
-    "website": "thened.com",
+    "website": "https://www.thened.com",
     "activities": []
   },
   "Pavilion Club London": {
@@ -135,12 +165,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/pavilion_club_london1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/pavilion_club_london2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/pavilion_club_london3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/pavilion_club_london4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/pavilion_club_london5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/pavilion_club_london_logo.png",
     "user_ratings_total": 0,
-    "website": "pavilion.club",
+    "website": "https://www.pavilion.club",
     "activities": []
   },
   "Ten Trinity Square": {
@@ -159,12 +195,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/ten_trinity_square1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/ten_trinity_square2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/ten_trinity_square3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/ten_trinity_square4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/ten_trinity_square5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/ten_trinity_square_logo.png",
     "user_ratings_total": 0,
-    "website": "club.tentrinitysquare.com",
+    "website": "https://www.club.tentrinitysquare.com",
     "activities": []
   },
   "The Clubhouse Bank (\"Blaskey Group)": {
@@ -183,12 +225,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/the_clubhouse_bank_blaskey_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/the_clubhouse_bank_blaskey_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/the_clubhouse_bank_blaskey_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/the_clubhouse_bank_blaskey_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/the_clubhouse_bank_blaskey_group5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/the_clubhouse_bank_blaskey_group_logo.png",
     "user_ratings_total": 0,
-    "website": "theclubhouselondon.com/locations/bank",
+    "website": "https://www.theclubhouselondon.com/locations/bank",
     "activities": []
   },
   "Walbrook Club": {
@@ -207,12 +255,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/walbrook_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/walbrook_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/walbrook_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/walbrook_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/walbrook_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/city_of_london/walbrook_club_logo.png",
     "user_ratings_total": 0,
-    "website": "walbrook-club.co.uk",
+    "website": "https://www.walbrook-club.co.uk",
     "activities": []
   }
 }

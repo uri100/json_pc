@@ -1,5 +1,5 @@
 {
-  "Société Nautique de Genéve": {
+  "SociĂ©tĂ© Nautique de GenĂ©ve": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Société Nautique de Genéve",
+    "name": "SociĂ©tĂ© Nautique de GenĂ©ve",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/coligny/socit_nautique_de_genve1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/coligny/socit_nautique_de_genve2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/coligny/socit_nautique_de_genve3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/coligny/socit_nautique_de_genve4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/coligny/socit_nautique_de_genve5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/coligny/socit_nautique_de_genve_logo.png",
     "user_ratings_total": 0,
-    "website": "nautique.ch",
+    "website": "https://www.nautique.ch",
     "activities": []
   }
 }

@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catanzaro/circolo_di_catanzaro1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catanzaro/circolo_di_catanzaro2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catanzaro/circolo_di_catanzaro3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catanzaro/circolo_di_catanzaro4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catanzaro/circolo_di_catanzaro5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catanzaro/circolo_di_catanzaro_logo.png",
     "user_ratings_total": 0,
-    "website": "facebook.com/circolocatanzaro1871",
+    "website": "https://www.facebook.com/circolocatanzaro1871",
     "activities": []
   }
 }

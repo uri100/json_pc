@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chiswick/high_road_house_soho_house_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chiswick/high_road_house_soho_house_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chiswick/high_road_house_soho_house_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chiswick/high_road_house_soho_house_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chiswick/high_road_house_soho_house_group5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chiswick/high_road_house_soho_house_group_logo.png",
     "user_ratings_total": 0,
-    "website": "highroadhouse.co.uk",
+    "website": "https://www.highroadhouse.co.uk",
     "activities": []
   },
   "Maggie and Rose Club Chiswick (\"Maggie and Rose group)": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chiswick/maggie_and_rose_club_chiswick_maggie_and_rose_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chiswick/maggie_and_rose_club_chiswick_maggie_and_rose_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chiswick/maggie_and_rose_club_chiswick_maggie_and_rose_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chiswick/maggie_and_rose_club_chiswick_maggie_and_rose_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chiswick/maggie_and_rose_club_chiswick_maggie_and_rose_group5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chiswick/maggie_and_rose_club_chiswick_maggie_and_rose_group_logo.png",
     "user_ratings_total": 0,
-    "website": "maggieandrose.com/chiswickclub/",
+    "website": "https://www.maggieandrose.com/chiswickclub/",
     "activities": []
   }
 }

@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/charlotte/charlotte_city_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/charlotte/charlotte_city_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/charlotte/charlotte_city_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/charlotte/charlotte_city_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/charlotte/charlotte_city_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/charlotte/charlotte_city_club_logo.png",
     "user_ratings_total": 0,
-    "website": "charlottecityclub.com",
+    "website": "https://www.charlottecityclub.com",
     "activities": []
   },
   "Trump National Golf Club - Charlotte (\"Trump organization)": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/charlotte/trump_national_golf_club_charlotte_trump_organization1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/charlotte/trump_national_golf_club_charlotte_trump_organization2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/charlotte/trump_national_golf_club_charlotte_trump_organization3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/charlotte/trump_national_golf_club_charlotte_trump_organization4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/charlotte/trump_national_golf_club_charlotte_trump_organization5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/charlotte/trump_national_golf_club_charlotte_trump_organization_logo.png",
     "user_ratings_total": 0,
-    "website": "trumpnationalcharlotte.com",
+    "website": "https://www.trumpnationalcharlotte.com",
     "activities": []
   }
 }

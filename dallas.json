@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/55seventy1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/55seventy2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/55seventy3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/55seventy4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/55seventy5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/55seventy_logo.png",
     "user_ratings_total": 0,
-    "website": "55seventy.com",
+    "website": "https://www.55seventy.com",
     "activities": []
   },
   "Brookhaven Country Club (\"ClubCorp)": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/brookhaven_country_club_clubcorp1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/brookhaven_country_club_clubcorp2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/brookhaven_country_club_clubcorp3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/brookhaven_country_club_clubcorp4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/brookhaven_country_club_clubcorp5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/brookhaven_country_club_clubcorp_logo.png",
     "user_ratings_total": 0,
-    "website": "clubcorp.com/Clubs/Brookhaven-Country-Club",
+    "website": "https://www.clubcorp.com/Clubs/Brookhaven-Country-Club",
     "activities": []
   },
   "City Club Dallas": {
@@ -62,11 +74,17 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "City Club Dallas is one of the original and most prestigious private clubs in Dallas, TX. Upon arrival into the city, one is immediately welcomed into the city with the view of our unmistakable downtown sky-line, complete with the green-lit accent of the Bank of America Plaza. Located high atop this building, the tallest downtown, City Club Dallas offers the most spectacular view of the city, as well as countless, highly recognized entertainment venues and historical landmarks. Inside, well-appointed quarters and beautiful décor provide the perfect setting for both member and non-member private parties to include seated dinners or unforgettable receptions. The entire club can accommodate up to 650 guests for receptions or 300 for seated dinners. The City Club invites you and your guests to experience the breathtaking panoramic views as well as be pampered by our first class staff and cuisine.",
-    "photo_urls": [],
+    "description": "City Club Dallas is one of the original and most prestigious private clubs in Dallas, TX. Upon arrival into the city, one is immediately welcomed into the city with the view of our unmistakable downtown sky-line, complete with the green-lit accent of the Bank of America Plaza. Located high atop this building, the tallest downtown, City Club Dallas offers the most spectacular view of the city, as well as countless, highly recognized entertainment venues and historical landmarks. Inside, well-appointed quarters and beautiful dĂ©cor provide the perfect setting for both member and non-member private parties to include seated dinners or unforgettable receptions. The entire club can accommodate up to 650 guests for receptions or 300 for seated dinners. The City Club invites you and your guests to experience the breathtaking panoramic views as well as be pampered by our first class staff and cuisine.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/city_club_dallas1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/city_club_dallas2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/city_club_dallas3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/city_club_dallas4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/city_club_dallas5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/city_club_dallas_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": []
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/dallas_petroleum_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/dallas_petroleum_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/dallas_petroleum_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/dallas_petroleum_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/dallas_petroleum_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/dallas_petroleum_club_logo.png",
     "user_ratings_total": 0,
-    "website": "thedallaspetroleumclub.com",
+    "website": "https://www.thedallaspetroleumclub.com",
     "activities": []
   },
   "Faculty Club of Southern Methodist University": {
@@ -111,12 +135,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/faculty_club_of_southern_methodist_university1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/faculty_club_of_southern_methodist_university2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/faculty_club_of_southern_methodist_university3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/faculty_club_of_southern_methodist_university4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/faculty_club_of_southern_methodist_university5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/faculty_club_of_southern_methodist_university_logo.png",
     "user_ratings_total": 0,
-    "website": "smu.edu/orgs/facultyclub",
+    "website": "https://www.smu.edu/orgs/facultyclub",
     "activities": []
   },
   "Park City Club": {
@@ -135,12 +165,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/park_city_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/park_city_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/park_city_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/park_city_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/park_city_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/park_city_club_logo.png",
     "user_ratings_total": 0,
-    "website": "parkcityclub.net",
+    "website": "https://www.parkcityclub.net",
     "activities": []
   },
   "Park House": {
@@ -159,12 +195,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/park_house1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/park_house2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/park_house3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/park_house4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/park_house5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dallas/park_house_logo.png",
     "user_ratings_total": 0,
-    "website": "parkhousedallas.com",
+    "website": "https://www.parkhousedallas.com",
     "activities": []
   }
 }

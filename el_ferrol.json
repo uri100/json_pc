@@ -15,15 +15,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/el_ferrol/casino_ferrolanotenis_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/el_ferrol/casino_ferrolanotenis_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/el_ferrol/casino_ferrolanotenis_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/el_ferrol/casino_ferrolanotenis_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/el_ferrol/casino_ferrolanotenis_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/el_ferrol/casino_ferrolanotenis_club_logo.png",
     "user_ratings_total": 0,
-    "website": "casinoferrolano.com",
+    "website": "https://www.casinoferrolano.com",
     "activities": []
   },
-  "Círculo Mercantil e Industrial -C.C.": {
+  "CĂ­rculo Mercantil e Industrial -C.C.": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,19 +38,25 @@
         "lng": 0.0
       }
     },
-    "name": "Círculo Mercantil e Industrial -C.C.",
+    "name": "CĂ­rculo Mercantil e Industrial -C.C.",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/el_ferrol/crculo_mercantil_e_industrial_cc1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/el_ferrol/crculo_mercantil_e_industrial_cc2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/el_ferrol/crculo_mercantil_e_industrial_cc3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/el_ferrol/crculo_mercantil_e_industrial_cc4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/el_ferrol/crculo_mercantil_e_industrial_cc5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/el_ferrol/crculo_mercantil_e_industrial_cc_logo.png",
     "user_ratings_total": 0,
-    "website": "clubcampoferrol.com",
+    "website": "https://www.clubcampoferrol.com",
     "activities": []
   }
 }
