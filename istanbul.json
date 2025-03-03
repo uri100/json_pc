@@ -1,5 +1,5 @@
 {
-  "Anadolu Kulübü": {
+  "Anadolu KulĂĽbĂĽ": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,22 +8,28 @@
         "lng": 0.0
       }
     },
-    "name": "Anadolu Kulübü",
+    "name": "Anadolu KulĂĽbĂĽ",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/anadolu_kulb1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/anadolu_kulb2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/anadolu_kulb3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/anadolu_kulb4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/anadolu_kulb5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/anadolu_kulb_logo.png",
     "user_ratings_total": 0,
-    "website": "anadolukulubu.com",
+    "website": "https://www.anadolukulubu.com",
     "activities": []
   },
-  "Cercle d’Orient-Büyük Kulüp": {
+  "Cercle d'Orient-BĂĽyĂĽk KulĂĽp": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,19 +38,25 @@
         "lng": 0.0
       }
     },
-    "name": "Cercle d’Orient-Büyük Kulüp",
+    "name": "Cercle d'Orient-BĂĽyĂĽk KulĂĽp",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/cercle_dorientbyk_kulp1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/cercle_dorientbyk_kulp2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/cercle_dorientbyk_kulp3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/cercle_dorientbyk_kulp4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/cercle_dorientbyk_kulp5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/cercle_dorientbyk_kulp_logo.png",
     "user_ratings_total": 0,
-    "website": "buyukkulup.org.tr",
+    "website": "https://www.buyukkulup.org.tr",
     "activities": []
   },
   "Heybeliada Water Sports Club": {
@@ -63,15 +75,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/heybeliada_water_sports_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/heybeliada_water_sports_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/heybeliada_water_sports_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/heybeliada_water_sports_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/heybeliada_water_sports_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/heybeliada_water_sports_club_logo.png",
     "user_ratings_total": 0,
-    "website": "hssk.org",
+    "website": "https://www.hssk.org",
     "activities": []
   },
-  "Moda Deniz Kulübü": {
+  "Moda Deniz KulĂĽbĂĽ": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -80,19 +98,25 @@
         "lng": 0.0
       }
     },
-    "name": "Moda Deniz Kulübü",
+    "name": "Moda Deniz KulĂĽbĂĽ",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/moda_deniz_kulb1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/moda_deniz_kulb2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/moda_deniz_kulb3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/moda_deniz_kulb4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/moda_deniz_kulb5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/moda_deniz_kulb_logo.png",
     "user_ratings_total": 0,
-    "website": "modadenizkulubu.org.tr",
+    "website": "https://www.modadenizkulubu.org.tr",
     "activities": []
   },
   "Soho House Istanbul (\"Soho House group)": {
@@ -111,12 +135,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/soho_house_istanbul_soho_house_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/soho_house_istanbul_soho_house_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/soho_house_istanbul_soho_house_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/soho_house_istanbul_soho_house_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/soho_house_istanbul_soho_house_group5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/soho_house_istanbul_soho_house_group_logo.png",
     "user_ratings_total": 0,
-    "website": "sohohouseistanbul.com",
+    "website": "https://www.sohohouseistanbul.com",
     "activities": []
   },
   "Suada Club": {
@@ -135,12 +165,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/suada_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/suada_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/suada_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/suada_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/suada_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/suada_club_logo.png",
     "user_ratings_total": 0,
-    "website": "suadaclub.com.tr",
+    "website": "https://www.suadaclub.com.tr",
     "activities": []
   }
 }

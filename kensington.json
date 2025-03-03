@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/maggie_and_rose_club_kensington_maggie_and_rose_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/maggie_and_rose_club_kensington_maggie_and_rose_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/maggie_and_rose_club_kensington_maggie_and_rose_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/maggie_and_rose_club_kensington_maggie_and_rose_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/maggie_and_rose_club_kensington_maggie_and_rose_group5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/maggie_and_rose_club_kensington_maggie_and_rose_group_logo.png",
     "user_ratings_total": 0,
-    "website": "maggieandrose.com/kensington-club/",
+    "website": "https://www.maggieandrose.com/kensington-club/",
     "activities": []
   },
   "Ognisko Polskie": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/ognisko_polskie1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/ognisko_polskie2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/ognisko_polskie3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/ognisko_polskie4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/ognisko_polskie5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/ognisko_polskie_logo.png",
     "user_ratings_total": 0,
-    "website": "ogniskopolskie.org.uk",
+    "website": "https://www.ogniskopolskie.org.uk",
     "activities": []
   },
   "Pavilion Club Kensington": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/pavilion_club_kensington1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/pavilion_club_kensington2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/pavilion_club_kensington3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/pavilion_club_kensington4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/pavilion_club_kensington5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/pavilion_club_kensington_logo.png",
     "user_ratings_total": 0,
-    "website": "pavilion.club",
+    "website": "https://www.pavilion.club",
     "activities": []
   }
 }

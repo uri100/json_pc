@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/acacia_country_golf_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/acacia_country_golf_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/acacia_country_golf_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/acacia_country_golf_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/acacia_country_golf_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/acacia_country_golf_club_logo.png",
     "user_ratings_total": 0,
-    "website": "acaciagolf.com",
+    "website": "https://www.acaciagolf.com",
     "activities": []
   },
   "Arabian Sea Country Club": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/arabian_sea_country_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/arabian_sea_country_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/arabian_sea_country_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/arabian_sea_country_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/arabian_sea_country_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/arabian_sea_country_club_logo.png",
     "user_ratings_total": 0,
-    "website": "asccl.com",
+    "website": "https://www.asccl.com",
     "activities": []
   },
   "Defence Authority Beach View Club": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_beach_view_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_beach_view_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_beach_view_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_beach_view_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_beach_view_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_beach_view_club_logo.png",
     "user_ratings_total": 0,
-    "website": "dhakarachi.org/clubs/da-beach-view-club.aspx",
+    "website": "https://www.dhakarachi.org/clubs/da-beach-view-club.aspx",
     "activities": []
   },
   "Defence Authority Club": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_club_logo.png",
     "user_ratings_total": 0,
-    "website": "dhakarachi.org/clubs/da-club.aspx",
+    "website": "https://www.dhakarachi.org/clubs/da-club.aspx",
     "activities": []
   },
   "Defence Authority Country & Golf Club": {
@@ -111,12 +135,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_country_golf_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_country_golf_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_country_golf_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_country_golf_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_country_golf_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_country_golf_club_logo.png",
     "user_ratings_total": 0,
-    "website": "dhakarachi.org/clubs/da-golf-and-country-club.aspx",
+    "website": "https://www.dhakarachi.org/clubs/da-golf-and-country-club.aspx",
     "activities": []
   },
   "Defence Authority Creek Club": {
@@ -135,12 +165,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_creek_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_creek_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_creek_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_creek_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_creek_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_creek_club_logo.png",
     "user_ratings_total": 0,
-    "website": "dhakarachi.org/clubs/da-creek-club.aspx",
+    "website": "https://www.dhakarachi.org/clubs/da-creek-club.aspx",
     "activities": []
   },
   "Defence Authority Marina Club": {
@@ -159,12 +195,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_marina_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_marina_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_marina_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_marina_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_marina_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_marina_club_logo.png",
     "user_ratings_total": 0,
-    "website": "damarinaclub.com",
+    "website": "https://www.damarinaclub.com",
     "activities": []
   },
   "Defence Authority Sunset Club": {
@@ -183,12 +225,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_sunset_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_sunset_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_sunset_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_sunset_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_sunset_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_sunset_club_logo.png",
     "user_ratings_total": 0,
-    "website": "dhakarachi.org/clubs/da-sunset-club.aspx",
+    "website": "https://www.dhakarachi.org/clubs/da-sunset-club.aspx",
     "activities": []
   },
   "Defence Authority Zamzama Club": {
@@ -207,12 +255,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_zamzama_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_zamzama_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_zamzama_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_zamzama_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_zamzama_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/defence_authority_zamzama_club_logo.png",
     "user_ratings_total": 0,
-    "website": "dhakarachi.org/clubs/da-zamzama-club.aspx",
+    "website": "https://www.dhakarachi.org/clubs/da-zamzama-club.aspx",
     "activities": []
   },
   "DHA Sports Club": {
@@ -231,12 +285,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/dha_sports_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/dha_sports_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/dha_sports_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/dha_sports_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/dha_sports_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/dha_sports_club_logo.png",
     "user_ratings_total": 0,
-    "website": "dhakarachi.org/clubs/dha-sports-club.aspx",
+    "website": "https://www.dhakarachi.org/clubs/dha-sports-club.aspx",
     "activities": []
   },
   "Haji Abdullah Haroon Muslim Gymkhana": {
@@ -255,12 +315,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/haji_abdullah_haroon_muslim_gymkhana1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/haji_abdullah_haroon_muslim_gymkhana2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/haji_abdullah_haroon_muslim_gymkhana3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/haji_abdullah_haroon_muslim_gymkhana4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/haji_abdullah_haroon_muslim_gymkhana5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/haji_abdullah_haroon_muslim_gymkhana_logo.png",
     "user_ratings_total": 0,
-    "website": "muslimgymkhana.com.pk",
+    "website": "https://www.muslimgymkhana.com.pk",
     "activities": []
   },
   "Karachi Boat Club": {
@@ -279,12 +345,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_boat_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_boat_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_boat_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_boat_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_boat_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_boat_club_logo.png",
     "user_ratings_total": 0,
-    "website": "kbc.org.pk",
+    "website": "https://www.kbc.org.pk",
     "activities": []
   },
   "Karachi Club": {
@@ -303,12 +375,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_club_logo.png",
     "user_ratings_total": 0,
-    "website": "karachiclub.org",
+    "website": "https://www.karachiclub.org",
     "activities": []
   },
   "Karachi Goan Association": {
@@ -327,12 +405,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_goan_association1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_goan_association2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_goan_association3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_goan_association4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_goan_association5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_goan_association_logo.png",
     "user_ratings_total": 0,
-    "website": "karachigoans.com",
+    "website": "https://www.karachigoans.com",
     "activities": []
   },
   "Karachi Gymkhana Club": {
@@ -351,12 +435,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_gymkhana_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_gymkhana_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_gymkhana_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_gymkhana_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_gymkhana_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_gymkhana_club_logo.png",
     "user_ratings_total": 0,
-    "website": "kg.com.pk",
+    "website": "https://www.kg.com.pk",
     "activities": []
   },
   "Karachi Press Club": {
@@ -375,12 +465,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_press_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_press_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_press_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_press_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_press_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_press_club_logo.png",
     "user_ratings_total": 0,
-    "website": "karachipressclub.com",
+    "website": "https://www.karachipressclub.com",
     "activities": []
   },
   "Karachi Yacht Club": {
@@ -399,12 +495,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_yacht_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_yacht_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_yacht_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_yacht_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_yacht_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/karachi_yacht_club_logo.png",
     "user_ratings_total": 0,
-    "website": "karachiyachtclub.com",
+    "website": "https://www.karachiyachtclub.com",
     "activities": []
   },
   "Pavilion End Club": {
@@ -423,12 +525,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/pavilion_end_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/pavilion_end_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/pavilion_end_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/pavilion_end_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/pavilion_end_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/pavilion_end_club_logo.png",
     "user_ratings_total": 0,
-    "website": "pavilionendclub.com",
+    "website": "https://www.pavilionendclub.com",
     "activities": []
   },
   "Royal Rodale Club": {
@@ -447,12 +555,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/royal_rodale_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/royal_rodale_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/royal_rodale_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/royal_rodale_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/royal_rodale_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/royal_rodale_club_logo.png",
     "user_ratings_total": 0,
-    "website": "royalrodale.com",
+    "website": "https://www.royalrodale.com",
     "activities": []
   },
   "Sind Club": {
@@ -471,12 +585,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/sind_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/sind_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/sind_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/sind_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/sind_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/karachi/sind_club_logo.png",
     "user_ratings_total": 0,
-    "website": "sindclub.org.pk",
+    "website": "https://www.sindclub.org.pk",
     "activities": []
   }
 }

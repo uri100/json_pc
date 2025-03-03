@@ -2,15 +2,13 @@ import csv
 import json
 import re
 
-def normalize_city(city):
+def normalize_string(s):
     """
-    Normalize the city name:
-      - Remove special characters (keep only letters, numbers, and spaces)
-      - Convert to lowercase
-      - Replace one or more spaces with an underscore
+    Remove special characters, convert to lowercase,
+    and replace one or more spaces with an underscore.
     """
-    cleaned = re.sub(r'[^A-Za-z0-9\s]', '', city)
-    cleaned = cleaned.lower()
+    cleaned = re.sub(r'[^A-Za-z0-9\s]', '', s)
+    cleaned = cleaned.lower().strip()
     normalized = re.sub(r'\s+', '_', cleaned)
     return normalized
 
@@ -21,26 +19,27 @@ default_name_counter = {}
 with open(CSV_FILE, newline='', encoding="utf-8") as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
-        # Get the city name from the CSV (assumed to be in column "City")
-        city = row.get("City", "").strip()
-        if not city:
+        # Get and normalize the city name (assumed to be in column "City")
+        city_raw = row.get("City", "").strip()
+        if not city_raw:
             print("Skipping row due to missing City:", row)
             continue
-
-        # Normalize the city name for file naming
-        city_normalized = normalize_city(city)
+        city_normalized = normalize_string(city_raw)
 
         # Initialize counter for venues with missing names per city
         if city_normalized not in default_name_counter:
             default_name_counter[city_normalized] = 1
 
-        # Get the venue name; if missing, assign a unique default name
+        # Get the venue (club) name; if missing, assign a unique default name
         venue_name = row.get("name", "").strip()
         if not venue_name:
             venue_name = f"venue_{default_name_counter[city_normalized]}"
             default_name_counter[city_normalized] += 1
 
-        # Convert latitude and longitude to float (default to 0.0 if conversion fails)
+        # Normalize the club name for URL file naming.
+        club_normalized = normalize_string(venue_name)
+
+        # Convert latitude and longitude to float (defaulting to 0.0)
         try:
             lat = float(row.get("lat", "0"))
         except ValueError:
@@ -50,7 +49,7 @@ with open(CSV_FILE, newline='', encoding="utf-8") as csvfile:
         except ValueError:
             lng = 0.0
 
-        # Process the activities column (comma-separated)
+        # Process the activities column (assuming comma-separated)
         activities_str = row.get("activities", "").strip()
         activities = [act.strip() for act in activities_str.split(',')] if activities_str else []
 
@@ -64,7 +63,15 @@ with open(CSV_FILE, newline='', encoding="utf-8") as csvfile:
         except ValueError:
             user_ratings_total = 0
 
-        # Create the venue object following the expected JSON structure
+        # Generate photo URLs (1-5) and logo URL using the normalized city and club name.
+        photo_urls = []
+        for i in range(1, 6):
+            photo_urls.append(
+                f"https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/{city_normalized}/{club_normalized}{i}.jpg"
+            )
+        logo_url = f"https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/{city_normalized}/{club_normalized}_logo.png"
+
+        # Create the venue object according to the expected JSON structure.
         venue = {
             "formatted_address": row.get("formatted_address", "").strip(),
             "formatted_phone_number": row.get("formatted_phone_number", "").strip(),
@@ -81,16 +88,16 @@ with open(CSV_FILE, newline='', encoding="utf-8") as csvfile:
                 "weekday_text": []
             },
             "description": row.get("description", "").strip(),
-            "photo_urls": [],
+            "photo_urls": photo_urls,
             "rating": rating,
             "reviews": [],
-            "logo": "",
+            "logo": logo_url,
             "user_ratings_total": user_ratings_total,
             "website": row.get("website", "").strip(),
             "activities": activities
         }
 
-        # Group venues by the normalized city name
+        # Group venues by the normalized city name.
         if city_normalized not in city_groups:
             city_groups[city_normalized] = {}
         if venue_name in city_groups[city_normalized]:

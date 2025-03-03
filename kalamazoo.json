@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kalamazoo/beacon_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kalamazoo/beacon_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kalamazoo/beacon_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kalamazoo/beacon_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kalamazoo/beacon_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kalamazoo/beacon_club_logo.png",
     "user_ratings_total": 0,
-    "website": "thebeaconclub.com",
+    "website": "https://www.thebeaconclub.com",
     "activities": []
   },
   "Park Club of Kalamazoo": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kalamazoo/park_club_of_kalamazoo1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kalamazoo/park_club_of_kalamazoo2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kalamazoo/park_club_of_kalamazoo3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kalamazoo/park_club_of_kalamazoo4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kalamazoo/park_club_of_kalamazoo5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kalamazoo/park_club_of_kalamazoo_logo.png",
     "user_ratings_total": 0,
-    "website": "parkclub.net",
+    "website": "https://www.parkclub.net",
     "activities": []
   }
 }

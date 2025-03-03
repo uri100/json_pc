@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jamshedpur/beldih_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jamshedpur/beldih_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jamshedpur/beldih_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jamshedpur/beldih_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jamshedpur/beldih_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jamshedpur/beldih_club_logo.png",
     "user_ratings_total": 0,
-    "website": "beldihclub.com",
+    "website": "https://www.beldihclub.com",
     "activities": []
   },
   "Golmuri Club": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jamshedpur/golmuri_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jamshedpur/golmuri_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jamshedpur/golmuri_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jamshedpur/golmuri_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jamshedpur/golmuri_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jamshedpur/golmuri_club_logo.png",
     "user_ratings_total": 0,
-    "website": "justdial.com/Jamshedpur/Golmuri-Club-Nildhi-Golmuri-Golmuri/0657P657STD5211_BZDET",
+    "website": "https://www.justdial.com/Jamshedpur/Golmuri-Club-Nildhi-Golmuri-Golmuri/0657P657STD5211_BZDET",
     "activities": []
   },
   "United Club Jamshedpur": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jamshedpur/united_club_jamshedpur1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jamshedpur/united_club_jamshedpur2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jamshedpur/united_club_jamshedpur3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jamshedpur/united_club_jamshedpur4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jamshedpur/united_club_jamshedpur5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jamshedpur/united_club_jamshedpur_logo.png",
     "user_ratings_total": 0,
-    "website": "theunitedclub.com",
+    "website": "https://www.theunitedclub.com",
     "activities": []
   }
 }

@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/industria_y_comercio/fomento_de_agricultura1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/industria_y_comercio/fomento_de_agricultura2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/industria_y_comercio/fomento_de_agricultura3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/industria_y_comercio/fomento_de_agricultura4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/industria_y_comercio/fomento_de_agricultura5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/industria_y_comercio/fomento_de_agricultura_logo.png",
     "user_ratings_total": 0,
-    "website": "fomentogandia.com",
+    "website": "https://www.fomentogandia.com",
     "activities": []
   }
 }

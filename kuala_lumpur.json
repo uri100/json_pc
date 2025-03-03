@@ -1,5 +1,5 @@
 {
-  "Bankers’ Club": {
+  "Bankers' Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Bankers’ Club",
+    "name": "Bankers' Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/bankers_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/bankers_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/bankers_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/bankers_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/bankers_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/bankers_club_logo.png",
     "user_ratings_total": 0,
-    "website": "bankersclub.com.my",
+    "website": "https://www.bankersclub.com.my",
     "activities": []
   },
   "Malaysia Petroleum Club": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/malaysia_petroleum_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/malaysia_petroleum_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/malaysia_petroleum_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/malaysia_petroleum_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/malaysia_petroleum_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/malaysia_petroleum_club_logo.png",
     "user_ratings_total": 0,
-    "website": "malaysianpetroleumclub.com",
+    "website": "https://www.malaysianpetroleumclub.com",
     "activities": []
   },
   "Raintree Club": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/raintree_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/raintree_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/raintree_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/raintree_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/raintree_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/raintree_club_logo.png",
     "user_ratings_total": 0,
-    "website": "raintree.com.my",
+    "website": "https://www.raintree.com.my",
     "activities": []
   },
   "Royal Commonwealth Society of Malaysia": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_commonwealth_society_of_malaysia1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_commonwealth_society_of_malaysia2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_commonwealth_society_of_malaysia3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_commonwealth_society_of_malaysia4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_commonwealth_society_of_malaysia5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_commonwealth_society_of_malaysia_logo.png",
     "user_ratings_total": 0,
-    "website": "facebook.com/The-Royal-Commonwealth-Society-of-Malaysia-633299756866555/",
+    "website": "https://www.facebook.com/The-Royal-Commonwealth-Society-of-Malaysia-633299756866555/",
     "activities": []
   },
   "Royal Lake Club Kuala Lumpur": {
@@ -111,12 +135,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_lake_club_kuala_lumpur1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_lake_club_kuala_lumpur2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_lake_club_kuala_lumpur3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_lake_club_kuala_lumpur4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_lake_club_kuala_lumpur5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_lake_club_kuala_lumpur_logo.png",
     "user_ratings_total": 0,
-    "website": "royallakeclub.org.my",
+    "website": "https://www.royallakeclub.org.my",
     "activities": []
   },
   "Royal Selangor Club": {
@@ -135,12 +165,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_selangor_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_selangor_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_selangor_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_selangor_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_selangor_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_selangor_club_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Royal_Selangor_Club",
+    "website": "https://www.wikipedia.org/wiki/Royal_Selangor_Club",
     "activities": []
   }
 }

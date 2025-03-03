@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jacksonville/deercreek_country_club_clubcorp1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jacksonville/deercreek_country_club_clubcorp2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jacksonville/deercreek_country_club_clubcorp3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jacksonville/deercreek_country_club_clubcorp4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jacksonville/deercreek_country_club_clubcorp5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jacksonville/deercreek_country_club_clubcorp_logo.png",
     "user_ratings_total": 0,
-    "website": "clubcorp.com/Clubs/Deercreek-Country-Club",
+    "website": "https://www.clubcorp.com/Clubs/Deercreek-Country-Club",
     "activities": []
   },
   "Epping-Forest Yacht & Country Club": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jacksonville/eppingforest_yacht_country_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jacksonville/eppingforest_yacht_country_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jacksonville/eppingforest_yacht_country_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jacksonville/eppingforest_yacht_country_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jacksonville/eppingforest_yacht_country_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jacksonville/eppingforest_yacht_country_club_logo.png",
     "user_ratings_total": 0,
-    "website": "efyc.com",
+    "website": "https://www.efyc.com",
     "activities": []
   },
   "River Club of Jacksonville": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jacksonville/river_club_of_jacksonville1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jacksonville/river_club_of_jacksonville2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jacksonville/river_club_of_jacksonville3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jacksonville/river_club_of_jacksonville4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jacksonville/river_club_of_jacksonville5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jacksonville/river_club_of_jacksonville_logo.png",
     "user_ratings_total": 0,
-    "website": "jaxriverclub.com",
+    "website": "https://www.jaxriverclub.com",
     "activities": []
   }
 }

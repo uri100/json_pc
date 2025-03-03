@@ -15,15 +15,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/circulo_de_la_union1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/circulo_de_la_union2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/circulo_de_la_union3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/circulo_de_la_union4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/circulo_de_la_union5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/circulo_de_la_union_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": []
   },
-  "Círculo de la Unión Bolivia": {
+  "CĂ­rculo de la UniĂłn Bolivia": {
     "formatted_address": "Calle Aspiazu No. 333, Ciudad La Paz, Bolivia",
     "formatted_phone_number": "+591 2 2441289",
     "geometry": {
@@ -32,19 +38,25 @@
         "lng": 0.0
       }
     },
-    "name": "Círculo de la Unión Bolivia",
+    "name": "CĂ­rculo de la UniĂłn Bolivia",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/crculo_de_la_unin_bolivia1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/crculo_de_la_unin_bolivia2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/crculo_de_la_unin_bolivia3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/crculo_de_la_unin_bolivia4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/crculo_de_la_unin_bolivia5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/crculo_de_la_unin_bolivia_logo.png",
     "user_ratings_total": 0,
-    "website": "circulodelaunion.com",
+    "website": "https://www.circulodelaunion.com",
     "activities": []
   },
   "Club de la Paz": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/club_de_la_paz1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/club_de_la_paz2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/club_de_la_paz3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/club_de_la_paz4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/club_de_la_paz5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/club_de_la_paz_logo.png",
     "user_ratings_total": 0,
-    "website": "clubdelapaz.org.bo",
+    "website": "https://www.clubdelapaz.org.bo",
     "activities": []
   },
   "Club de Tenis La Paz": {
@@ -87,10 +105,16 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/club_de_tenis_la_paz1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/club_de_tenis_la_paz2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/club_de_tenis_la_paz3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/club_de_tenis_la_paz4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/club_de_tenis_la_paz5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/la_paz/club_de_tenis_la_paz_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": [

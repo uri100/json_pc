@@ -14,13 +14,19 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The American Club is a quiet haven for families to relax and escape the hectic bustle of Jakarta. Located in Kebayoran Baru (South Jakarta), and open to members of all nationalities, the American Club offers a secure hideaway for families, couples, and individuals to relax and enjoy the Club’s signature services and facilities. The American Club Jakarta is an official entity of AECRA (American Embassy Commissary and Recreation Association) and a facility that serves Jakarta’s expat community’s varied social and professional needs.",
-    "photo_urls": [],
+    "description": "The American Club is a quiet haven for families to relax and escape the hectic bustle of Jakarta. Located in Kebayoran Baru (South Jakarta), and open to members of all nationalities, the American Club offers a secure hideaway for families, couples, and individuals to relax and enjoy the Club's signature services and facilities. The American Club Jakarta is an official entity of AECRA (American Embassy Commissary and Recreation Association) and a facility that serves Jakarta's expat community's varied social and professional needs.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/american_club_jakarta1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/american_club_jakarta2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/american_club_jakarta3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/american_club_jakarta4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/american_club_jakarta5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/american_club_jakarta_logo.png",
     "user_ratings_total": 0,
-    "website": "americanclubjakarta.org",
+    "website": "https://www.americanclubjakarta.org",
     "activities": []
   },
   "Bimasena": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/bimasena1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/bimasena2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/bimasena3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/bimasena4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/bimasena5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/bimasena_logo.png",
     "user_ratings_total": 0,
-    "website": "bimasena.co.id",
+    "website": "https://www.bimasena.co.id",
     "activities": []
   },
   "Cengkareng Golf Club": {
@@ -63,10 +75,16 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/cengkareng_golf_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/cengkareng_golf_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/cengkareng_golf_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/cengkareng_golf_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/cengkareng_golf_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/cengkareng_golf_club_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": [
@@ -89,12 +107,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/financial_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/financial_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/financial_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/financial_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/financial_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/financial_club_logo.png",
     "user_ratings_total": 0,
-    "website": "financialclub.co.id/the-club",
+    "website": "https://www.financialclub.co.id/the-club",
     "activities": []
   },
   "Indonesia Navy Club": {
@@ -113,12 +137,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/indonesia_navy_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/indonesia_navy_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/indonesia_navy_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/indonesia_navy_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/indonesia_navy_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/indonesia_navy_club_logo.png",
     "user_ratings_total": 0,
-    "website": "indonesianavyclub.com",
+    "website": "https://www.indonesianavyclub.com",
     "activities": []
   },
   "International Sports Club of Indonesia": {
@@ -137,12 +167,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/international_sports_club_of_indonesia1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/international_sports_club_of_indonesia2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/international_sports_club_of_indonesia3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/international_sports_club_of_indonesia4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/international_sports_club_of_indonesia5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/international_sports_club_of_indonesia_logo.png",
     "user_ratings_total": 0,
-    "website": "isci-jakarta.com",
+    "website": "https://www.isci-jakarta.com",
     "activities": []
   },
   "Mercantile Athletic Club": {
@@ -161,12 +197,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/mercantile_athletic_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/mercantile_athletic_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/mercantile_athletic_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/mercantile_athletic_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/mercantile_athletic_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/mercantile_athletic_club_logo.png",
     "user_ratings_total": 0,
-    "website": "web.macjakarta.com",
+    "website": "https://www.web.macjakarta.com",
     "activities": []
   },
   "Royale Jakarta Golf Club": {
@@ -185,10 +227,16 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/royale_jakarta_golf_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/royale_jakarta_golf_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/royale_jakarta_golf_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/royale_jakarta_golf_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/royale_jakarta_golf_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/royale_jakarta_golf_club_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": [
@@ -211,12 +259,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/sedana_golf_country_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/sedana_golf_country_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/sedana_golf_country_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/sedana_golf_country_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/sedana_golf_country_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/sedana_golf_country_club_logo.png",
     "user_ratings_total": 0,
-    "website": "sedanagolf.com",
+    "website": "https://www.sedanagolf.com",
     "activities": []
   },
   "The Summit Club": {
@@ -235,10 +289,16 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/the_summit_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/the_summit_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/the_summit_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/the_summit_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/the_summit_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/jakarta/the_summit_club_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": [

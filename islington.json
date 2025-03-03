@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/islington/maggie_and_rose_club_islington_maggie_and_rose_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/islington/maggie_and_rose_club_islington_maggie_and_rose_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/islington/maggie_and_rose_club_islington_maggie_and_rose_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/islington/maggie_and_rose_club_islington_maggie_and_rose_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/islington/maggie_and_rose_club_islington_maggie_and_rose_group5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/islington/maggie_and_rose_club_islington_maggie_and_rose_group_logo.png",
     "user_ratings_total": 0,
-    "website": "maggieandrose.com/islington/",
+    "website": "https://www.maggieandrose.com/islington/",
     "activities": []
   }
 }

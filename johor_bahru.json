@@ -15,10 +15,16 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/johor_bahru/johor_cultural_sports_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/johor_bahru/johor_cultural_sports_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/johor_bahru/johor_cultural_sports_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/johor_bahru/johor_cultural_sports_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/johor_bahru/johor_cultural_sports_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/johor_bahru/johor_cultural_sports_club_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": [
@@ -43,12 +49,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/johor_bahru/johor_cultural_and_sports_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/johor_bahru/johor_cultural_and_sports_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/johor_bahru/johor_cultural_and_sports_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/johor_bahru/johor_cultural_and_sports_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/johor_bahru/johor_cultural_and_sports_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/johor_bahru/johor_cultural_and_sports_club_logo.png",
     "user_ratings_total": 0,
-    "website": "johorjcsc.wordpress.com",
+    "website": "https://www.johorjcsc.wordpress.com",
     "activities": []
   }
 }

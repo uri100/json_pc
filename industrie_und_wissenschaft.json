@@ -1,5 +1,5 @@
 {
-  "Frankfurter Gesellschaft für Handel": {
+  "Frankfurter Gesellschaft fĂĽr Handel": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Frankfurter Gesellschaft für Handel",
+    "name": "Frankfurter Gesellschaft fĂĽr Handel",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/industrie_und_wissenschaft/frankfurter_gesellschaft_fr_handel1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/industrie_und_wissenschaft/frankfurter_gesellschaft_fr_handel2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/industrie_und_wissenschaft/frankfurter_gesellschaft_fr_handel3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/industrie_und_wissenschaft/frankfurter_gesellschaft_fr_handel4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/industrie_und_wissenschaft/frankfurter_gesellschaft_fr_handel5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/industrie_und_wissenschaft/frankfurter_gesellschaft_fr_handel_logo.png",
     "user_ratings_total": 0,
-    "website": "Frankfurter Gesellschaft für Handel",
+    "website": "https://www.Frankfurter Gesellschaft fĂĽr Handel",
     "activities": []
   }
 }
