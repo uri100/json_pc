@@ -15,15 +15,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/genoa/circolo_artistico_tunnel1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/genoa/circolo_artistico_tunnel2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/genoa/circolo_artistico_tunnel3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/genoa/circolo_artistico_tunnel4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/genoa/circolo_artistico_tunnel5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/genoa/circolo_artistico_tunnel_logo.png",
     "user_ratings_total": 0,
-    "website": "circoloartisticotunnel.it",
+    "website": "https://www.circoloartisticotunnel.it",
     "activities": []
   },
-  "Società del Casino, Reggio Emilia": {
+  "SocietĂ del Casino, Reggio Emilia": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,17 +38,23 @@
         "lng": 0.0
       }
     },
-    "name": "Società del Casino, Reggio Emilia",
+    "name": "SocietĂ del Casino, Reggio Emilia",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/genoa/societ_del_casino_reggio_emilia1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/genoa/societ_del_casino_reggio_emilia2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/genoa/societ_del_casino_reggio_emilia3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/genoa/societ_del_casino_reggio_emilia4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/genoa/societ_del_casino_reggio_emilia5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/genoa/societ_del_casino_reggio_emilia_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": []
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/genoa/yacht_club_italiano1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/genoa/yacht_club_italiano2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/genoa/yacht_club_italiano3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/genoa/yacht_club_italiano4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/genoa/yacht_club_italiano5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/genoa/yacht_club_italiano_logo.png",
     "user_ratings_total": 0,
-    "website": "yachtclubitaliano.it",
+    "website": "https://www.yachtclubitaliano.it",
     "activities": []
   }
 }

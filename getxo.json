@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/getxo/real_club_maritimo_del_abrareal_sporting_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/getxo/real_club_maritimo_del_abrareal_sporting_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/getxo/real_club_maritimo_del_abrareal_sporting_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/getxo/real_club_maritimo_del_abrareal_sporting_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/getxo/real_club_maritimo_del_abrareal_sporting_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/getxo/real_club_maritimo_del_abrareal_sporting_club_logo.png",
     "user_ratings_total": 0,
-    "website": "rcmarsc.es",
+    "website": "https://www.rcmarsc.es",
     "activities": []
   }
 }

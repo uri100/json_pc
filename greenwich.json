@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/greenwich/field_club_of_greenwich1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/greenwich/field_club_of_greenwich2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/greenwich/field_club_of_greenwich3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/greenwich/field_club_of_greenwich4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/greenwich/field_club_of_greenwich5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/greenwich/field_club_of_greenwich_logo.png",
     "user_ratings_total": 0,
-    "website": "fcofgreenwich.com",
+    "website": "https://www.fcofgreenwich.com",
     "activities": []
   }
 }

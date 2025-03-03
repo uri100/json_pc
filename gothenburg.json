@@ -1,5 +1,5 @@
 {
-  "The Royal Bachelors’ Club": {
+  "The Royal Bachelors' Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "The Royal Bachelors’ Club",
+    "name": "The Royal Bachelors' Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gothenburg/the_royal_bachelors_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gothenburg/the_royal_bachelors_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gothenburg/the_royal_bachelors_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gothenburg/the_royal_bachelors_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gothenburg/the_royal_bachelors_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gothenburg/the_royal_bachelors_club_logo.png",
     "user_ratings_total": 0,
-    "website": "rbc.se",
+    "website": "https://www.rbc.se",
     "activities": []
   }
 }

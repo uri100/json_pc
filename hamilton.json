@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/hamilton_club_victoria1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/hamilton_club_victoria2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/hamilton_club_victoria3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/hamilton_club_victoria4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/hamilton_club_victoria5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/hamilton_club_victoria_logo.png",
     "user_ratings_total": 0,
-    "website": "hamiltonclub.com.au",
+    "website": "https://www.hamiltonclub.com.au",
     "activities": []
   },
   "Royal Bermuda Yacht Club": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/royal_bermuda_yacht_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/royal_bermuda_yacht_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/royal_bermuda_yacht_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/royal_bermuda_yacht_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/royal_bermuda_yacht_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/royal_bermuda_yacht_club_logo.png",
     "user_ratings_total": 0,
-    "website": "rbyc.bm",
+    "website": "https://www.rbyc.bm",
     "activities": []
   },
   "Royal Hamilton Amateur Dinghy Club": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/royal_hamilton_amateur_dinghy_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/royal_hamilton_amateur_dinghy_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/royal_hamilton_amateur_dinghy_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/royal_hamilton_amateur_dinghy_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/royal_hamilton_amateur_dinghy_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/royal_hamilton_amateur_dinghy_club_logo.png",
     "user_ratings_total": 0,
-    "website": "rhadc.bm",
+    "website": "https://www.rhadc.bm",
     "activities": []
   },
   "Hamilton Club Ontario": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/hamilton_club_ontario1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/hamilton_club_ontario2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/hamilton_club_ontario3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/hamilton_club_ontario4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/hamilton_club_ontario5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamilton/hamilton_club_ontario_logo.png",
     "user_ratings_total": 0,
-    "website": "thehamiltonClub.com",
+    "website": "https://www.thehamiltonClub.com",
     "activities": []
   }
 }

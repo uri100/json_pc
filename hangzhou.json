@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hangzhou/west_lake_mansion_clubcorpinvited1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hangzhou/west_lake_mansion_clubcorpinvited2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hangzhou/west_lake_mansion_clubcorpinvited3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hangzhou/west_lake_mansion_clubcorpinvited4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hangzhou/west_lake_mansion_clubcorpinvited5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hangzhou/west_lake_mansion_clubcorpinvited_logo.png",
     "user_ratings_total": 0,
-    "website": "clubcorp.com/Clubs/West-Lake-Mansion-at-Meilu-Legend-Hotel",
+    "website": "https://www.clubcorp.com/Clubs/West-Lake-Mansion-at-Meilu-Legend-Hotel",
     "activities": []
   }
 }

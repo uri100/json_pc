@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/academischer_club_zu_hamburg1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/academischer_club_zu_hamburg2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/academischer_club_zu_hamburg3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/academischer_club_zu_hamburg4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/academischer_club_zu_hamburg5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/academischer_club_zu_hamburg_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Academischer_Club_zu_Hamburg",
+    "website": "https://www.wikipedia.org/wiki/Academischer_Club_zu_Hamburg",
     "activities": []
   },
   "Anglo-German Club": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/anglogerman_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/anglogerman_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/anglogerman_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/anglogerman_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/anglogerman_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/anglogerman_club_logo.png",
     "user_ratings_total": 0,
-    "website": "anglo-german-club.de",
+    "website": "https://www.anglo-german-club.de",
     "activities": []
   },
   "Blankeneser Segel-Club": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/blankeneser_segelclub1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/blankeneser_segelclub2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/blankeneser_segelclub3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/blankeneser_segelclub4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/blankeneser_segelclub5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/blankeneser_segelclub_logo.png",
     "user_ratings_total": 0,
-    "website": "bsc-hamburg.de",
+    "website": "https://www.bsc-hamburg.de",
     "activities": []
   },
   "Business Club": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/business_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/business_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/business_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/business_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/business_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/business_club_logo.png",
     "user_ratings_total": 0,
-    "website": "bch.de",
+    "website": "https://www.bch.de",
     "activities": []
   },
   "Norddeutscher Regatta Verein": {
@@ -111,15 +135,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/norddeutscher_regatta_verein1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/norddeutscher_regatta_verein2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/norddeutscher_regatta_verein3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/norddeutscher_regatta_verein4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/norddeutscher_regatta_verein5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/norddeutscher_regatta_verein_logo.png",
     "user_ratings_total": 0,
-    "website": "nrv.de",
+    "website": "https://www.nrv.de",
     "activities": []
   },
-  "Übersee-Club": {
+  "Ăśbersee-Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -128,19 +158,25 @@
         "lng": 0.0
       }
     },
-    "name": "Übersee-Club",
+    "name": "Ăśbersee-Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/berseeclub1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/berseeclub2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/berseeclub3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/berseeclub4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/berseeclub5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hamburg/berseeclub_logo.png",
     "user_ratings_total": 0,
-    "website": "ueberseeclub.de",
+    "website": "https://www.ueberseeclub.de",
     "activities": []
   }
 }

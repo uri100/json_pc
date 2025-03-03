@@ -15,15 +15,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/geneva/cercle_de_la_terrasse1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/geneva/cercle_de_la_terrasse2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/geneva/cercle_de_la_terrasse3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/geneva/cercle_de_la_terrasse4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/geneva/cercle_de_la_terrasse5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/geneva/cercle_de_la_terrasse_logo.png",
     "user_ratings_total": 0,
-    "website": "notrehistoire.ch",
+    "website": "https://www.notrehistoire.ch",
     "activities": []
   },
-  "Société de Lecture": {
+  "SociĂ©tĂ© de Lecture": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,19 +38,25 @@
         "lng": 0.0
       }
     },
-    "name": "Société de Lecture",
+    "name": "SociĂ©tĂ© de Lecture",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/geneva/socit_de_lecture1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/geneva/socit_de_lecture2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/geneva/socit_de_lecture3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/geneva/socit_de_lecture4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/geneva/socit_de_lecture5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/geneva/socit_de_lecture_logo.png",
     "user_ratings_total": 0,
-    "website": "societe-de-lecture.ch",
+    "website": "https://www.societe-de-lecture.ch",
     "activities": []
   }
 }

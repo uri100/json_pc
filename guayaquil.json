@@ -15,16 +15,22 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/guayaquil/bankers_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/guayaquil/bankers_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/guayaquil/bankers_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/guayaquil/bankers_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/guayaquil/bankers_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/guayaquil/bankers_club_logo.png",
     "user_ratings_total": 0,
-    "website": "bankersclubecuador.com",
+    "website": "https://www.bankersclubecuador.com",
     "activities": []
   },
   "Bankers Club de Guayaquil": {
-    "formatted_address": "Edificio La Previsora, Malecón Simón Bolivar",
+    "formatted_address": "Edificio La Previsora, MalecĂłn SimĂłn Bolivar",
     "formatted_phone_number": "+593 4 2515066",
     "geometry": {
       "location": {
@@ -39,17 +45,23 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/guayaquil/bankers_club_de_guayaquil1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/guayaquil/bankers_club_de_guayaquil2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/guayaquil/bankers_club_de_guayaquil3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/guayaquil/bankers_club_de_guayaquil4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/guayaquil/bankers_club_de_guayaquil5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/guayaquil/bankers_club_de_guayaquil_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": [
       "athletic"
     ]
   },
-  "Club de la Unión Guayaquil": {
+  "Club de la UniĂłn Guayaquil": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -58,19 +70,25 @@
         "lng": 0.0
       }
     },
-    "name": "Club de la Unión Guayaquil",
+    "name": "Club de la UniĂłn Guayaquil",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/guayaquil/club_de_la_unin_guayaquil1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/guayaquil/club_de_la_unin_guayaquil2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/guayaquil/club_de_la_unin_guayaquil3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/guayaquil/club_de_la_unin_guayaquil4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/guayaquil/club_de_la_unin_guayaquil5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/guayaquil/club_de_la_unin_guayaquil_logo.png",
     "user_ratings_total": 0,
-    "website": "clubdelaunion.net",
+    "website": "https://www.clubdelaunion.net",
     "activities": []
   }
 }

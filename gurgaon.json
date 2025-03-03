@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/dlf_golf_counry_club_gurgaon1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/dlf_golf_counry_club_gurgaon2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/dlf_golf_counry_club_gurgaon3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/dlf_golf_counry_club_gurgaon4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/dlf_golf_counry_club_gurgaon5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/dlf_golf_counry_club_gurgaon_logo.png",
     "user_ratings_total": 0,
-    "website": "dlfgolfresort.com",
+    "website": "https://www.dlfgolfresort.com",
     "activities": [
       "Tennis",
       "Squash",
@@ -45,12 +51,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/gaikwad_baroda_golf_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/gaikwad_baroda_golf_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/gaikwad_baroda_golf_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/gaikwad_baroda_golf_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/gaikwad_baroda_golf_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/gaikwad_baroda_golf_club_logo.png",
     "user_ratings_total": 0,
-    "website": "barodagolf.in",
+    "website": "https://www.barodagolf.in",
     "activities": [
       "swimming",
       "badminton",
@@ -76,12 +88,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/lodhi_links1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/lodhi_links2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/lodhi_links3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/lodhi_links4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/lodhi_links5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/lodhi_links_logo.png",
     "user_ratings_total": 0,
-    "website": "thelodhi.com",
+    "website": "https://www.thelodhi.com",
     "activities": []
   },
   "Palms Town & Country Club": {
@@ -100,12 +118,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/palms_town_country_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/palms_town_country_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/palms_town_country_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/palms_town_country_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/palms_town_country_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/palms_town_country_club_logo.png",
     "user_ratings_total": 0,
-    "website": "thepalms.in",
+    "website": "https://www.thepalms.in",
     "activities": []
   },
   "The Quorum": {
@@ -124,12 +148,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/the_quorum1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/the_quorum2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/the_quorum3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/the_quorum4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/the_quorum5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/the_quorum_logo.png",
     "user_ratings_total": 0,
-    "website": "thequorum.club",
+    "website": "https://www.thequorum.club",
     "activities": []
   },
   "The Quorum Gurgaon": {
@@ -148,10 +178,16 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/the_quorum_gurgaon1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/the_quorum_gurgaon2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/the_quorum_gurgaon3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/the_quorum_gurgaon4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/the_quorum_gurgaon5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/gurgaon/the_quorum_gurgaon_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": [

@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/funchal/clube_naval_de_funchal1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/funchal/clube_naval_de_funchal2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/funchal/clube_naval_de_funchal3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/funchal/clube_naval_de_funchal4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/funchal/clube_naval_de_funchal5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/funchal/clube_naval_de_funchal_logo.png",
     "user_ratings_total": 0,
-    "website": "clubenavaldofunchal.com",
+    "website": "https://www.clubenavaldofunchal.com",
     "activities": []
   }
 }

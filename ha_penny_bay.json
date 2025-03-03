@@ -1,5 +1,5 @@
 {
-  "Ha’ Penny Bay Beach Club": {
+  "Ha' Penny Bay Beach Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Ha’ Penny Bay Beach Club",
+    "name": "Ha' Penny Bay Beach Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ha_penny_bay/ha_penny_bay_beach_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ha_penny_bay/ha_penny_bay_beach_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ha_penny_bay/ha_penny_bay_beach_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ha_penny_bay/ha_penny_bay_beach_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ha_penny_bay/ha_penny_bay_beach_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ha_penny_bay/ha_penny_bay_beach_club_logo.png",
     "user_ratings_total": 0,
-    "website": "hapennyclub.com",
+    "website": "https://www.hapennyclub.com",
     "activities": []
   }
 }

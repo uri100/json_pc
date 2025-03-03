@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/fort_worth/city_club_of_fort_worth1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/fort_worth/city_club_of_fort_worth2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/fort_worth/city_club_of_fort_worth3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/fort_worth/city_club_of_fort_worth4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/fort_worth/city_club_of_fort_worth5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/fort_worth/city_club_of_fort_worth_logo.png",
     "user_ratings_total": 0,
-    "website": "cityclubfw.com",
+    "website": "https://www.cityclubfw.com",
     "activities": []
   },
   "Fort Worth Club": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/fort_worth/fort_worth_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/fort_worth/fort_worth_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/fort_worth/fort_worth_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/fort_worth/fort_worth_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/fort_worth/fort_worth_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/fort_worth/fort_worth_club_logo.png",
     "user_ratings_total": 0,
-    "website": "fortworthclub.com",
+    "website": "https://www.fortworthclub.com",
     "activities": []
   },
   "Petroleum Club of Fort Worth": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/fort_worth/petroleum_club_of_fort_worth1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/fort_worth/petroleum_club_of_fort_worth2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/fort_worth/petroleum_club_of_fort_worth3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/fort_worth/petroleum_club_of_fort_worth4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/fort_worth/petroleum_club_of_fort_worth5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/fort_worth/petroleum_club_of_fort_worth_logo.png",
     "user_ratings_total": 0,
-    "website": "fwpetroleumclub.com",
+    "website": "https://www.fwpetroleumclub.com",
     "activities": []
   }
 }

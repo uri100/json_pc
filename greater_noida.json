@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/greater_noida/club_261.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/greater_noida/club_262.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/greater_noida/club_263.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/greater_noida/club_264.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/greater_noida/club_265.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/greater_noida/club_26_logo.png",
     "user_ratings_total": 0,
-    "website": "club26.in",
+    "website": "https://www.club26.in",
     "activities": []
   },
   "Jaypee Greens Golf Resort": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/greater_noida/jaypee_greens_golf_resort1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/greater_noida/jaypee_greens_golf_resort2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/greater_noida/jaypee_greens_golf_resort3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/greater_noida/jaypee_greens_golf_resort4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/greater_noida/jaypee_greens_golf_resort5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/greater_noida/jaypee_greens_golf_resort_logo.png",
     "user_ratings_total": 0,
-    "website": "jaypeehotels.com/Golf-Spa-Resort",
+    "website": "https://www.jaypeehotels.com/Golf-Spa-Resort",
     "activities": []
   }
 }

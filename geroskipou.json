@@ -1,5 +1,5 @@
 {
-  "Eléa Golf Club": {
+  "ElĂ©a Golf Club": {
     "formatted_address": "Eleon Avenue 1,",
     "formatted_phone_number": "+357 26 202004",
     "geometry": {
@@ -8,17 +8,23 @@
         "lng": 0.0
       }
     },
-    "name": "Eléa Golf Club",
+    "name": "ElĂ©a Golf Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/geroskipou/ela_golf_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/geroskipou/ela_golf_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/geroskipou/ela_golf_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/geroskipou/ela_golf_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/geroskipou/ela_golf_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/geroskipou/ela_golf_club_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": [

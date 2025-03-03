@@ -15,15 +15,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/handelsgillet_i_helsingfors1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/handelsgillet_i_helsingfors2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/handelsgillet_i_helsingfors3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/handelsgillet_i_helsingfors4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/handelsgillet_i_helsingfors5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/handelsgillet_i_helsingfors_logo.png",
     "user_ratings_total": 0,
-    "website": "handelsgillet.fi/startsida/",
+    "website": "https://www.handelsgillet.fi/startsida/",
     "activities": []
   },
-  "Helsingfors Börsklubb": {
+  "Helsingfors BĂ¶rsklubb": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,19 +38,25 @@
         "lng": 0.0
       }
     },
-    "name": "Helsingfors Börsklubb",
+    "name": "Helsingfors BĂ¶rsklubb",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/helsingfors_brsklubb1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/helsingfors_brsklubb2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/helsingfors_brsklubb3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/helsingfors_brsklubb4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/helsingfors_brsklubb5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/helsingfors_brsklubb_logo.png",
     "user_ratings_total": 0,
-    "website": "porssiklubi.fi",
+    "website": "https://www.porssiklubi.fi",
     "activities": []
   },
   "Helsingin Suomalainan Klubi": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/helsingin_suomalainan_klubi1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/helsingin_suomalainan_klubi2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/helsingin_suomalainan_klubi3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/helsingin_suomalainan_klubi4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/helsingin_suomalainan_klubi5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/helsingin_suomalainan_klubi_logo.png",
     "user_ratings_total": 0,
-    "website": "klubi.fi",
+    "website": "https://www.klubi.fi",
     "activities": []
   },
   "Svenska Klubben": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/svenska_klubben1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/svenska_klubben2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/svenska_klubben3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/svenska_klubben4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/svenska_klubben5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/svenska_klubben_logo.png",
     "user_ratings_total": 0,
-    "website": "svenskaklubben-helsinki.fi",
+    "website": "https://www.svenskaklubben-helsinki.fi",
     "activities": []
   },
   "Svenska Klubben i Helsingfors": {
@@ -111,12 +135,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/svenska_klubben_i_helsingfors1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/svenska_klubben_i_helsingfors2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/svenska_klubben_i_helsingfors3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/svenska_klubben_i_helsingfors4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/svenska_klubben_i_helsingfors5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/helsinki/svenska_klubben_i_helsingfors_logo.png",
     "user_ratings_total": 0,
-    "website": "klubben.fi",
+    "website": "https://www.klubben.fi",
     "activities": []
   }
 }

@@ -1,4 +1,64 @@
 {
+  "Penang Club": {
+    "formatted_address": "42B Jalan Sultan Ahmad Shah, 10050 Penang, Malaysia",
+    "formatted_phone_number": "6 04 227 7366 , 6042276804",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Penang Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/georgetown/penang_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/georgetown/penang_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/georgetown/penang_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/georgetown/penang_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/georgetown/penang_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/georgetown/penang_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.penangclub.net",
+    "activities": []
+  },
+  "Penang Sports Club": {
+    "formatted_address": "Jalan Utama, 10450 Penang, Malaysia",
+    "formatted_phone_number": "6 04 229 7834 , 6042292391",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Penang Sports Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/georgetown/penang_sports_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/georgetown/penang_sports_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/georgetown/penang_sports_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/georgetown/penang_sports_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/georgetown/penang_sports_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/georgetown/penang_sports_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.pgsportsclub.com.my",
+    "activities": []
+  },
   "Georgetown Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
@@ -15,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/georgetown/georgetown_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/georgetown/georgetown_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/georgetown/georgetown_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/georgetown/georgetown_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/georgetown/georgetown_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/georgetown/georgetown_club_logo.png",
     "user_ratings_total": 0,
-    "website": "facebook.com/Georgetown-Club-Inc-280447668650866/",
+    "website": "https://www.facebook.com/Georgetown-Club-Inc-280447668650866/",
     "activities": []
   }
 }
