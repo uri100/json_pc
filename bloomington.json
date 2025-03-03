@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bloomington/university_club_of_indiana_university1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bloomington/university_club_of_indiana_university2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bloomington/university_club_of_indiana_university3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bloomington/university_club_of_indiana_university4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bloomington/university_club_of_indiana_university5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bloomington/university_club_of_indiana_university_logo.png",
     "user_ratings_total": 0,
-    "website": "indiana.edu/~uclub/",
+    "website": "https://www.indiana.edu/~uclub/",
     "activities": []
   }
 }

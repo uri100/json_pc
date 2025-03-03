@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/birmingham/st_pauls_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/birmingham/st_pauls_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/birmingham/st_pauls_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/birmingham/st_pauls_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/birmingham/st_pauls_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/birmingham/st_pauls_club_logo.png",
     "user_ratings_total": 0,
-    "website": "stpaulsclub.co.uk",
+    "website": "https://www.stpaulsclub.co.uk",
     "activities": []
   },
   "City Club Birmingham (\"ClubCorp)": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/birmingham/city_club_birmingham_clubcorp1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/birmingham/city_club_birmingham_clubcorp2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/birmingham/city_club_birmingham_clubcorp3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/birmingham/city_club_birmingham_clubcorp4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/birmingham/city_club_birmingham_clubcorp5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/birmingham/city_club_birmingham_clubcorp_logo.png",
     "user_ratings_total": 0,
-    "website": "clubcorp.com/Clubs/City-Club-Birmingham",
+    "website": "https://www.clubcorp.com/Clubs/City-Club-Birmingham",
     "activities": []
   },
   "The Club Alabama": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/birmingham/the_club_alabama1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/birmingham/the_club_alabama2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/birmingham/the_club_alabama3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/birmingham/the_club_alabama4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/birmingham/the_club_alabama5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/birmingham/the_club_alabama_logo.png",
     "user_ratings_total": 0,
-    "website": "theclubinc.org",
+    "website": "https://www.theclubinc.org",
     "activities": []
   }
 }

@@ -15,15 +15,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catania/circolo_canottieri_jonica1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catania/circolo_canottieri_jonica2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catania/circolo_canottieri_jonica3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catania/circolo_canottieri_jonica4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catania/circolo_canottieri_jonica5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catania/circolo_canottieri_jonica_logo.png",
     "user_ratings_total": 0,
-    "website": "circolocanottierijonica.it",
+    "website": "https://www.circolocanottierijonica.it",
     "activities": []
   },
-  "Circolo Nazionale dell’Unione": {
+  "Circolo Nazionale dell'Unione": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,19 +38,25 @@
         "lng": 0.0
       }
     },
-    "name": "Circolo Nazionale dell’Unione",
+    "name": "Circolo Nazionale dell'Unione",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catania/circolo_nazionale_dellunione1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catania/circolo_nazionale_dellunione2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catania/circolo_nazionale_dellunione3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catania/circolo_nazionale_dellunione4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catania/circolo_nazionale_dellunione5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catania/circolo_nazionale_dellunione_logo.png",
     "user_ratings_total": 0,
-    "website": "circolonazionaleunione.com",
+    "website": "https://www.circolonazionaleunione.com",
     "activities": []
   },
   "Circolo Unione Catania": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catania/circolo_unione_catania1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catania/circolo_unione_catania2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catania/circolo_unione_catania3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catania/circolo_unione_catania4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catania/circolo_unione_catania5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/catania/circolo_unione_catania_logo.png",
     "user_ratings_total": 0,
-    "website": "circolounionecatania.it",
+    "website": "https://www.circolounionecatania.it",
     "activities": []
   }
 }

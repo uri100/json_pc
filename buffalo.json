@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buffalo/buffalo_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buffalo/buffalo_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buffalo/buffalo_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buffalo/buffalo_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buffalo/buffalo_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buffalo/buffalo_club_logo.png",
     "user_ratings_total": 0,
-    "website": "thebuffaloclub.org",
+    "website": "https://www.thebuffaloclub.org",
     "activities": []
   },
   "Buffalo Yacht Club": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buffalo/buffalo_yacht_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buffalo/buffalo_yacht_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buffalo/buffalo_yacht_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buffalo/buffalo_yacht_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buffalo/buffalo_yacht_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buffalo/buffalo_yacht_club_logo.png",
     "user_ratings_total": 0,
-    "website": "buffaloyachtclub.org",
+    "website": "https://www.buffaloyachtclub.org",
     "activities": []
   },
   "Saturn Club": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buffalo/saturn_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buffalo/saturn_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buffalo/saturn_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buffalo/saturn_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buffalo/saturn_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buffalo/saturn_club_logo.png",
     "user_ratings_total": 0,
-    "website": "saturnclub.org",
+    "website": "https://www.saturnclub.org",
     "activities": []
   }
 }

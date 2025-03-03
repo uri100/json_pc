@@ -1,5 +1,5 @@
 {
-  "Cercle de la Grande Société de Berne": {
+  "Cercle de la Grande SociĂ©tĂ© de Berne": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Cercle de la Grande Société de Berne",
+    "name": "Cercle de la Grande SociĂ©tĂ© de Berne",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berne/cercle_de_la_grande_socit_de_berne1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berne/cercle_de_la_grande_socit_de_berne2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berne/cercle_de_la_grande_socit_de_berne3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berne/cercle_de_la_grande_socit_de_berne4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berne/cercle_de_la_grande_socit_de_berne5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berne/cercle_de_la_grande_socit_de_berne_logo.png",
     "user_ratings_total": 0,
-    "website": "grande-societe-berne.ch",
+    "website": "https://www.grande-societe-berne.ch",
     "activities": []
   }
 }

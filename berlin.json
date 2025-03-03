@@ -1,6 +1,6 @@
 {
   "Berlin Capital Club": {
-    "formatted_address": "Mohrenstraße 30",
+    "formatted_address": "MohrenstraĂźe 30",
     "formatted_phone_number": "+49 30 2062976",
     "geometry": {
       "location": {
@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/berlin_capital_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/berlin_capital_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/berlin_capital_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/berlin_capital_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/berlin_capital_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/berlin_capital_club_logo.png",
     "user_ratings_total": 0,
-    "website": "berlincapitalclub.de",
+    "website": "https://www.berlincapitalclub.de",
     "activities": []
   },
   "Berliner Golf & Country Club Motzener See": {
@@ -39,10 +45,16 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/berliner_golf_country_club_motzener_see1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/berliner_golf_country_club_motzener_see2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/berliner_golf_country_club_motzener_see3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/berliner_golf_country_club_motzener_see4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/berliner_golf_country_club_motzener_see5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/berliner_golf_country_club_motzener_see_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": [
@@ -65,12 +77,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/china_club_berlin1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/china_club_berlin2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/china_club_berlin3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/china_club_berlin4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/china_club_berlin5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/china_club_berlin_logo.png",
     "user_ratings_total": 0,
-    "website": "china-club-berlin.de",
+    "website": "https://www.china-club-berlin.de",
     "activities": []
   },
   "International Club Berlin": {
@@ -89,12 +107,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/international_club_berlin1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/international_club_berlin2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/international_club_berlin3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/international_club_berlin4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/international_club_berlin5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/international_club_berlin_logo.png",
     "user_ratings_total": 0,
-    "website": "ic-b.de",
+    "website": "https://www.ic-b.de",
     "activities": []
   },
   "Soho House Berlin (\"Soho House group)": {
@@ -113,12 +137,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/soho_house_berlin_soho_house_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/soho_house_berlin_soho_house_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/soho_house_berlin_soho_house_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/soho_house_berlin_soho_house_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/soho_house_berlin_soho_house_group5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/soho_house_berlin_soho_house_group_logo.png",
     "user_ratings_total": 0,
-    "website": "sohohouseberlin.com",
+    "website": "https://www.sohohouseberlin.com",
     "activities": []
   }
 }

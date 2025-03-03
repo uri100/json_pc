@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/algonquin_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/algonquin_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/algonquin_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/algonquin_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/algonquin_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/algonquin_club_logo.png",
     "user_ratings_total": 0,
-    "website": "algonquinclub.com",
+    "website": "https://www.algonquinclub.com",
     "activities": []
   },
   "Badminton & Tennis Club": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/badminton_tennis_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/badminton_tennis_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/badminton_tennis_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/badminton_tennis_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/badminton_tennis_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/badminton_tennis_club_logo.png",
     "user_ratings_total": 0,
-    "website": "facebook.com/The-Badminton-Tennis-Club-114327725257964/",
+    "website": "https://www.facebook.com/The-Badminton-Tennis-Club-114327725257964/",
     "activities": []
   },
   "Boston College Club (\"Clubcorp)": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/boston_college_club_clubcorp1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/boston_college_club_clubcorp2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/boston_college_club_clubcorp3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/boston_college_club_clubcorp4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/boston_college_club_clubcorp5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/boston_college_club_clubcorp_logo.png",
     "user_ratings_total": 0,
-    "website": "clubcorp.com/Clubs/Boston-College-Club",
+    "website": "https://www.clubcorp.com/Clubs/Boston-College-Club",
     "activities": []
   },
   "Boston Yacht Club": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/boston_yacht_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/boston_yacht_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/boston_yacht_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/boston_yacht_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/boston_yacht_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/boston_yacht_club_logo.png",
     "user_ratings_total": 0,
-    "website": "bostonyc.org",
+    "website": "https://www.bostonyc.org",
     "activities": []
   },
   "Chilton Club": {
@@ -111,12 +135,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/chilton_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/chilton_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/chilton_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/chilton_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/chilton_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/chilton_club_logo.png",
     "user_ratings_total": 0,
-    "website": "chiltonclub.org",
+    "website": "https://www.chiltonclub.org",
     "activities": []
   },
   "Club of Odd Volumes": {
@@ -135,12 +165,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/club_of_odd_volumes1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/club_of_odd_volumes2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/club_of_odd_volumes3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/club_of_odd_volumes4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/club_of_odd_volumes5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/club_of_odd_volumes_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/The_Club_of_Odd_Volumes",
+    "website": "https://www.wikipedia.org/wiki/The_Club_of_Odd_Volumes",
     "activities": []
   },
   "Harvard Club of Boston": {
@@ -159,12 +195,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/harvard_club_of_boston1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/harvard_club_of_boston2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/harvard_club_of_boston3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/harvard_club_of_boston4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/harvard_club_of_boston5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/harvard_club_of_boston_logo.png",
     "user_ratings_total": 0,
-    "website": "harvardclub.com",
+    "website": "https://www.harvardclub.com",
     "activities": []
   },
   "Somerset Club Boston": {
@@ -183,12 +225,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/somerset_club_boston1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/somerset_club_boston2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/somerset_club_boston3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/somerset_club_boston4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/somerset_club_boston5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/somerset_club_boston_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Somerset_Club",
+    "website": "https://www.wikipedia.org/wiki/Somerset_Club",
     "activities": []
   },
   "St. Botolph Club": {
@@ -207,12 +255,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/st_botolph_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/st_botolph_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/st_botolph_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/st_botolph_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/st_botolph_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/st_botolph_club_logo.png",
     "user_ratings_total": 0,
-    "website": "stbotolphclub.org",
+    "website": "https://www.stbotolphclub.org",
     "activities": []
   },
   "Tavern Club Boston": {
@@ -231,12 +285,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/tavern_club_boston1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/tavern_club_boston2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/tavern_club_boston3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/tavern_club_boston4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/tavern_club_boston5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/tavern_club_boston_logo.png",
     "user_ratings_total": 0,
-    "website": "tavernclub.org",
+    "website": "https://www.tavernclub.org",
     "activities": []
   },
   "Tennis and Racquet Club": {
@@ -255,12 +315,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/tennis_and_racquet_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/tennis_and_racquet_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/tennis_and_racquet_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/tennis_and_racquet_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/tennis_and_racquet_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/tennis_and_racquet_club_logo.png",
     "user_ratings_total": 0,
-    "website": "tandr.org",
+    "website": "https://www.tandr.org",
     "activities": []
   },
   "UMass Club": {
@@ -279,12 +345,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/umass_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/umass_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/umass_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/umass_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/umass_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/umass_club_logo.png",
     "user_ratings_total": 0,
-    "website": "umassclub.com",
+    "website": "https://www.umassclub.com",
     "activities": []
   },
   "Union Boat Club": {
@@ -303,12 +375,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/union_boat_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/union_boat_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/union_boat_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/union_boat_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/union_boat_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/union_boat_club_logo.png",
     "user_ratings_total": 0,
-    "website": "unionboatclub.org",
+    "website": "https://www.unionboatclub.org",
     "activities": []
   },
   "Union Club of Boston": {
@@ -327,12 +405,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/union_club_of_boston1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/union_club_of_boston2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/union_club_of_boston3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/union_club_of_boston4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/union_club_of_boston5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/union_club_of_boston_logo.png",
     "user_ratings_total": 0,
-    "website": "unionclub.org",
+    "website": "https://www.unionclub.org",
     "activities": []
   },
   "University Club of Boston": {
@@ -351,12 +435,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/university_club_of_boston1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/university_club_of_boston2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/university_club_of_boston3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/university_club_of_boston4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/university_club_of_boston5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/university_club_of_boston_logo.png",
     "user_ratings_total": 0,
-    "website": "uclub.org",
+    "website": "https://www.uclub.org",
     "activities": []
   },
   "University of Massachusetts Boston University Club": {
@@ -375,12 +465,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/university_of_massachusetts_boston_university_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/university_of_massachusetts_boston_university_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/university_of_massachusetts_boston_university_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/university_of_massachusetts_boston_university_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/university_of_massachusetts_boston_university_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/university_of_massachusetts_boston_university_club_logo.png",
     "user_ratings_total": 0,
-    "website": "umb.edu/universityclub",
+    "website": "https://www.umb.edu/universityclub",
     "activities": []
   }
 }

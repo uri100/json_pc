@@ -15,15 +15,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/belgravia/caledonian_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/belgravia/caledonian_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/belgravia/caledonian_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/belgravia/caledonian_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/belgravia/caledonian_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/belgravia/caledonian_club_logo.png",
     "user_ratings_total": 0,
-    "website": "caledonianclub.com",
+    "website": "https://www.caledonianclub.com",
     "activities": []
   },
-  "Mosimann’s": {
+  "Mosimann's": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,19 +38,25 @@
         "lng": 0.0
       }
     },
-    "name": "Mosimann’s",
+    "name": "Mosimann's",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/belgravia/mosimanns1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/belgravia/mosimanns2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/belgravia/mosimanns3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/belgravia/mosimanns4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/belgravia/mosimanns5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/belgravia/mosimanns_logo.png",
     "user_ratings_total": 0,
-    "website": "mosimann.com",
+    "website": "https://www.mosimann.com",
     "activities": []
   }
 }

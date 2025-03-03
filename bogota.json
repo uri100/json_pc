@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/club_de_banqueros_y_empresarios1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/club_de_banqueros_y_empresarios2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/club_de_banqueros_y_empresarios3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/club_de_banqueros_y_empresarios4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/club_de_banqueros_y_empresarios5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/club_de_banqueros_y_empresarios_logo.png",
     "user_ratings_total": 0,
-    "website": "clubcbe.com",
+    "website": "https://www.clubcbe.com",
     "activities": []
   },
   "Club El Nogal": {
@@ -39,15 +45,111 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/club_el_nogal1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/club_el_nogal2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/club_el_nogal3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/club_el_nogal4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/club_el_nogal5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/club_el_nogal_logo.png",
     "user_ratings_total": 0,
-    "website": "clubelnogal.com",
+    "website": "https://www.clubelnogal.com",
     "activities": [
       "athletic",
       "swimming"
     ]
+  },
+  "Club de Ejecutivos Bogota": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Club de Ejecutivos Bogota",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/club_de_ejecutivos_bogota1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/club_de_ejecutivos_bogota2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/club_de_ejecutivos_bogota3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/club_de_ejecutivos_bogota4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/club_de_ejecutivos_bogota5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/club_de_ejecutivos_bogota_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.clubdeejecutivosbogota.com",
+    "activities": []
+  },
+  "Gun Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Gun Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/gun_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/gun_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/gun_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/gun_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/gun_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/gun_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.gunclub.com.co",
+    "activities": []
+  },
+  "Jockey Club Bogota": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Jockey Club Bogota",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/jockey_club_bogota1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/jockey_club_bogota2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/jockey_club_bogota3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/jockey_club_bogota4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/jockey_club_bogota5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bogota/jockey_club_bogota_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.jockeyclub.com.co",
+    "activities": []
   }
 }

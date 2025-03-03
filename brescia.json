@@ -1,0 +1,32 @@
+{
+  "Circolo al Teatro-Accademia degli Erranti": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Circolo al Teatro-Accademia degli Erranti",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brescia/circolo_al_teatroaccademia_degli_erranti1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brescia/circolo_al_teatroaccademia_degli_erranti2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brescia/circolo_al_teatroaccademia_degli_erranti3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brescia/circolo_al_teatroaccademia_degli_erranti4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brescia/circolo_al_teatroaccademia_degli_erranti5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brescia/circolo_al_teatroaccademia_degli_erranti_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.wikipedia.org/wiki/Accademia_degli_Erranti",
+    "activities": []
+  }
+}

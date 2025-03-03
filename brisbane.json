@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/brisbane_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/brisbane_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/brisbane_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/brisbane_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/brisbane_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/brisbane_club_logo.png",
     "user_ratings_total": 0,
-    "website": "brisbaneclub.com.au",
+    "website": "https://www.brisbaneclub.com.au",
     "activities": []
   },
   "Lyceum Club Brisbane": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/lyceum_club_brisbane1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/lyceum_club_brisbane2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/lyceum_club_brisbane3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/lyceum_club_brisbane4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/lyceum_club_brisbane5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/lyceum_club_brisbane_logo.png",
     "user_ratings_total": 0,
-    "website": "lyceumbrisbane.org.au",
+    "website": "https://www.lyceumbrisbane.org.au",
     "activities": []
   },
   "Moreton Club": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/moreton_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/moreton_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/moreton_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/moreton_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/moreton_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/moreton_club_logo.png",
     "user_ratings_total": 0,
-    "website": "themoretonclub.com.au",
+    "website": "https://www.themoretonclub.com.au",
     "activities": []
   },
   "Queensland Club": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/queensland_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/queensland_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/queensland_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/queensland_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/queensland_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/queensland_club_logo.png",
     "user_ratings_total": 0,
-    "website": "queenslandclub.com",
+    "website": "https://www.queenslandclub.com",
     "activities": []
   },
   "Royal Queensland Yacht Squadron": {
@@ -111,12 +135,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/royal_queensland_yacht_squadron1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/royal_queensland_yacht_squadron2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/royal_queensland_yacht_squadron3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/royal_queensland_yacht_squadron4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/royal_queensland_yacht_squadron5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/royal_queensland_yacht_squadron_logo.png",
     "user_ratings_total": 0,
-    "website": "rqys.com.au",
+    "website": "https://www.rqys.com.au",
     "activities": []
   },
   "Tattersall's Club": {
@@ -135,15 +165,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/tattersalls_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/tattersalls_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/tattersalls_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/tattersalls_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/tattersalls_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/tattersalls_club_logo.png",
     "user_ratings_total": 0,
-    "website": "tattersallsclub.com.au",
+    "website": "https://www.tattersallsclub.com.au",
     "activities": []
   },
-  "Tattersall’s Club Brisbane": {
+  "Tattersall's Club Brisbane": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -152,19 +188,25 @@
         "lng": 0.0
       }
     },
-    "name": "Tattersall’s Club Brisbane",
+    "name": "Tattersall's Club Brisbane",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/tattersalls_club_brisbane1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/tattersalls_club_brisbane2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/tattersalls_club_brisbane3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/tattersalls_club_brisbane4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/tattersalls_club_brisbane5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/tattersalls_club_brisbane_logo.png",
     "user_ratings_total": 0,
-    "website": "tattersallsclub.org",
+    "website": "https://www.tattersallsclub.org",
     "activities": []
   },
   "United Service Club": {
@@ -183,12 +225,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/united_service_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/united_service_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/united_service_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/united_service_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/united_service_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brisbane/united_service_club_logo.png",
     "user_ratings_total": 0,
-    "website": "unitedserviceclub.com.au",
+    "website": "https://www.unitedserviceclub.com.au",
     "activities": []
   }
 }

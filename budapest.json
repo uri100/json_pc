@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_house_brodyland_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_house_brodyland_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_house_brodyland_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_house_brodyland_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_house_brodyland_group5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_house_brodyland_group_logo.png",
     "user_ratings_total": 0,
-    "website": "brody.land/brody-house",
+    "website": "https://www.brody.land/brody-house",
     "activities": []
   },
   "Brody Studios (BrodyLand group)": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_studios_brodyland_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_studios_brodyland_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_studios_brodyland_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_studios_brodyland_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_studios_brodyland_group5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_studios_brodyland_group_logo.png",
     "user_ratings_total": 0,
-    "website": "brody.land/brody-studios",
+    "website": "https://www.brody.land/brody-studios",
     "activities": []
   },
   "Paulay House (BrodyLand group)": {
@@ -63,15 +75,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/paulay_house_brodyland_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/paulay_house_brodyland_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/paulay_house_brodyland_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/paulay_house_brodyland_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/paulay_house_brodyland_group5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/paulay_house_brodyland_group_logo.png",
     "user_ratings_total": 0,
-    "website": "brody.land/brody-apartments",
+    "website": "https://www.brody.land/brody-apartments",
     "activities": []
   },
-  "Writer’s Villa (BrodyLand group)": {
+  "Writer's Villa (BrodyLand group)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -80,19 +98,25 @@
         "lng": 0.0
       }
     },
-    "name": "Writer’s Villa (BrodyLand group)",
+    "name": "Writer's Villa (BrodyLand group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/writers_villa_brodyland_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/writers_villa_brodyland_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/writers_villa_brodyland_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/writers_villa_brodyland_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/writers_villa_brodyland_group5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/writers_villa_brodyland_group_logo.png",
     "user_ratings_total": 0,
-    "website": "brody.land/the-writers-villa",
+    "website": "https://www.brody.land/the-writers-villa",
     "activities": []
   }
 }

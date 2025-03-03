@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/canary_wharf/quay_club_gary_landesberg_waney_family1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/canary_wharf/quay_club_gary_landesberg_waney_family2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/canary_wharf/quay_club_gary_landesberg_waney_family3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/canary_wharf/quay_club_gary_landesberg_waney_family4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/canary_wharf/quay_club_gary_landesberg_waney_family5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/canary_wharf/quay_club_gary_landesberg_waney_family_logo.png",
     "user_ratings_total": 0,
-    "website": "canarydevelopment.com/the-quay-club/",
+    "website": "https://www.canarydevelopment.com/the-quay-club/",
     "activities": []
   }
 }

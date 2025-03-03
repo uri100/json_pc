@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cannes/yacht_club_de_cannes1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cannes/yacht_club_de_cannes2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cannes/yacht_club_de_cannes3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cannes/yacht_club_de_cannes4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cannes/yacht_club_de_cannes5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cannes/yacht_club_de_cannes_logo.png",
     "user_ratings_total": 0,
-    "website": "yachtclubdecannes.org",
+    "website": "https://www.yachtclubdecannes.org",
     "activities": []
   }
 }

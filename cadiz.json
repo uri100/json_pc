@@ -1,0 +1,32 @@
+{
+  "Casino Gaditano": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Casino Gaditano",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cadiz/casino_gaditano1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cadiz/casino_gaditano2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cadiz/casino_gaditano3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cadiz/casino_gaditano4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cadiz/casino_gaditano5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cadiz/casino_gaditano_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.casinogaditano.org",
+    "activities": []
+  }
+}

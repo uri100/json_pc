@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bethlehem/university_club_of_bethlehem1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bethlehem/university_club_of_bethlehem2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bethlehem/university_club_of_bethlehem3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bethlehem/university_club_of_bethlehem4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bethlehem/university_club_of_bethlehem5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bethlehem/university_club_of_bethlehem_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/University_Club_of_Bethlehem",
+    "website": "https://www.wikipedia.org/wiki/University_Club_of_Bethlehem",
     "activities": []
   }
 }

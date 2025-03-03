@@ -15,10 +15,16 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/american_belgian_association1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/american_belgian_association2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/american_belgian_association3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/american_belgian_association4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/american_belgian_association5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/american_belgian_association_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": []
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/bruxelles_royal_yacht_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/bruxelles_royal_yacht_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/bruxelles_royal_yacht_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/bruxelles_royal_yacht_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/bruxelles_royal_yacht_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/bruxelles_royal_yacht_club_logo.png",
     "user_ratings_total": 0,
-    "website": "bruxelles-royal-yacht-club.be",
+    "website": "https://www.bruxelles-royal-yacht-club.be",
     "activities": []
   },
   "Cercle de Lorraine": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_de_lorraine1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_de_lorraine2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_de_lorraine3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_de_lorraine4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_de_lorraine5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_de_lorraine_logo.png",
     "user_ratings_total": 0,
-    "website": "cercledelorraine.be",
+    "website": "https://www.cercledelorraine.be",
     "activities": []
   },
   "Cercle Royal du Parc": {
@@ -87,15 +105,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_royal_du_parc1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_royal_du_parc2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_royal_du_parc3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_royal_du_parc4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_royal_du_parc5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_royal_du_parc_logo.png",
     "user_ratings_total": 0,
-    "website": "cercleduparc.be",
+    "website": "https://www.cercleduparc.be",
     "activities": []
   },
-  "Cercle Royal Gaulois Artistique et Littéraire": {
+  "Cercle Royal Gaulois Artistique et LittĂ©raire": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -104,19 +128,25 @@
         "lng": 0.0
       }
     },
-    "name": "Cercle Royal Gaulois Artistique et Littéraire",
+    "name": "Cercle Royal Gaulois Artistique et LittĂ©raire",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_royal_gaulois_artistique_et_littraire1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_royal_gaulois_artistique_et_littraire2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_royal_gaulois_artistique_et_littraire3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_royal_gaulois_artistique_et_littraire4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_royal_gaulois_artistique_et_littraire5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_royal_gaulois_artistique_et_littraire_logo.png",
     "user_ratings_total": 0,
-    "website": "cercle-gaulois.be",
+    "website": "https://www.cercle-gaulois.be",
     "activities": []
   },
   "De Warande": {
@@ -135,15 +165,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/de_warande1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/de_warande2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/de_warande3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/de_warande4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/de_warande5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/de_warande_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": []
   },
-  "La Societé Royale littéraire — Club Falligan": {
+  "La SocietĂ© Royale littĂ©raire â€” Club Falligan": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -152,19 +188,25 @@
         "lng": 0.0
       }
     },
-    "name": "La Societé Royale littéraire — Club Falligan",
+    "name": "La SocietĂ© Royale littĂ©raire â€” Club Falligan",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_club_falligan1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_club_falligan2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_club_falligan3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_club_falligan4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_club_falligan5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_club_falligan_logo.png",
     "user_ratings_total": 0,
-    "website": "falligan.be",
+    "website": "https://www.falligan.be",
     "activities": []
   },
   "Montgomery Club": {
@@ -183,12 +225,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/montgomery_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/montgomery_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/montgomery_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/montgomery_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/montgomery_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/montgomery_club_logo.png",
     "user_ratings_total": 0,
-    "website": "clubmontgomery.net",
+    "website": "https://www.clubmontgomery.net",
     "activities": []
   },
   "University Foundation Club": {
@@ -207,12 +255,48 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/university_foundation_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/university_foundation_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/university_foundation_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/university_foundation_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/university_foundation_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/university_foundation_club_logo.png",
     "user_ratings_total": 0,
-    "website": "fondationuniversitaire.be",
+    "website": "https://www.fondationuniversitaire.be",
+    "activities": []
+  },
+  "Chateau Sainte-Anne": {
+    "formatted_address": "Rue Du Vieux-moulin, 103-1160 Bruxelles, Belgium",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Chateau Sainte-Anne",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/chateau_sainteanne1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/chateau_sainteanne2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/chateau_sainteanne3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/chateau_sainteanne4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/chateau_sainteanne5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/chateau_sainteanne_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.chateau-sainte-anne.be",
     "activities": []
   }
 }

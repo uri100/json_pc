@@ -1,5 +1,5 @@
 {
-  "Asociación Civil Hurlingham Club": {
+  "AsociaciĂłn Civil Hurlingham Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Asociación Civil Hurlingham Club",
+    "name": "AsociaciĂłn Civil Hurlingham Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/asociacin_civil_hurlingham_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/asociacin_civil_hurlingham_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/asociacin_civil_hurlingham_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/asociacin_civil_hurlingham_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/asociacin_civil_hurlingham_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/asociacin_civil_hurlingham_club_logo.png",
     "user_ratings_total": 0,
-    "website": "hurlinghamclub.com.ar",
+    "website": "https://www.hurlinghamclub.com.ar",
     "activities": []
   },
   "Asociacion Sueca": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/asociacion_sueca1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/asociacion_sueca2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/asociacion_sueca3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/asociacion_sueca4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/asociacion_sueca5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/asociacion_sueca_logo.png",
     "user_ratings_total": 0,
-    "website": "clubsueco.com.ar",
+    "website": "https://www.clubsueco.com.ar",
     "activities": []
   },
   "Buenos Aires Rowing Club": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/buenos_aires_rowing_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/buenos_aires_rowing_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/buenos_aires_rowing_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/buenos_aires_rowing_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/buenos_aires_rowing_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/buenos_aires_rowing_club_logo.png",
     "user_ratings_total": 0,
-    "website": "buenosairesrowing.com.ar",
+    "website": "https://www.buenosairesrowing.com.ar",
     "activities": []
   },
   "Centro Naval": {
@@ -87,15 +105,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Centro_Naval",
+    "website": "https://www.wikipedia.org/wiki/Centro_Naval",
     "activities": []
   },
-  "Centro Naval Núñez": {
+  "Centro Naval NĂşĂ±ez": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -104,19 +128,25 @@
         "lng": 0.0
       }
     },
-    "name": "Centro Naval Núñez",
+    "name": "Centro Naval NĂşĂ±ez",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_nez1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_nez2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_nez3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_nez4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_nez5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_nez_logo.png",
     "user_ratings_total": 0,
-    "website": "centronaval.org.ar/sedes/sede-nunez.html",
+    "website": "https://www.centronaval.org.ar/sedes/sede-nunez.html",
     "activities": []
   },
   "Centro Naval Olivos": {
@@ -135,12 +165,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_olivos1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_olivos2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_olivos3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_olivos4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_olivos5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_olivos_logo.png",
     "user_ratings_total": 0,
-    "website": "centronaval.org.ar/sedes/sede-olivos.html",
+    "website": "https://www.centronaval.org.ar/sedes/sede-olivos.html",
     "activities": []
   },
   "Centro Naval Tigre": {
@@ -159,15 +195,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_tigre1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_tigre2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_tigre3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_tigre4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_tigre5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_tigre_logo.png",
     "user_ratings_total": 0,
-    "website": "centronaval.org.ar/sedes/sede-tigre.html",
+    "website": "https://www.centronaval.org.ar/sedes/sede-tigre.html",
     "activities": []
   },
-  "Círculo de Armas": {
+  "CĂ­rculo de Armas": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -176,22 +218,28 @@
         "lng": 0.0
       }
     },
-    "name": "Círculo de Armas",
+    "name": "CĂ­rculo de Armas",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/crculo_de_armas1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/crculo_de_armas2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/crculo_de_armas3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/crculo_de_armas4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/crculo_de_armas5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/crculo_de_armas_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/C%C3%ADrculo_de_Armas",
+    "website": "https://www.wikipedia.org/wiki/C%C3%ADrculo_de_Armas",
     "activities": []
   },
-  "Círculo Militar": {
+  "CĂ­rculo Militar": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -200,23 +248,29 @@
         "lng": 0.0
       }
     },
-    "name": "Círculo Militar",
+    "name": "CĂ­rculo Militar",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/crculo_militar1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/crculo_militar2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/crculo_militar3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/crculo_militar4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/crculo_militar5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/crculo_militar_logo.png",
     "user_ratings_total": 0,
-    "website": "circulomilitar.org.ar",
+    "website": "https://www.circulomilitar.org.ar",
     "activities": []
   },
   "Club Americano De Buenos Aires": {
-    "formatted_address": "Viamonte 1133 - Piso 10, Ciudad Autónoma de Buenos Aires, Buenos Aires C1053ABW, AR",
+    "formatted_address": "Viamonte 1133 - Piso 10, Ciudad AutĂłnoma de Buenos Aires, Buenos Aires C1053ABW, AR",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
@@ -231,12 +285,18 @@
       "weekday_text": []
     },
     "description": "The American Club of Buenos Aires had its original conception in1914 and formally founded in 1918. Nowadays, the purpose of the Club continues to be to promote Argentine-North American fraternity. A traditional meeting point for American and Argentine culture, business persons and politicians.",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_americano_de_buenos_aires1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_americano_de_buenos_aires2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_americano_de_buenos_aires3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_americano_de_buenos_aires4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_americano_de_buenos_aires5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_americano_de_buenos_aires_logo.png",
     "user_ratings_total": 0,
-    "website": "americanclub.org.ar",
+    "website": "https://www.americanclub.org.ar",
     "activities": []
   },
   "Club de Pescadores": {
@@ -255,12 +315,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_de_pescadores1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_de_pescadores2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_de_pescadores3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_de_pescadores4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_de_pescadores5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_de_pescadores_logo.png",
     "user_ratings_total": 0,
-    "website": "club-pescadores.com.ar",
+    "website": "https://www.club-pescadores.com.ar",
     "activities": []
   },
   "Club del Progreso": {
@@ -279,15 +345,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_del_progreso1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_del_progreso2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_del_progreso3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_del_progreso4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_del_progreso5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_del_progreso_logo.png",
     "user_ratings_total": 0,
-    "website": "clubdelprogreso.org",
+    "website": "https://www.clubdelprogreso.org",
     "activities": []
   },
-  "Club Español": {
+  "Club EspaĂ±ol": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -296,22 +368,28 @@
         "lng": 0.0
       }
     },
-    "name": "Club Español",
+    "name": "Club EspaĂ±ol",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_espaol1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_espaol2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_espaol3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_espaol4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_espaol5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_espaol_logo.png",
     "user_ratings_total": 0,
-    "website": "clubespanolba.com.ar",
+    "website": "https://www.clubespanolba.com.ar",
     "activities": []
   },
-  "Club Francés": {
+  "Club FrancĂ©s": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -320,19 +398,25 @@
         "lng": 0.0
       }
     },
-    "name": "Club Francés",
+    "name": "Club FrancĂ©s",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_francs1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_francs2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_francs3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_francs4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_francs5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_francs_logo.png",
     "user_ratings_total": 0,
-    "website": "hotelclubfrances.com.ar",
+    "website": "https://www.hotelclubfrances.com.ar",
     "activities": []
   },
   "Club Harrods Gath & Chaves": {
@@ -351,15 +435,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_harrods_gath_chaves1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_harrods_gath_chaves2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_harrods_gath_chaves3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_harrods_gath_chaves4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_harrods_gath_chaves5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_harrods_gath_chaves_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": []
   },
-  "Club Sirio Libanés": {
+  "Club Sirio LibanĂ©s": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -368,19 +458,25 @@
         "lng": 0.0
       }
     },
-    "name": "Club Sirio Libanés",
+    "name": "Club Sirio LibanĂ©s",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_sirio_libans1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_sirio_libans2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_sirio_libans3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_sirio_libans4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_sirio_libans5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_sirio_libans_logo.png",
     "user_ratings_total": 0,
-    "website": "clubsiriolibanes.org.ar",
+    "website": "https://www.clubsiriolibanes.org.ar",
     "activities": []
   },
   "Club Universitario de Buenos Aires (\"C.U.B.A.)": {
@@ -399,12 +495,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_universitario_de_buenos_aires_cuba1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_universitario_de_buenos_aires_cuba2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_universitario_de_buenos_aires_cuba3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_universitario_de_buenos_aires_cuba4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_universitario_de_buenos_aires_cuba5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_universitario_de_buenos_aires_cuba_logo.png",
     "user_ratings_total": 0,
-    "website": "cuba.org.ar",
+    "website": "https://www.cuba.org.ar",
     "activities": []
   },
   "Jockey Club Buenos Aires": {
@@ -423,12 +525,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/jockey_club_buenos_aires1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/jockey_club_buenos_aires2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/jockey_club_buenos_aires3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/jockey_club_buenos_aires4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/jockey_club_buenos_aires5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/jockey_club_buenos_aires_logo.png",
     "user_ratings_total": 0,
-    "website": "jockeyclub.org.ar",
+    "website": "https://www.jockeyclub.org.ar",
     "activities": []
   },
   "The Clubhouse": {
@@ -447,12 +555,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/the_clubhouse1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/the_clubhouse2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/the_clubhouse3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/the_clubhouse4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/the_clubhouse5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/the_clubhouse_logo.png",
     "user_ratings_total": 0,
-    "website": "clubhouseba.com",
+    "website": "https://www.clubhouseba.com",
     "activities": []
   },
   "Yacht Club Argentino": {
@@ -471,12 +585,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/yacht_club_argentino1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/yacht_club_argentino2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/yacht_club_argentino3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/yacht_club_argentino4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/yacht_club_argentino5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/yacht_club_argentino_logo.png",
     "user_ratings_total": 0,
-    "website": "yca.org.ar",
+    "website": "https://www.yca.org.ar",
     "activities": []
   }
 }

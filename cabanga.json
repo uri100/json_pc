@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cabanga/cabanga_iate_clube_de_pernambuco1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cabanga/cabanga_iate_clube_de_pernambuco2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cabanga/cabanga_iate_clube_de_pernambuco3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cabanga/cabanga_iate_clube_de_pernambuco4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cabanga/cabanga_iate_clube_de_pernambuco5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cabanga/cabanga_iate_clube_de_pernambuco_logo.png",
     "user_ratings_total": 0,
-    "website": "cabanga.com.br",
+    "website": "https://www.cabanga.com.br",
     "activities": []
   }
 }

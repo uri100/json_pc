@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/calgary_petroleum_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/calgary_petroleum_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/calgary_petroleum_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/calgary_petroleum_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/calgary_petroleum_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/calgary_petroleum_club_logo.png",
     "user_ratings_total": 0,
-    "website": "calpeteclub.com",
+    "website": "https://www.calpeteclub.com",
     "activities": []
   },
   "Eau Claire Athletic Club (under development)": {
@@ -38,11 +44,17 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Eau Claire Athletic Club is an exclusive members-only private club set to open in 2025 in the iconic former Eau Claire YMCA. The historic building is being completely modernized, seamlessly blending classic architecture with contemporary luxury. ECAC is proud to preserve beloved amenities such as the 6-lane lap pool, squash courts and fourth-floor running track, ensuring the heart of the building is stewarded to it’s next life. Members will enjoy a host of brand new amenities including a 2000 sq ft Nordic Spa, two Food and Beverage outlets, cutting-edge Wellness and Fitness Tech, and luxury locker rooms.ECAC is Calgary’s modern, sophisticated downtown club and will redefine the wellness landscape in the heart of Alberta.",
-    "photo_urls": [],
+    "description": "The Eau Claire Athletic Club is an exclusive members-only private club set to open in 2025 in the iconic former Eau Claire YMCA. The historic building is being completely modernized, seamlessly blending classic architecture with contemporary luxury. ECAC is proud to preserve beloved amenities such as the 6-lane lap pool, squash courts and fourth-floor running track, ensuring the heart of the building is stewarded to it's next life. Members will enjoy a host of brand new amenities including a 2000 sq ft Nordic Spa, two Food and Beverage outlets, cutting-edge Wellness and Fitness Tech, and luxury locker rooms.ECAC is Calgary's modern, sophisticated downtown club and will redefine the wellness landscape in the heart of Alberta.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/eau_claire_athletic_club_under_development1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/eau_claire_athletic_club_under_development2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/eau_claire_athletic_club_under_development3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/eau_claire_athletic_club_under_development4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/eau_claire_athletic_club_under_development5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/eau_claire_athletic_club_under_development_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": [
@@ -71,15 +83,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/glencoe_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/glencoe_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/glencoe_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/glencoe_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/glencoe_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/glencoe_club_logo.png",
     "user_ratings_total": 0,
-    "website": "glencoe.org",
+    "website": "https://www.glencoe.org",
     "activities": []
   },
-  "Ranchmen’s Club of Calgary": {
+  "Ranchmen's Club of Calgary": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -88,19 +106,25 @@
         "lng": 0.0
       }
     },
-    "name": "Ranchmen’s Club of Calgary",
+    "name": "Ranchmen's Club of Calgary",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/ranchmens_club_of_calgary1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/ranchmens_club_of_calgary2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/ranchmens_club_of_calgary3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/ranchmens_club_of_calgary4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/ranchmens_club_of_calgary5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/ranchmens_club_of_calgary_logo.png",
     "user_ratings_total": 0,
-    "website": "ranchmensclub.com",
+    "website": "https://www.ranchmensclub.com",
     "activities": []
   }
 }

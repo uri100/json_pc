@@ -1,5 +1,5 @@
 {
-  "Golf Club Bergamo L’Albenza": {
+  "Golf Club Bergamo L'Albenza": {
     "formatted_address": "Via Longoni 12",
     "formatted_phone_number": "+39 035 640028",
     "geometry": {
@@ -8,17 +8,23 @@
         "lng": 0.0
       }
     },
-    "name": "Golf Club Bergamo L’Albenza",
+    "name": "Golf Club Bergamo L'Albenza",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bergamo/golf_club_bergamo_lalbenza1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bergamo/golf_club_bergamo_lalbenza2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bergamo/golf_club_bergamo_lalbenza3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bergamo/golf_club_bergamo_lalbenza4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bergamo/golf_club_bergamo_lalbenza5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bergamo/golf_club_bergamo_lalbenza_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": [

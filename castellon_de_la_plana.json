@@ -1,0 +1,32 @@
+{
+  "Real Casino Antiguo": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Real Casino Antiguo",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/castellon_de_la_plana/real_casino_antiguo1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/castellon_de_la_plana/real_casino_antiguo2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/castellon_de_la_plana/real_casino_antiguo3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/castellon_de_la_plana/real_casino_antiguo4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/castellon_de_la_plana/real_casino_antiguo5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/castellon_de_la_plana/real_casino_antiguo_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.realcasinoantiguo.es",
+    "activities": []
+  }
+}

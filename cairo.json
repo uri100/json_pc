@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/cairo_capital_club_signature_clubs_international1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/cairo_capital_club_signature_clubs_international2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/cairo_capital_club_signature_clubs_international3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/cairo_capital_club_signature_clubs_international4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/cairo_capital_club_signature_clubs_international5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/cairo_capital_club_signature_clubs_international_logo.png",
     "user_ratings_total": 0,
-    "website": "cairocapitalclub.net",
+    "website": "https://www.cairocapitalclub.net",
     "activities": []
   },
   "Gezira Sporting Club": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/gezira_sporting_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/gezira_sporting_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/gezira_sporting_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/gezira_sporting_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/gezira_sporting_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/gezira_sporting_club_logo.png",
     "user_ratings_total": 0,
-    "website": "geziraclub.club",
+    "website": "https://www.geziraclub.club",
     "activities": []
   },
   "Le Lido City View Clubhouse": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/le_lido_city_view_clubhouse1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/le_lido_city_view_clubhouse2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/le_lido_city_view_clubhouse3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/le_lido_city_view_clubhouse4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/le_lido_city_view_clubhouse5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/le_lido_city_view_clubhouse_logo.png",
     "user_ratings_total": 0,
-    "website": "facebook.com/citylodgebyngsc/",
+    "website": "https://www.facebook.com/citylodgebyngsc/",
     "activities": []
   }
 }

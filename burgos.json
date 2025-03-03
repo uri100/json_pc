@@ -1,5 +1,5 @@
 {
-  "Círculo de la Unión de Burgos": {
+  "CĂ­rculo de la UniĂłn de Burgos": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Círculo de la Unión de Burgos",
+    "name": "CĂ­rculo de la UniĂłn de Burgos",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/burgos/crculo_de_la_unin_de_burgos1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/burgos/crculo_de_la_unin_de_burgos2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/burgos/crculo_de_la_unin_de_burgos3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/burgos/crculo_de_la_unin_de_burgos4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/burgos/crculo_de_la_unin_de_burgos5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/burgos/crculo_de_la_unin_de_burgos_logo.png",
     "user_ratings_total": 0,
-    "website": "circulodelauniondeburgos.es",
+    "website": "https://www.circulodelauniondeburgos.es",
     "activities": []
   }
 }
