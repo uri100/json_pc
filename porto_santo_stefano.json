@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto_santo_stefano/yacht_club_santo_stefano1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto_santo_stefano/yacht_club_santo_stefano2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto_santo_stefano/yacht_club_santo_stefano3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto_santo_stefano/yacht_club_santo_stefano4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto_santo_stefano/yacht_club_santo_stefano5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto_santo_stefano/yacht_club_santo_stefano_logo.png",
     "user_ratings_total": 0,
-    "website": "ycss.it",
+    "website": "https://www.ycss.it",
     "activities": []
   }
 }

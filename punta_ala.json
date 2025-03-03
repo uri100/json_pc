@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/punta_ala/yacht_club_punta_ala1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/punta_ala/yacht_club_punta_ala2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/punta_ala/yacht_club_punta_ala3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/punta_ala/yacht_club_punta_ala4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/punta_ala/yacht_club_punta_ala5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/punta_ala/yacht_club_punta_ala_logo.png",
     "user_ratings_total": 0,
-    "website": "ycpa.it",
+    "website": "https://www.ycpa.it",
     "activities": []
   }
 }

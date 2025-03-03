@@ -1,6 +1,6 @@
 {
   "Royal Port Dickson Yacht Club": {
-    "formatted_address": "4½ Mile Jln Pantai, 71050 Batu Sirusa, Port Dickson, Negeri Sembilan, Malaysia",
+    "formatted_address": "4Â˝ Mile Jln Pantai, 71050 Batu Sirusa, Port Dickson, Negeri Sembilan, Malaysia",
     "formatted_phone_number": "6 06 647 1635 , 6066474470",
     "geometry": {
       "location": {
@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_dickson/royal_port_dickson_yacht_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_dickson/royal_port_dickson_yacht_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_dickson/royal_port_dickson_yacht_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_dickson/royal_port_dickson_yacht_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_dickson/royal_port_dickson_yacht_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_dickson/royal_port_dickson_yacht_club_logo.png",
     "user_ratings_total": 0,
-    "website": "rpdyc.com.my",
+    "website": "https://www.rpdyc.com.my",
     "activities": []
   }
 }

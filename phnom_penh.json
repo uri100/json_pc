@@ -15,15 +15,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phnom_penh/cambodian_country_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phnom_penh/cambodian_country_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phnom_penh/cambodian_country_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phnom_penh/cambodian_country_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phnom_penh/cambodian_country_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phnom_penh/cambodian_country_club_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": []
   },
-  "Foreign Correspondents’ Club Phnom Penh": {
+  "Foreign Correspondents' Club Phnom Penh": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,19 +38,25 @@
         "lng": 0.0
       }
     },
-    "name": "Foreign Correspondents’ Club Phnom Penh",
+    "name": "Foreign Correspondents' Club Phnom Penh",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phnom_penh/foreign_correspondents_club_phnom_penh1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phnom_penh/foreign_correspondents_club_phnom_penh2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phnom_penh/foreign_correspondents_club_phnom_penh3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phnom_penh/foreign_correspondents_club_phnom_penh4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phnom_penh/foreign_correspondents_club_phnom_penh5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phnom_penh/foreign_correspondents_club_phnom_penh_logo.png",
     "user_ratings_total": 0,
-    "website": "fcccollection.com/phnom-penh/",
+    "website": "https://www.fcccollection.com/phnom-penh/",
     "activities": []
   },
   "Vault Club": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phnom_penh/vault_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phnom_penh/vault_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phnom_penh/vault_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phnom_penh/vault_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phnom_penh/vault_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phnom_penh/vault_club_logo.png",
     "user_ratings_total": 0,
-    "website": "thevault-cambodia.com",
+    "website": "https://www.thevault-cambodia.com",
     "activities": []
   }
 }

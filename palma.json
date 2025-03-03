@@ -1,5 +1,5 @@
 {
-  "Círculo Mallorquín": {
+  "CĂ­rculo MallorquĂ­n": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Círculo Mallorquín",
+    "name": "CĂ­rculo MallorquĂ­n",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/palma/crculo_mallorqun1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/palma/crculo_mallorqun2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/palma/crculo_mallorqun3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/palma/crculo_mallorqun4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/palma/crculo_mallorqun5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/palma/crculo_mallorqun_logo.png",
     "user_ratings_total": 0,
-    "website": "circulomallorquin.com",
+    "website": "https://www.circulomallorquin.com",
     "activities": []
   }
 }

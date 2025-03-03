@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pau/cercle_anglais1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pau/cercle_anglais2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pau/cercle_anglais3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pau/cercle_anglais4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pau/cercle_anglais5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pau/cercle_anglais_logo.png",
     "user_ratings_total": 0,
-    "website": "societe.com/etablissement/cercle-anglais-78234473300046-0a.html",
+    "website": "https://www.societe.com/etablissement/cercle-anglais-78234473300046-0a.html",
     "activities": []
   }
 }

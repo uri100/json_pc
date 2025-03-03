@@ -1,5 +1,5 @@
 {
-  "Eagle’s Nest Country Club (\"ClubCorp)": {
+  "Eagle's Nest Country Club (\"ClubCorp)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,17 +8,23 @@
         "lng": 0.0
       }
     },
-    "name": "Eagle’s Nest Country Club (\"ClubCorp)",
+    "name": "Eagle's Nest Country Club (\"ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phoenix/eagles_nest_country_club_clubcorp1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phoenix/eagles_nest_country_club_clubcorp2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phoenix/eagles_nest_country_club_clubcorp3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phoenix/eagles_nest_country_club_clubcorp4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phoenix/eagles_nest_country_club_clubcorp5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phoenix/eagles_nest_country_club_clubcorp_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": []
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phoenix/university_club_of_phoenix1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phoenix/university_club_of_phoenix2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phoenix/university_club_of_phoenix3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phoenix/university_club_of_phoenix4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phoenix/university_club_of_phoenix5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/phoenix/university_club_of_phoenix_logo.png",
     "user_ratings_total": 0,
-    "website": "universityclubphoenix.com",
+    "website": "https://www.universityclubphoenix.com",
     "activities": []
   }
 }

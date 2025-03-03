@@ -1,5 +1,5 @@
 {
-  "Sociedad Unión Quito": {
+  "Sociedad UniĂłn Quito": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Sociedad Unión Quito",
+    "name": "Sociedad UniĂłn Quito",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/quito/sociedad_unin_quito1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/quito/sociedad_unin_quito2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/quito/sociedad_unin_quito3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/quito/sociedad_unin_quito4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/quito/sociedad_unin_quito5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/quito/sociedad_unin_quito_logo.png",
     "user_ratings_total": 0,
-    "website": "sociedadunionquito.ec",
+    "website": "https://www.sociedadunionquito.ec",
     "activities": []
   }
 }

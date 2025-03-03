@@ -15,15 +15,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/67_pall_mall1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/67_pall_mall2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/67_pall_mall3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/67_pall_mall4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/67_pall_mall5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/67_pall_mall_logo.png",
     "user_ratings_total": 0,
-    "website": "67pallmall.co.uk",
+    "website": "https://www.67pallmall.co.uk",
     "activities": []
   },
-  "Army and Navy Club (\"“The Rag”)": {
+  "Army and Navy Club (\"â€śThe Ragâ€ť)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,19 +38,25 @@
         "lng": 0.0
       }
     },
-    "name": "Army and Navy Club (\"“The Rag”)",
+    "name": "Army and Navy Club (\"â€śThe Ragâ€ť)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/army_and_navy_club_the_rag1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/army_and_navy_club_the_rag2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/army_and_navy_club_the_rag3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/army_and_navy_club_the_rag4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/army_and_navy_club_the_rag5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/army_and_navy_club_the_rag_logo.png",
     "user_ratings_total": 0,
-    "website": "therag.co.uk",
+    "website": "https://www.therag.co.uk",
     "activities": []
   },
   "Athenaeum": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/athenaeum1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/athenaeum2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/athenaeum3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/athenaeum4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/athenaeum5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/athenaeum_logo.png",
     "user_ratings_total": 0,
-    "website": "athenaeumclub.co.uk",
+    "website": "https://www.athenaeumclub.co.uk",
     "activities": []
   },
   "Oxford and Cambridge Club": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/oxford_and_cambridge_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/oxford_and_cambridge_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/oxford_and_cambridge_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/oxford_and_cambridge_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/oxford_and_cambridge_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/oxford_and_cambridge_club_logo.png",
     "user_ratings_total": 0,
-    "website": "oxfordandcambridgeclub.co.uk",
+    "website": "https://www.oxfordandcambridgeclub.co.uk",
     "activities": []
   },
   "Reform Club": {
@@ -111,15 +135,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/reform_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/reform_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/reform_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/reform_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/reform_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/reform_club_logo.png",
     "user_ratings_total": 0,
-    "website": "reformclub.com",
+    "website": "https://www.reformclub.com",
     "activities": []
   },
-  "Royal Automobile Club (\"“RAC”)": {
+  "Royal Automobile Club (\"â€śRACâ€ť)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -128,19 +158,25 @@
         "lng": 0.0
       }
     },
-    "name": "Royal Automobile Club (\"“RAC”)",
+    "name": "Royal Automobile Club (\"â€śRACâ€ť)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/royal_automobile_club_rac1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/royal_automobile_club_rac2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/royal_automobile_club_rac3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/royal_automobile_club_rac4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/royal_automobile_club_rac5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/royal_automobile_club_rac_logo.png",
     "user_ratings_total": 0,
-    "website": "royalautomobileclub.co.uk",
+    "website": "https://www.royalautomobileclub.co.uk",
     "activities": []
   },
   "Travellers Club London": {
@@ -159,12 +195,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/travellers_club_london1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/travellers_club_london2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/travellers_club_london3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/travellers_club_london4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/travellers_club_london5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pall_mall/travellers_club_london_logo.png",
     "user_ratings_total": 0,
-    "website": "thetravellersclub.org.uk",
+    "website": "https://www.thetravellersclub.org.uk",
     "activities": []
   }
 }

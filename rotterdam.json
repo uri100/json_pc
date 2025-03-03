@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rotterdam/koninklijke_roeien_zeilvereeniging_de_maas1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rotterdam/koninklijke_roeien_zeilvereeniging_de_maas2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rotterdam/koninklijke_roeien_zeilvereeniging_de_maas3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rotterdam/koninklijke_roeien_zeilvereeniging_de_maas4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rotterdam/koninklijke_roeien_zeilvereeniging_de_maas5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rotterdam/koninklijke_roeien_zeilvereeniging_de_maas_logo.png",
     "user_ratings_total": 0,
-    "website": "de-maas.nl",
+    "website": "https://www.de-maas.nl",
     "activities": []
   }
 }

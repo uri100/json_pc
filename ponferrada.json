@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ponferrada/casino_club_nautico_la_tertulia1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ponferrada/casino_club_nautico_la_tertulia2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ponferrada/casino_club_nautico_la_tertulia3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ponferrada/casino_club_nautico_la_tertulia4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ponferrada/casino_club_nautico_la_tertulia5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ponferrada/casino_club_nautico_la_tertulia_logo.png",
     "user_ratings_total": 0,
-    "website": "casinoponferrada.com",
+    "website": "https://www.casinoponferrada.com",
     "activities": []
   }
 }

@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pasadena/the_athenaeum_at_caltech1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pasadena/the_athenaeum_at_caltech2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pasadena/the_athenaeum_at_caltech3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pasadena/the_athenaeum_at_caltech4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pasadena/the_athenaeum_at_caltech5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pasadena/the_athenaeum_at_caltech_logo.png",
     "user_ratings_total": 0,
-    "website": "athenaeumcaltech.com",
+    "website": "https://www.athenaeumcaltech.com",
     "activities": [
       "tennis",
       "athletic"
@@ -42,12 +48,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pasadena/university_club_of_pasadena1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pasadena/university_club_of_pasadena2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pasadena/university_club_of_pasadena3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pasadena/university_club_of_pasadena4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pasadena/university_club_of_pasadena5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pasadena/university_club_of_pasadena_logo.png",
     "user_ratings_total": 0,
-    "website": "universityclubpasadena.com",
+    "website": "https://www.universityclubpasadena.com",
     "activities": []
   }
 }

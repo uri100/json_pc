@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pittsburgh/allegheny_harvardyaleprinceton_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pittsburgh/allegheny_harvardyaleprinceton_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pittsburgh/allegheny_harvardyaleprinceton_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pittsburgh/allegheny_harvardyaleprinceton_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pittsburgh/allegheny_harvardyaleprinceton_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pittsburgh/allegheny_harvardyaleprinceton_club_logo.png",
     "user_ratings_total": 0,
-    "website": "alleghenyhypclub.com",
+    "website": "https://www.alleghenyhypclub.com",
     "activities": []
   },
   "Duquesne Club": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pittsburgh/duquesne_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pittsburgh/duquesne_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pittsburgh/duquesne_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pittsburgh/duquesne_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pittsburgh/duquesne_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pittsburgh/duquesne_club_logo.png",
     "user_ratings_total": 0,
-    "website": "duquesne.org",
+    "website": "https://www.duquesne.org",
     "activities": []
   },
   "University Club of Pittsburgh": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pittsburgh/university_club_of_pittsburgh1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pittsburgh/university_club_of_pittsburgh2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pittsburgh/university_club_of_pittsburgh3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pittsburgh/university_club_of_pittsburgh4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pittsburgh/university_club_of_pittsburgh5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pittsburgh/university_club_of_pittsburgh_logo.png",
     "user_ratings_total": 0,
-    "website": "uc.pitt.edu",
+    "website": "https://www.uc.pitt.edu",
     "activities": []
   }
 }

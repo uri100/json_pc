@@ -1,5 +1,5 @@
 {
-  "Società del Casino Pedrocchi": {
+  "SocietĂ del Casino Pedrocchi": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Società del Casino Pedrocchi",
+    "name": "SocietĂ del Casino Pedrocchi",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/padua/societ_del_casino_pedrocchi1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/padua/societ_del_casino_pedrocchi2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/padua/societ_del_casino_pedrocchi3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/padua/societ_del_casino_pedrocchi4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/padua/societ_del_casino_pedrocchi5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/padua/societ_del_casino_pedrocchi_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Societ%C3%A0_del_Casino_Pedrocchi",
+    "website": "https://www.wikipedia.org/wiki/Societ%C3%A0_del_Casino_Pedrocchi",
     "activities": []
   }
 }

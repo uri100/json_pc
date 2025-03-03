@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pamplona/nuevo_casino_eslava1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pamplona/nuevo_casino_eslava2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pamplona/nuevo_casino_eslava3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pamplona/nuevo_casino_eslava4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pamplona/nuevo_casino_eslava5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pamplona/nuevo_casino_eslava_logo.png",
     "user_ratings_total": 0,
-    "website": "barcasinoeslava.es",
+    "website": "https://www.barcasinoeslava.es",
     "activities": []
   },
   "Nuevo Casino Principal de Pamplona": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pamplona/nuevo_casino_principal_de_pamplona1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pamplona/nuevo_casino_principal_de_pamplona2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pamplona/nuevo_casino_principal_de_pamplona3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pamplona/nuevo_casino_principal_de_pamplona4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pamplona/nuevo_casino_principal_de_pamplona5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pamplona/nuevo_casino_principal_de_pamplona_logo.png",
     "user_ratings_total": 0,
-    "website": "nuevocasino.es",
+    "website": "https://www.nuevocasino.es",
     "activities": []
   }
 }

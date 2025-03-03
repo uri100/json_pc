@@ -1,6 +1,6 @@
 {
   "Club Union": {
-    "formatted_address": "Calle 56 Este, Tomás Gabriel Duque, Paitilla",
+    "formatted_address": "Calle 56 Este, TomĂˇs Gabriel Duque, Paitilla",
     "formatted_phone_number": "+507 2085300, 507 63785076",
     "geometry": {
       "location": {
@@ -15,10 +15,16 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/panama/club_union1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/panama/club_union2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/panama/club_union3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/panama/club_union4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/panama/club_union5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/panama/club_union_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": [
@@ -26,5 +32,35 @@
       "athletic",
       "tennis"
     ]
+  },
+  "Club Union de Panama": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Club Union de Panama",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/panama/club_union_de_panama1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/panama/club_union_de_panama2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/panama/club_union_de_panama3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/panama/club_union_de_panama4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/panama/club_union_de_panama5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/panama/club_union_de_panama_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.club-union.com",
+    "activities": []
   }
 }

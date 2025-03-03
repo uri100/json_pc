@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pontevedra/casino_mercantil_e_industrial1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pontevedra/casino_mercantil_e_industrial2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pontevedra/casino_mercantil_e_industrial3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pontevedra/casino_mercantil_e_industrial4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pontevedra/casino_mercantil_e_industrial5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pontevedra/casino_mercantil_e_industrial_logo.png",
     "user_ratings_total": 0,
-    "website": "Casino Mercantil e Industrial, Pontevedra",
+    "website": "https://www.Casino Mercantil e Industrial, Pontevedra",
     "activities": []
   },
   "Liceo Casino de Pontevedra": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pontevedra/liceo_casino_de_pontevedra1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pontevedra/liceo_casino_de_pontevedra2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pontevedra/liceo_casino_de_pontevedra3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pontevedra/liceo_casino_de_pontevedra4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pontevedra/liceo_casino_de_pontevedra5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pontevedra/liceo_casino_de_pontevedra_logo.png",
     "user_ratings_total": 0,
-    "website": "casinopontevedra.com",
+    "website": "https://www.casinopontevedra.com",
     "activities": []
   },
   "Monte Real Club de Yates de Baiona": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pontevedra/monte_real_club_de_yates_de_baiona1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pontevedra/monte_real_club_de_yates_de_baiona2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pontevedra/monte_real_club_de_yates_de_baiona3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pontevedra/monte_real_club_de_yates_de_baiona4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pontevedra/monte_real_club_de_yates_de_baiona5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/pontevedra/monte_real_club_de_yates_de_baiona_logo.png",
     "user_ratings_total": 0,
-    "website": "mrcyb.es",
+    "website": "https://www.mrcyb.es",
     "activities": []
   }
 }

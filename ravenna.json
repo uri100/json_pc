@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ravenna/circolo_ravennate_e_dei_forestieri1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ravenna/circolo_ravennate_e_dei_forestieri2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ravenna/circolo_ravennate_e_dei_forestieri3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ravenna/circolo_ravennate_e_dei_forestieri4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ravenna/circolo_ravennate_e_dei_forestieri5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ravenna/circolo_ravennate_e_dei_forestieri_logo.png",
     "user_ratings_total": 0,
-    "website": "circoloravennate.it",
+    "website": "https://www.circoloravennate.it",
     "activities": []
   }
 }

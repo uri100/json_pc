@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/potomac_falls/trump_national_golf_club_washington_dc_trump_organization1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/potomac_falls/trump_national_golf_club_washington_dc_trump_organization2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/potomac_falls/trump_national_golf_club_washington_dc_trump_organization3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/potomac_falls/trump_national_golf_club_washington_dc_trump_organization4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/potomac_falls/trump_national_golf_club_washington_dc_trump_organization5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/potomac_falls/trump_national_golf_club_washington_dc_trump_organization_logo.png",
     "user_ratings_total": 0,
-    "website": "trumpnationaldc.com",
+    "website": "https://www.trumpnationaldc.com",
     "activities": []
   }
 }

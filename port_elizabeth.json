@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_elizabeth/humewood_golf_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_elizabeth/humewood_golf_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_elizabeth/humewood_golf_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_elizabeth/humewood_golf_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_elizabeth/humewood_golf_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_elizabeth/humewood_golf_club_logo.png",
     "user_ratings_total": 0,
-    "website": "humewoodgolf.co.za",
+    "website": "https://www.humewoodgolf.co.za",
     "activities": [
       "golf"
     ]
@@ -41,15 +47,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_elizabeth/port_elizabeth_st_georges_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_elizabeth/port_elizabeth_st_georges_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_elizabeth/port_elizabeth_st_georges_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_elizabeth/port_elizabeth_st_georges_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_elizabeth/port_elizabeth_st_georges_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_elizabeth/port_elizabeth_st_georges_club_logo.png",
     "user_ratings_total": 0,
-    "website": "pestgeorgesclub.co.za",
+    "website": "https://www.pestgeorgesclub.co.za",
     "activities": []
   },
-  "Port Elizabeth St. George’s Club": {
+  "Port Elizabeth St. George's Club": {
     "formatted_address": "12 Bird Street, Central",
     "formatted_phone_number": "+27 41 5851919",
     "geometry": {
@@ -58,17 +70,23 @@
         "lng": 0.0
       }
     },
-    "name": "Port Elizabeth St. George’s Club",
+    "name": "Port Elizabeth St. George's Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_elizabeth/port_elizabeth_st_georges_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_elizabeth/port_elizabeth_st_georges_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_elizabeth/port_elizabeth_st_georges_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_elizabeth/port_elizabeth_st_georges_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_elizabeth/port_elizabeth_st_georges_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/port_elizabeth/port_elizabeth_st_georges_club_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": []

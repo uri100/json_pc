@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rio_de_janeiro/clubhouse_rio1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rio_de_janeiro/clubhouse_rio2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rio_de_janeiro/clubhouse_rio3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rio_de_janeiro/clubhouse_rio4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rio_de_janeiro/clubhouse_rio5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rio_de_janeiro/clubhouse_rio_logo.png",
     "user_ratings_total": 0,
-    "website": "thehearthouse.me/the-clubhouse-rio/",
+    "website": "https://www.thehearthouse.me/the-clubhouse-rio/",
     "activities": []
   },
   "Iate Clube do Rio de Janeiro": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rio_de_janeiro/iate_clube_do_rio_de_janeiro1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rio_de_janeiro/iate_clube_do_rio_de_janeiro2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rio_de_janeiro/iate_clube_do_rio_de_janeiro3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rio_de_janeiro/iate_clube_do_rio_de_janeiro4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rio_de_janeiro/iate_clube_do_rio_de_janeiro5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rio_de_janeiro/iate_clube_do_rio_de_janeiro_logo.png",
     "user_ratings_total": 0,
-    "website": "icrj.com.br",
+    "website": "https://www.icrj.com.br",
     "activities": []
   },
   "Jockey Club Brasileiro": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rio_de_janeiro/jockey_club_brasileiro1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rio_de_janeiro/jockey_club_brasileiro2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rio_de_janeiro/jockey_club_brasileiro3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rio_de_janeiro/jockey_club_brasileiro4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rio_de_janeiro/jockey_club_brasileiro5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rio_de_janeiro/jockey_club_brasileiro_logo.png",
     "user_ratings_total": 0,
-    "website": "jcb.com.br",
+    "website": "https://www.jcb.com.br",
     "activities": []
   }
 }

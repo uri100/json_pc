@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/acorn_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/acorn_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/acorn_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/acorn_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/acorn_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/acorn_club_logo.png",
     "user_ratings_total": 0,
-    "website": "acornclub.org",
+    "website": "https://www.acornclub.org",
     "activities": []
   },
   "Corinthian Yacht Club of Philadelphia": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/corinthian_yacht_club_of_philadelphia1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/corinthian_yacht_club_of_philadelphia2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/corinthian_yacht_club_of_philadelphia3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/corinthian_yacht_club_of_philadelphia4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/corinthian_yacht_club_of_philadelphia5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/corinthian_yacht_club_of_philadelphia_logo.png",
     "user_ratings_total": 0,
-    "website": "corinthianyachtclub.clubhouseonline-e3.com",
+    "website": "https://www.corinthianyachtclub.clubhouseonline-e3.com",
     "activities": []
   },
   "Cosmopolitan Club of Philadelphia": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/cosmopolitan_club_of_philadelphia1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/cosmopolitan_club_of_philadelphia2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/cosmopolitan_club_of_philadelphia3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/cosmopolitan_club_of_philadelphia4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/cosmopolitan_club_of_philadelphia5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/cosmopolitan_club_of_philadelphia_logo.png",
     "user_ratings_total": 0,
-    "website": "cosclub.org",
+    "website": "https://www.cosclub.org",
     "activities": []
   },
   "Fitler Club": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/fitler_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/fitler_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/fitler_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/fitler_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/fitler_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/fitler_club_logo.png",
     "user_ratings_total": 0,
-    "website": "fitlerclub.com",
+    "website": "https://www.fitlerclub.com",
     "activities": [
       "swimming"
     ]
@@ -113,12 +137,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/franklin_inn_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/franklin_inn_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/franklin_inn_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/franklin_inn_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/franklin_inn_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/franklin_inn_club_logo.png",
     "user_ratings_total": 0,
-    "website": "thefranklininn.com",
+    "website": "https://www.thefranklininn.com",
     "activities": []
   },
   "Mask and Wig Club": {
@@ -137,12 +167,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/mask_and_wig_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/mask_and_wig_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/mask_and_wig_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/mask_and_wig_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/mask_and_wig_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/mask_and_wig_club_logo.png",
     "user_ratings_total": 0,
-    "website": "maskandwig.com",
+    "website": "https://www.maskandwig.com",
     "activities": []
   },
   "Pen & Pencil Club": {
@@ -161,12 +197,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/pen_pencil_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/pen_pencil_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/pen_pencil_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/pen_pencil_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/pen_pencil_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/pen_pencil_club_logo.png",
     "user_ratings_total": 0,
-    "website": "penandpencil.org",
+    "website": "https://www.penandpencil.org",
     "activities": []
   },
   "Penn Club of Philadelphia": {
@@ -185,12 +227,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/penn_club_of_philadelphia1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/penn_club_of_philadelphia2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/penn_club_of_philadelphia3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/penn_club_of_philadelphia4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/penn_club_of_philadelphia5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/penn_club_of_philadelphia_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/The_Penn_Club_of_Philadelphia",
+    "website": "https://www.wikipedia.org/wiki/The_Penn_Club_of_Philadelphia",
     "activities": []
   },
   "Philadelphia Club": {
@@ -209,12 +257,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/philadelphia_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/philadelphia_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/philadelphia_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/philadelphia_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/philadelphia_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/philadelphia_club_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Philadelphia_Club",
+    "website": "https://www.wikipedia.org/wiki/Philadelphia_Club",
     "activities": []
   },
   "Philadelphia Sketch Club": {
@@ -233,12 +287,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/philadelphia_sketch_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/philadelphia_sketch_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/philadelphia_sketch_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/philadelphia_sketch_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/philadelphia_sketch_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/philadelphia_sketch_club_logo.png",
     "user_ratings_total": 0,
-    "website": "sketchclub.org",
+    "website": "https://www.sketchclub.org",
     "activities": []
   },
   "Racquet Club of Philadelphia": {
@@ -257,12 +317,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/racquet_club_of_philadelphia1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/racquet_club_of_philadelphia2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/racquet_club_of_philadelphia3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/racquet_club_of_philadelphia4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/racquet_club_of_philadelphia5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/racquet_club_of_philadelphia_logo.png",
     "user_ratings_total": 0,
-    "website": "rcop.com",
+    "website": "https://www.rcop.com",
     "activities": []
   },
   "Trump National Golf Club - Philadelphia (\"Trump organization)": {
@@ -281,12 +347,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/trump_national_golf_club_philadelphia_trump_organization1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/trump_national_golf_club_philadelphia_trump_organization2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/trump_national_golf_club_philadelphia_trump_organization3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/trump_national_golf_club_philadelphia_trump_organization4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/trump_national_golf_club_philadelphia_trump_organization5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/trump_national_golf_club_philadelphia_trump_organization_logo.png",
     "user_ratings_total": 0,
-    "website": "trumpnationalphiladelphia.com",
+    "website": "https://www.trumpnationalphiladelphia.com",
     "activities": []
   },
   "Union League of Philadelphia": {
@@ -305,12 +377,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/union_league_of_philadelphia1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/union_league_of_philadelphia2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/union_league_of_philadelphia3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/union_league_of_philadelphia4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/union_league_of_philadelphia5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/union_league_of_philadelphia_logo.png",
     "user_ratings_total": 0,
-    "website": "unionleague.org",
+    "website": "https://www.unionleague.org",
     "activities": []
   },
   "United Republican Club": {
@@ -329,12 +407,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/united_republican_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/united_republican_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/united_republican_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/united_republican_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/united_republican_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/united_republican_club_logo.png",
     "user_ratings_total": 0,
-    "website": "urcphila.com",
+    "website": "https://www.urcphila.com",
     "activities": []
   },
   "University Club at Penn": {
@@ -353,12 +437,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/university_club_at_penn1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/university_club_at_penn2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/university_club_at_penn3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/university_club_at_penn4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/university_club_at_penn5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/university_club_at_penn_logo.png",
     "user_ratings_total": 0,
-    "website": "cms.business-services.upenn.edu/universityclub/",
+    "website": "https://www.cms.business-services.upenn.edu/universityclub/",
     "activities": []
   }
 }

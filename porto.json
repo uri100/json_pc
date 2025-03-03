@@ -15,15 +15,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/ateneu_comercial_do_porto1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/ateneu_comercial_do_porto2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/ateneu_comercial_do_porto3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/ateneu_comercial_do_porto4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/ateneu_comercial_do_porto5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/ateneu_comercial_do_porto_logo.png",
     "user_ratings_total": 0,
-    "website": "ateneucomercialporto.pt",
+    "website": "https://www.ateneucomercialporto.pt",
     "activities": []
   },
-  "Círculo Universitário do Porto": {
+  "CĂ­rculo UniversitĂˇrio do Porto": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,19 +38,25 @@
         "lng": 0.0
       }
     },
-    "name": "Círculo Universitário do Porto",
+    "name": "CĂ­rculo UniversitĂˇrio do Porto",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/crculo_universitrio_do_porto1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/crculo_universitrio_do_porto2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/crculo_universitrio_do_porto3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/crculo_universitrio_do_porto4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/crculo_universitrio_do_porto5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/crculo_universitrio_do_porto_logo.png",
     "user_ratings_total": 0,
-    "website": "facebook.com/circulouniversitariodoporto",
+    "website": "https://www.facebook.com/circulouniversitariodoporto",
     "activities": []
   },
   "Club Portuense": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/club_portuense1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/club_portuense2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/club_portuense3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/club_portuense4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/club_portuense5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/club_portuense_logo.png",
     "user_ratings_total": 0,
-    "website": "clubportuense.com",
+    "website": "https://www.clubportuense.com",
     "activities": []
   },
   "Clube Fenianos Portuenses": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/clube_fenianos_portuenses1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/clube_fenianos_portuenses2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/clube_fenianos_portuenses3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/clube_fenianos_portuenses4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/clube_fenianos_portuenses5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/clube_fenianos_portuenses_logo.png",
     "user_ratings_total": 0,
-    "website": "clubefenianos.pt",
+    "website": "https://www.clubefenianos.pt",
     "activities": []
   },
   "Factory House": {
@@ -111,12 +135,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/factory_house1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/factory_house2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/factory_house3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/factory_house4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/factory_house5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/factory_house_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Factory_House",
+    "website": "https://www.wikipedia.org/wiki/Factory_House",
     "activities": []
   },
   "Oporto Lawn Tennis and Cricket Club": {
@@ -135,12 +165,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/oporto_lawn_tennis_and_cricket_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/oporto_lawn_tennis_and_cricket_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/oporto_lawn_tennis_and_cricket_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/oporto_lawn_tennis_and_cricket_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/oporto_lawn_tennis_and_cricket_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/porto/oporto_lawn_tennis_and_cricket_club_logo.png",
     "user_ratings_total": 0,
-    "website": "oportocricketclub.com",
+    "website": "https://www.oportocricketclub.com",
     "activities": []
   }
 }
