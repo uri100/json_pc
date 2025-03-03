@@ -1,4 +1,94 @@
 {
+  "Club zum Rennweg": {
+    "formatted_address": "Fortunagasse 13",
+    "formatted_phone_number": "+41 43 497 21 60",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Club zum Rennweg",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/club_zum_rennweg1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/club_zum_rennweg2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/club_zum_rennweg3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/club_zum_rennweg4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/club_zum_rennweg5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/club_zum_rennweg_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.clubzumrennweg.ch",
+    "activities": []
+  },
+  "Haute Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Haute Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/haute_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/haute_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/haute_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/haute_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/haute_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/haute_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.haute.ch",
+    "activities": []
+  },
+  "Savoy Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Savoy Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/savoy_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/savoy_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/savoy_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/savoy_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/savoy_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/savoy_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.savoy-club-zuerich.ch",
+    "activities": []
+  },
   "Club Baur au Lac": {
     "formatted_address": "",
     "formatted_phone_number": "",
@@ -15,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/club_baur_au_lac1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/club_baur_au_lac2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/club_baur_au_lac3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/club_baur_au_lac4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/club_baur_au_lac5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/club_baur_au_lac_logo.png",
     "user_ratings_total": 0,
-    "website": "cbal.ch",
+    "website": "https://www.cbal.ch",
     "activities": []
   },
   "Gesellschaft der Schildner zum Schneggen": {
@@ -39,12 +135,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/gesellschaft_der_schildner_zum_schneggen1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/gesellschaft_der_schildner_zum_schneggen2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/gesellschaft_der_schildner_zum_schneggen3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/gesellschaft_der_schildner_zum_schneggen4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/gesellschaft_der_schildner_zum_schneggen5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/zurich/gesellschaft_der_schildner_zum_schneggen_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Gesellschaft_der_Schildner_zum_Schneggen",
+    "website": "https://www.wikipedia.org/wiki/Gesellschaft_der_Schildner_zum_Schneggen",
     "activities": []
   }
 }

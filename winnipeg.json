@@ -15,17 +15,23 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/winnipeg/manitoba_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/winnipeg/manitoba_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/winnipeg/manitoba_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/winnipeg/manitoba_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/winnipeg/manitoba_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/winnipeg/manitoba_club_logo.png",
     "user_ratings_total": 0,
-    "website": "manitobaclub.mb.ca",
+    "website": "https://www.manitobaclub.mb.ca",
     "activities": [
       "athletic"
     ]
   },
-  "University Women’s Club Winnipeg": {
+  "University Women's Club Winnipeg": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -34,19 +40,55 @@
         "lng": 0.0
       }
     },
-    "name": "University Women’s Club Winnipeg",
+    "name": "University Women's Club Winnipeg",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/winnipeg/university_womens_club_winnipeg1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/winnipeg/university_womens_club_winnipeg2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/winnipeg/university_womens_club_winnipeg3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/winnipeg/university_womens_club_winnipeg4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/winnipeg/university_womens_club_winnipeg5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/winnipeg/university_womens_club_winnipeg_logo.png",
     "user_ratings_total": 0,
-    "website": "uwcwpgmb.com",
+    "website": "https://www.uwcwpgmb.com",
+    "activities": []
+  },
+  "Winnipeg Winter Club": {
+    "formatted_address": "200 River Avenue, Winnipeg, Manitoba R3L 0B2",
+    "formatted_phone_number": "204 452 3311 , 2042842567",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Winnipeg Winter Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/winnipeg/winnipeg_winter_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/winnipeg/winnipeg_winter_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/winnipeg/winnipeg_winter_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/winnipeg/winnipeg_winter_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/winnipeg/winnipeg_winter_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/winnipeg/winnipeg_winter_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.winnipegwinterclub.com",
     "activities": []
   }
 }

@@ -1,4 +1,64 @@
 {
+  "Capitol Hill Club": {
+    "formatted_address": "300 First Street, Southeast",
+    "formatted_phone_number": "+1 202 4844590",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Capitol Hill Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/capitol_hill_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/capitol_hill_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/capitol_hill_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/capitol_hill_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/capitol_hill_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/capitol_hill_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": []
+  },
+  "The George Town Club": {
+    "formatted_address": "1530 Wisconsin Avenue, N W",
+    "formatted_phone_number": "+1 202 3339330",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The George Town Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/the_george_town_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/the_george_town_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/the_george_town_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/the_george_town_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/the_george_town_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/the_george_town_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": []
+  },
   "116 Club (aka One Sixteen Club)": {
     "formatted_address": "",
     "formatted_phone_number": "",
@@ -15,10 +75,16 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/116_club_aka_one_sixteen_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/116_club_aka_one_sixteen_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/116_club_aka_one_sixteen_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/116_club_aka_one_sixteen_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/116_club_aka_one_sixteen_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/116_club_aka_one_sixteen_club_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": []
@@ -39,36 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/alibi_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/alibi_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/alibi_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/alibi_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/alibi_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/alibi_club_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Alibi_Club",
-    "activities": []
-  },
-  "Army and Navy Club": {
-    "formatted_address": "901 17th Street, NW, Washington DC 20006",
-    "formatted_phone_number": "202 628 8400 , 2027852481",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Army and Navy Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "armynavyclub.org",
+    "website": "https://www.wikipedia.org/wiki/Alibi_Club",
     "activities": []
   },
   "Arts Club of Washington": {
@@ -87,12 +135,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/arts_club_of_washington1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/arts_club_of_washington2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/arts_club_of_washington3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/arts_club_of_washington4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/arts_club_of_washington5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/arts_club_of_washington_logo.png",
     "user_ratings_total": 0,
-    "website": "artsclubofwashington.org",
+    "website": "https://www.artsclubofwashington.org",
     "activities": []
   },
   "Capitol Hill Club (\"The National Republican Club)": {
@@ -111,12 +165,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/capitol_hill_club_the_national_republican_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/capitol_hill_club_the_national_republican_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/capitol_hill_club_the_national_republican_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/capitol_hill_club_the_national_republican_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/capitol_hill_club_the_national_republican_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/capitol_hill_club_the_national_republican_club_logo.png",
     "user_ratings_total": 0,
-    "website": "capitolhillclub.org",
+    "website": "https://www.capitolhillclub.org",
     "activities": []
   },
   "City Tavern Club": {
@@ -135,12 +195,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/city_tavern_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/city_tavern_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/city_tavern_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/city_tavern_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/city_tavern_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/city_tavern_club_logo.png",
     "user_ratings_total": 0,
-    "website": "citytavernclubdc.org",
+    "website": "https://www.citytavernclubdc.org",
     "activities": []
   },
   "Cosmos Club": {
@@ -159,12 +225,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/cosmos_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/cosmos_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/cosmos_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/cosmos_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/cosmos_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/cosmos_club_logo.png",
     "user_ratings_total": 0,
-    "website": "cosmosclub.org",
+    "website": "https://www.cosmosclub.org",
     "activities": []
   },
   "George Town Club": {
@@ -183,12 +255,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/george_town_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/george_town_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/george_town_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/george_town_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/george_town_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/george_town_club_logo.png",
     "user_ratings_total": 0,
-    "website": "georgetownclub.org",
+    "website": "https://www.georgetownclub.org",
     "activities": []
   },
   "Metropolitan Club DC": {
@@ -207,12 +285,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/metropolitan_club_dc1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/metropolitan_club_dc2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/metropolitan_club_dc3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/metropolitan_club_dc4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/metropolitan_club_dc5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/metropolitan_club_dc_logo.png",
     "user_ratings_total": 0,
-    "website": "metroclub.com",
+    "website": "https://www.metroclub.com",
     "activities": []
   },
   "National Democratic Club": {
@@ -231,12 +315,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/national_democratic_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/national_democratic_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/national_democratic_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/national_democratic_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/national_democratic_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/national_democratic_club_logo.png",
     "user_ratings_total": 0,
-    "website": "natdemclub.org",
+    "website": "https://www.natdemclub.org",
     "activities": []
   },
   "National Press Club": {
@@ -255,12 +345,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/national_press_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/national_press_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/national_press_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/national_press_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/national_press_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/national_press_club_logo.png",
     "user_ratings_total": 0,
-    "website": "press.org",
+    "website": "https://www.press.org",
     "activities": []
   },
   "Sulgrave Club": {
@@ -279,36 +375,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/sulgrave_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/sulgrave_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/sulgrave_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/sulgrave_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/sulgrave_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/sulgrave_club_logo.png",
     "user_ratings_total": 0,
-    "website": "sulgraveclub.org",
-    "activities": []
-  },
-  "University Club Of Washington DC": {
-    "formatted_address": "1135 16th Street, NW, Washington DC 20036",
-    "formatted_phone_number": "202 862 8800 , 2022962347",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "University Club Of Washington DC",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "universityclubdc.com",
+    "website": "https://www.sulgraveclub.org",
     "activities": []
   },
   "wineLAIR D.C.": {
@@ -327,12 +405,78 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/winelair_dc1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/winelair_dc2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/winelair_dc3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/winelair_dc4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/winelair_dc5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/winelair_dc_logo.png",
     "user_ratings_total": 0,
     "website": "",
+    "activities": []
+  },
+  "Army and Navy Club": {
+    "formatted_address": "901 17th Street, NW, Washington DC 20006",
+    "formatted_phone_number": "202 628 8400 , 2027852481",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Army and Navy Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/army_and_navy_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/army_and_navy_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/army_and_navy_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/army_and_navy_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/army_and_navy_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/army_and_navy_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.armynavyclub.org",
+    "activities": []
+  },
+  "University Club Of Washington DC": {
+    "formatted_address": "1135 16th Street, NW, Washington DC 20036",
+    "formatted_phone_number": "202 862 8800 , 2022962347",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "University Club Of Washington DC",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/university_club_of_washington_dc1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/university_club_of_washington_dc2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/university_club_of_washington_dc3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/university_club_of_washington_dc4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/university_club_of_washington_dc5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/university_club_of_washington_dc_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.universityclubdc.com",
     "activities": []
   }
 }

@@ -1,5 +1,5 @@
 {
-  "Círculo Vitoriano": {
+  "CĂ­rculo Vitoriano": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Círculo Vitoriano",
+    "name": "CĂ­rculo Vitoriano",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vitoriagasteiz/crculo_vitoriano1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vitoriagasteiz/crculo_vitoriano2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vitoriagasteiz/crculo_vitoriano3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vitoriagasteiz/crculo_vitoriano4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vitoriagasteiz/crculo_vitoriano5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vitoriagasteiz/crculo_vitoriano_logo.png",
     "user_ratings_total": 0,
-    "website": "circulovitoriano.es",
+    "website": "https://www.circulovitoriano.es",
     "activities": []
   }
 }

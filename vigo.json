@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vigo/circulo_de_empresarios_de_galicia1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vigo/circulo_de_empresarios_de_galicia2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vigo/circulo_de_empresarios_de_galicia3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vigo/circulo_de_empresarios_de_galicia4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vigo/circulo_de_empresarios_de_galicia5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vigo/circulo_de_empresarios_de_galicia_logo.png",
     "user_ratings_total": 0,
-    "website": "circulo.gal",
+    "website": "https://www.circulo.gal",
     "activities": []
   }
 }

@@ -1,4 +1,34 @@
 {
+  "Club de Vina": {
+    "formatted_address": "Plaza Sucre",
+    "formatted_phone_number": "+56 32 680016",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Club de Vina",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vina_del_mar/club_de_vina1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vina_del_mar/club_de_vina2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vina_del_mar/club_de_vina3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vina_del_mar/club_de_vina4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vina_del_mar/club_de_vina5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vina_del_mar/club_de_vina_logo.png",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": []
+  },
   "Club de Vina del Mar": {
     "formatted_address": "56 3273 6449, Vina del Mar, Plaza Sucre, Chile",
     "formatted_phone_number": "",
@@ -15,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vina_del_mar/club_de_vina_del_mar1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vina_del_mar/club_de_vina_del_mar2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vina_del_mar/club_de_vina_del_mar3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vina_del_mar/club_de_vina_del_mar4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vina_del_mar/club_de_vina_del_mar5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vina_del_mar/club_de_vina_del_mar_logo.png",
     "user_ratings_total": 0,
-    "website": "clubvina.cl",
+    "website": "https://www.clubvina.cl",
     "activities": []
   }
 }

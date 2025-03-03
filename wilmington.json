@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/cape_fear_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/cape_fear_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/cape_fear_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/cape_fear_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/cape_fear_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/cape_fear_club_logo.png",
     "user_ratings_total": 0,
-    "website": "ncpedia.org/cape-fear-club",
+    "website": "https://www.ncpedia.org/cape-fear-club",
     "activities": []
   },
   "City Club of Wilmington": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/city_club_of_wilmington1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/city_club_of_wilmington2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/city_club_of_wilmington3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/city_club_of_wilmington4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/city_club_of_wilmington5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/city_club_of_wilmington_logo.png",
     "user_ratings_total": 0,
-    "website": "cityclubofwilmington.com",
+    "website": "https://www.cityclubofwilmington.com",
     "activities": []
   },
   "The Hermitage Club at Haystack Mountain": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/the_hermitage_club_at_haystack_mountain1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/the_hermitage_club_at_haystack_mountain2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/the_hermitage_club_at_haystack_mountain3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/the_hermitage_club_at_haystack_mountain4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/the_hermitage_club_at_haystack_mountain5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/the_hermitage_club_at_haystack_mountain_logo.png",
     "user_ratings_total": 0,
-    "website": "hermitageclub.com",
+    "website": "https://www.hermitageclub.com",
     "activities": []
   },
   "University and Whist Club": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/university_and_whist_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/university_and_whist_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/university_and_whist_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/university_and_whist_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/university_and_whist_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/university_and_whist_club_logo.png",
     "user_ratings_total": 0,
-    "website": "universityandwhistclub.com",
+    "website": "https://www.universityandwhistclub.com",
     "activities": []
   },
   "Wilmington Club": {
@@ -111,12 +135,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/wilmington_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/wilmington_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/wilmington_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/wilmington_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/wilmington_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/wilmington/wilmington_club_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Wilmington_Club",
+    "website": "https://www.wikipedia.org/wiki/Wilmington_Club",
     "activities": []
   }
 }

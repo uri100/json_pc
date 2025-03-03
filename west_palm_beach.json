@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/bear_lakes_country_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/bear_lakes_country_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/bear_lakes_country_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/bear_lakes_country_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/bear_lakes_country_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/bear_lakes_country_club_logo.png",
     "user_ratings_total": 0,
-    "website": "bearlakes.org",
+    "website": "https://www.bearlakes.org",
     "activities": []
   },
   "Emerald Dunes Club": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/emerald_dunes_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/emerald_dunes_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/emerald_dunes_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/emerald_dunes_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/emerald_dunes_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/emerald_dunes_club_logo.png",
     "user_ratings_total": 0,
-    "website": "emeralddunesclub.com",
+    "website": "https://www.emeralddunesclub.com",
     "activities": []
   },
   "Palm Beach Yacht Club": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/palm_beach_yacht_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/palm_beach_yacht_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/palm_beach_yacht_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/palm_beach_yacht_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/palm_beach_yacht_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/palm_beach_yacht_club_logo.png",
     "user_ratings_total": 0,
-    "website": "pbyc.com",
+    "website": "https://www.pbyc.com",
     "activities": []
   },
   "Trump International Golf Club - West Palm Beach (\"Trump organization)": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/trump_international_golf_club_west_palm_beach_trump_organization1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/trump_international_golf_club_west_palm_beach_trump_organization2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/trump_international_golf_club_west_palm_beach_trump_organization3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/trump_international_golf_club_west_palm_beach_trump_organization4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/trump_international_golf_club_west_palm_beach_trump_organization5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/west_palm_beach/trump_international_golf_club_west_palm_beach_trump_organization_logo.png",
     "user_ratings_total": 0,
-    "website": "trumpinternationalpalmbeaches.com",
+    "website": "https://www.trumpinternationalpalmbeaches.com",
     "activities": []
   }
 }

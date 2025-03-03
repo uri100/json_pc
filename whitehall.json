@@ -1,5 +1,5 @@
 {
-  "Authors’ Club": {
+  "Authors' Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Authors’ Club",
+    "name": "Authors' Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/authors_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/authors_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/authors_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/authors_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/authors_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/authors_club_logo.png",
     "user_ratings_total": 0,
-    "website": "authorsclub.co.uk",
+    "website": "https://www.authorsclub.co.uk",
     "activities": []
   },
   "Civil Service Club London": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/civil_service_club_london1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/civil_service_club_london2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/civil_service_club_london3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/civil_service_club_london4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/civil_service_club_london5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/civil_service_club_london_logo.png",
     "user_ratings_total": 0,
-    "website": "civilserviceclub.org.uk",
+    "website": "https://www.civilserviceclub.org.uk",
     "activities": []
   },
   "Farmers Club": {
@@ -63,15 +75,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/farmers_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/farmers_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/farmers_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/farmers_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/farmers_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/farmers_club_logo.png",
     "user_ratings_total": 0,
-    "website": "thefarmersclub.com",
+    "website": "https://www.thefarmersclub.com",
     "activities": []
   },
-  "National Liberal Club (\"“NLC”)": {
+  "National Liberal Club (\"â€śNLCâ€ť)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -80,19 +98,25 @@
         "lng": 0.0
       }
     },
-    "name": "National Liberal Club (\"“NLC”)",
+    "name": "National Liberal Club (\"â€śNLCâ€ť)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/national_liberal_club_nlc1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/national_liberal_club_nlc2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/national_liberal_club_nlc3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/national_liberal_club_nlc4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/national_liberal_club_nlc5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/national_liberal_club_nlc_logo.png",
     "user_ratings_total": 0,
-    "website": "nlc.org.uk",
+    "website": "https://www.nlc.org.uk",
     "activities": []
   },
   "Savage Club": {
@@ -111,12 +135,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/savage_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/savage_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/savage_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/savage_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/savage_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/whitehall/savage_club_logo.png",
     "user_ratings_total": 0,
-    "website": "savageclub.com",
+    "website": "https://www.savageclub.com",
     "activities": []
   }
 }
