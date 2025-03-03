@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/central_provinces_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/central_provinces_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/central_provinces_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/central_provinces_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/central_provinces_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/central_provinces_club_logo.png",
     "user_ratings_total": 0,
-    "website": "cpclub.in",
+    "website": "https://www.cpclub.in",
     "activities": []
   },
   "Gondwana Club": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/gondwana_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/gondwana_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/gondwana_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/gondwana_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/gondwana_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/gondwana_club_logo.png",
     "user_ratings_total": 0,
-    "website": "gondwanaclub.com",
+    "website": "https://www.gondwanaclub.com",
     "activities": []
   },
   "Indian Gymkhana Nagpur": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/indian_gymkhana_nagpur1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/indian_gymkhana_nagpur2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/indian_gymkhana_nagpur3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/indian_gymkhana_nagpur4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/indian_gymkhana_nagpur5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/indian_gymkhana_nagpur_logo.png",
     "user_ratings_total": 0,
-    "website": "wikimapia.org/6778095/Indian-Gymkhana-Club",
+    "website": "https://www.wikimapia.org/6778095/Indian-Gymkhana-Club",
     "activities": []
   },
   "M.I.A. Centre for Sports and Recreation": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/mia_centre_for_sports_and_recreation1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/mia_centre_for_sports_and_recreation2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/mia_centre_for_sports_and_recreation3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/mia_centre_for_sports_and_recreation4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/mia_centre_for_sports_and_recreation5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/mia_centre_for_sports_and_recreation_logo.png",
     "user_ratings_total": 0,
-    "website": "miacsr.com",
+    "website": "https://www.miacsr.com",
     "activities": []
   },
   "Maharaj Bag Club": {
@@ -111,12 +135,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/maharaj_bag_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/maharaj_bag_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/maharaj_bag_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/maharaj_bag_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/maharaj_bag_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/nagpur/maharaj_bag_club_logo.png",
     "user_ratings_total": 0,
-    "website": "maharajbagclub.com",
+    "website": "https://www.maharajbagclub.com",
     "activities": []
   }
 }

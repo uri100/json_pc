@@ -15,10 +15,16 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/orsingen_nenzingen/country_club_schloss_langenstein1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/orsingen_nenzingen/country_club_schloss_langenstein2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/orsingen_nenzingen/country_club_schloss_langenstein3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/orsingen_nenzingen/country_club_schloss_langenstein4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/orsingen_nenzingen/country_club_schloss_langenstein5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/orsingen_nenzingen/country_club_schloss_langenstein_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": [

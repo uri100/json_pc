@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/acres_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/acres_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/acres_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/acres_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/acres_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/acres_club_logo.png",
     "user_ratings_total": 0,
-    "website": "theacresclub.com",
+    "website": "https://www.theacresclub.com",
     "activities": []
   },
   "Andheri Recreation Club": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/andheri_recreation_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/andheri_recreation_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/andheri_recreation_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/andheri_recreation_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/andheri_recreation_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/andheri_recreation_club_logo.png",
     "user_ratings_total": 0,
-    "website": "andherirecreationclub.com",
+    "website": "https://www.andherirecreationclub.com",
     "activities": []
   },
   "Bombay Gymkhana": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_gymkhana1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_gymkhana2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_gymkhana3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_gymkhana4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_gymkhana5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_gymkhana_logo.png",
     "user_ratings_total": 0,
-    "website": "bombaygymkhana.com",
+    "website": "https://www.bombaygymkhana.com",
     "activities": [
       "tennis",
       "athletic",
@@ -91,12 +109,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_presidency_golf_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_presidency_golf_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_presidency_golf_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_presidency_golf_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_presidency_golf_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_presidency_golf_club_logo.png",
     "user_ratings_total": 0,
-    "website": "bpgc-golf.com",
+    "website": "https://www.bpgc-golf.com",
     "activities": []
   },
   "Bombay Presidency Radio Club": {
@@ -115,12 +139,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_presidency_radio_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_presidency_radio_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_presidency_radio_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_presidency_radio_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_presidency_radio_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_presidency_radio_club_logo.png",
     "user_ratings_total": 0,
-    "website": "radioclub.in",
+    "website": "https://www.radioclub.in",
     "activities": []
   },
   "Breach Candy Swimming & Bath Trust": {
@@ -139,12 +169,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/breach_candy_swimming_bath_trust1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/breach_candy_swimming_bath_trust2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/breach_candy_swimming_bath_trust3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/breach_candy_swimming_bath_trust4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/breach_candy_swimming_bath_trust5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/breach_candy_swimming_bath_trust_logo.png",
     "user_ratings_total": 0,
-    "website": "economictimes.indiatimes.com/pay-1-12-crore-to-join-mumbais-oldest-club-the-breach-candy-club/articleshow/20867898.cms",
+    "website": "https://www.economictimes.indiatimes.com/pay-1-12-crore-to-join-mumbais-oldest-club-the-breach-candy-club/articleshow/20867898.cms",
     "activities": []
   },
   "Catholic Gymkhana": {
@@ -163,12 +199,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/catholic_gymkhana1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/catholic_gymkhana2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/catholic_gymkhana3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/catholic_gymkhana4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/catholic_gymkhana5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/catholic_gymkhana_logo.png",
     "user_ratings_total": 0,
-    "website": "catholicgymkhana.com",
+    "website": "https://www.catholicgymkhana.com",
     "activities": []
   },
   "Celebration Sports Club": {
@@ -187,12 +229,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/celebration_sports_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/celebration_sports_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/celebration_sports_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/celebration_sports_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/celebration_sports_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/celebration_sports_club_logo.png",
     "user_ratings_total": 0,
-    "website": "thecelebrationsportsclub.com",
+    "website": "https://www.thecelebrationsportsclub.com",
     "activities": []
   },
   "Chembur Gymkhana": {
@@ -211,12 +259,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/chembur_gymkhana1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/chembur_gymkhana2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/chembur_gymkhana3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/chembur_gymkhana4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/chembur_gymkhana5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/chembur_gymkhana_logo.png",
     "user_ratings_total": 0,
-    "website": "chemburgymkhana.in",
+    "website": "https://www.chemburgymkhana.in",
     "activities": []
   },
   "Cricket Club of India": {
@@ -235,12 +289,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/cricket_club_of_india1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/cricket_club_of_india2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/cricket_club_of_india3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/cricket_club_of_india4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/cricket_club_of_india5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/cricket_club_of_india_logo.png",
     "user_ratings_total": 0,
-    "website": "thecricketclubofindia.com",
+    "website": "https://www.thecricketclubofindia.com",
     "activities": []
   },
   "Dadar Club": {
@@ -259,12 +319,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/dadar_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/dadar_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/dadar_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/dadar_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/dadar_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/dadar_club_logo.png",
     "user_ratings_total": 0,
-    "website": "dadarclub.com",
+    "website": "https://www.dadarclub.com",
     "activities": []
   },
   "Ghatkopar Jolly Gymkhana": {
@@ -283,12 +349,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/ghatkopar_jolly_gymkhana1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/ghatkopar_jolly_gymkhana2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/ghatkopar_jolly_gymkhana3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/ghatkopar_jolly_gymkhana4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/ghatkopar_jolly_gymkhana5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/ghatkopar_jolly_gymkhana_logo.png",
     "user_ratings_total": 0,
-    "website": "jollygymkhana.in",
+    "website": "https://www.jollygymkhana.in",
     "activities": []
   },
   "Golden Swan Country Club": {
@@ -307,12 +379,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/golden_swan_country_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/golden_swan_country_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/golden_swan_country_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/golden_swan_country_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/golden_swan_country_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/golden_swan_country_club_logo.png",
     "user_ratings_total": 0,
-    "website": "goldenswan.com",
+    "website": "https://www.goldenswan.com",
     "activities": []
   },
   "Indus Club": {
@@ -331,12 +409,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/indus_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/indus_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/indus_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/indus_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/indus_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/indus_club_logo.png",
     "user_ratings_total": 0,
-    "website": "theindusclub.com",
+    "website": "https://www.theindusclub.com",
     "activities": []
   },
   "Islam Gymkhana": {
@@ -355,15 +439,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/islam_gymkhana1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/islam_gymkhana2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/islam_gymkhana3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/islam_gymkhana4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/islam_gymkhana5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/islam_gymkhana_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Islam_Gymkhana,_Mumbai",
+    "website": "https://www.wikipedia.org/wiki/Islam_Gymkhana,_Mumbai",
     "activities": []
   },
-  "Jolie’s": {
+  "Jolie's": {
     "formatted_address": "Birla Centurion, Worli",
     "formatted_phone_number": "91 86 5755 6600",
     "geometry": {
@@ -372,17 +462,23 @@
         "lng": 0.0
       }
     },
-    "name": "Jolie’s",
+    "name": "Jolie's",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/jolies1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/jolies2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/jolies3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/jolies4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/jolies5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/jolies_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": []
@@ -403,12 +499,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/juhu_vile_parle_gymkhana_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/juhu_vile_parle_gymkhana_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/juhu_vile_parle_gymkhana_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/juhu_vile_parle_gymkhana_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/juhu_vile_parle_gymkhana_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/juhu_vile_parle_gymkhana_club_logo.png",
     "user_ratings_total": 0,
-    "website": "jvpgclub.com",
+    "website": "https://www.jvpgclub.com",
     "activities": []
   },
   "Khar Gymkhana": {
@@ -427,12 +529,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/khar_gymkhana1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/khar_gymkhana2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/khar_gymkhana3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/khar_gymkhana4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/khar_gymkhana5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/khar_gymkhana_logo.png",
     "user_ratings_total": 0,
-    "website": "khargymkhana.com",
+    "website": "https://www.khargymkhana.com",
     "activities": []
   },
   "Medical College Gymkhana": {
@@ -451,10 +559,16 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/medical_college_gymkhana1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/medical_college_gymkhana2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/medical_college_gymkhana3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/medical_college_gymkhana4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/medical_college_gymkhana5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/medical_college_gymkhana_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": []
@@ -475,12 +589,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/national_sports_club_of_india_nsci1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/national_sports_club_of_india_nsci2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/national_sports_club_of_india_nsci3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/national_sports_club_of_india_nsci4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/national_sports_club_of_india_nsci5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/national_sports_club_of_india_nsci_logo.png",
     "user_ratings_total": 0,
-    "website": "nscimumbai.com",
+    "website": "https://www.nscimumbai.com",
     "activities": []
   },
   "Navi Mumbai Sports Association": {
@@ -499,12 +619,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/navi_mumbai_sports_association1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/navi_mumbai_sports_association2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/navi_mumbai_sports_association3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/navi_mumbai_sports_association4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/navi_mumbai_sports_association5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/navi_mumbai_sports_association_logo.png",
     "user_ratings_total": 0,
-    "website": "nmsaindia.com",
+    "website": "https://www.nmsaindia.com",
     "activities": []
   },
   "Parmananddas Jivandas Hindu Gymkhana": {
@@ -523,12 +649,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/parmananddas_jivandas_hindu_gymkhana1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/parmananddas_jivandas_hindu_gymkhana2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/parmananddas_jivandas_hindu_gymkhana3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/parmananddas_jivandas_hindu_gymkhana4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/parmananddas_jivandas_hindu_gymkhana5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/parmananddas_jivandas_hindu_gymkhana_logo.png",
     "user_ratings_total": 0,
-    "website": "pjhindugymkhana.com",
+    "website": "https://www.pjhindugymkhana.com",
     "activities": []
   },
   "Parsi Gymkhana": {
@@ -547,12 +679,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/parsi_gymkhana1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/parsi_gymkhana2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/parsi_gymkhana3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/parsi_gymkhana4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/parsi_gymkhana5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/parsi_gymkhana_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Parsi_Gymkhana,_Marine_Drive",
+    "website": "https://www.wikipedia.org/wiki/Parsi_Gymkhana,_Marine_Drive",
     "activities": []
   },
   "Ripon Club": {
@@ -571,12 +709,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/ripon_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/ripon_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/ripon_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/ripon_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/ripon_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/ripon_club_logo.png",
     "user_ratings_total": 0,
-    "website": "riponclub.in",
+    "website": "https://www.riponclub.in",
     "activities": []
   },
   "Royal Bombay Yacht Club": {
@@ -595,12 +739,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_bombay_yacht_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_bombay_yacht_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_bombay_yacht_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_bombay_yacht_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_bombay_yacht_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_bombay_yacht_club_logo.png",
     "user_ratings_total": 0,
-    "website": "rbyc.co.in",
+    "website": "https://www.rbyc.co.in",
     "activities": []
   },
   "Royal Palms Golf & Country Club": {
@@ -619,12 +769,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_palms_golf_country_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_palms_golf_country_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_palms_golf_country_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_palms_golf_country_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_palms_golf_country_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_palms_golf_country_club_logo.png",
     "user_ratings_total": 0,
-    "website": "royalpalmsindia.com",
+    "website": "https://www.royalpalmsindia.com",
     "activities": []
   },
   "Royal Western Indian Turf Club": {
@@ -643,12 +799,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_western_indian_turf_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_western_indian_turf_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_western_indian_turf_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_western_indian_turf_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_western_indian_turf_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_western_indian_turf_club_logo.png",
     "user_ratings_total": 0,
-    "website": "rwitc.com",
+    "website": "https://www.rwitc.com",
     "activities": []
   },
   "Sher-E-Punjab Gymkhana & Health Club": {
@@ -667,12 +829,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/sherepunjab_gymkhana_health_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/sherepunjab_gymkhana_health_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/sherepunjab_gymkhana_health_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/sherepunjab_gymkhana_health_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/sherepunjab_gymkhana_health_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/sherepunjab_gymkhana_health_club_logo.png",
     "user_ratings_total": 0,
-    "website": "sherepunjabgymkhanaandhealthclub.com",
+    "website": "https://www.sherepunjabgymkhanaandhealthclub.com",
     "activities": []
   },
   "Soho House Mumbai (\"Soho House group)": {
@@ -691,12 +859,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/soho_house_mumbai_soho_house_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/soho_house_mumbai_soho_house_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/soho_house_mumbai_soho_house_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/soho_house_mumbai_soho_house_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/soho_house_mumbai_soho_house_group5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/soho_house_mumbai_soho_house_group_logo.png",
     "user_ratings_total": 0,
-    "website": "sohohousemumbai.com",
+    "website": "https://www.sohohousemumbai.com",
     "activities": []
   },
   "The A": {
@@ -715,12 +889,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_a1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_a2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_a3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_a4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_a5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_a_logo.png",
     "user_ratings_total": 0,
-    "website": "thea.club",
+    "website": "https://www.thea.club",
     "activities": []
   },
   "The Club Mumbai": {
@@ -739,12 +919,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_club_mumbai1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_club_mumbai2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_club_mumbai3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_club_mumbai4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_club_mumbai5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_club_mumbai_logo.png",
     "user_ratings_total": 0,
-    "website": "theclubmumbai.com",
+    "website": "https://www.theclubmumbai.com",
     "activities": []
   },
   "The Club, Mumbai": {
@@ -763,10 +949,16 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_club_mumbai1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_club_mumbai2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_club_mumbai3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_club_mumbai4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_club_mumbai5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_club_mumbai_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": [
@@ -791,10 +983,16 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_modernist1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_modernist2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_modernist3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_modernist4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_modernist5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_modernist_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": []
@@ -815,10 +1013,16 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_quorum_mumbai1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_quorum_mumbai2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_quorum_mumbai3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_quorum_mumbai4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_quorum_mumbai5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_quorum_mumbai_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": [
@@ -841,12 +1045,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/umbergoan_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/umbergoan_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/umbergoan_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/umbergoan_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/umbergoan_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/umbergoan_club_logo.png",
     "user_ratings_total": 0,
-    "website": "umbergaonclub.com",
+    "website": "https://www.umbergaonclub.com",
     "activities": []
   },
   "United Services Club": {
@@ -865,12 +1075,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/united_services_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/united_services_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/united_services_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/united_services_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/united_services_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/united_services_club_logo.png",
     "user_ratings_total": 0,
-    "website": "usclub.co.in",
+    "website": "https://www.usclub.co.in",
     "activities": []
   },
   "Willingdon Catholic Gymkhana": {
@@ -889,12 +1105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/willingdon_catholic_gymkhana1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/willingdon_catholic_gymkhana2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/willingdon_catholic_gymkhana3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/willingdon_catholic_gymkhana4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/willingdon_catholic_gymkhana5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/willingdon_catholic_gymkhana_logo.png",
     "user_ratings_total": 0,
-    "website": "wcgym.in",
+    "website": "https://www.wcgym.in",
     "activities": []
   },
   "Willingdon Sports Club": {
@@ -913,12 +1135,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/willingdon_sports_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/willingdon_sports_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/willingdon_sports_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/willingdon_sports_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/willingdon_sports_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/willingdon_sports_club_logo.png",
     "user_ratings_total": 0,
-    "website": "willingdonclub.com",
+    "website": "https://www.willingdonclub.com",
     "activities": []
   },
   "Wilson College Gymkhana": {
@@ -937,10 +1165,16 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/wilson_college_gymkhana1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/wilson_college_gymkhana2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/wilson_college_gymkhana3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/wilson_college_gymkhana4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/wilson_college_gymkhana5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/wilson_college_gymkhana_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": []

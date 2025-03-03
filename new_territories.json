@@ -15,10 +15,16 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_territories/the_country_club_at_hong_lok_yuen1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_territories/the_country_club_at_hong_lok_yuen2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_territories/the_country_club_at_hong_lok_yuen3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_territories/the_country_club_at_hong_lok_yuen4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_territories/the_country_club_at_hong_lok_yuen5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_territories/the_country_club_at_hong_lok_yuen_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": [

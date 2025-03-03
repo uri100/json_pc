@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/cosmopolitan_club_mysore1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/cosmopolitan_club_mysore2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/cosmopolitan_club_mysore3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/cosmopolitan_club_mysore4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/cosmopolitan_club_mysore5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/cosmopolitan_club_mysore_logo.png",
     "user_ratings_total": 0,
-    "website": "cosmomysore.in",
+    "website": "https://www.cosmomysore.in",
     "activities": []
   },
   "Jayachamaraja Wadiyar Golf Club": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/jayachamaraja_wadiyar_golf_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/jayachamaraja_wadiyar_golf_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/jayachamaraja_wadiyar_golf_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/jayachamaraja_wadiyar_golf_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/jayachamaraja_wadiyar_golf_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/jayachamaraja_wadiyar_golf_club_logo.png",
     "user_ratings_total": 0,
-    "website": "jwgcmysore.com",
+    "website": "https://www.jwgcmysore.com",
     "activities": []
   },
   "Mysore Race Club": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/mysore_race_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/mysore_race_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/mysore_race_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/mysore_race_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/mysore_race_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/mysore_race_club_logo.png",
     "user_ratings_total": 0,
-    "website": "mysoreraceclub.com",
+    "website": "https://www.mysoreraceclub.com",
     "activities": []
   },
   "Sree Kanteerava Narasimharaja Sports Club": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/sree_kanteerava_narasimharaja_sports_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/sree_kanteerava_narasimharaja_sports_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/sree_kanteerava_narasimharaja_sports_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/sree_kanteerava_narasimharaja_sports_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/sree_kanteerava_narasimharaja_sports_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mysore/sree_kanteerava_narasimharaja_sports_club_logo.png",
     "user_ratings_total": 0,
-    "website": "facebook.com/pages/Mysore-sports-Club/163955797036898",
+    "website": "https://www.facebook.com/pages/Mysore-sports-Club/163955797036898",
     "activities": []
   }
 }

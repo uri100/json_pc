@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/north_goa/clube_tennis_de_gaspar_dias1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/north_goa/clube_tennis_de_gaspar_dias2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/north_goa/clube_tennis_de_gaspar_dias3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/north_goa/clube_tennis_de_gaspar_dias4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/north_goa/clube_tennis_de_gaspar_dias5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/north_goa/clube_tennis_de_gaspar_dias_logo.png",
     "user_ratings_total": 0,
-    "website": "clubegaspardias.com",
+    "website": "https://www.clubegaspardias.com",
     "activities": []
   },
   "Country Club de Goa": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/north_goa/country_club_de_goa1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/north_goa/country_club_de_goa2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/north_goa/country_club_de_goa3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/north_goa/country_club_de_goa4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/north_goa/country_club_de_goa5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/north_goa/country_club_de_goa_logo.png",
     "user_ratings_total": 0,
-    "website": "countryclubgoa.com",
+    "website": "https://www.countryclubgoa.com",
     "activities": []
   },
   "International Centre Goa": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/north_goa/international_centre_goa1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/north_goa/international_centre_goa2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/north_goa/international_centre_goa3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/north_goa/international_centre_goa4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/north_goa/international_centre_goa5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/north_goa/international_centre_goa_logo.png",
     "user_ratings_total": 0,
-    "website": "internationalcentregoa.com",
+    "website": "https://www.internationalcentregoa.com",
     "activities": []
   }
 }

@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monte_argentario/circolo_nautico_e_della_vela_argentario1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monte_argentario/circolo_nautico_e_della_vela_argentario2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monte_argentario/circolo_nautico_e_della_vela_argentario3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monte_argentario/circolo_nautico_e_della_vela_argentario4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monte_argentario/circolo_nautico_e_della_vela_argentario5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monte_argentario/circolo_nautico_e_della_vela_argentario_logo.png",
     "user_ratings_total": 0,
-    "website": "cnva.it",
+    "website": "https://www.cnva.it",
     "activities": []
   }
 }

@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/norman/university_club_of_the_university_of_oklahoma1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/norman/university_club_of_the_university_of_oklahoma2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/norman/university_club_of_the_university_of_oklahoma3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/norman/university_club_of_the_university_of_oklahoma4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/norman/university_club_of_the_university_of_oklahoma5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/norman/university_club_of_the_university_of_oklahoma_logo.png",
     "user_ratings_total": 0,
-    "website": "theuclub-ou.com",
+    "website": "https://www.theuclub-ou.com",
     "activities": []
   }
 }

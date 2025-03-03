@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport/clambake_club_of_newport1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport/clambake_club_of_newport2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport/clambake_club_of_newport3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport/clambake_club_of_newport4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport/clambake_club_of_newport5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport/clambake_club_of_newport_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Clambake_Club_of_Newport",
+    "website": "https://www.wikipedia.org/wiki/Clambake_Club_of_Newport",
     "activities": []
   },
   "Newport Reading Room": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport/newport_reading_room1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport/newport_reading_room2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport/newport_reading_room3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport/newport_reading_room4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport/newport_reading_room5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport/newport_reading_room_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Newport_Reading_Room",
+    "website": "https://www.wikipedia.org/wiki/Newport_Reading_Room",
     "activities": []
   }
 }

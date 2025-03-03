@@ -15,10 +15,16 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/drivers_business_club_munich1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/drivers_business_club_munich2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/drivers_business_club_munich3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/drivers_business_club_munich4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/drivers_business_club_munich5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/drivers_business_club_munich_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": []
@@ -39,15 +45,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/famtain_member_club_formerly_the_hearthouse1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/famtain_member_club_formerly_the_hearthouse2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/famtain_member_club_formerly_the_hearthouse3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/famtain_member_club_formerly_the_hearthouse4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/famtain_member_club_formerly_the_hearthouse5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/famtain_member_club_formerly_the_hearthouse_logo.png",
     "user_ratings_total": 0,
-    "website": "famtain.com",
+    "website": "https://www.famtain.com",
     "activities": []
   },
-  "Münchener Herrenclub": {
+  "MĂĽnchener Herrenclub": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -56,19 +68,25 @@
         "lng": 0.0
       }
     },
-    "name": "Münchener Herrenclub",
+    "name": "MĂĽnchener Herrenclub",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/mnchener_herrenclub1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/mnchener_herrenclub2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/mnchener_herrenclub3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/mnchener_herrenclub4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/mnchener_herrenclub5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/mnchener_herrenclub_logo.png",
     "user_ratings_total": 0,
-    "website": "mhc1851.de",
+    "website": "https://www.mhc1851.de",
     "activities": []
   }
 }

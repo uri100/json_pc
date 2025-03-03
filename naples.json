@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/circolo_del_remo_e_della_vela_italia1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/circolo_del_remo_e_della_vela_italia2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/circolo_del_remo_e_della_vela_italia3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/circolo_del_remo_e_della_vela_italia4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/circolo_del_remo_e_della_vela_italia5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/circolo_del_remo_e_della_vela_italia_logo.png",
     "user_ratings_total": 0,
-    "website": "crvitalia.it",
+    "website": "https://www.crvitalia.it",
     "activities": []
   },
   "Circolo Nazionale dell'Unione": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/circolo_nazionale_dellunione1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/circolo_nazionale_dellunione2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/circolo_nazionale_dellunione3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/circolo_nazionale_dellunione4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/circolo_nazionale_dellunione5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/circolo_nazionale_dellunione_logo.png",
     "user_ratings_total": 0,
-    "website": "circolonazionaleunione.com",
+    "website": "https://www.circolonazionaleunione.com",
     "activities": []
   },
   "Royal Yacht Club Canottieri Savoia": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/royal_yacht_club_canottieri_savoia1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/royal_yacht_club_canottieri_savoia2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/royal_yacht_club_canottieri_savoia3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/royal_yacht_club_canottieri_savoia4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/royal_yacht_club_canottieri_savoia5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/royal_yacht_club_canottieri_savoia_logo.png",
     "user_ratings_total": 0,
-    "website": "circolonazionaleunione.com",
+    "website": "https://www.circolonazionaleunione.com",
     "activities": []
   },
   "Tennis Club Napoli": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/tennis_club_napoli1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/tennis_club_napoli2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/tennis_club_napoli3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/tennis_club_napoli4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/tennis_club_napoli5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/naples/tennis_club_napoli_logo.png",
     "user_ratings_total": 0,
-    "website": "tennisclubnapoli.it",
+    "website": "https://www.tennisclubnapoli.it",
     "activities": []
   }
 }

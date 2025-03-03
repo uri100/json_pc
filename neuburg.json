@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/neuburg/wittelsbacher_golfclub_rohrenfeldneuburg1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/neuburg/wittelsbacher_golfclub_rohrenfeldneuburg2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/neuburg/wittelsbacher_golfclub_rohrenfeldneuburg3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/neuburg/wittelsbacher_golfclub_rohrenfeldneuburg4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/neuburg/wittelsbacher_golfclub_rohrenfeldneuburg5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/neuburg/wittelsbacher_golfclub_rohrenfeldneuburg_logo.png",
     "user_ratings_total": 0,
-    "website": "wbgc.de",
+    "website": "https://www.wbgc.de",
     "activities": []
   }
 }

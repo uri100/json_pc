@@ -1,5 +1,5 @@
 {
-  "Club Alemán de Osorno": {
+  "Club AlemĂˇn de Osorno": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Club Alemán de Osorno",
+    "name": "Club AlemĂˇn de Osorno",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/osorno/club_alemn_de_osorno1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/osorno/club_alemn_de_osorno2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/osorno/club_alemn_de_osorno3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/osorno/club_alemn_de_osorno4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/osorno/club_alemn_de_osorno5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/osorno/club_alemn_de_osorno_logo.png",
     "user_ratings_total": 0,
-    "website": "clubalemanosorno.cl",
+    "website": "https://www.clubalemanosorno.cl",
     "activities": []
   }
 }

@@ -1,0 +1,32 @@
+{
+  "Societe du Jardin de Neuchatel": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Societe du Jardin de Neuchatel",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/neuchatel/societe_du_jardin_de_neuchatel1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/neuchatel/societe_du_jardin_de_neuchatel2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/neuchatel/societe_du_jardin_de_neuchatel3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/neuchatel/societe_du_jardin_de_neuchatel4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/neuchatel/societe_du_jardin_de_neuchatel5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/neuchatel/societe_du_jardin_de_neuchatel_logo.png",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": []
+  }
+}

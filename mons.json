@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mons/cwb_cercle_de_wallonie_brussles_hainaut1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mons/cwb_cercle_de_wallonie_brussles_hainaut2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mons/cwb_cercle_de_wallonie_brussles_hainaut3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mons/cwb_cercle_de_wallonie_brussles_hainaut4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mons/cwb_cercle_de_wallonie_brussles_hainaut5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mons/cwb_cercle_de_wallonie_brussles_hainaut_logo.png",
     "user_ratings_total": 0,
-    "website": "cercledewallonie.com",
+    "website": "https://www.cercledewallonie.com",
     "activities": []
   }
 }

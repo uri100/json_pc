@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/namur/cwb_cercle_de_wallonie_brussles_namur1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/namur/cwb_cercle_de_wallonie_brussles_namur2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/namur/cwb_cercle_de_wallonie_brussles_namur3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/namur/cwb_cercle_de_wallonie_brussles_namur4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/namur/cwb_cercle_de_wallonie_brussles_namur5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/namur/cwb_cercle_de_wallonie_brussles_namur_logo.png",
     "user_ratings_total": 0,
-    "website": "cercledewallonie.com",
+    "website": "https://www.cercledewallonie.com",
     "activities": []
   }
 }

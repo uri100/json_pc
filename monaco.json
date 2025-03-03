@@ -15,15 +15,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/automobile_club_de_monaco1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/automobile_club_de_monaco2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/automobile_club_de_monaco3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/automobile_club_de_monaco4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/automobile_club_de_monaco5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/automobile_club_de_monaco_logo.png",
     "user_ratings_total": 0,
-    "website": "acm.mc",
+    "website": "https://www.acm.mc",
     "activities": []
   },
-  "Club des Résidents Etrangers de Monaco": {
+  "Club des RĂ©sidents Etrangers de Monaco": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,19 +38,25 @@
         "lng": 0.0
       }
     },
-    "name": "Club des Résidents Etrangers de Monaco",
+    "name": "Club des RĂ©sidents Etrangers de Monaco",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/club_des_rsidents_etrangers_de_monaco1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/club_des_rsidents_etrangers_de_monaco2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/club_des_rsidents_etrangers_de_monaco3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/club_des_rsidents_etrangers_de_monaco4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/club_des_rsidents_etrangers_de_monaco5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/club_des_rsidents_etrangers_de_monaco_logo.png",
     "user_ratings_total": 0,
-    "website": "club-residents-etrangers-monaco.com",
+    "website": "https://www.club-residents-etrangers-monaco.com",
     "activities": []
   },
   "Thirty Nine": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/thirty_nine1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/thirty_nine2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/thirty_nine3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/thirty_nine4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/thirty_nine5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/thirty_nine_logo.png",
     "user_ratings_total": 0,
-    "website": "39montecarlo.com",
+    "website": "https://www.39montecarlo.com",
     "activities": []
   },
   "Yacht Club de Monaco": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/yacht_club_de_monaco1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/yacht_club_de_monaco2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/yacht_club_de_monaco3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/yacht_club_de_monaco4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/yacht_club_de_monaco5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/monaco/yacht_club_de_monaco_logo.png",
     "user_ratings_total": 0,
-    "website": "yacht-club-monaco.mc",
+    "website": "https://www.yacht-club-monaco.mc",
     "activities": []
   }
 }

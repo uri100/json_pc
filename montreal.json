@@ -1,5 +1,5 @@
 {
-  "Club Saint-James de Montréal": {
+  "Club Saint-James de MontrĂ©al": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Club Saint-James de Montréal",
+    "name": "Club Saint-James de MontrĂ©al",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/club_saintjames_de_montral1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/club_saintjames_de_montral2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/club_saintjames_de_montral3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/club_saintjames_de_montral4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/club_saintjames_de_montral5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/club_saintjames_de_montral_logo.png",
     "user_ratings_total": 0,
-    "website": "stjamesclub.ca",
+    "website": "https://www.stjamesclub.ca",
     "activities": []
   },
   "Club Sportif MAA": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/club_sportif_maa1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/club_sportif_maa2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/club_sportif_maa3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/club_sportif_maa4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/club_sportif_maa5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/club_sportif_maa_logo.png",
     "user_ratings_total": 0,
-    "website": "clubsportifmaa.com",
+    "website": "https://www.clubsportifmaa.com",
     "activities": [
       "athletic",
       "swimming"
@@ -66,15 +78,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/forest_stream_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/forest_stream_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/forest_stream_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/forest_stream_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/forest_stream_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/forest_stream_club_logo.png",
     "user_ratings_total": 0,
-    "website": "forestandstream.ca",
+    "website": "https://www.forestandstream.ca",
     "activities": []
   },
-  "Le Club Universitaire de Montréal": {
+  "Le Club Universitaire de MontrĂ©al": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -83,19 +101,25 @@
         "lng": 0.0
       }
     },
-    "name": "Le Club Universitaire de Montréal",
+    "name": "Le Club Universitaire de MontrĂ©al",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/le_club_universitaire_de_montral1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/le_club_universitaire_de_montral2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/le_club_universitaire_de_montral3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/le_club_universitaire_de_montral4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/le_club_universitaire_de_montral5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/le_club_universitaire_de_montral_logo.png",
     "user_ratings_total": 0,
-    "website": "ucmontreal.ca",
+    "website": "https://www.ucmontreal.ca",
     "activities": []
   },
   "Mount Royal Club": {
@@ -114,15 +138,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/mount_royal_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/mount_royal_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/mount_royal_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/mount_royal_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/mount_royal_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/mount_royal_club_logo.png",
     "user_ratings_total": 0,
-    "website": "themountroyalclub.com",
+    "website": "https://www.themountroyalclub.com",
     "activities": []
   },
-  "Saint James’s Club of Montreal": {
+  "Saint James's Club of Montreal": {
     "formatted_address": "1145, Union Avenue",
     "formatted_phone_number": "+1 514 8667474",
     "geometry": {
@@ -131,19 +161,55 @@
         "lng": 0.0
       }
     },
-    "name": "Saint James’s Club of Montreal",
+    "name": "Saint James's Club of Montreal",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/saint_jamess_club_of_montreal1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/saint_jamess_club_of_montreal2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/saint_jamess_club_of_montreal3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/saint_jamess_club_of_montreal4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/saint_jamess_club_of_montreal5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/saint_jamess_club_of_montreal_logo.png",
     "user_ratings_total": 0,
     "website": "",
+    "activities": []
+  },
+  "Club Atwater": {
+    "formatted_address": "3505 Atwater Avenue, Montreal, QC H3H 1Y2",
+    "formatted_phone_number": "514 935 2431 , 5149353754",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Club Atwater",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/club_atwater1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/club_atwater2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/club_atwater3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/club_atwater4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/club_atwater5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/montreal/club_atwater_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.clubatwater.ca",
     "activities": []
   }
 }

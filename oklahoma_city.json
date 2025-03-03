@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/oklahoma_city/petroleum_club_of_oklahoma_city1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/oklahoma_city/petroleum_club_of_oklahoma_city2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/oklahoma_city/petroleum_club_of_oklahoma_city3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/oklahoma_city/petroleum_club_of_oklahoma_city4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/oklahoma_city/petroleum_club_of_oklahoma_city5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/oklahoma_city/petroleum_club_of_oklahoma_city_logo.png",
     "user_ratings_total": 0,
-    "website": "petroleumclubokc.com",
+    "website": "https://www.petroleumclubokc.com",
     "activities": []
   }
 }

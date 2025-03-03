@@ -1,4 +1,34 @@
 {
+  "Balboa Bay Club": {
+    "formatted_address": "1221 West Coast Highway, Newport Beach, CA 92663",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Balboa Bay Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport_beach/balboa_bay_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport_beach/balboa_bay_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport_beach/balboa_bay_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport_beach/balboa_bay_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport_beach/balboa_bay_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport_beach/balboa_bay_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.balboabayclub.com",
+    "activities": []
+  },
   "Pacific Club Newport": {
     "formatted_address": "",
     "formatted_phone_number": "",
@@ -15,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport_beach/pacific_club_newport1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport_beach/pacific_club_newport2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport_beach/pacific_club_newport3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport_beach/pacific_club_newport4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport_beach/pacific_club_newport5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/newport_beach/pacific_club_newport_logo.png",
     "user_ratings_total": 0,
-    "website": "pacificclub.org",
+    "website": "https://www.pacificclub.org",
     "activities": []
   }
 }

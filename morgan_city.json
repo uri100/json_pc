@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/morgan_city/petroleum_club_of_morgan_city1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/morgan_city/petroleum_club_of_morgan_city2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/morgan_city/petroleum_club_of_morgan_city3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/morgan_city/petroleum_club_of_morgan_city4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/morgan_city/petroleum_club_of_morgan_city5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/morgan_city/petroleum_club_of_morgan_city_logo.png",
     "user_ratings_total": 0,
-    "website": "facebook.com/pages/Petroleum-Club-of-Morgan-City-Inc/116584498366648",
+    "website": "https://www.facebook.com/pages/Petroleum-Club-of-Morgan-City-Inc/116584498366648",
     "activities": []
   }
 }
