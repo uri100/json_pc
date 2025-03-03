@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/am_hof_81.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/am_hof_82.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/am_hof_83.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/am_hof_84.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/am_hof_85.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/am_hof_8_logo.png",
     "user_ratings_total": 0,
-    "website": "amhof8.com",
+    "website": "https://www.amhof8.com",
     "activities": []
   },
   "Grand Etage Club at Grand Ferdinand": {
@@ -39,15 +45,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/grand_etage_club_at_grand_ferdinand1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/grand_etage_club_at_grand_ferdinand2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/grand_etage_club_at_grand_ferdinand3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/grand_etage_club_at_grand_ferdinand4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/grand_etage_club_at_grand_ferdinand5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/grand_etage_club_at_grand_ferdinand_logo.png",
     "user_ratings_total": 0,
-    "website": "grandferdinand.com",
+    "website": "https://www.grandferdinand.com",
     "activities": []
   },
-  "Österreichische Campagnereiter-Gesellschaft": {
+  "Ă–sterreichische Campagnereiter-Gesellschaft": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -56,19 +68,25 @@
         "lng": 0.0
       }
     },
-    "name": "Österreichische Campagnereiter-Gesellschaft",
+    "name": "Ă–sterreichische Campagnereiter-Gesellschaft",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/sterreichische_campagnereitergesellschaft1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/sterreichische_campagnereitergesellschaft2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/sterreichische_campagnereitergesellschaft3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/sterreichische_campagnereitergesellschaft4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/sterreichische_campagnereitergesellschaft5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/sterreichische_campagnereitergesellschaft_logo.png",
     "user_ratings_total": 0,
-    "website": "campagnereiter.at",
+    "website": "https://www.campagnereiter.at",
     "activities": []
   },
   "St Johanns Club": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/st_johanns_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/st_johanns_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/st_johanns_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/st_johanns_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/st_johanns_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/st_johanns_club_logo.png",
     "user_ratings_total": 0,
-    "website": "sjc.at",
+    "website": "https://www.sjc.at",
     "activities": []
   },
   "Wiener Rennverein": {
@@ -111,12 +135,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/wiener_rennverein1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/wiener_rennverein2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/wiener_rennverein3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/wiener_rennverein4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/wiener_rennverein5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/wiener_rennverein_logo.png",
     "user_ratings_total": 0,
-    "website": "rennverein.at",
+    "website": "https://www.rennverein.at",
     "activities": []
   },
   "Westwood Country Club": {
@@ -135,12 +165,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/westwood_country_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/westwood_country_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/westwood_country_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/westwood_country_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/westwood_country_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/westwood_country_club_logo.png",
     "user_ratings_total": 0,
-    "website": "westwoodcc.com",
+    "website": "https://www.westwoodcc.com",
     "activities": []
   }
 }

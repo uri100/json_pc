@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stuttgart/businessclub_stuttgart_schloss_solitude1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stuttgart/businessclub_stuttgart_schloss_solitude2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stuttgart/businessclub_stuttgart_schloss_solitude3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stuttgart/businessclub_stuttgart_schloss_solitude4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stuttgart/businessclub_stuttgart_schloss_solitude5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stuttgart/businessclub_stuttgart_schloss_solitude_logo.png",
     "user_ratings_total": 0,
-    "website": "businessclub-stuttgart.de",
+    "website": "https://www.businessclub-stuttgart.de",
     "activities": []
   },
   "Wirtschaftsclub Stuttgart": {
@@ -39,16 +45,22 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stuttgart/wirtschaftsclub_stuttgart1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stuttgart/wirtschaftsclub_stuttgart2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stuttgart/wirtschaftsclub_stuttgart3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stuttgart/wirtschaftsclub_stuttgart4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stuttgart/wirtschaftsclub_stuttgart5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stuttgart/wirtschaftsclub_stuttgart_logo.png",
     "user_ratings_total": 0,
-    "website": "wirtschaftsclub-stuttgart.com",
+    "website": "https://www.wirtschaftsclub-stuttgart.com",
     "activities": []
   },
   "Wirtschaftsclub Stuttgart e.V.": {
-    "formatted_address": "Mörikestraße 30",
+    "formatted_address": "MĂ¶rikestraĂźe 30",
     "formatted_phone_number": "+49 711 78385555",
     "geometry": {
       "location": {
@@ -63,10 +75,16 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stuttgart/wirtschaftsclub_stuttgart_ev1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stuttgart/wirtschaftsclub_stuttgart_ev2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stuttgart/wirtschaftsclub_stuttgart_ev3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stuttgart/wirtschaftsclub_stuttgart_ev4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stuttgart/wirtschaftsclub_stuttgart_ev5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stuttgart/wirtschaftsclub_stuttgart_ev_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": []

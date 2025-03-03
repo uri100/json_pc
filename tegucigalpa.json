@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tegucigalpa/country_club_de_tegucigalpa1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tegucigalpa/country_club_de_tegucigalpa2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tegucigalpa/country_club_de_tegucigalpa3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tegucigalpa/country_club_de_tegucigalpa4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tegucigalpa/country_club_de_tegucigalpa5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tegucigalpa/country_club_de_tegucigalpa_logo.png",
     "user_ratings_total": 0,
-    "website": "facebook.com/Country-Club-de-Tegucigalpa-266338436797215/",
+    "website": "https://www.facebook.com/Country-Club-de-Tegucigalpa-266338436797215/",
     "activities": []
   }
 }

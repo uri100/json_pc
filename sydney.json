@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/australasian_pioneers_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/australasian_pioneers_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/australasian_pioneers_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/australasian_pioneers_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/australasian_pioneers_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/australasian_pioneers_club_logo.png",
     "user_ratings_total": 0,
-    "website": "pioneersclub.com.au",
+    "website": "https://www.pioneersclub.com.au",
     "activities": []
   },
   "Australian Club Sydney": {
@@ -39,15 +45,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/australian_club_sydney1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/australian_club_sydney2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/australian_club_sydney3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/australian_club_sydney4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/australian_club_sydney5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/australian_club_sydney_logo.png",
     "user_ratings_total": 0,
-    "website": "165macquariestreet.com.au",
+    "website": "https://www.165macquariestreet.com.au",
     "activities": []
   },
-  "City Tattersall’s Club": {
+  "City Tattersall's Club": {
     "formatted_address": "194 - 204 Pitt Street",
     "formatted_phone_number": "+61 2 92679421",
     "geometry": {
@@ -56,19 +68,25 @@
         "lng": 0.0
       }
     },
-    "name": "City Tattersall’s Club",
+    "name": "City Tattersall's Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/city_tattersalls_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/city_tattersalls_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/city_tattersalls_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/city_tattersalls_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/city_tattersalls_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/city_tattersalls_club_logo.png",
     "user_ratings_total": 0,
-    "website": "citytatts.com.au",
+    "website": "https://www.citytatts.com.au",
     "activities": [
       "athletic",
       "swimming"
@@ -90,12 +108,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/club_of_united_business1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/club_of_united_business2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/club_of_united_business3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/club_of_united_business4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/club_of_united_business5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/club_of_united_business_logo.png",
     "user_ratings_total": 0,
-    "website": "cub.club",
+    "website": "https://www.cub.club",
     "activities": []
   },
   "CTA Business Club": {
@@ -114,15 +138,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/cta_business_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/cta_business_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/cta_business_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/cta_business_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/cta_business_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/cta_business_club_logo.png",
     "user_ratings_total": 0,
-    "website": "ctabusinessclub.com",
+    "website": "https://www.ctabusinessclub.com",
     "activities": []
   },
-  "Queen’s Club Sydney": {
+  "Queen's Club Sydney": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -131,19 +161,25 @@
         "lng": 0.0
       }
     },
-    "name": "Queen’s Club Sydney",
+    "name": "Queen's Club Sydney",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/queens_club_sydney1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/queens_club_sydney2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/queens_club_sydney3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/queens_club_sydney4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/queens_club_sydney5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/queens_club_sydney_logo.png",
     "user_ratings_total": 0,
-    "website": "queensclub.com.au",
+    "website": "https://www.queensclub.com.au",
     "activities": []
   },
   "Royal Automobile Club of Australia": {
@@ -162,12 +198,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/royal_automobile_club_of_australia1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/royal_automobile_club_of_australia2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/royal_automobile_club_of_australia3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/royal_automobile_club_of_australia4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/royal_automobile_club_of_australia5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/royal_automobile_club_of_australia_logo.png",
     "user_ratings_total": 0,
-    "website": "raca.com.au",
+    "website": "https://www.raca.com.au",
     "activities": []
   },
   "Royal Exchange of Sydney": {
@@ -186,12 +228,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/royal_exchange_of_sydney1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/royal_exchange_of_sydney2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/royal_exchange_of_sydney3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/royal_exchange_of_sydney4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/royal_exchange_of_sydney5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/royal_exchange_of_sydney_logo.png",
     "user_ratings_total": 0,
-    "website": "royalexchange.com.au",
+    "website": "https://www.royalexchange.com.au",
     "activities": []
   },
   "Union, University & Schools Club": {
@@ -210,15 +258,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/union_university_schools_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/union_university_schools_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/union_university_schools_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/union_university_schools_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/union_university_schools_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/union_university_schools_club_logo.png",
     "user_ratings_total": 0,
-    "website": "uusc.com.au",
+    "website": "https://www.uusc.com.au",
     "activities": []
   },
-  "Women’s Club": {
+  "Women's Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -227,19 +281,25 @@
         "lng": 0.0
       }
     },
-    "name": "Women’s Club",
+    "name": "Women's Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/womens_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/womens_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/womens_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/womens_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/womens_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sydney/womens_club_logo.png",
     "user_ratings_total": 0,
-    "website": "thewomensclub.com.au",
+    "website": "https://www.thewomensclub.com.au",
     "activities": []
   }
 }

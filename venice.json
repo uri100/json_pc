@@ -1,5 +1,5 @@
 {
-  "Circolo Società dell'Unione": {
+  "Circolo SocietĂ dell'Unione": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Circolo Società dell'Unione",
+    "name": "Circolo SocietĂ dell'Unione",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/venice/circolo_societ_dellunione1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/venice/circolo_societ_dellunione2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/venice/circolo_societ_dellunione3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/venice/circolo_societ_dellunione4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/venice/circolo_societ_dellunione5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/venice/circolo_societ_dellunione_logo.png",
     "user_ratings_total": 0,
-    "website": "circolounionevenezia.it",
+    "website": "https://www.circolounionevenezia.it",
     "activities": []
   },
   "Compagnia della Vela": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/venice/compagnia_della_vela1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/venice/compagnia_della_vela2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/venice/compagnia_della_vela3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/venice/compagnia_della_vela4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/venice/compagnia_della_vela5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/venice/compagnia_della_vela_logo.png",
     "user_ratings_total": 0,
-    "website": "compagniadellavela.org",
+    "website": "https://www.compagniadellavela.org",
     "activities": []
   }
 }

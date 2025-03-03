@@ -1,5 +1,5 @@
 {
-  "Foreign Correspondents’ Club of Japan": {
+  "Foreign Correspondents' Club of Japan": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Foreign Correspondents’ Club of Japan",
+    "name": "Foreign Correspondents' Club of Japan",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/foreign_correspondents_club_of_japan1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/foreign_correspondents_club_of_japan2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/foreign_correspondents_club_of_japan3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/foreign_correspondents_club_of_japan4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/foreign_correspondents_club_of_japan5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/foreign_correspondents_club_of_japan_logo.png",
     "user_ratings_total": 0,
-    "website": "fccj.or.jp",
+    "website": "https://www.fccj.or.jp",
     "activities": []
   },
   "International House of Japan": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/international_house_of_japan1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/international_house_of_japan2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/international_house_of_japan3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/international_house_of_japan4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/international_house_of_japan5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/international_house_of_japan_logo.png",
     "user_ratings_total": 0,
-    "website": "ihj.global",
+    "website": "https://www.ihj.global",
     "activities": []
   },
   "Kasumi Kaikan": {
@@ -63,10 +75,16 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/kasumi_kaikan1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/kasumi_kaikan2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/kasumi_kaikan3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/kasumi_kaikan4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/kasumi_kaikan5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/kasumi_kaikan_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": []
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/new_city_club_of_tokyo1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/new_city_club_of_tokyo2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/new_city_club_of_tokyo3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/new_city_club_of_tokyo4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/new_city_club_of_tokyo5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/new_city_club_of_tokyo_logo.png",
     "user_ratings_total": 0,
-    "website": "newcitycluboftokyo.jp",
+    "website": "https://www.newcitycluboftokyo.jp",
     "activities": []
   },
   "Roppongi Hills Club": {
@@ -111,12 +135,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/roppongi_hills_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/roppongi_hills_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/roppongi_hills_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/roppongi_hills_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/roppongi_hills_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/roppongi_hills_club_logo.png",
     "user_ratings_total": 0,
-    "website": "roppongihillsclub.com",
+    "website": "https://www.roppongihillsclub.com",
     "activities": []
   },
   "Tokyo American Club & TAC Nihonbashi": {
@@ -135,12 +165,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/tokyo_american_club_tac_nihonbashi1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/tokyo_american_club_tac_nihonbashi2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/tokyo_american_club_tac_nihonbashi3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/tokyo_american_club_tac_nihonbashi4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/tokyo_american_club_tac_nihonbashi5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/tokyo_american_club_tac_nihonbashi_logo.png",
     "user_ratings_total": 0,
-    "website": "tokyoamericanclub.org",
+    "website": "https://www.tokyoamericanclub.org",
     "activities": []
   }
 }

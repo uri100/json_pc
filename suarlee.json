@@ -1,0 +1,32 @@
+{
+  "CWB (Cercle de Wallonie Brussles) Suarlee": {
+    "formatted_address": "Avenue d'Ecolys 2",
+    "formatted_phone_number": "+32 81 73 40 80",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "CWB (Cercle de Wallonie Brussles) Suarlee",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/suarlee/cwb_cercle_de_wallonie_brussles_suarlee1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/suarlee/cwb_cercle_de_wallonie_brussles_suarlee2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/suarlee/cwb_cercle_de_wallonie_brussles_suarlee3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/suarlee/cwb_cercle_de_wallonie_brussles_suarlee4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/suarlee/cwb_cercle_de_wallonie_brussles_suarlee5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/suarlee/cwb_cercle_de_wallonie_brussles_suarlee_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.cercledewallonie.com",
+    "activities": []
+  }
+}

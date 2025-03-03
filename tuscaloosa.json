@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tuscaloosa/university_club_of_the_university_of_alabama1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tuscaloosa/university_club_of_the_university_of_alabama2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tuscaloosa/university_club_of_the_university_of_alabama3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tuscaloosa/university_club_of_the_university_of_alabama4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tuscaloosa/university_club_of_the_university_of_alabama5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tuscaloosa/university_club_of_the_university_of_alabama_logo.png",
     "user_ratings_total": 0,
-    "website": "universityclub.ua.edu",
+    "website": "https://www.universityclub.ua.edu",
     "activities": []
   }
 }

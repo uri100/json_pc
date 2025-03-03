@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/thiruvananthapuram/mannam_memorial_national_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/thiruvananthapuram/mannam_memorial_national_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/thiruvananthapuram/mannam_memorial_national_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/thiruvananthapuram/mannam_memorial_national_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/thiruvananthapuram/mannam_memorial_national_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/thiruvananthapuram/mannam_memorial_national_club_logo.png",
     "user_ratings_total": 0,
-    "website": "theclubsocial.com/clubdetail/43/",
+    "website": "https://www.theclubsocial.com/clubdetail/43/",
     "activities": []
   },
   "Sri Muram Club": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/thiruvananthapuram/sri_muram_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/thiruvananthapuram/sri_muram_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/thiruvananthapuram/sri_muram_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/thiruvananthapuram/sri_muram_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/thiruvananthapuram/sri_muram_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/thiruvananthapuram/sri_muram_club_logo.png",
     "user_ratings_total": 0,
-    "website": "srimulamclub.in",
+    "website": "https://www.srimulamclub.in",
     "activities": []
   },
   "Trivandrum Club": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/thiruvananthapuram/trivandrum_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/thiruvananthapuram/trivandrum_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/thiruvananthapuram/trivandrum_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/thiruvananthapuram/trivandrum_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/thiruvananthapuram/trivandrum_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/thiruvananthapuram/trivandrum_club_logo.png",
     "user_ratings_total": 0,
-    "website": "trivandrumclub.net",
+    "website": "https://www.trivandrumclub.net",
     "activities": []
   }
 }

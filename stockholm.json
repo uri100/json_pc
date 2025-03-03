@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/alma1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/alma2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/alma3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/alma4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/alma5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/alma_logo.png",
     "user_ratings_total": 0,
-    "website": "thisisalma.com",
+    "website": "https://www.thisisalma.com",
     "activities": []
   },
   "Djursholm Country Club": {
@@ -39,15 +45,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/djursholm_country_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/djursholm_country_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/djursholm_country_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/djursholm_country_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/djursholm_country_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/djursholm_country_club_logo.png",
     "user_ratings_total": 0,
-    "website": "djursholmcountryclub.com",
+    "website": "https://www.djursholmcountryclub.com",
     "activities": []
   },
-  "Militärsällskapet": {
+  "MilitĂ¤rsĂ¤llskapet": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -56,22 +68,28 @@
         "lng": 0.0
       }
     },
-    "name": "Militärsällskapet",
+    "name": "MilitĂ¤rsĂ¤llskapet",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/militrsllskapet1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/militrsllskapet2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/militrsllskapet3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/militrsllskapet4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/militrsllskapet5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/militrsllskapet_logo.png",
     "user_ratings_total": 0,
-    "website": "militarsallskapet.se",
+    "website": "https://www.militarsallskapet.se",
     "activities": []
   },
-  "Nya Sällskapet": {
+  "Nya SĂ¤llskapet": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -80,19 +98,25 @@
         "lng": 0.0
       }
     },
-    "name": "Nya Sällskapet",
+    "name": "Nya SĂ¤llskapet",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/nya_sllskapet1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/nya_sllskapet2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/nya_sllskapet3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/nya_sllskapet4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/nya_sllskapet5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/nya_sllskapet_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Nya_S%C3%A4llskapet",
+    "website": "https://www.wikipedia.org/wiki/Nya_S%C3%A4llskapet",
     "activities": []
   },
   "The Club Sallskapet": {
@@ -111,12 +135,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/the_club_sallskapet1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/the_club_sallskapet2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/the_club_sallskapet3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/the_club_sallskapet4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/the_club_sallskapet5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/stockholm/the_club_sallskapet_logo.png",
     "user_ratings_total": 0,
-    "website": "sallskapet.se",
+    "website": "https://www.sallskapet.se",
     "activities": []
   }
 }

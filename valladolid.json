@@ -1,5 +1,5 @@
 {
-  "Círculo de Recreo de Valladolid": {
+  "CĂ­rculo de Recreo de Valladolid": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,17 +8,23 @@
         "lng": 0.0
       }
     },
-    "name": "Círculo de Recreo de Valladolid",
+    "name": "CĂ­rculo de Recreo de Valladolid",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valladolid/crculo_de_recreo_de_valladolid1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valladolid/crculo_de_recreo_de_valladolid2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valladolid/crculo_de_recreo_de_valladolid3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valladolid/crculo_de_recreo_de_valladolid4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valladolid/crculo_de_recreo_de_valladolid5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valladolid/crculo_de_recreo_de_valladolid_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": []

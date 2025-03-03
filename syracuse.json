@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/syracuse/century_club_of_syracuse1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/syracuse/century_club_of_syracuse2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/syracuse/century_club_of_syracuse3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/syracuse/century_club_of_syracuse4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/syracuse/century_club_of_syracuse5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/syracuse/century_club_of_syracuse_logo.png",
     "user_ratings_total": 0,
-    "website": "centuryclubofsyracuse.com",
+    "website": "https://www.centuryclubofsyracuse.com",
     "activities": []
   }
 }

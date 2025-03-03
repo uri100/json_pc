@@ -15,15 +15,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_de_tenis_valencia1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_de_tenis_valencia2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_de_tenis_valencia3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_de_tenis_valencia4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_de_tenis_valencia5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_de_tenis_valencia_logo.png",
     "user_ratings_total": 0,
-    "website": "clubdetenisvalencia.es",
+    "website": "https://www.clubdetenisvalencia.es",
     "activities": []
   },
-  "Real Club Náutico de Valencia": {
+  "Real Club NĂˇutico de Valencia": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,19 +38,25 @@
         "lng": 0.0
       }
     },
-    "name": "Real Club Náutico de Valencia",
+    "name": "Real Club NĂˇutico de Valencia",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/real_club_nutico_de_valencia1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/real_club_nutico_de_valencia2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/real_club_nutico_de_valencia3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/real_club_nutico_de_valencia4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/real_club_nutico_de_valencia5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/real_club_nutico_de_valencia_logo.png",
     "user_ratings_total": 0,
-    "website": "rcnv.es",
+    "website": "https://www.rcnv.es",
     "activities": []
   },
   "Real Sociedad Valenciana de Agricultura y Deportes": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/real_sociedad_valenciana_de_agricultura_y_deportes1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/real_sociedad_valenciana_de_agricultura_y_deportes2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/real_sociedad_valenciana_de_agricultura_y_deportes3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/real_sociedad_valenciana_de_agricultura_y_deportes4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/real_sociedad_valenciana_de_agricultura_y_deportes5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/real_sociedad_valenciana_de_agricultura_y_deportes_logo.png",
     "user_ratings_total": 0,
-    "website": "casinodeagricultura.com",
+    "website": "https://www.casinodeagricultura.com",
     "activities": []
   }
 }

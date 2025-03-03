@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_hague/haagsche_clubplaats_royal1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_hague/haagsche_clubplaats_royal2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_hague/haagsche_clubplaats_royal3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_hague/haagsche_clubplaats_royal4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_hague/haagsche_clubplaats_royal5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_hague/haagsche_clubplaats_royal_logo.png",
     "user_ratings_total": 0,
-    "website": "wikipedia.org/wiki/Haagsche_Club",
+    "website": "https://www.wikipedia.org/wiki/Haagsche_Club",
     "activities": []
   },
   "Societeit de Witte": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_hague/societeit_de_witte1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_hague/societeit_de_witte2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_hague/societeit_de_witte3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_hague/societeit_de_witte4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_hague/societeit_de_witte5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/the_hague/societeit_de_witte_logo.png",
     "user_ratings_total": 0,
-    "website": "societeitdewitte.nl",
+    "website": "https://www.societeitdewitte.nl",
     "activities": []
   }
 }

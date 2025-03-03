@@ -1,5 +1,5 @@
 {
-  "Cercle du Marché": {
+  "Cercle du MarchĂ©": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,19 +8,25 @@
         "lng": 0.0
       }
     },
-    "name": "Cercle du Marché",
+    "name": "Cercle du MarchĂ©",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vevey/cercle_du_march1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vevey/cercle_du_march2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vevey/cercle_du_march3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vevey/cercle_du_march4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vevey/cercle_du_march5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vevey/cercle_du_march_logo.png",
     "user_ratings_total": 0,
-    "website": "cercledumarche.ch",
+    "website": "https://www.cercledumarche.ch",
     "activities": []
   }
 }

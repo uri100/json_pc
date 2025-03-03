@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tempe/university_club_of_arizona_state_university1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tempe/university_club_of_arizona_state_university2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tempe/university_club_of_arizona_state_university3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tempe/university_club_of_arizona_state_university4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tempe/university_club_of_arizona_state_university5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tempe/university_club_of_arizona_state_university_logo.png",
     "user_ratings_total": 0,
-    "website": "cfo.asu.edu/uclub",
+    "website": "https://www.cfo.asu.edu/uclub",
     "activities": []
   }
 }

@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/theoule_sur_mer/club_port_la_galere1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/theoule_sur_mer/club_port_la_galere2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/theoule_sur_mer/club_port_la_galere3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/theoule_sur_mer/club_port_la_galere4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/theoule_sur_mer/club_port_la_galere5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/theoule_sur_mer/club_port_la_galere_logo.png",
     "user_ratings_total": 0,
-    "website": "clubportlagalere.com",
+    "website": "https://www.clubportlagalere.com",
     "activities": []
   }
 }

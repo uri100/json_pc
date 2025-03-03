@@ -1,5 +1,5 @@
 {
-  "Reale Società Canottieri Cerea": {
+  "Reale SocietĂ Canottieri Cerea": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,22 +8,28 @@
         "lng": 0.0
       }
     },
-    "name": "Reale Società Canottieri Cerea",
+    "name": "Reale SocietĂ Canottieri Cerea",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/turin/reale_societ_canottieri_cerea1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/turin/reale_societ_canottieri_cerea2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/turin/reale_societ_canottieri_cerea3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/turin/reale_societ_canottieri_cerea4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/turin/reale_societ_canottieri_cerea5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/turin/reale_societ_canottieri_cerea_logo.png",
     "user_ratings_total": 0,
-    "website": "canottiericerea.it",
+    "website": "https://www.canottiericerea.it",
     "activities": []
   },
-  "Società del Whist - Accademia Filarmonica": {
+  "SocietĂ del Whist - Accademia Filarmonica": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,19 +38,25 @@
         "lng": 0.0
       }
     },
-    "name": "Società del Whist - Accademia Filarmonica",
+    "name": "SocietĂ del Whist - Accademia Filarmonica",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/turin/societ_del_whist_accademia_filarmonica1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/turin/societ_del_whist_accademia_filarmonica2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/turin/societ_del_whist_accademia_filarmonica3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/turin/societ_del_whist_accademia_filarmonica4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/turin/societ_del_whist_accademia_filarmonica5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/turin/societ_del_whist_accademia_filarmonica_logo.png",
     "user_ratings_total": 0,
-    "website": "whist-filarmonica.it",
+    "website": "https://www.whist-filarmonica.it",
     "activities": []
   }
 }

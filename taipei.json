@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/taipei/american_club_taipei1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/taipei/american_club_taipei2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/taipei/american_club_taipei3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/taipei/american_club_taipei4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/taipei/american_club_taipei5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/taipei/american_club_taipei_logo.png",
     "user_ratings_total": 0,
-    "website": "americanclub.org.tw",
+    "website": "https://www.americanclub.org.tw",
     "activities": []
   },
   "Yuan Shan Club of Taipei": {
@@ -39,12 +45,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/taipei/yuan_shan_club_of_taipei1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/taipei/yuan_shan_club_of_taipei2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/taipei/yuan_shan_club_of_taipei3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/taipei/yuan_shan_club_of_taipei4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/taipei/yuan_shan_club_of_taipei5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/taipei/yuan_shan_club_of_taipei_logo.png",
     "user_ratings_total": 0,
-    "website": "grand-hotel.org",
+    "website": "https://www.grand-hotel.org",
     "activities": []
   }
 }
