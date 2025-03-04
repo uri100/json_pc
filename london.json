@@ -2561,42 +2561,6 @@
       "spa"
     ]
   },
-  "Thames Club": {
-    "formatted_address": "Swan Street, Old Isleworth TW7 6XA",
-    "formatted_phone_number": "+44 20 8232 2200",
-    "geometry": {
-      "location": {
-        "lat": 51.4753,
-        "lng": -0.3244
-      }
-    },
-    "name": "Thames Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "A fitness-focused members club in West London (Isleworth), offering a gym, swimming pool, spa, sports hall and fitness classes.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/thames_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/thames_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/thames_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/thames_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/thames_club5.jpg"
-    ],
-    "rating": 4.2,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/thames_club_logo.png",
-    "user_ratings_total": 302,
-    "website": "https://thethamesclub.co.uk",
-    "activities": [
-      "gym",
-      "yoga",
-      "pilates",
-      "swimming",
-      "fitness"
-    ]
-  },
   "The Club at the Ivy": {
     "formatted_address": "9 West Street, London WC2H 9NE",
     "formatted_phone_number": "+44 20 7307 5783",
