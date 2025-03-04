@@ -1730,36 +1730,6 @@
       "spa"
     ]
   },
-  "Naval Club": {
-    "formatted_address": "38 Hill Street, London W1J 5NS",
-    "formatted_phone_number": "+44 20 7493 7672",
-    "geometry": {
-      "location": {
-        "lat": 51.50924,
-        "lng": -0.14996
-      }
-    },
-    "name": "Naval Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "A private club in Mayfair originally for Royal Navy officers (est. 1919), featuring a quiet bar, dining room, and overnight accommodation in a Georgian townhouse.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/naval_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/naval_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/naval_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/naval_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/naval_club5.jpg"
-    ],
-    "rating": 4.7,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/naval_club_logo.png",
-    "user_ratings_total": 15,
-    "website": "https://www.navalclub.co.uk",
-    "activities": []
-  },
   "Ned's Club": {
     "formatted_address": "27 Poultry, London EC2R 8AJ",
     "formatted_phone_number": "+44 20 3828 2000",
