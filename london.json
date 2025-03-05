@@ -339,7 +339,7 @@
     "website": "https://www.theartsclub.co.uk",
     "activities": []
   },
-  "Aspinall's": {
+  "Crown London": {
     "formatted_address": "27-28 Curzon Street, London W1J 7TJ",
     "formatted_phone_number": "+44 20 7499 4599",
     "geometry": {
@@ -348,13 +348,13 @@
         "lng": -0.14661
       }
     },
-    "name": "Aspinall's",
+    "name": "Crown London",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "A high-end private gambling club in Mayfair (est. 1960s by John Aspinall), known for its exclusivity and gaming rooms as well as upscale dining – part of the Crown Resorts group.",
+    "description": "A high-end private gambling club in Mayfair (est. 1960s by John Aspinall), known for its exclusivity and gaming rooms as well as upscale dining – part of the Crown Resorts group. The renowned and rich legacy of Aspinalls continues to evolve with an international edge;  as part of the Crown group. Upon entry you will discover an array of gaming options, including a main gaming floor catering to those who enjoy camaraderie, to the exclusivity of six tastefully decorated, art-opulent private salons. Discover an unrivalled level of service for both gaming and dining, where refined tastes are catered for, art and history are celebrated, and where expectations are consistently exceeded.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/aspinalls1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/aspinalls2.jpg",
@@ -366,7 +366,7 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/aspinalls_logo.png",
     "user_ratings_total": 4,
-    "website": "https://www.crownlondonaspinalls.com",
+    "website": "https://www.crownlondon.co.uk",
     "activities": []
   },
   "Athenaeum": {
