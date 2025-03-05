@@ -2536,36 +2536,6 @@
     "website": "https://www.theclubhouselondon.com/locations/bank",
     "activities": []
   },
-  "The Clubhouse Holborn Circus (Blaskey Group)": {
-    "formatted_address": "20 St Andrew Street, London EC4A 3AG",
-    "formatted_phone_number": "+44 20 7183 7210",
-    "geometry": {
-      "location": {
-        "lat": 51.5165,
-        "lng": -0.1085
-      }
-    },
-    "name": "The Clubhouse Holborn Circus (Blaskey Group)",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "A business members’ club near Holborn Circus offering meeting rooms, coworking spaces and event venues.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_holborn_circus_blaskey_group1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_holborn_circus_blaskey_group2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_holborn_circus_blaskey_group3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_holborn_circus_blaskey_group4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_holborn_circus_blaskey_group5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_holborn_circus_blaskey_group_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.theclubhouselondon.com/locations/holborn",
-    "activities": []
-  },
   "The Clubhouse Mayfair (Blaskey Group)": {
     "formatted_address": "50 Grosvenor Hill, London W1K 3QT",
     "formatted_phone_number": "+44 20 7183 7210",
