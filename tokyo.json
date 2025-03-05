@@ -1,20 +1,20 @@
 {
-  "Foreign Correspondents' Club of Japan": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Foreign Correspondents’ Club of Japan": {
+    "formatted_address": "Yurakucho Denki North Building 20F, 1-7-1 Yurakucho, Chiyoda-ku, Tokyo 100-0006, Japan",
+    "formatted_phone_number": "+81 3-3211-3161",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 35.6738,
+        "lng": 139.7604
       }
     },
-    "name": "Foreign Correspondents' Club of Japan",
+    "name": "Foreign Correspondents’ Club of Japan",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1945, the FCCJ is a professional and social club for journalists working in Japan. Located in Yurakucho, the club offers a news conference room, workspaces, a library, dining facilities, and a bar. It’s famous for hosting press events featuring Japanese and international newsmakers. Beyond journalism, FCCJ also has a vibrant social scene, with film screenings, cultural lectures, and art exhibits. The atmosphere mixes business and camaraderie, as veteran correspondents and newcomers share leads over cocktails while overlooking the Tokyo skyline.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/foreign_correspondents_club_of_japan1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/foreign_correspondents_club_of_japan2.jpg",
@@ -22,20 +22,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/foreign_correspondents_club_of_japan4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/foreign_correspondents_club_of_japan5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.4,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/foreign_correspondents_club_of_japan_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 180,
     "website": "https://www.fccj.or.jp",
     "activities": []
   },
   "International House of Japan": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "5-11-16 Roppongi, Minato-ku, Tokyo 106-0032, Japan",
+    "formatted_phone_number": "+81 3-3470-4611",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 35.6585,
+        "lng": 139.7354
       }
     },
     "name": "International House of Japan",
@@ -44,7 +44,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The International House of Japan (I-House) is a nonprofit cultural institution (est. 1955) that functions similarly to a club for scholars, policy makers, and business leaders engaged in international exchange. Set in a serene garden estate in Roppongi, it features a mid-century modern clubhouse with meeting rooms, a tatami room, accommodation, a library, and dining facilities, including a famed Japanese garden restaurant. I-House hosts frequent public programs promoting cultural dialogue and fosters East-West understanding among intellectuals.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/international_house_of_japan1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/international_house_of_japan2.jpg",
@@ -52,20 +52,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/international_house_of_japan4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/international_house_of_japan5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.6,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/international_house_of_japan_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.ihj.global",
+    "user_ratings_total": 260,
+    "website": "https://www.i-house.or.jp",
     "activities": []
   },
   "Kasumi Kaikan": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Kasumigaseki Building 33F, 3-2-5 Kasumigaseki, Chiyoda-ku, Tokyo 100-6001, Japan",
+    "formatted_phone_number": "+81 3-3581-0121",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 35.6725,
+        "lng": 139.7495
       }
     },
     "name": "Kasumi Kaikan",
@@ -74,7 +74,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The Kasumi Kaikan is an exclusive members club founded in 1881 (originally as the “Kazoku Kaikan”) for Japan’s elite bureaucrats, academics, and businesspeople. Now located on the 33rd floor of the Kasumigaseki skyscraper, it provides a quiet, formal environment with dining rooms, private meeting salons, and a tea ceremony room. It is known for its impeccable service and classic Japanese and French cuisine, maintaining a symbol of old-world prestige in modern Tokyo.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/kasumi_kaikan1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/kasumi_kaikan2.jpg",
@@ -90,12 +90,12 @@
     "activities": []
   },
   "New City Club of Tokyo": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Daido Seimei Kasumigaseki Building 1F, 1-4-2 Kasumigaseki, Chiyoda-ku, Tokyo 100-0005, Japan",
+    "formatted_phone_number": "+81 3-3501-1711",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 35.673,
+        "lng": 139.7504
       }
     },
     "name": "New City Club of Tokyo",
@@ -104,7 +104,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Opened in 1994, the New City Club of Tokyo (NCCT) is a contemporary business dining club that facilitates East-West business exchange. It features stylish dining rooms, a bar lounge, and private meeting spaces in a ground-floor location. The club is popular for business luncheons and after-work cocktails, hosting speaker events on business and policy topics. It connects Tokyo’s global business community in an exclusive yet unpretentious atmosphere.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/new_city_club_of_tokyo1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/new_city_club_of_tokyo2.jpg",
@@ -112,20 +112,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/new_city_club_of_tokyo4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/new_city_club_of_tokyo5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.5,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/new_city_club_of_tokyo_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.newcitycluboftokyo.jp",
+    "user_ratings_total": 20,
+    "website": "http://www.newcitycluboftokyo.jp",
     "activities": []
   },
   "Roppongi Hills Club": {
-    "formatted_address": "51 Fl Roponggi Hills Mori Tower, 6-10-1 Roppongi, Minato-Ku, Tokyo 106-6151, Japan",
-    "formatted_phone_number": "81 36 406 6001 , 81364066002",
+    "formatted_address": "51F Roppongi Hills Mori Tower, 6-10-1 Roppongi, Minato-ku, Tokyo 106-6151, Japan",
+    "formatted_phone_number": "+81 3-6406-6000",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 35.6604,
+        "lng": 139.7292
       }
     },
     "name": "Roppongi Hills Club",
@@ -134,7 +134,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The Roppongi Hills Club, opened in 2003 atop the Mori Tower, is an exclusive private club for Tokyo’s international elite. Perched on the 51st floor, it offers sweeping views of Tokyo and features multiple high-end restaurants, stylish bar lounges, private function rooms, and a gallery space. Membership is invitation-only, drawing top executives, socialites, and diplomats, providing a mix of business and social programming.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/roppongi_hills_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/roppongi_hills_club2.jpg",
@@ -142,41 +142,49 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/roppongi_hills_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/roppongi_hills_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.5,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/roppongi_hills_club_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 260,
     "website": "https://www.roppongihillsclub.com",
     "activities": []
   },
-  "Tokyo American Club & TAC Nihonbashi": {
-    "formatted_address": "2-1-2 Azabudai, Minato-Ku, 108-8649, Tokyo, Japan",
-    "formatted_phone_number": "81 03 4588 0381 , 810345880703",
+  "Tokyo American Club (Azabudai) & TAC Nihonbashi": {
+    "formatted_address": "2-1-2 Azabudai, Minato-ku, Tokyo 106-8649, Japan",
+    "formatted_phone_number": "+81 3-4588-0670",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 35.658,
+        "lng": 139.7437
       }
     },
-    "name": "Tokyo American Club & TAC Nihonbashi",
+    "name": "Tokyo American Club (Azabudai) & TAC Nihonbashi",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1928, the Tokyo American Club (TAC) is a full-service international family club offering a vast array of amenities. Reopened in a modern Azabudai facility in 2011, TAC includes multiple restaurants, bars, banquet halls, a library, childcare center, and retail shops – in addition to extensive sports facilities. In 2021, TAC expanded with a satellite facility in Nihonbashi, offering dining and meeting space to members in Tokyo’s core. Renowned for its hospitality, Tokyo American Club fosters cross-cultural friendships and family activities.",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/tokyo_american_club_tac_nihonbashi1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/tokyo_american_club_tac_nihonbashi2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/tokyo_american_club_tac_nihonbashi3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/tokyo_american_club_tac_nihonbashi4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/tokyo_american_club_tac_nihonbashi5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/tokyo_american_club_azabudai_tac_nihonbashi1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/tokyo_american_club_azabudai_tac_nihonbashi2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/tokyo_american_club_azabudai_tac_nihonbashi3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/tokyo_american_club_azabudai_tac_nihonbashi4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/tokyo_american_club_azabudai_tac_nihonbashi5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.4,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/tokyo_american_club_tac_nihonbashi_logo.png",
-    "user_ratings_total": 0,
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tokyo/tokyo_american_club_azabudai_tac_nihonbashi_logo.png",
+    "user_ratings_total": 520,
     "website": "https://www.tokyoamericanclub.org",
-    "activities": []
+    "activities": [
+      "fitness",
+      "swimming",
+      "gym",
+      "squash",
+      "bowling",
+      "golf",
+      "tennis"
+    ]
   }
 }
