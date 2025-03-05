@@ -86,36 +86,6 @@
     "website": "",
     "activities": []
   },
-  "Alibi Club": {
-    "formatted_address": "1806 I Street NW, Washington, DC 20006, USA",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 38.9013,
-        "lng": -77.0417
-      }
-    },
-    "name": "Alibi Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "Founded in 1884, the Alibi Club is an extremely exclusive, small private club in Washington, known for its secrecy and illustrious membership. The club’s membership has historically included prominent political figures, diplomats, and businessmen (including multiple U.S. presidents). The Alibi Club occupies an unmarked townhouse near the White House. It has no sign and does not publicize its activities – the name “Alibi” comes from members using the club as an “alibi” for their whereabouts. Inside, it’s decorated with memorabilia and a well-stocked bar, serving as a refuge for members to socialize privately. The club has no staff; members serve each other in rotation.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/alibi_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/alibi_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/alibi_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/alibi_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/alibi_club5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/alibi_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "",
-    "activities": []
-  },
   "Arts Club of Washington": {
     "formatted_address": "2017 I Street NW, Washington, DC 20006, USA",
     "formatted_phone_number": "+1 202-331-7282",
