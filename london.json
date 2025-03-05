@@ -2506,36 +2506,6 @@
     "website": "https://www.the-ivyclub.co.uk",
     "activities": []
   },
-  "The Clubhouse Bank (Blaskey Group)": {
-    "formatted_address": "1 Angel Court, London EC2R 7HJ",
-    "formatted_phone_number": "+44 20 7183 7210",
-    "geometry": {
-      "location": {
-        "lat": 51.5155,
-        "lng": -0.0865
-      }
-    },
-    "name": "The Clubhouse Bank (Blaskey Group)",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "A business members’ club in the City (Bank), providing flexible workspace, meeting rooms and event space in a contemporary setting.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_bank_blaskey_group1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_bank_blaskey_group2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_bank_blaskey_group3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_bank_blaskey_group4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_bank_blaskey_group5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_bank_blaskey_group_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.theclubhouselondon.com/locations/bank",
-    "activities": []
-  },
      "name": "The Clubhouse Holborn Circus (Blaskey Group)",
     "opening_hours": {
       "open_now": false,
