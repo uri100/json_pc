@@ -2506,7 +2506,16 @@
     "website": "https://www.the-ivyclub.co.uk",
     "activities": []
   },
-     "name": "The Clubhouse Holborn Circus (Blaskey Group)",
+       "The Clubhouse Holborn Circus (Blaskey Group)": {
+    "formatted_address": "20 St Andrew Street, London EC4A 3AG",
+    "formatted_phone_number": "+44 20 7183 7210",
+    "geometry": {
+      "location": {
+        "lat": 51.5165,
+        "lng": -0.1085
+      }
+    },
+    "name": "The Clubhouse Holborn Circus (Blaskey Group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -2526,7 +2535,7 @@
     "user_ratings_total": 0,
     "website": "https://www.theclubhouselondon.com/locations/holborn",
     "activities": []
-},
+  },
   "The Clubhouse Mayfair (Blaskey Group)": {
     "formatted_address": "50 Grosvenor Hill, London W1K 3QT",
     "formatted_phone_number": "+44 20 7183 7210",
