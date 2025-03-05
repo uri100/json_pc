@@ -108,15 +108,15 @@
     },
     "description": "The Bayerische Yacht-Clubs has more than 950 members, 200 of which are ambitious and successful adolescents and sailing juniors (14-25 years of age), organized in a separate entity, the traditional club (JJA). This makes the BYC the biggest yacht club in Southern Germany. The Bayerische Yacht-Club is located—undoubtedly—at one of the most beautiful places at Lake Starnberg: At the north end of the lake, situated in an extensive area which seems to belong to a different period in time with its historical wooden buildings, but where one also find modernity and open-mindedness.",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/bayerischer_yachtclub1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/bayerischer_yachtclub2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/bayerischer_yachtclub3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/bayerischer_yachtclub4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/bayerischer_yachtclub5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/bayerischer_yacht_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/bayerischer_yacht_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/bayerischer_yacht_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/bayerischer_yacht_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/bayerischer_yacht_club5.jpg"
     ],
     "rating": 4.7,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/bayerischer_yachtclub_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/bayerischer_yacht_club_logo.png",
     "user_ratings_total": 108,
     "website": "https://www.byc.de/",
     "activities": [
