@@ -2352,7 +2352,7 @@
       "gym"
     ]
   },
-  "Soho House 40 Greek Street (\"Soho House group)": {
+  "Soho House 40 Greek Street (Soho House group)": {
     "formatted_address": "40 Greek Street, London W1D 4EB, United Kingdom",
     "formatted_phone_number": "+44 2077345188",
     "geometry": {
@@ -2361,7 +2361,7 @@
         "lng": -0.130551
       }
     },
-    "name": "Soho House 40 Greek Street (\"Soho House group)",
+    "name": "Soho House 40 Greek Street (Soho House group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
