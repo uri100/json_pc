@@ -1034,9 +1034,10 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/east_india_club_logo.png",
     "user_ratings_total": 82,
     "website": "https://www.eastindiaclub.co.uk",
- "activities": [
+    "activities": [
       "gym",
       "billiards"
+      ]
   },
   "Eight Bank (Brandon Kinsman clubs)": {
     "formatted_address": "1 Change Alley, London EC3V 3ND",
