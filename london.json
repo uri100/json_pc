@@ -91,36 +91,6 @@
     "website": "https://www.67pallmall.co.uk",
     "activities": []
   },
-  "Admiralty Arch Club": {
-    "formatted_address": "Admiralty Arch, The Mall, London SW1A 2WH",
-    "formatted_phone_number": "+44 20 3908 9100",
-    "geometry": {
-      "location": {
-        "lat": 51.50699,
-        "lng": -0.12902
-      }
-    },
-    "name": "Admiralty Arch Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "An exclusive private club and hotel (opened 2022) within the iconic Admiralty Arch monument at Trafalgar Square, blending historic grandeur with modern luxury.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/admiralty_arch_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/admiralty_arch_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/admiralty_arch_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/admiralty_arch_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/admiralty_arch_club5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/admiralty_arch_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.admiraltyarch.co.uk",
-    "activities": []
-  },
   "AllBright Club": {
     "formatted_address": "24-26 Maddox Street, London W1S 1PP",
     "formatted_phone_number": "+44 20 7317 9935",
