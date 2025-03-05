@@ -2896,7 +2896,7 @@
     "website": "https://www.universitywomensclub.com",
     "activities": []
   },
-  "Upstairs at L'Escargot": {
+  "The Snail Club": {
     "formatted_address": "48 Greek Street, London W1D 4EF",
     "formatted_phone_number": "+44 20 7439 7474",
     "geometry": {
@@ -2905,13 +2905,13 @@
         "lng": -0.13218
       }
     },
-    "name": "Upstairs at L'Escargot",
+    "name": "The Snail Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "A members’ salon above the historic L’Escargot restaurant in Soho, offering a cozy lounge, cocktail bar and art-adorned rooms for socializing in French-inspired luxury.",
+    "description": "The Snail Club is an “all-walks-of-life” private members’ club and an exclusive retreat, where members embrace a slower pace of life savouring intelligent conversation and cultural experiences, all the time being cared for by our friendly team. Located at the very top of L’Escargot’s historic building, the main room resembles a Roman Atrium and benefits from natural light filtering through an elegant skylight. Surrounded by exquisite, colourful private salons, filled with elegance, art and memories of glamorous times, The Snail Club is the beating heart of the building, a temple where time stands still. Here you will find a relaxing refuge, an escape from the noisy world outside, a hideaway, home away from home.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/upstairs_at_lescargot1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/upstairs_at_lescargot2.jpg",
@@ -2923,7 +2923,7 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/upstairs_at_lescargot_logo.png",
     "user_ratings_total": 12,
-    "website": "https://www.lescargot.co.uk/upstairs/",
+    "website": "https://snailclub.co.uk",
     "activities": []
   },
   "Walbrook Club": {
