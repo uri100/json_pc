@@ -1,11 +1,11 @@
 {
   "Drivers & Business Club Munich": {
-    "formatted_address": "Lilienthalallee 39",
+    "formatted_address": "Lilienthalallee 39, 80939 München, Germany",
     "formatted_phone_number": "+49 89 2153 68 60",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 48.196831,
+        "lng": 11.6085
       }
     },
     "name": "Drivers & Business Club Munich",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "In 2016, our founders and a trusted circle of supporters initiated the club. Trustees and founding members have joined since spring 2017. Even prior to the opening of our club house they have been participating in club events, enjoying club privileges and are helping to shape the evolution of Drivers & Business Club Munich. As a private members’ club we provide a reclusive meeting place for personalities who share a love of cars and motorsports.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/drivers_business_club_munich1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/drivers_business_club_munich2.jpg",
@@ -22,20 +22,22 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/drivers_business_club_munich4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/drivers_business_club_munich5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.8,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/drivers_business_club_munich_logo.png",
-    "user_ratings_total": 0,
-    "website": "",
-    "activities": []
+    "user_ratings_total": 63,
+    "website": "https://www.driversclub.biz",
+    "activities": [
+      "racing"
+    ]
   },
   "Famtain Member Club (\"formerly the Hearthouse)": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Lenbachplatz 2, Munich, Germany 80333",
+    "formatted_phone_number": "+49 160 90900224",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 48.14085,
+        "lng": 11.56746
       }
     },
     "name": "Famtain Member Club (\"formerly the Hearthouse)",
@@ -44,7 +46,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Located in Munich, it is a private social club where members can both network and dine. Dancing, live music and a full-service bar are also benefits of membership at Famtain. Famtain provides a lower level restaurant where the public can dine.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/famtain_member_club_formerly_the_hearthouse1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/famtain_member_club_formerly_the_hearthouse2.jpg",
@@ -52,29 +54,29 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/famtain_member_club_formerly_the_hearthouse4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/famtain_member_club_formerly_the_hearthouse5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.6,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/famtain_member_club_formerly_the_hearthouse_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 20,
     "website": "https://www.famtain.com",
     "activities": []
   },
-  "MĂĽnchener Herrenclub": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Münchener Herrenclub": {
+    "formatted_address": "Brienner Str. 13, 80333 München, Germany",
+    "formatted_phone_number": "+49 89 5999 7391",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 48.142891,
+        "lng": 11.574606
       }
     },
-    "name": "MĂĽnchener Herrenclub",
+    "name": "Münchener Herrenclub",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The Münchener Herrenclub e.V. provides social contacts among leading personalities. The platform provides a well-rounded program in the club for its 775 members who come from all domains of our society. The image of a gentlemen as a human being, determined by an inner attitude, a certain lifestyle and a liberal and sovereign contact with other people, is our ideal. The decisive factor is not origin, but character. The Münchener Herrenclub e.V. does not see itself as a representation of interests or as a platform for professional advancement or network organization. The numerous events such as visits, lectures, museum visits and joint trips lead to a better acquaintance of the club members and provides friendships that last for a lifetime.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/mnchener_herrenclub1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/mnchener_herrenclub2.jpg",
@@ -82,11 +84,43 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/mnchener_herrenclub4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/mnchener_herrenclub5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.5,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/mnchener_herrenclub_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 11,
     "website": "https://www.mhc1851.de",
     "activities": []
+  },
+  "Bayerischer Yacht-Club": {
+    "formatted_address": "Nepomukweg 10-12, 82319 Starnberg, Germany",
+    "formatted_phone_number": "+49 8151 3238",
+    "geometry": {
+      "location": {
+        "lat": 47.998431,
+        "lng": 11.351837
+      }
+    },
+    "name": "Bayerischer Yacht-Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "The Bayerische Yacht-Clubs has more than 950 members, 200 of which are ambitious and successful adolescents and sailing juniors (14-25 years of age), organized in a separate entity, the traditional club (JJA). This makes the BYC the biggest yacht club in Southern Germany. The Bayerische Yacht-Club is located—undoubtedly—at one of the most beautiful places at Lake Starnberg: At the north end of the lake, situated in an extensive area which seems to belong to a different period in time with its historical wooden buildings, but where one also find modernity and open-mindedness.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/bayerischer_yachtclub1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/bayerischer_yachtclub2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/bayerischer_yachtclub3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/bayerischer_yachtclub4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/bayerischer_yachtclub5.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/bayerischer_yachtclub_logo.png",
+    "user_ratings_total": 108,
+    "website": "https://www.byc.de/",
+    "activities": [
+      "sailing"
+    ]
   }
 }
