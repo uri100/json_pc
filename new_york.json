@@ -922,36 +922,6 @@
       "fitness"
     ]
   },
-  "Norwood Club (closed)": {
-    "formatted_address": "241 West 14th Street, New York, NY 10011, USA",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 40.7402,
-        "lng": -74.0018
-      }
-    },
-    "name": "Norwood Club (closed)",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "(Closed in 2020) The Norwood Club (opened 2007) was a private club for the creative community, housed in a Chelsea brownstone. It offered an eclectic salon environment with art-adorned lounges, a courtyard garden, dining and cocktails, and frequent performances, attracting artists, writers, and media professionals.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/norwood_club_closed1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/norwood_club_closed2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/norwood_club_closed3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/norwood_club_closed4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/norwood_club_closed5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/norwood_club_closed_logo.png",
-    "user_ratings_total": 0,
-    "website": "",
-    "activities": []
-  },
   "Penn Club of New York": {
     "formatted_address": "30 West 44th Street, New York, NY 10036, USA",
     "formatted_phone_number": "+1 212 764 3550",
