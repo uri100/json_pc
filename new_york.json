@@ -381,38 +381,6 @@
     "website": "https://www.explorers.org",
     "activities": []
   },
-  "Friars Club": {
-    "formatted_address": "57 East 55th Street, New York, NY 10022, USA",
-    "formatted_phone_number": "+1 212 751 7272",
-    "geometry": {
-      "location": {
-        "lat": 40.7599,
-        "lng": -73.9723
-      }
-    },
-    "name": "Friars Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "The Friars Club, established in 1904, is a storied private club for comedians and entertainment industry figures. Its Midtown mansion offers dining, a bar, and a stage where the club’s famous celebrity roasts and show-business events have long been hosted.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/friars_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/friars_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/friars_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/friars_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/friars_club5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/friars_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.friarsclub.com",
-    "activities": [
-      "billiards"
-    ]
-  },
   "Grolier Club": {
     "formatted_address": "47 East 60th Street, New York, NY 10022, USA",
     "formatted_phone_number": "+1 212 838 6690",
