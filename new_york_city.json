@@ -899,36 +899,6 @@
     "website": "https://www.pennclub.org",
     "activities": []
   },
-  "Princeton Club of New York": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Princeton Club of New York",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.princetonclub.com",
-    "activities": []
-  },
   "Racquet and Tennis Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
