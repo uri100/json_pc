@@ -954,39 +954,6 @@
       "fitness"
     ]
   },
-  "Princeton Club of New York (closed)": {
-    "formatted_address": "15 West 43rd Street, New York, NY 10036, USA",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 40.755,
-        "lng": -73.9813
-      }
-    },
-    "name": "Princeton Club of New York (closed)",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "(Closed in 2021) The Princeton Club (est. 1899) was an alumni club for Princeton University (also housing Williams and NYU club members) near Times Square. Its 10-floor clubhouse offered dining, athletic facilities, guest rooms, and a busy roster of lectures and social events for alumni. Financial challenges during COVID led to its closure, with reciprocal arrangements moved to the Penn Club.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york_closed1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york_closed2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york_closed3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york_closed4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york_closed5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york_closed_logo.png",
-    "user_ratings_total": 0,
-    "website": "",
-    "activities": [
-      "squash",
-      "fitness"
-    ]
-  },
   "Racquet and Tennis Club": {
     "formatted_address": "370 Park Avenue, New York, NY 10022, USA",
     "formatted_phone_number": "+1 212 753 9700",
