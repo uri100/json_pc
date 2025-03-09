@@ -28,12 +28,12 @@
     "user_ratings_total": 0,
     "website": "https://www.casinodemadrid.es",
     "activities": [
-      "billiard",
+      "billiards",
       "gym",
       "golf",
       "padel",
       "swimming",
-      "atheltic"
+      "athletics"
     ]
   },
   "Centro Cultural de los Ejércitos": {
@@ -66,7 +66,7 @@
     "website": "https://www.cculturalejercitos.com",
     "activities": [
       "fencing",
-      "billiard",
+      "billiards",
       "gym"
     ]
   },
@@ -195,7 +195,7 @@
     "user_ratings_total": 0,
     "website": "https://www.realgp.es",
     "activities": [
-      "billiard",
+      "billiards",
       "tennis"
     ]
   }
