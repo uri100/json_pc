@@ -1,74 +1,64 @@
 {
-    "Cercle Munster": {
-        "formatted_address": "5-7 Rue Münster, 2160 Luxembourg",
-        "formatted_phone_number": "+352 4706431",
-        "geometry": {
-            "location": {
-                "lat": 49.6086,
-                "lng": 6.135382
-            }
-        },
-        "international_phone_number": "+352 4706431",
-        "name": "Cercle Munster",
-        "opening_hours": {
-            "open_now": true,
-            "periods": [
-                {
-                    "open": {
-                        "day": 0,
-                        "time": "0000"
-                    }
-                }
-            ],
-            "weekday_text": [
-                "Sunday: Closed",
-                "Monday: 11:00 AM – 1:00 AM",
-                "Tuesday: 11:00 AM – 1:00 AM",
-                "Wednesday: 11:00 AM – 1:00 AM",
-                "Thursday: 11:00 AM – 1:00 AM",
-                "Friday: 11:00 AM – 1:00 AM",
-                "Saturday: 6:00 PM – 1:00 AM"
-            ]
-        },
-        "description": "The Cercle Munster was founded in 1982 by a group of entrepreneurs who sought to create a Luxembourg club modeled on the Anglo-Saxon tradition of a Gentleman’s Club",
-        "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxmebourg/cercle_munster.jpg",
-            "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxmebourg/cercle_munster2.jpg"
-        ],
-        "rating": 4.7,
-        "reviews": [],
-        "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxmebourg/cercle_munster_logo.png",
-        "user_ratings_total": 164,
-        "website": "https://munster.lu",
-        "activities": ["golf"],
-        "latitude": 49.6086,
-        "longitude": 6.135382
+  "Cercle Munster": {
+    "formatted_address": "5-7 Rue MĂĽnster, 2160 Luxembourg",
+    "formatted_phone_number": "+352 4706431",
+    "geometry": {
+      "location": {
+        "lat": 49.6086,
+        "lng": 6.135382
+      }
     },
-    "The Car’tell": {
-        "formatted_address": "70 route d'Esch - L-1470 Luxembourg",
-        "formatted_phone_number": "+352 28 89 25 01",
-        "geometry": {
-            "location": {
-                "lat": 49.601544,
-                "lng": 6.119522
-            }
-        },
-        "international_phone_number": "+352 28 89 25 01",
-        "name": "The Car’tell",
-        "opening_hours": null,
-        "description": "The Car'tell is Luxembourg's only Private Members Car Club. Become a member and drive your dream cars; from classic cars to modern sportscars. Porsche, Ferrari, Lotus, Morgan, Rolls-Royce; we have them all. Our fleet is constantly evolving and we had over 40 different cars since our creation in 2016.",
-        "photo_urls": [
-            "https://raw.githubusercontent.com/uri100/json_pc/3c3406093e98302c732dc0d4e2dba3511aa29777/images/clubs/luxmebourg/cartell.jpeg",
-            "https://raw.githubusercontent.com/uri100/json_pc/3c3406093e98302c732dc0d4e2dba3511aa29777/images/clubs/luxmebourg/cartell2.jpeg",
-            "https://raw.githubusercontent.com/uri100/json_pc/3c3406093e98302c732dc0d4e2dba3511aa29777/images/clubs/luxmebourg/cartell3.jpeg"
-        ],
-        "rating": 4.5,
-        "reviews": [],
-        "logo": "https://raw.githubusercontent.com/uri100/json_pc/3c3406093e98302c732dc0d4e2dba3511aa29777/images/clubs/luxmebourg/cartell_logo.png",
-        "user_ratings_total": 36,
-        "website": "https://www.thecartell.lu/",
-        "activities": null,
-        "latitude": 49.601544,
-        "longitude": 6.119522
-    }
+    "name": "Cercle Munster",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "The Cercle Munster was founded in 1982 by a group of entrepreneurs who sought to create a Luxembourg club modeled on the Anglo-Saxon tradition of a Gentleman's Club. In their view, the economic and social development of Luxembourg had reached a point that justified the creation of a top quality service that would attract corporate executives, senior partners and representatives of the international institutions as its members. Recruitment was, and still is, based on the model whereby a candidate member must be proposed and seconded by two existing Members, and subsequently approved by the Admissions Committee. The club has 10 private function rooms that can hold from 10 to 100 people. Members can choose to dine in the Brasserie where a variety of salads are served or try out the French cuisine featured in the gastronomic restaurant. Members can choose to accompany their meals with one of the 1500 different wines available. Other amenities include a Library and an English Bar.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxembourg/cercle_munster1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxembourg/cercle_munster2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxembourg/cercle_munster3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxembourg/cercle_munster4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxembourg/cercle_munster5.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxembourg/cercle_munster_logo.png",
+    "user_ratings_total": 50,
+    "website": "https://www.munster.lu",
+    "activities": [
+      "golf"
+    ]
+  },
+  "The Cartell": {
+    "formatted_address": "70 route d'Esch - L-1470 Luxembourg",
+    "formatted_phone_number": "+352 28 89 25 01",
+    "geometry": {
+      "location": {
+        "lat": 49.601544,
+        "lng": 6.119522
+      }
+    },
+    "name": "The Cartell",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "The Car'tell is Luxembourg's only Private Members Car Club. Become a member and drive your dream cars; from classic cars to modern sportscars. Porsche, Ferrari, Lotus, Morgan, Rolls-Royce; we have them all. Our fleet is constantly evolving and we had over 40 different cars since our creation in 2016.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxembourg/the_cartell1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxembourg/the_cartell2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxembourg/the_cartell3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxembourg/the_cartell4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxembourg/the_cartell5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/luxembourg/the_cartell_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.thecartell.lu",
+    "activities": []
+  }
 }
