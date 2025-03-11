@@ -1,0 +1,62 @@
+{
+  "asmallworld": {
+    "formatted_address": "Seidengasse 20, 8001 Zürich, Switzerland",
+    "formatted_phone_number": "+44 7495 595 104",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "asmallworld",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "ASmallWorld (stylized as ASMALLWORLD, or ASW) is a media company and a social networking service based in Zürich, Switzerland focused on travelers. The social network has a membership subscription business model; offering three different tiers: the basic ASmallWorld, Prestige and Signature.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/asmallworld1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/asmallworld2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/asmallworld3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/asmallworld4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/asmallworld5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/asmallworld_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.asmallworld.net",
+    "activities": []
+  },
+  "One Thousand Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "One Thousand Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Be part of a movement to create meaningful connections across cultures. Together, we are One Thousand Club – a global community of curious minds, coming together to enrich our lives through authentic relationships and experiences. We’re an application-only community (referral or interview required) and our members are selected based on curiosity, openness, and commitment to building meaningful connections.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/one_thousand_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/one_thousand_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/one_thousand_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/one_thousand_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/one_thousand_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/one_thousand_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://onethousandclub.com/",
+    "activities": []
+  }
+}
