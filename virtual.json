@@ -58,5 +58,35 @@
     "user_ratings_total": 0,
     "website": "https://onethousandclub.com/",
     "activities": []
+  },
+  "Pavilion": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Pavilion",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Pavilion is the world’s #1 private community for go-to-market leaders in B2B tech to connect, learn, and grow. With 10,000 members and counting, you’ll have access to an exclusive Slack community, local and global events, comprehensive courses through Pavilion University, and over 1,300 resources in our curated knowledge hub.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/pavilion1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/pavilion2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/pavilion3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/pavilion4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/pavilion5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/pavilion_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.joinpavilion.com/",
+    "activities": []
   }
 }
