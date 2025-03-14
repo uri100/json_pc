@@ -1,4 +1,64 @@
 {
+  "Pavilion Club Knightsbridge": {
+    "formatted_address": "64 Knightsbridge, SW1X 7JF",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Pavilion Club Knightsbridge",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pavilion_club_knightsbridge1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pavilion_club_knightsbridge2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pavilion_club_knightsbridge3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pavilion_club_knightsbridge4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pavilion_club_knightsbridge5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/pavilion_club_knightsbridge_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.pavilion.club",
+    "activities": []
+  },
+  "Royal Thames Yacht Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Royal Thames Yacht Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_thames_yacht_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_thames_yacht_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_thames_yacht_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_thames_yacht_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_thames_yacht_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/royal_thames_yacht_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.royalthames.com",
+    "activities": []
+  },
   "12 Hay Hill": {
     "formatted_address": "12 Hay Hill, London W1J 8NR",
     "formatted_phone_number": "+44 20 7850 5353",
@@ -151,7 +211,9 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/alpine_club_logo.png",
     "user_ratings_total": 23,
     "website": "https://www.alpine-club.org.uk",
-    "activities": []
+    "activities": [
+      "climbing"
+    ]
   },
   "Annabel's (Birley Group)": {
     "formatted_address": "46 Berkeley Square, London W1J 5AT",
@@ -275,7 +337,7 @@
     "website": "https://www.therag.co.uk",
     "activities": [
       "squash",
-      "pool",
+      "swimming",
       "gym"
     ]
   },
@@ -326,15 +388,15 @@
     },
     "description": "A high-end private gambling club in Mayfair (est. 1960s by John Aspinall), known for its exclusivity and gaming rooms as well as upscale dining – part of the Crown Resorts group. The renowned and rich legacy of Aspinalls continues to evolve with an international edge;  as part of the Crown group. Upon entry you will discover an array of gaming options, including a main gaming floor catering to those who enjoy camaraderie, to the exclusivity of six tastefully decorated, art-opulent private salons. Discover an unrivalled level of service for both gaming and dining, where refined tastes are catered for, art and history are celebrated, and where expectations are consistently exceeded.",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/aspinalls1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/aspinalls2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/aspinalls3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/aspinalls4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/aspinalls5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/crown_london1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/crown_london2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/crown_london3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/crown_london4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/crown_london5.jpg"
     ],
     "rating": 4.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/aspinalls_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/crown_london_logo.png",
     "user_ratings_total": 4,
     "website": "https://www.crownlondon.co.uk",
     "activities": []
@@ -2017,7 +2079,8 @@
       "spa",
       "gym",
       "yoga",
-      "pilates"
+      "pilates",
+      "climbing"
     ]
   },
   "Queen's Club": {
@@ -2184,7 +2247,9 @@
     "activities": [
       "golf",
       "swimming",
-      "gym"
+      "gym",
+      "yoga",
+      "pilates"
     ]
   },
   "Royal Automobile Club (“RAC”)": {
@@ -2218,9 +2283,7 @@
     "activities": [
       "swimming",
       "squash",
-      "spa",
-      "yoga",
-      "pilates"
+      "spa"
     ]
   },
   "Royal Ocean Racing Club": {
@@ -2471,9 +2534,45 @@
     "user_ratings_total": 0,
     "website": "https://www.club.tentrinitysquare.com",
     "activities": [
-      "pool",
+      "swimming",
       "gym",
       "spa"
+    ]
+  },
+  "Thames Club": {
+    "formatted_address": "Swan Street, Old Isleworth TW7 6XA",
+    "formatted_phone_number": "+44 20 8232 2200",
+    "geometry": {
+      "location": {
+        "lat": 51.4753,
+        "lng": -0.3244
+      }
+    },
+    "name": "Thames Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A fitness-focused members club in West London (Isleworth), offering a gym, swimming pool, spa, sports hall and fitness classes.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/thames_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/thames_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/thames_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/thames_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/thames_club5.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/thames_club_logo.png",
+    "user_ratings_total": 302,
+    "website": "https://thethamesclub.co.uk",
+    "activities": [
+      "gym",
+      "yoga",
+      "pilates",
+      "swimming",
+      "fitness"
     ]
   },
   "The Club at the Ivy": {
@@ -2506,7 +2605,7 @@
     "website": "https://www.the-ivyclub.co.uk",
     "activities": []
   },
-       "The Clubhouse Holborn Circus (Blaskey Group)": {
+  "The Clubhouse Holborn Circus (Blaskey Group)": {
     "formatted_address": "20 St Andrew Street, London EC4A 3AG",
     "formatted_phone_number": "+44 20 7183 7210",
     "geometry": {
@@ -2563,7 +2662,7 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_clubhouse_mayfair_blaskey_group_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.theclubhouselondon.com/locations/50-grosvenor-hill",
+    "website": "https://www.theclubhouseoffices.com/locations/mayfair",
     "activities": []
   },
   "The Conduit": {
@@ -2823,15 +2922,15 @@
     },
     "description": "The Snail Club is an “all-walks-of-life” private members’ club and an exclusive retreat, where members embrace a slower pace of life savouring intelligent conversation and cultural experiences, all the time being cared for by our friendly team. Located at the very top of L’Escargot’s historic building, the main room resembles a Roman Atrium and benefits from natural light filtering through an elegant skylight. Surrounded by exquisite, colourful private salons, filled with elegance, art and memories of glamorous times, The Snail Club is the beating heart of the building, a temple where time stands still. Here you will find a relaxing refuge, an escape from the noisy world outside, a hideaway, home away from home.",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/upstairs_at_lescargot1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/upstairs_at_lescargot2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/upstairs_at_lescargot3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/upstairs_at_lescargot4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/upstairs_at_lescargot5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_snail_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_snail_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_snail_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_snail_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_snail_club5.jpg"
     ],
     "rating": 4.5,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/upstairs_at_lescargot_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/the_snail_club_logo.png",
     "user_ratings_total": 12,
     "website": "https://snailclub.co.uk",
     "activities": []
@@ -2979,13 +3078,15 @@
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/special_forces_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/special_forces_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/special_forces_club3.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/special_forces_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/special_forces_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/special_forces_club5.jpg"
     ],
     "rating": 5.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/london/special_forces_club_logo.png",
     "user_ratings_total": 9,
-    "website": "https://www.specialforcesclub.org",
+    "website": "https://www.sfclub.org",
     "activities": []
   }
 }
