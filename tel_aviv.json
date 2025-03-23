@@ -1,0 +1,161 @@
+{
+  "Humble Club": {
+    "formatted_address": "Rothschild Blvd 19, Floor -1, Tel Aviv",
+    "formatted_phone_number": "+972-54-5370093",
+    "geometry": {
+      "location": {
+        "lat": 32.0653,
+        "lng": 34.7769
+      }
+    },
+    "name": "Humble Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Humble Club is a boutique gym offering activities such as Krav Maga, boxing, fitness, yoga, and Pilates. Founded by Ilan and Lior Bensoussan, it provides private training, small group classes, workshops, and team-building events.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/humble_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/humble_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/humble_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/humble_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/humble_club5.jpg"
+    ],
+    "rating": 5.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/humble_club_logo.png",
+    "user_ratings_total": 108,
+    "website": "http://humble-club.com/",
+    "activities": [
+      "Krav Maga",
+      "Boxing",
+      "Fitness",
+      "Yoga",
+      "Pilates"
+    ]
+  },
+  "Soho House Tel Aviv": {
+    "formatted_address": "Yefet Street 27, Tel Aviv-Jaffa, 6813005",
+    "formatted_phone_number": "+972-3-7388300",
+    "geometry": {
+      "location": {
+        "lat": 32.0541,
+        "lng": 34.7529
+      }
+    },
+    "name": "Soho House Tel Aviv",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Housed within a 19th-century building in historic Jaffa, Soho House Tel Aviv features 24 bedrooms, an outdoor pool, and a courtyard garden. It offers Middle Eastern-inspired dining and daily member events.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/soho_house_tel_aviv1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/soho_house_tel_aviv2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/soho_house_tel_aviv3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/soho_house_tel_aviv4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/soho_house_tel_aviv5.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/soho_house_tel_aviv_logo.png",
+    "user_ratings_total": 153,
+    "website": "https://www.sohohouse.com/en-us/houses/soho-house-tel-aviv-jaffa",
+    "activities": []
+  },
+  "INK": {
+    "formatted_address": "14 Brenner Street, Tel Aviv",
+    "formatted_phone_number": "+972-3-9300033",
+    "geometry": {
+      "location": {
+        "lat": 32.0684,
+        "lng": 34.7795
+      }
+    },
+    "name": "INK",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "INK Hotel's 'INK Stars' is a hospitality club offering members benefits such as discounts on bookings, special offers on anniversaries and birthdays. Membership is free and provides access to exclusive rates and benefits.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/ink1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/ink2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/ink3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/ink4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/ink5.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/ink_logo.png",
+    "user_ratings_total": 171,
+    "website": "https://inkhotel.com/members-club/",
+    "activities": []
+  },
+  "Jade Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Jade Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Jade Club is a private members' society for modern international women based in Tel Aviv. Founded in early 2018, it is one of Israel's first private member groups dedicated to women, focusing on community and empowerment.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/jade_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/jade_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/jade_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/jade_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/jade_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/jade_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.jadesocialclub.com/",
+    "activities": []
+  },
+  "The George": {
+    "formatted_address": "5 Israel Tal St., Tel Aviv",
+    "formatted_phone_number": "+972-3-3104400",
+    "geometry": {
+      "location": {
+        "lat": 32.0708,
+        "lng": 34.7805
+      }
+    },
+    "name": "The George",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "The George is a lifestyle destination featuring over 100 thoughtfully-designed guest rooms, a signature chef restaurant, all-day dining spaces, a poolside area, and a grab-and-go delicatessen. It offers a blend of work and leisure spaces, including a wellness center and live entertainment at the Jazz Hall.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/the_george1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/the_george2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/the_george3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/the_george4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/the_george5.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/tel_aviv/the_george_logo.png",
+    "user_ratings_total": 6,
+    "website": "https://thegeorgetelaviv.com/club/",
+    "activities": [
+      "gym",
+      "swimming"
+    ]
+  }
+}
