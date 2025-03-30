@@ -1,11 +1,11 @@
 {
   "Club de Tenis Valencia": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "C/ de Botánico Cavanilles, 7, 46010 Valencia, Spain",
+    "formatted_phone_number": "+34 963 690 658",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.4755,
+        "lng": -0.3543
       }
     },
     "name": "Club de Tenis Valencia",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1905, Club de Tenis Valencia is one of the most prestigious tennis clubs in Spain. It offers top-level facilities for tennis and a variety of other sports and social activities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_de_tenis_valencia1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_de_tenis_valencia2.jpg",
@@ -22,20 +22,25 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_de_tenis_valencia4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_de_tenis_valencia5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.5,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_de_tenis_valencia_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 200,
     "website": "https://www.clubdetenisvalencia.es",
-    "activities": []
+    "activities": [
+      "tennis",
+      "padel",
+      "gym",
+      "swimming"
+    ]
   },
   "Real Club Náutico de Valencia": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Camino de Canal, 91, 46024 Valencia, Spain",
+    "formatted_phone_number": "+34 963 677 511",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.438,
+        "lng": -0.319
       }
     },
     "name": "Real Club Náutico de Valencia",
@@ -44,7 +49,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The Royal Nautical Club of Valencia is a prominent yacht and sailing club offering a wide range of water sports, as well as tennis and padel courts. It is known for its vibrant community and seafront setting.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/real_club_nutico_de_valencia1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/real_club_nutico_de_valencia2.jpg",
@@ -52,20 +57,26 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/real_club_nutico_de_valencia4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/real_club_nutico_de_valencia5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.6,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/real_club_nutico_de_valencia_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 150,
     "website": "https://www.rcnv.es",
-    "activities": []
+    "activities": [
+      "sailing",
+      "rowing",
+      "fishing",
+      "tennis",
+      "padel"
+    ]
   },
   "Real Sociedad Valenciana de Agricultura y Deportes": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Calle de las Comedias, 12, 46003 Valencia, Spain",
+    "formatted_phone_number": "+34 963 517 142",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.4719,
+        "lng": -0.3754
       }
     },
     "name": "Real Sociedad Valenciana de Agricultura y Deportes",
@@ -74,7 +85,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1859, the Royal Valencian Society of Agriculture and Sports—commonly known as Casino de Agricultura—is a historic cultural and social club. It organizes regular events, talks, and games like bridge and domino.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/real_sociedad_valenciana_de_agricultura_y_deportes1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/real_sociedad_valenciana_de_agricultura_y_deportes2.jpg",
@@ -82,11 +93,209 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/real_sociedad_valenciana_de_agricultura_y_deportes4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/real_sociedad_valenciana_de_agricultura_y_deportes5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.4,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/real_sociedad_valenciana_de_agricultura_y_deportes_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 100,
     "website": "https://www.casinodeagricultura.com",
+    "activities": []
+  },
+  "Club de Campo Peñacañada": {
+    "formatted_address": "Carrer Les Travesses, 25, 46184 San Antonio de Benagéber, Valencia, Spain",
+    "formatted_phone_number": "+34 962 741 825",
+    "geometry": {
+      "location": {
+        "lat": 39.5825,
+        "lng": -0.5174
+      }
+    },
+    "name": "Club de Campo Peñacañada",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Peñacañada Country Club is a private family-oriented club located just outside Valencia. It offers a range of sports and wellness facilities, including tennis and padel courts, swimming pools, a gym, and social areas for events and gatherings.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_de_campo_peacaada1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_de_campo_peacaada2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_de_campo_peacaada3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_de_campo_peacaada4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_de_campo_peacaada5.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_de_campo_peacaada_logo.png",
+    "user_ratings_total": 180,
+    "website": "https://www.peñacañada.com/",
+    "activities": [
+      "tennis",
+      "padel",
+      "swimming",
+      "gym"
+    ]
+  },
+  "Club Español de Tenis": {
+    "formatted_address": "Camino de la Fuente, 46117 La Eliana, Valencia, Spain",
+    "formatted_phone_number": "+34 962 740 001",
+    "geometry": {
+      "location": {
+        "lat": 39.5773,
+        "lng": -0.5426
+      }
+    },
+    "name": "Club Español de Tenis",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Club Español de Tenis is a private sports and social club located in La Eliana, Valencia. With over 50 years of history, it features 21 tennis courts, multiple padel courts, a swimming pool, football field, fitness center, and dining areas.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_espaol_de_tenis1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_espaol_de_tenis2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_espaol_de_tenis3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_espaol_de_tenis4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_espaol_de_tenis5.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_espaol_de_tenis_logo.png",
+    "user_ratings_total": 220,
+    "website": "www.cettenis.com",
+    "activities": [
+      "tennis",
+      "padel",
+      "swimming",
+      "football",
+      "gym"
+    ]
+  },
+  "Club de Golf Escorpión": {
+    "formatted_address": "Ctra. Bétera-Olocau, Km. 4,3, 46117 Bétera, Valencia, Spain",
+    "formatted_phone_number": "+34 961 601 211",
+    "geometry": {
+      "location": {
+        "lat": 39.62,
+        "lng": -0.4744
+      }
+    },
+    "name": "Club de Golf Escorpión",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Club de Golf Escorpión is a prestigious private golf club offering a 27-hole course along with tennis and padel courts, swimming pool, and elegant club facilities. It also hosts regional and national golf tournaments.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_de_golf_escorpin1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_de_golf_escorpin2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_de_golf_escorpin3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_de_golf_escorpin4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_de_golf_escorpin5.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_de_golf_escorpin_logo.png",
+    "user_ratings_total": 210,
+    "website": "https://clubescorpion.com",
+    "activities": [
+      "golf",
+      "tennis",
+      "padel",
+      "swimming"
+    ]
+  },
+  "Club Diario Levante": {
+    "formatted_address": "Carrer Traginers, 7, 46014 Valencia, Spain",
+    "formatted_phone_number": "+34 963 970 500",
+    "geometry": {
+      "location": {
+        "lat": 39.4648,
+        "lng": -0.4002
+      }
+    },
+    "name": "Club Diario Levante",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Club Diario Levante is a private business and events club affiliated with the Levante media group. It features event rooms, a gym, and coworking spaces, serving professionals and entrepreneurs.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_diario_levante1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_diario_levante2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_diario_levante3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_diario_levante4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_diario_levante5.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/club_diario_levante_logo.png",
+    "user_ratings_total": 90,
+    "website": "https://cultural.valencia.es/es/espais/club-diario-levante/",
+    "activities": [
+      "gym"
+    ]
+  },
+  "Círculo de Bellas Artes de Valencia": {
+    "formatted_address": "Carrer de Cadirers, 5, 46001 Valencia, Spain",
+    "formatted_phone_number": "+34 963 922 203",
+    "geometry": {
+      "location": {
+        "lat": 39.4746,
+        "lng": -0.3762
+      }
+    },
+    "name": "Círculo de Bellas Artes de Valencia",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A prestigious cultural institution in the heart of Valencia, the Círculo de Bellas Artes promotes arts, literature, and intellectual discourse through exhibitions, lectures, and workshops. Members have access to exclusive events.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/crculo_de_bellas_artes_de_valencia1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/crculo_de_bellas_artes_de_valencia2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/crculo_de_bellas_artes_de_valencia3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/crculo_de_bellas_artes_de_valencia4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/crculo_de_bellas_artes_de_valencia5.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/crculo_de_bellas_artes_de_valencia_logo.png",
+    "user_ratings_total": 75,
+    "website": "http://www.cbbaav.es/",
+    "activities": []
+  },
+  "Casino Antiguo de Castellón": {
+    "formatted_address": "Plaça del Mercat, 1, 12001 Castellón de la Plana, Spain",
+    "formatted_phone_number": "+34 964 234 907",
+    "geometry": {
+      "location": {
+        "lat": 39.9856,
+        "lng": -0.0373
+      }
+    },
+    "name": "Casino Antiguo de Castellón",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Although located in Castellón (about 1 hour from Valencia), this historic private club is a cultural and social landmark offering exclusive member-only spaces for concerts, readings, and events.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/casino_antiguo_de_castelln1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/casino_antiguo_de_castelln2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/casino_antiguo_de_castelln3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/casino_antiguo_de_castelln4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/casino_antiguo_de_castelln5.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/valencia/casino_antiguo_de_castelln_logo.png",
+    "user_ratings_total": 180,
+    "website": "https://www.realcasinoantiguo.es/.",
     "activities": []
   }
 }
