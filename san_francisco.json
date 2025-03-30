@@ -594,7 +594,8 @@
     "user_ratings_total": 20,
     "website": "https://www.academy-sf.com",
     "activities": [
-      "Fitness"
+      "Fitness",
+      "Spa"
     ]
   },
   "The Battery": {
@@ -658,38 +659,6 @@
     "user_ratings_total": 3,
     "website": "https://www.wikipedia.org/wiki/The_Family_(club)",
     "activities": []
-  },
-  "The Marines' Memorial Club & Hotel": {
-    "formatted_address": "609 Sutter Street",
-    "formatted_phone_number": "415-673-6672",
-    "geometry": {
-      "location": {
-        "lat": 37.788,
-        "lng": -122.4101
-      }
-    },
-    "name": "The Marines' Memorial Club & Hotel",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "The Marines' Memorial Club & Hotel is a living memorial honoring military service. It offers 138 guest rooms, a rooftop restaurant, a theater, and hosts commemorative events.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_marines_memorial_club_hotel1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_marines_memorial_club_hotel2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_marines_memorial_club_hotel3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_marines_memorial_club_hotel4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_marines_memorial_club_hotel5.jpg"
-    ],
-    "rating": 4.5,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_marines_memorial_club_hotel_logo.png",
-    "user_ratings_total": 500,
-    "website": "https://www.marineclub.com",
-    "activities": [
-      "Fitness"
-    ]
   },
   "Town and Country Club": {
     "formatted_address": "218 Stockton Street",
