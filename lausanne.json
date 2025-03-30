@@ -29,7 +29,7 @@
     "website": "https://www.wikipedia.org/wiki/Abbaye_de_l%27Arc_(Lausanne)",
     "activities": []
   },
-  "Cercle LittĂ©raire": {
+  "Cercle Littéraire": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -38,7 +38,7 @@
         "lng": 0.0
       }
     },
-    "name": "Cercle LittĂ©raire",
+    "name": "Cercle Littéraire",
     "opening_hours": {
       "open_now": false,
       "periods": [],

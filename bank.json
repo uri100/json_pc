@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bank/eight_bank_brandon_kinsman_clubs1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bank/eight_bank_brandon_kinsman_clubs2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bank/eight_bank_brandon_kinsman_clubs3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bank/eight_bank_brandon_kinsman_clubs4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bank/eight_bank_brandon_kinsman_clubs5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bank/eight_bank_brandon_kinsman_clubs_logo.png",
     "user_ratings_total": 0,
-    "website": "eightclub.co.uk/bank",
+    "website": "https://www.eightclub.co.uk/bank",
     "activities": []
   }
 }

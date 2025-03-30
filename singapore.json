@@ -255,7 +255,7 @@
     "activities": [
       "circket",
       "futsal",
-      "pool",
+      "swimming",
       "darts",
       "hockey"
     ]
@@ -1403,7 +1403,6 @@
     "website": "https://www.rafflestownclub.com.sg",
     "activities": [
       "tennis",
-      "pool",
       "swimming",
       "gym",
       "bowling",
@@ -2260,7 +2259,7 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore/tt_lab_table_tennis_club_novena_logo.png",
     "user_ratings_total": 38,
-    "website": "https://www.tabletennislab.com.sg",
+    "website": "https://www.table tennislab.com.sg",
     "activities": [
       "table tennis",
       "tennis"
@@ -2293,7 +2292,7 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore/tt_lab_table_tennis_club_thomson_logo.png",
     "user_ratings_total": 69,
-    "website": "https://www.tabletennislab.com.sg",
+    "website": "https://www.table tennislab.com.sg",
     "activities": [
       "table tennis",
       "tennis"

@@ -187,11 +187,11 @@
       "polo",
       "sailing",
       "clay pigeon shooting",
-      "skiing"
+      "skiing."
     ]
   },
   "Nuovo Circolo degli Scacchi": {
-    "formatted_address": "Piazza del Gesù, 49, 00186 Roma RM, Italy",
+    "formatted_address": "Piazza del Gesů, 49, 00186 Roma RM, Italy",
     "formatted_phone_number": "+39 06 321 0543",
     "geometry": {
       "location": {
@@ -205,7 +205,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Nuovo Circolo degli Scacchi is a gentlemen's club founded in Rome in 1916 from the union of the Circolo degli Scacchi, founded in 1872 and having as its president Prince Don Giovanni Torlonia, and the Nuovo Circolo founded in 1906 and presided over by the Prince and Duke of Paliano Don Fabrizio. Starting from September 2023, the Club moved to its new headquarters, in Palazzo Altieri, in Piazza del Gesù, 49. Palazzo Altieri, one of the most important and significant examples of Roman Baroque, occupies a large block in the center of the city between the Pantheon and Piazza Venezia, overlooking Via del Plebiscito and Piazza del Gesù with its main facade. Commissioned by Cardinal Giovanni Battista Altieri to the architect Giovanni Antonio De Rossi, the palace was built starting in 1650 on a nucleus of medieval origin. It was then further expanded between 1670 and 1673, at the behest of Pope Clement X and under the control of his cardinal nephew, Paluzzo Paluzzi Altieri degli Albertoni. The second noble floor, now home to the Nuovo Circolo degli Scacchi, has become representative of the entire Palace over time due to its rich and refined furnishings and valuable decorations.",
+    "description": "The Nuovo Circolo degli Scacchi is a gentlemen's club founded in Rome in 1916 from the union of the Circolo degli Scacchi, founded in 1872 and having as its president Prince Don Giovanni Torlonia, and the Nuovo Circolo founded in 1906 and presided over by the Prince and Duke of Paliano Don Fabrizio. Starting from September 2023, the Club moved to its new headquarters, in Palazzo Altieri, in Piazza del Gesů, 49. Palazzo Altieri, one of the most important and significant examples of Roman Baroque, occupies a large block in the center of the city between the Pantheon and Piazza Venezia, overlooking Via del Plebiscito and Piazza del Gesů with its main facade. Commissioned by Cardinal Giovanni Battista Altieri to the architect Giovanni Antonio De Rossi, the palace was built starting in 1650 on a nucleus of medieval origin. It was then further expanded between 1670 and 1673, at the behest of Pope Clement X and under the control of his cardinal nephew, Paluzzo Paluzzi Altieri degli Albertoni. The second noble floor, now home to the Nuovo Circolo degli Scacchi, has become representative of the entire Palace over time due to its rich and refined furnishings and valuable decorations.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/nuovo_circolo_degli_scacchi1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/nuovo_circolo_degli_scacchi2.jpg",
@@ -235,7 +235,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Società Ginnastica dei Canottieri del Tevere – today the Reale Circolo Canottieri Tevere Remo – was formally founded in 1872. The Society, which was the first to introduce gymnastics and rowing to Rome, had a clear Risorgimento vocation, so much so that after the annexation of Rome to the Kingdom of Italy, it received high recognition from the Royal House of Savoy and the highest authorities of the government. Among these recognitions is the membership, since its foundation as honorary members, of Prince Tommaso of Savoy, Duke of Genoa, brother of the future Queen Margherita, of the Minister of the Navy at the time, Admiral Benedetto Brin, and of the Mayor of the Capital. Before the establishment of the Royal Yacht Club of Italy (RYCI) in 1879, in which the Club participated directly, the Società Ginnastica dei Canottieri del Tevere set up a sailing base in Palo Laziale, on the estate of Prince Ladislao Odescalchi, founder of the town of Ladispoli and second President, after Guglielmo Grant, of the Society. In 1912, with the merger with the Circolo del Remo, the base was transferred to Anzio where it is still in full operation. The club has a long history in the field of competitive rowing and sailing and has won many titles, medals and trophies since 1875; many of them are on display in the Palazzina della Sede Sociale.",
+    "description": "The Societŕ Ginnastica dei Canottieri del Tevere – today the Reale Circolo Canottieri Tevere Remo – was formally founded in 1872. The Society, which was the first to introduce gymnastics and rowing to Rome, had a clear Risorgimento vocation, so much so that after the annexation of Rome to the Kingdom of Italy, it received high recognition from the Royal House of Savoy and the highest authorities of the government. Among these recognitions is the membership, since its foundation as honorary members, of Prince Tommaso of Savoy, Duke of Genoa, brother of the future Queen Margherita, of the Minister of the Navy at the time, Admiral Benedetto Brin, and of the Mayor of the Capital. Before the establishment of the Royal Yacht Club of Italy (RYCI) in 1879, in which the Club participated directly, the Societŕ Ginnastica dei Canottieri del Tevere set up a sailing base in Palo Laziale, on the estate of Prince Ladislao Odescalchi, founder of the town of Ladispoli and second President, after Guglielmo Grant, of the Society. In 1912, with the merger with the Circolo del Remo, the base was transferred to Anzio where it is still in full operation. The club has a long history in the field of competitive rowing and sailing and has won many titles, medals and trophies since 1875; many of them are on display in the Palazzina della Sede Sociale.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/reale_circolo_canottieri_tevere_remo1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/reale_circolo_canottieri_tevere_remo2.jpg",
@@ -256,7 +256,7 @@
       "Tennis",
       "Swimming",
       "Billiards",
-      "Motorbiking",
+      "motorbiking",
       "hiking",
       "horse racing"
     ]
@@ -297,7 +297,7 @@
       "padel",
       "running",
       "billiards",
-      "skiing"
+      "ski"
     ]
   },
   "Olgiata Golf Club": {
@@ -315,7 +315,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "C. K. Cotton with Frank Pennink laid out the original 18 holes at Olgiata Golf Club, one of several Italian courses that he designed or restyled in the 1960s. A second nine holes have since been incorporated into the same large estate that lies to the north of the capital. The property was once a stud farm, producing world class thoroughbreds – like Nearco in the 1930s and Ribot in the 1950s – and a horse racing track still exists to the south of this massive golf and residential complex. All 27 holes at Olgiata are set in sumptuous parkland surroundings where the terrain is mildly undulating and fairways are separated by avenues of magnificent mature trees. The two 9-hole loops of the West course fan out from the clubhouse in opposite directions with many of the well-bunkered holes gently doglegging left or right. The club co-hosted the Italian Open with Roma Acquasanta in 1973. More recently, Ian Poulter claimed the Italian Open title here in 2002 and Bernd Wiesberger prevailed in 2019. The club has twice hosted the World Cup; the first time in 1968 when the Canadian two-man team of Al Balding and George Knudson lifted the trophy; and the second occasion in 1984, with the Spanish winners from two years previous, José Maria Cañizares and José Rivero, triumphing again.",
+    "description": "C. K. Cotton with Frank Pennink laid out the original 18 holes at Olgiata Golf Club, one of several Italian courses that he designed or restyled in the 1960s. A second nine holes have since been incorporated into the same large estate that lies to the north of the capital. The property was once a stud farm, producing world class thoroughbreds – like Nearco in the 1930s and Ribot in the 1950s – and a horse racing track still exists to the south of this massive golf and residential complex. All 27 holes at Olgiata are set in sumptuous parkland surroundings where the terrain is mildly undulating and fairways are separated by avenues of magnificent mature trees. The two 9-hole loops of the West course fan out from the clubhouse in opposite directions with many of the well-bunkered holes gently doglegging left or right. The club co-hosted the Italian Open with Roma Acquasanta in 1973. More recently, Ian Poulter claimed the Italian Open title here in 2002 and Bernd Wiesberger prevailed in 2019. The club has twice hosted the World Cup; the first time in 1968 when the Canadian two-man team of Al Balding and George Knudson lifted the trophy; and the second occasion in 1984, with the Spanish winners from two years previous, José Maria Cańizares and José Rivero, triumphing again.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/olgiata_golf_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/rome/olgiata_golf_club2.jpg",

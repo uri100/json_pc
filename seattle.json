@@ -29,7 +29,7 @@
     "website": "https://www.collegeclubseattle.com",
     "activities": []
   },
-  "Columbia Tower Club (\"ClubCorp)": {
+  "Columbia Tower Club (ClubCorp)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -38,7 +38,7 @@
         "lng": 0.0
       }
     },
-    "name": "Columbia Tower Club (\"ClubCorp)",
+    "name": "Columbia Tower Club (ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

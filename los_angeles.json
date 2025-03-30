@@ -179,7 +179,7 @@
     "website": "https://www.jc.org",
     "activities": []
   },
-  "Little Beach House Malibu (\"Soho House group)": {
+  "Little Beach House Malibu (Soho House Group)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -188,7 +188,7 @@
         "lng": 0.0
       }
     },
-    "name": "Little Beach House Malibu (\"Soho House group)",
+    "name": "Little Beach House Malibu (Soho House Group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -329,7 +329,7 @@
     "website": "https://www.therivieracountryclub.com",
     "activities": []
   },
-  "Soho House West Hollywood (\"Soho House group)": {
+  "Soho House West Hollywood (Soho House Group)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -338,7 +338,7 @@
         "lng": 0.0
       }
     },
-    "name": "Soho House West Hollywood (\"Soho House group)",
+    "name": "Soho House West Hollywood (Soho House Group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -389,7 +389,7 @@
     "website": "https://www.theasterla.com",
     "activities": []
   },
-  "Trump National Golf Club - Los Angeles (\"Trump organization)": {
+  "Trump National Golf Club - Los Angeles (Trump organization)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -398,7 +398,7 @@
         "lng": 0.0
       }
     },
-    "name": "Trump National Golf Club - Los Angeles (\"Trump organization)",
+    "name": "Trump National Golf Club - Los Angeles (Trump organization)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

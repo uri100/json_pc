@@ -31,7 +31,7 @@
       "racing"
     ]
   },
-  "Famtain Member Club (\"formerly the Hearthouse)": {
+  "Famtain Member Club (formerly the Hearthouse)": {
     "formatted_address": "Lenbachplatz 2, Munich, Germany 80333",
     "formatted_phone_number": "+49 160 90900224",
     "geometry": {
@@ -40,7 +40,7 @@
         "lng": 11.56746
       }
     },
-    "name": "Famtain Member Club (\"formerly the Hearthouse)",
+    "name": "Famtain Member Club (formerly the Hearthouse)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -61,7 +61,7 @@
     "website": "https://www.famtain.com",
     "activities": []
   },
-  "Münchener Herrenclub": {
+  "Munchener Herrenclub": {
     "formatted_address": "Brienner Str. 13, 80333 München, Germany",
     "formatted_phone_number": "+49 89 5999 7391",
     "geometry": {
@@ -70,7 +70,7 @@
         "lng": 11.574606
       }
     },
-    "name": "Münchener Herrenclub",
+    "name": "Munchener Herrenclub",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -86,12 +86,12 @@
     ],
     "rating": 4.5,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/mnchener_herrenclub_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/munich/munchener_herrenclub_logo.png",
     "user_ratings_total": 11,
     "website": "https://www.mhc1851.de",
     "activities": []
   },
-  "Bayerischer Yacht-Club": {
+  "Bayerischer Yacht Club": {
     "formatted_address": "Nepomukweg 10-12, 82319 Starnberg, Germany",
     "formatted_phone_number": "+49 8151 3238",
     "geometry": {
@@ -100,7 +100,7 @@
         "lng": 11.351837
       }
     },
-    "name": "Bayerischer Yacht-Club",
+    "name": "Bayerischer Yacht Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],

@@ -14,13 +14,21 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
+    "description": "Agra Club is a private members club in Agra, India, featuring sports facilities, dining, and social events for its members in a historic clubhouse setting.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/agra/agra_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/agra/agra_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/agra/agra_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/agra/agra_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/agra/agra_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/agra/agra_club_logo.png",
     "user_ratings_total": 0,
-    "website": "agraclub.com",
-    "activities": []
+    "website": "https://www.agraclub.com",
+    "activities": [
+      "fitness"
+    ]
   }
 }

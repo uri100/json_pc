@@ -1,11 +1,11 @@
 {
   "Royal Northern and University Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "9 Albyn Place, Aberdeen AB10 1YE, United Kingdom",
+    "formatted_phone_number": "+44 1224 583292",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 57.144,
+        "lng": -2.119
       }
     },
     "name": "Royal Northern and University Club",
@@ -14,37 +14,51 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
-    "rating": 0.0,
+    "description": "Founded in 1854 (granted Royal status in 1863), it is Aberdeen’s oldest private members’ club. Renowned for its fine dining, accommodations, and traditional yet welcoming atmosphere&#8203;:contentReference[oaicite:4]{index=4}&#8203;:contentReference[oaicite:5]{index=5}, the club serves as a social hub for both local gentry and professionals.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aberdeen/royal_northern_and_university_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aberdeen/royal_northern_and_university_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aberdeen/royal_northern_and_university_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aberdeen/royal_northern_and_university_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aberdeen/royal_northern_and_university_club5.jpg"
+    ],
+    "rating": 4.2,
     "reviews": [],
-    "logo": "",
-    "user_ratings_total": 0,
-    "website": "rnuc.org.uk",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aberdeen/royal_northern_and_university_club_logo.png",
+    "user_ratings_total": 33,
+    "website": "https://www.rnuc.org.uk",
     "activities": []
   },
-  "Trump International Golf Links - Scotland (\"Trump organization)": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Trump International Golf Links - Scotland (Trump organization)": {
+    "formatted_address": "Menie Estate, Balmedie, Aberdeenshire AB23 8YE, Scotland, United Kingdom",
+    "formatted_phone_number": "+44 1358 743300",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 57.45278,
+        "lng": -2.03611
       }
     },
-    "name": "Trump International Golf Links - Scotland (\"Trump organization)",
+    "name": "Trump International Golf Links - Scotland (Trump organization)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
+    "description": "A championship links golf course in Balmedie, opened in 2012 and owned by the Trump Organization&#8203;:contentReference[oaicite:6]{index=6}. The 18-hole, par-72 course spans the coastal dunes and has earned international acclaim. The resort features luxury accommodation (Macleod House) and dining facilities on-site.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aberdeen/trump_international_golf_links_scotland_trump_organization1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aberdeen/trump_international_golf_links_scotland_trump_organization2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aberdeen/trump_international_golf_links_scotland_trump_organization3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aberdeen/trump_international_golf_links_scotland_trump_organization4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aberdeen/trump_international_golf_links_scotland_trump_organization5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aberdeen/trump_international_golf_links_scotland_trump_organization_logo.png",
     "user_ratings_total": 0,
-    "website": "trumpgolfscotland.com",
-    "activities": []
+    "website": "https://www.trumpgolfscotland.com",
+    "activities": [
+      "golf"
+    ]
   }
 }

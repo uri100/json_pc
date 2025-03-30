@@ -1,5 +1,5 @@
 {
-  "Anadolu KulĂĽbĂĽ": {
+  "Anadolu Kulubü": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Anadolu KulĂĽbĂĽ",
+    "name": "Anadolu Kulubü",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -16,20 +16,20 @@
     },
     "description": "",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/anadolu_kulb1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/anadolu_kulb2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/anadolu_kulb3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/anadolu_kulb4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/anadolu_kulb5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/anadolu_kulub1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/anadolu_kulub2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/anadolu_kulub3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/anadolu_kulub4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/anadolu_kulub5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/anadolu_kulb_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/istanbul/anadolu_kulub_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.anadolukulubu.com",
     "activities": []
   },
-  "Cercle d'Orient-BĂĽyĂĽk KulĂĽp": {
+  "Cercle d'Orient-Büyük Kulüp": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -38,7 +38,7 @@
         "lng": 0.0
       }
     },
-    "name": "Cercle d'Orient-BĂĽyĂĽk KulĂĽp",
+    "name": "Cercle d'Orient-Büyük Kulüp",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -89,7 +89,7 @@
     "website": "https://www.hssk.org",
     "activities": []
   },
-  "Moda Deniz KulĂĽbĂĽ": {
+  "Moda Deniz Kulübü": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -98,7 +98,7 @@
         "lng": 0.0
       }
     },
-    "name": "Moda Deniz KulĂĽbĂĽ",
+    "name": "Moda Deniz Kulübü",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -119,7 +119,7 @@
     "website": "https://www.modadenizkulubu.org.tr",
     "activities": []
   },
-  "Soho House Istanbul (\"Soho House group)": {
+  "Soho House Istanbul (Soho House Group)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -128,7 +128,7 @@
         "lng": 0.0
       }
     },
-    "name": "Soho House Istanbul (\"Soho House group)",
+    "name": "Soho House Istanbul (Soho House Group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

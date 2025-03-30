@@ -1,5 +1,5 @@
 {
-  "Center Club of Orange County (\"ClubCorp)": {
+  "Center Club of Orange County (ClubCorp)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Center Club of Orange County (\"ClubCorp)",
+    "name": "Center Club of Orange County (ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

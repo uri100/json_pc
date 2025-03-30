@@ -14,13 +14,19 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
+    "description": "The Albuquerque Press Club is a private club for media professionals and community members in Albuquerque, housed in a historic log cabin. It offers a bar, event space, and a relaxed social environment for its members.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/albuquerque/albuquerque_press_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/albuquerque/albuquerque_press_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/albuquerque/albuquerque_press_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/albuquerque/albuquerque_press_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/albuquerque/albuquerque_press_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/albuquerque/albuquerque_press_club_logo.png",
     "user_ratings_total": 0,
-    "website": "abqpressclub.com",
+    "website": "https://www.abqpressclub.com",
     "activities": []
   }
 }

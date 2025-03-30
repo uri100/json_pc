@@ -14,14 +14,22 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
+    "description": "The Fort Orange Club, founded in 1880 in Albany, New York, is a private social club offering fine dining, banquet facilities, and fitness amenities in a historic downtown clubhouse, fostering networking and social camaraderie among its members.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/albany/fort_orange_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/albany/fort_orange_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/albany/fort_orange_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/albany/fort_orange_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/albany/fort_orange_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/albany/fort_orange_club_logo.png",
     "user_ratings_total": 0,
-    "website": "fortorangeclub.com",
-    "activities": []
+    "website": "https://www.fortorangeclub.com",
+    "activities": [
+      "fitness"
+    ]
   },
   "University Club of Albany": {
     "formatted_address": "141 Washington Ave, Albany, N.Y. 12210",
@@ -38,13 +46,19 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
+    "description": "Founded in 1901, the University Club of Albany is a private city club in Albany, New York, providing dining, meeting rooms, a library, and overnight accommodations for members and their guests in a historic mansion setting.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/albany/university_club_of_albany1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/albany/university_club_of_albany2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/albany/university_club_of_albany3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/albany/university_club_of_albany4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/albany/university_club_of_albany5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/albany/university_club_of_albany_logo.png",
     "user_ratings_total": 0,
-    "website": "universityclubalbany.com",
+    "website": "https://www.universityclubalbany.com",
     "activities": []
   }
 }

@@ -119,7 +119,7 @@
     "website": "https://www.cercleduparc.be",
     "activities": []
   },
-  "Cercle Royal Gaulois Artistique et LittĂ©raire": {
+  "Cercle Royal Gaulois Artistique et Littéraire": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -128,7 +128,7 @@
         "lng": 0.0
       }
     },
-    "name": "Cercle Royal Gaulois Artistique et LittĂ©raire",
+    "name": "Cercle Royal Gaulois Artistique et Littéraire",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -179,7 +179,7 @@
     "website": "",
     "activities": []
   },
-  "La SocietĂ© Royale littĂ©raire â€” Club Falligan": {
+  "La Societé Royale littéraire ou Club Falligan": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -188,7 +188,7 @@
         "lng": 0.0
       }
     },
-    "name": "La SocietĂ© Royale littĂ©raire â€” Club Falligan",
+    "name": "La Societé Royale littéraire ou Club Falligan",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -196,15 +196,15 @@
     },
     "description": "",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_club_falligan1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_club_falligan2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_club_falligan3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_club_falligan4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_club_falligan5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_ou_club_falligan1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_ou_club_falligan2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_ou_club_falligan3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_ou_club_falligan4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_ou_club_falligan5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_club_falligan_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_ou_club_falligan_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.falligan.be",
     "activities": []

@@ -1,5 +1,5 @@
 {
-  "Country Club of Hilton Head (\"ClubCorp)": {
+  "Country Club of Hilton Head (ClubCorp)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Country Club of Hilton Head (\"ClubCorp)",
+    "name": "Country Club of Hilton Head (ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

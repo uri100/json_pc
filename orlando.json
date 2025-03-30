@@ -1,5 +1,5 @@
 {
-  "Citrus Club (\"ClubCorp)": {
+  "Citrus Club (ClubCorp)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Citrus Club (\"ClubCorp)",
+    "name": "Citrus Club (ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -29,7 +29,7 @@
     "website": "https://www.clubcorp.com/Clubs/Citrus-Club",
     "activities": []
   },
-  "DeBary Golf and Country Club (\"ClubCorp)": {
+  "DeBary Golf and Country Club (ClubCorp)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -38,7 +38,7 @@
         "lng": 0.0
       }
     },
-    "name": "DeBary Golf and Country Club (\"ClubCorp)",
+    "name": "DeBary Golf and Country Club (ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

@@ -1,5 +1,5 @@
 {
-  "Dayton Racquet Club (\"ClubCorp)": {
+  "Dayton Racquet Club (ClubCorp)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Dayton Racquet Club (\"ClubCorp)",
+    "name": "Dayton Racquet Club (ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

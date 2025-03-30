@@ -29,7 +29,7 @@
     "website": "https://www.charlottecityclub.com",
     "activities": []
   },
-  "Trump National Golf Club - Charlotte (\"Trump organization)": {
+  "Trump National Golf Club - Charlotte (Trump organization)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -38,7 +38,7 @@
         "lng": 0.0
       }
     },
-    "name": "Trump National Golf Club - Charlotte (\"Trump organization)",
+    "name": "Trump National Golf Club - Charlotte (Trump organization)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

@@ -119,7 +119,7 @@
     "website": "https://www.wikipedia.org/wiki/Everglades_Club",
     "activities": []
   },
-  "Mar-a-Lago Club (\"Trump organization)": {
+  "Mar-a-Lago Club (Trump organization)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -128,7 +128,7 @@
         "lng": 0.0
       }
     },
-    "name": "Mar-a-Lago Club (\"Trump organization)",
+    "name": "Mar-a-Lago Club (Trump organization)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

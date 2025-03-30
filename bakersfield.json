@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bakersfield/petroleum_club_of_bakersfield1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bakersfield/petroleum_club_of_bakersfield2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bakersfield/petroleum_club_of_bakersfield3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bakersfield/petroleum_club_of_bakersfield4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bakersfield/petroleum_club_of_bakersfield5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bakersfield/petroleum_club_of_bakersfield_logo.png",
     "user_ratings_total": 0,
-    "website": "thepetroleumclub.com",
+    "website": "https://www.thepetroleumclub.com",
     "activities": []
   }
 }

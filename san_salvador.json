@@ -1,5 +1,5 @@
 {
-  "CĂ­rculo Deportivo Internacional": {
+  "Cí­rculo Deportivo Internacional": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "CĂ­rculo Deportivo Internacional",
+    "name": "Cí­rculo Deportivo Internacional",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -29,7 +29,7 @@
     "website": "https://www.cdi.com.sv",
     "activities": []
   },
-  "Club SalvadoreĂ±o": {
+  "Club Salvadoreño": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -38,7 +38,7 @@
         "lng": 0.0
       }
     },
-    "name": "Club SalvadoreĂ±o",
+    "name": "Club Salvadoreño",
     "opening_hours": {
       "open_now": false,
       "periods": [],

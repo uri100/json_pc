@@ -15,12 +15,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/antwerp/cercle_royal_concordephilotaxe1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/antwerp/cercle_royal_concordephilotaxe2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/antwerp/cercle_royal_concordephilotaxe3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/antwerp/cercle_royal_concordephilotaxe4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/antwerp/cercle_royal_concordephilotaxe5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/antwerp/cercle_royal_concordephilotaxe_logo.png",
     "user_ratings_total": 0,
-    "website": "concorde-philotaxe.be",
+    "website": "https://www.concorde-philotaxe.be",
     "activities": []
   }
 }

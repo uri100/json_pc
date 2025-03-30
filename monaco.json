@@ -29,7 +29,7 @@
     "website": "https://www.acm.mc",
     "activities": []
   },
-  "Club des RĂ©sidents Etrangers de Monaco": {
+  "Club des Résidents Etrangers de Monaco": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -38,7 +38,7 @@
         "lng": 0.0
       }
     },
-    "name": "Club des RĂ©sidents Etrangers de Monaco",
+    "name": "Club des Résidents Etrangers de Monaco",
     "opening_hours": {
       "open_now": false,
       "periods": [],

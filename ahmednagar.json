@@ -14,14 +14,22 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
+    "description": "Ahmednagar Club is a historical club in Ahmednagar, India, offering dining and lodging facilities, and serving as a social gathering point for its members since the colonial era.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmednagar/ahmednagar_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmednagar/ahmednagar_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmednagar/ahmednagar_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmednagar/ahmednagar_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmednagar/ahmednagar_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmednagar/ahmednagar_club_logo.png",
     "user_ratings_total": 0,
-    "website": "ahmednagarclub.com",
-    "activities": []
+    "website": "https://www.ahmednagarclub.com",
+    "activities": [
+      "fitness"
+    ]
   },
   "Ahmednagar Gymkhana": {
     "formatted_address": "",
@@ -38,13 +46,21 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
-    "photo_urls": [],
+    "description": "Ahmednagar Gymkhana provides sports facilities and social spaces for members in Ahmednagar. The club offers activities such as tennis and cricket, along with dining and event venues.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmednagar/ahmednagar_gymkhana1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmednagar/ahmednagar_gymkhana2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmednagar/ahmednagar_gymkhana3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmednagar/ahmednagar_gymkhana4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmednagar/ahmednagar_gymkhana5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmednagar/ahmednagar_gymkhana_logo.png",
     "user_ratings_total": 0,
-    "website": "ahmednagargymkhana.com",
-    "activities": []
+    "website": "https://www.ahmednagargymkhana.com",
+    "activities": [
+      "fitness"
+    ]
   }
 }

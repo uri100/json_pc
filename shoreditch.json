@@ -1,34 +1,4 @@
 {
-  "Alpine Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Alpine Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shoreditch/alpine_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shoreditch/alpine_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shoreditch/alpine_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shoreditch/alpine_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shoreditch/alpine_club5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shoreditch/alpine_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.alpine-club.org.uk",
-    "activities": []
-  },
   "Curtain Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
@@ -59,7 +29,7 @@
     "website": "https://www.thecurtain.com",
     "activities": []
   },
-  "Shoreditch House (\"Soho House group)": {
+  "Shoreditch House (Soho House Group)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -68,7 +38,7 @@
         "lng": 0.0
       }
     },
-    "name": "Shoreditch House (\"Soho House group)",
+    "name": "Shoreditch House (Soho House Group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

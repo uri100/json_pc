@@ -1,5 +1,5 @@
 {
-  "Maggie and Rose Club Kensington (\"Maggie and Rose group)": {
+  "Maggie and Rose Club Kensington (Maggie and Rose group)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Maggie and Rose Club Kensington (\"Maggie and Rose group)",
+    "name": "Maggie and Rose Club Kensington (Maggie and Rose group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -27,36 +27,6 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/maggie_and_rose_club_kensington_maggie_and_rose_group_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.maggieandrose.com/kensington-club/",
-    "activities": []
-  },
-  "Ognisko Polskie": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Ognisko Polskie",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/ognisko_polskie1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/ognisko_polskie2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/ognisko_polskie3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/ognisko_polskie4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/ognisko_polskie5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kensington/ognisko_polskie_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.ogniskopolskie.org.uk",
     "activities": []
   },
   "Pavilion Club Kensington": {

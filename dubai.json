@@ -58,7 +58,7 @@
     "rating": 4.5,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/india_club_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 1300,
     "website": "https://www.indiaclubdubai.com",
     "activities": [
       "badminton",
@@ -100,7 +100,7 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/world_trade_club_logo.png",
     "user_ratings_total": 30,
-    "website": "Club information via DWTC",
+    "website": "",
     "activities": []
   },
   "The Arts Club Dubai": {
@@ -296,7 +296,7 @@
     "rating": 4.1,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/al_nasr_leisureland_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 1700,
     "website": "https://www.alnasrll.com",
     "activities": [
       "tennis",

@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Automobile Club of France (ACF) is a men's club founded in 1895. The club still occupies more than 10,000 square meters in the Hotels du Plessis-Bellière and Moreau, both located between the Hôtel de Crillon and the Hôtel de Coislin, where France signed a treaty by which it became the first nation to recognize the independence of the United States. The members of the Automobile Club of France enjoy several lounges, a swimming pool, a gym, a library containing more than 50,000 references, a movie theatre, bars, and dining rooms. Numerous activities are offered, including yoga, squash, shooting, billiards, and fencing. The facilities also include a hair salon and a travel agency. From 1906 to 1914 the Club regulated major races in France and established the rules for the annual national race dubbed a Grand Prix that was open to competitors from any country. Today, the club maintains its head office and facilities on the Place de la Concorde in Paris.",
+    "description": "The Automobile Club of France (ACF) is a men's club founded in 1895. The club still occupies more than 10,000 square meters in the Hotels du Plessis-Belličre and Moreau, both located between the Hôtel de Crillon and the Hôtel de Coislin, where France signed a treaty by which it became the first nation to recognize the independence of the United States. The members of the Automobile Club of France enjoy several lounges, a swimming pool, a gym, a library containing more than 50,000 references, a movie theatre, bars, and dining rooms. Numerous activities are offered, including yoga, squash, shooting, billiards, and fencing. The facilities also include a hair salon and a travel agency. From 1906 to 1914 the Club regulated major races in France and established the rules for the annual national race dubbed a Grand Prix that was open to competitors from any country. Today, the club maintains its head office and facilities on the Place de la Concorde in Paris.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/automobile_club_de_france1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/automobile_club_de_france2.jpg",
@@ -89,17 +89,17 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Cercle National des Armées (CNA) is a unique institution, occupying a building on Place Saint-Augustin, built exclusively for it by Charles Lemaresquier in 1924. It is also present on two other sites, the Hôtel Sainte-Geneviève (Paris 5) and the Hôtel Lacordaire (Paris 15). Today, the “Maison des Officiers de France” (its second name) still welcomes, as a priority, active officers from the three services and armies as well as loyal members who all share the values conveyed by our institution. As a social and cultural organization, the NAC regularly offers activities and events that you will find in the “news” section. The NAC has been headed since August 1, 2022 by Senior Commissioner Marion DIAZ.",
+    "description": "The Cercle National des Armées (CNA) is a unique institution, occupying a building on Place Saint-Augustin, built exclusively for it by Charles Lemaresquier in 1924. It is also present on two other sites, the Hôtel Sainte-Genevičve (Paris 5) and the Hôtel Lacordaire (Paris 15). Today, the “Maison des Officiers de France” (its second name) still welcomes, as a priority, active officers from the three services and armies as well as loyal members who all share the values conveyed by our institution. As a social and cultural organization, the NAC regularly offers activities and events that you will find in the “news” section. The NAC has been headed since August 1, 2022 by Senior Commissioner Marion DIAZ.",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_national_des_armees1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_national_des_armees2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_national_des_armees3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_national_des_armees4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_national_des_armees5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_national_des_armes1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_national_des_armes2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_national_des_armes3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_national_des_armes4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_national_des_armes5.jpg"
     ],
     "rating": 4.4,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_national_des_armees_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/cercle_national_des_armes_logo.png",
     "user_ratings_total": 376,
     "website": "https://www.cnaparis.com",
     "activities": [
@@ -109,7 +109,7 @@
   },
   "Cercle Norvégien de Paris": {
     "formatted_address": "20 rue de l'Arcade, Paris",
-    "formatted_phone_number": "+33188223344",
+    "formatted_phone_number": "33188223344",
     "geometry": {
       "location": {
         "lat": 48.872044,
@@ -182,7 +182,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "It was in 1964 that François Sommer, supported by his wife Jacqueline, concretized his love of Nature by creating the Maison de la Chasse et de la Nature. Faithful to their humanist aspirations, they added to this Foundation an association which must take an active part in the promotion of the values ​​they defend.\n This will be the Hunting and Nature Club, founded on January 12, 1966. The club is placed under the sign of friendship and camaraderie: its first 34 members are close to the Sommers who combine qualities and values. Coming from the world of politics, business, and the arts, they formed the constituent assembly of the club of the House of Hunting and Nature.",
+    "description": "It was in 1964 that François Sommer, supported by his wife Jacqueline, concretized his love of Nature by creating the Maison de la Chasse et de la Nature. Faithful to their humanist aspirations, they added to this Foundation an association which must take an active part in the promotion of the values they defend. This will be the Hunting and Nature Club, founded on January 12, 1966. The club is placed under the sign of friendship and camaraderie: its first 34 members are close to the Sommers who combine qualities and values. Coming from the world of politics, business, and the arts, they formed the constituent assembly of the club of the House of Hunting and Nature.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/club_de_la_chasse_et_de_la_nature1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/club_de_la_chasse_et_de_la_nature2.jpg",
@@ -263,7 +263,8 @@
       "spa",
       "swimming",
       "gym",
-      "fitness"
+      "fitness",
+      "."
     ]
   },
   "Silencio": {
@@ -298,7 +299,7 @@
   },
   "Travellers Club Paris": {
     "formatted_address": "25 Av. des Champs-Élysées, 75008 Paris, France",
-    "formatted_phone_number": "+ 33 1 43 59 75 00",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
         "lat": 48.8693884,
@@ -311,7 +312,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Travelers has been located at Hotel Païva since 1904, in the magnificent building that belonged to the Marchioness of Païva. It offers a unique space to its members in the center of Paris, on the Avenue des Champs-Elysées. It has spaces for the member, such as a restaurant, cafeterias, lounges, event rooms and recreation rooms.\n The required dress code is a jacket and tie for all spaces. A cover letter is required to access.",
+    "description": "The Travelers has been located at Hotel Paďva since 1904, in the magnificent building that belonged to the Marchioness of Paďva. It offers a unique space to its members in the center of Paris, on the Avenue des Champs-Elysées. It has spaces for the member, such as a restaurant, cafeterias, lounges, event rooms and recreation rooms.\n The required dress code is a jacket and tie for all spaces. A cover letter is required to access.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/travellers_club_paris1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/paris/travellers_club_paris2.jpg",
@@ -328,7 +329,8 @@
       "gym",
       "spa",
       "fitness",
-      "sauna"
+      "sauna",
+      ""
     ]
   }
 }

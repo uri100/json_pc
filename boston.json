@@ -59,7 +59,7 @@
     "website": "https://www.facebook.com/The-Badminton-Tennis-Club-114327725257964/",
     "activities": []
   },
-  "Boston College Club (\"Clubcorp)": {
+  "Boston College Club (ClubCorp)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -68,7 +68,7 @@
         "lng": 0.0
       }
     },
-    "name": "Boston College Club (\"Clubcorp)",
+    "name": "Boston College Club (ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

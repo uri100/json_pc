@@ -15,15 +15,21 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/austin_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/austin_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/austin_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/austin_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/austin_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/austin_club_logo.png",
     "user_ratings_total": 0,
-    "website": "austinclub.com",
+    "website": "https://www.austinclub.com",
     "activities": []
   },
-  "Austin Woman’s Club": {
+  "Austin Woman's Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -32,19 +38,25 @@
         "lng": 0.0
       }
     },
-    "name": "Austin Woman’s Club",
+    "name": "Austin Woman's Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/austin_womans_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/austin_womans_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/austin_womans_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/austin_womans_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/austin_womans_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/austin_womans_club_logo.png",
     "user_ratings_total": 0,
-    "website": "austinwc.org",
+    "website": "https://www.austinwc.org",
     "activities": []
   },
   "Austin Yacht Club": {
@@ -63,12 +75,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/austin_yacht_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/austin_yacht_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/austin_yacht_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/austin_yacht_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/austin_yacht_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/austin_yacht_club_logo.png",
     "user_ratings_total": 0,
-    "website": "austinyachtclub.net",
+    "website": "https://www.austinyachtclub.net",
     "activities": []
   },
   "Headliners Club of Austin": {
@@ -87,12 +105,18 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/headliners_club_of_austin1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/headliners_club_of_austin2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/headliners_club_of_austin3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/headliners_club_of_austin4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/headliners_club_of_austin5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/headliners_club_of_austin_logo.png",
     "user_ratings_total": 0,
-    "website": "headlinersclub.com",
+    "website": "https://www.headlinersclub.com",
     "activities": []
   },
   "University of Texas Club": {
@@ -111,12 +135,48 @@
       "weekday_text": []
     },
     "description": "",
-    "photo_urls": [],
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/university_of_texas_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/university_of_texas_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/university_of_texas_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/university_of_texas_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/university_of_texas_club5.jpg"
+    ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/university_of_texas_club_logo.png",
     "user_ratings_total": 0,
-    "website": "clubcorp.com/Clubs/The-University-of-Texas-Club",
+    "website": "https://www.clubcorp.com/Clubs/The-University-of-Texas-Club",
+    "activities": []
+  },
+  "Campus Club Texas": {
+    "formatted_address": "AT&T Hotel and Conference Center, 1900 University Avenue, Austin, Texas 78705",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Campus Club Texas",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Campus Club is a dynamic benefits-driven organization and the social center for the campus community. The club is hosted at the AT&T Hotel and Conference Center for faculty, staff, and retirees of The University of Texas. Campus Club membership is open to all University of Texas faculty and staff, UT System administration, and retirees. With no initiation or cancellation fees and monthly dues of $25 (or $156 annually for retirees), Campus Club membership is the best deal on campus, entitling you to a full slate of professional and personal benefits.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/campus_club_texas1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/campus_club_texas2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/campus_club_texas3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/campus_club_texas4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/campus_club_texas5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/austin/campus_club_texas_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.campusclubut.com",
     "activities": []
   }
 }
