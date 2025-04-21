@@ -1,5 +1,5 @@
 {
-  "Soho Beach House (\"Soho House group)": {
+  "Soho Beach House (Soho House Group)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Soho Beach House (\"Soho House group)",
+    "name": "Soho Beach House (Soho House Group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -29,7 +29,7 @@
     "website": "https://www.sohobeachhouse.com",
     "activities": []
   },
-  "Trump National Doral Miami (\"Trump organization)": {
+  "Trump National Doral Miami (Trump organization)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -38,7 +38,7 @@
         "lng": 0.0
       }
     },
-    "name": "Trump National Doral Miami (\"Trump organization)",
+    "name": "Trump National Doral Miami (Trump organization)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

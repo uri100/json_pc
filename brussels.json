@@ -1,11 +1,11 @@
 {
   "American Belgian Association": {
-    "formatted_address": "",
+    "formatted_address": "Rue de Namur 81, 1000 Brussels, Belgium",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 50.8415,
+        "lng": 4.3609
       }
     },
     "name": "American Belgian Association",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A social club fostering relations between Americans and Belgians through various cultural and social events.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/american_belgian_association1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/american_belgian_association2.jpg",
@@ -30,12 +30,12 @@
     "activities": []
   },
   "Bruxelles Royal Yacht Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Chaussée de Vilvorde 1, 1020 Brussels, Belgium",
+    "formatted_phone_number": "+32 2 268 21 14",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 50.8945,
+        "lng": 4.3791
       }
     },
     "name": "Bruxelles Royal Yacht Club",
@@ -44,7 +44,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1906, this club offers sailing facilities and organizes regattas along the Brussels–Scheldt Maritime Canal.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/bruxelles_royal_yacht_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/bruxelles_royal_yacht_club2.jpg",
@@ -57,15 +57,17 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/bruxelles_royal_yacht_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.bruxelles-royal-yacht-club.be",
-    "activities": []
+    "activities": [
+      "sailing"
+    ]
   },
   "Cercle de Lorraine": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Place Poelaert 6, 1000 Brussels, Belgium",
+    "formatted_phone_number": "+32 2 421 04 11",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 50.8371,
+        "lng": 4.3544
       }
     },
     "name": "Cercle de Lorraine",
@@ -74,7 +76,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "An exclusive business club offering networking opportunities, conferences, and dining services for professionals.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_de_lorraine1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_de_lorraine2.jpg",
@@ -90,12 +92,12 @@
     "activities": []
   },
   "Cercle Royal du Parc": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Rue de Namur 1, 1000 Brussels, Belgium",
+    "formatted_phone_number": "+32 2 512 00 35",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 50.842,
+        "lng": 4.356
       }
     },
     "name": "Cercle Royal du Parc",
@@ -104,7 +106,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1842, this gentlemen's club provides a venue for social gatherings among members of the nobility and business community.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_royal_du_parc1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_royal_du_parc2.jpg",
@@ -119,22 +121,22 @@
     "website": "https://www.cercleduparc.be",
     "activities": []
   },
-  "Cercle Royal Gaulois Artistique et LittĂ©raire": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Cercle Royal Gaulois Artistique et Littéraire": {
+    "formatted_address": "Rue de la Loi 5, 1000 Brussels, Belgium",
+    "formatted_phone_number": "+32 2 512 00 36",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 50.8452,
+        "lng": 4.3692
       }
     },
-    "name": "Cercle Royal Gaulois Artistique et LittĂ©raire",
+    "name": "Cercle Royal Gaulois Artistique et Littéraire",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1848, this club promotes artistic and literary activities and serves as a meeting place for intellectuals and artists.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_royal_gaulois_artistique_et_littraire1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_royal_gaulois_artistique_et_littraire2.jpg",
@@ -147,15 +149,17 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/cercle_royal_gaulois_artistique_et_littraire_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.cercle-gaulois.be",
-    "activities": []
+    "activities": [
+      "billiards"
+    ]
   },
   "De Warande": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Rue Zinner 1, 1000 Brussels, Belgium",
+    "formatted_phone_number": "+32 2 549 02 00",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 50.8441,
+        "lng": 4.3677
       }
     },
     "name": "De Warande",
@@ -164,7 +168,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1988, De Warande is a Flemish business club located in the historic Hôtel Empain, offering a space for networking and cultural events.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/de_warande1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/de_warande2.jpg",
@@ -176,46 +180,46 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/de_warande_logo.png",
     "user_ratings_total": 0,
-    "website": "",
+    "website": "https://www.dewarande.be",
     "activities": []
   },
-  "La SocietĂ© Royale littĂ©raire â€” Club Falligan": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "La Société Royale Littéraire ou Club Falligan": {
+    "formatted_address": "Rue de la Montagne 28, 1000 Brussels, Belgium",
+    "formatted_phone_number": "+32 2 511 53 89",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 50.8481,
+        "lng": 4.3559
       }
     },
-    "name": "La SocietĂ© Royale littĂ©raire â€” Club Falligan",
+    "name": "La Société Royale Littéraire ou Club Falligan",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1775, this literary society serves as a hub for intellectual and cultural exchange among its members.",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_club_falligan1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_club_falligan2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_club_falligan3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_club_falligan4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_club_falligan5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_socit_royale_littraire_ou_club_falligan1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_socit_royale_littraire_ou_club_falligan2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_socit_royale_littraire_ou_club_falligan3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_socit_royale_littraire_ou_club_falligan4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_socit_royale_littraire_ou_club_falligan5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_societ_royale_littraire_club_falligan_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/la_socit_royale_littraire_ou_club_falligan_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.falligan.be",
     "activities": []
   },
   "Montgomery Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Avenue de Tervueren 286, 1150 Brussels, Belgium",
+    "formatted_phone_number": "+32 2 741 63 00",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 50.8326,
+        "lng": 4.4369
       }
     },
     "name": "Montgomery Club",
@@ -224,7 +228,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A family-oriented club offering various sports facilities, including tennis courts, padel, squash, swimming pool, and a fitness center.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/montgomery_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/montgomery_club2.jpg",
@@ -237,15 +241,21 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/montgomery_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.clubmontgomery.net",
-    "activities": []
+    "activities": [
+      "tennis",
+      "padel",
+      "squash",
+      "swimming",
+      "gym"
+    ]
   },
   "University Foundation Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Rue d'Egmont 11, 1000 Brussels, Belgium",
+    "formatted_phone_number": "+32 2 545 04 00",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 50.8382,
+        "lng": 4.3615
       }
     },
     "name": "University Foundation Club",
@@ -254,7 +264,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1920, this club provides a meeting place for academics and professionals, offering dining facilities, conference rooms, and limited sports amenities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/university_foundation_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/university_foundation_club2.jpg",
@@ -267,36 +277,194 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/university_foundation_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.fondationuniversitaire.be",
-    "activities": []
+    "activities": [
+      "billiards",
+      "fitness"
+    ]
   },
-  "Chateau Sainte-Anne": {
-    "formatted_address": "Rue Du Vieux-moulin, 103-1160 Bruxelles, Belgium",
-    "formatted_phone_number": "",
+  "Château Sainte-Anne": {
+    "formatted_address": "Rue du Vieux Moulin 103, 1160 Brussels, Belgium",
+    "formatted_phone_number": "+32 2 663 39 00",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 50.8107,
+        "lng": 4.4295
       }
     },
-    "name": "Chateau Sainte-Anne",
+    "name": "Château Sainte-Anne",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Under the royal patronage of King Philippe, this club offers a range of sports facilities, including tennis and squash courts, a swimming pool, and a gym, along with dining and event spaces.",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/chateau_sainteanne1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/chateau_sainteanne2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/chateau_sainteanne3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/chateau_sainteanne4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/chateau_sainteanne5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/chteau_sainteanne1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/chteau_sainteanne2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/chteau_sainteanne3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/chteau_sainteanne4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/chteau_sainteanne5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/chateau_sainteanne_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/chteau_sainteanne_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.chateau-sainte-anne.be",
+    "activities": [
+      "tennis",
+      "squash",
+      "swimming",
+      "gym"
+    ]
+  },
+  "TheMerode": {
+    "formatted_address": "Place Poelaert 6, 1000 Brussels, Belgium",
+    "formatted_phone_number": "+32 2 511 00 00",
+    "geometry": {
+      "location": {
+        "lat": 50.8371,
+        "lng": 4.3544
+      }
+    },
+    "name": "TheMerode",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A contemporary private members' club that blends culture and business, offering a space for professionals to connect and engage in various events.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/themerode1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/themerode2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/themerode3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/themerode4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/themerode5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/themerode_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.themerode.com/en",
+    "activities": []
+  },
+  "The Nine": {
+    "formatted_address": "Rue Archimède 69, 1000 Brussels, Belgium",
+    "formatted_phone_number": "+32 2 318 39 00",
+    "geometry": {
+      "location": {
+        "lat": 50.8503,
+        "lng": 4.3784
+      }
+    },
+    "name": "The Nine",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Belgium's first female-focused private members' club, fostering a community aimed at promoting equality and providing a space for women to connect and collaborate.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/the_nine1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/the_nine2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/the_nine3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/the_nine4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/the_nine5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/the_nine_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://thenine.be/",
+    "activities": []
+  },
+  "Full Circle": {
+    "formatted_address": "Chaussée de Vleurgat 89, 1050 Brussels, Belgium",
+    "formatted_phone_number": "+32 2 644 00 00",
+    "geometry": {
+      "location": {
+        "lat": 50.8239,
+        "lng": 4.3725
+      }
+    },
+    "name": "Full Circle",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A members' club and event space that connects ideas with action, hosting discussions, workshops, and cultural events to inspire change.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/full_circle1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/full_circle2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/full_circle3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/full_circle4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/full_circle5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/full_circle_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://fullcircle.eu/",
+    "activities": []
+  },
+  "Le Club des Etoiles": {
+    "formatted_address": "Avenue Louise 523, 1050 Brussels, Belgium",
+    "formatted_phone_number": "+32 2 646 00 00",
+    "geometry": {
+      "location": {
+        "lat": 50.8234,
+        "lng": 4.3668
+      }
+    },
+    "name": "Le Club des Etoiles",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A Belgian social and business club organizing events such as breakfast conferences, literary dinners, and culinary tastings for professionals across various sectors.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/le_club_des_etoiles1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/le_club_des_etoiles2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/le_club_des_etoiles3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/le_club_des_etoiles4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/le_club_des_etoiles5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/le_club_des_etoiles_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://clubdesetoiles.com/en/",
+    "activities": []
+  },
+  "Nest Club": {
+    "formatted_address": "Rue du Bailli 36, 1050 Brussels, Belgium",
+    "formatted_phone_number": "+32 2 647 00 00",
+    "geometry": {
+      "location": {
+        "lat": 50.8245,
+        "lng": 4.3639
+      }
+    },
+    "name": "Nest Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A members-only club offering unique dining experiences in an intimate setting, focusing on culinary excellence and social interaction.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/nest_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/nest_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/nest_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/nest_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/nest_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/nest_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.nest-club.com/",
     "activities": []
   }
 }

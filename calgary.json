@@ -126,5 +126,35 @@
     "user_ratings_total": 0,
     "website": "https://www.ranchmensclub.com",
     "activities": []
+  },
+  "Calgary Winter Club": {
+    "formatted_address": "4611-14th St. NW, Calgary, Alberta, T2K 1J7, Canada",
+    "formatted_phone_number": "403 289 5511 , 4032826392",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Calgary Winter Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/calgary_winter_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/calgary_winter_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/calgary_winter_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/calgary_winter_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/calgary_winter_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/calgary/calgary_winter_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.calgarywinterclub.com",
+    "activities": []
   }
 }

@@ -1,11 +1,11 @@
 {
   "Dana Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Diplomatic Area, West Bay, Doha, Qatar",
+    "formatted_phone_number": "+974 4496 0666",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 25.3254,
+        "lng": 51.533
       }
     },
     "name": "Dana Club",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A private members' club offering a range of recreational facilities, dining options, and family-friendly activities in a welcoming atmosphere.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/dana_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/dana_club2.jpg",
@@ -27,45 +27,61 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/dana_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.danaclub.com.qa",
-    "activities": []
+    "activities": [
+      "swimming",
+      "tennis",
+      "squash",
+      "gym",
+      "aerobics"
+    ]
   },
-  "Diplomatic Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "The Diplomatic Club": {
+    "formatted_address": "Al Istiqlal Street, West Bay Lagoon, Doha, Qatar",
+    "formatted_phone_number": "+974 4484 7444",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 25.3618,
+        "lng": 51.5264
       }
     },
-    "name": "Diplomatic Club",
+    "name": "The Diplomatic Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "An intimate waterfront club combining quality and extravagance, offering dining, leisure, and wellness facilities with a rustic Middle Eastern charm.",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/diplomatic_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/diplomatic_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/diplomatic_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/diplomatic_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/diplomatic_club5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/the_diplomatic_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/the_diplomatic_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/the_diplomatic_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/the_diplomatic_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/the_diplomatic_club5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/diplomatic_club_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/the_diplomatic_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.thediplomaticclub.com",
-    "activities": []
+    "activities": [
+      "swimming",
+      "gym",
+      "fitness",
+      "watersports",
+      "tennis",
+      "beach volleyball",
+      "beach football",
+      "basketball",
+      "badminton"
+    ]
   },
   "Katara Beach Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Building 16, Katara Cultural Village, Doha, Qatar",
+    "formatted_phone_number": "+974 4408 1580",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 25.3607,
+        "lng": 51.5202
       }
     },
     "name": "Katara Beach Club",
@@ -74,7 +90,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A luxury wellness destination offering a holistic approach to health and well-being, featuring state-of-the-art facilities and personalized services.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/katara_beach_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/katara_beach_club2.jpg",
@@ -87,15 +103,20 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/katara_beach_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.katara-livnordic.com",
-    "activities": []
+    "activities": [
+      "swimming",
+      "gym",
+      "fitness classes",
+      "watersports"
+    ]
   },
   "Saint Tropez": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "The Pearl-Qatar, Doha, Qatar",
+    "formatted_phone_number": "+974 4002 0777",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 25.3723,
+        "lng": 51.5417
       }
     },
     "name": "Saint Tropez",
@@ -104,7 +125,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A premium beach club providing an exclusive experience with luxurious amenities, dining options, and recreational activities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/saint_tropez1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/saint_tropez2.jpg",
@@ -117,15 +138,19 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/saint_tropez_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.saint-tropez-doha.com",
-    "activities": []
+    "activities": [
+      "swimming",
+      "gym",
+      "fitness"
+    ]
   },
   "TaliaMare Beach Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Qanat Quartier, The Pearl-Qatar, Doha, Qatar",
+    "formatted_phone_number": "+974 5040 3231",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 25.3725,
+        "lng": 51.54
       }
     },
     "name": "TaliaMare Beach Club",
@@ -134,7 +159,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A vibrant beach club offering a blend of relaxation and entertainment, featuring a private beach, dining venues, and various water activities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/taliamare_beach_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/taliamare_beach_club2.jpg",
@@ -147,39 +172,175 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/taliamare_beach_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.taliamare.com",
-    "activities": []
+    "activities": [
+      "swimming",
+      "gym",
+      "watersports"
+    ]
   },
-  "The Diplomatic Club": {
-    "formatted_address": "Al Istiqlal Street",
-    "formatted_phone_number": "+974 44847444",
+  "Sanad Doha": {
+    "formatted_address": "Msheireb Downtown Doha, Doha, Qatar",
+    "formatted_phone_number": "+974 4142 7000",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 25.2854,
+        "lng": 51.531
       }
     },
-    "name": "The Diplomatic Club",
+    "name": "Sanad Doha",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A members' club offering a modern experience of Arabic hospitality, featuring lounges, private rooms, a restaurant, and cultural events.",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/the_diplomatic_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/the_diplomatic_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/the_diplomatic_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/the_diplomatic_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/the_diplomatic_club5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/sanad_doha1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/sanad_doha2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/sanad_doha3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/sanad_doha4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/sanad_doha5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/the_diplomatic_club_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/sanad_doha_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://sanaddoha.com/en/home-en/",
+    "activities": []
+  },
+  "The Ned Doha": {
+    "formatted_address": "Corniche Road, Doha, Qatar",
+    "formatted_phone_number": "+974 4406 1111",
+    "geometry": {
+      "location": {
+        "lat": 25.2856,
+        "lng": 51.5318
+      }
+    },
+    "name": "The Ned Doha",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A hotel and members' club with multiple restaurants, event spaces, and exclusive member areas including a rooftop terrace and health facilities.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/the_ned_doha1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/the_ned_doha2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/the_ned_doha3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/the_ned_doha4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/the_ned_doha5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/the_ned_doha_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.thened.com/doha/",
+    "activities": [
+      "gym",
+      "spa",
+      "swimming"
+    ]
+  },
+  "Corinthia Yacht Club": {
+    "formatted_address": "The Pearl-Qatar, Doha, Qatar",
+    "formatted_phone_number": "+974 4497 3111",
+    "geometry": {
+      "location": {
+        "lat": 25.3723,
+        "lng": 51.54
+      }
+    },
+    "name": "Corinthia Yacht Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A private membership club offering exclusive access to yachting facilities, dining venues, and reciprocal access to international yacht clubs.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/corinthia_yacht_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/corinthia_yacht_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/corinthia_yacht_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/corinthia_yacht_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/corinthia_yacht_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/corinthia_yacht_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.corinthiayachtclub.qa/",
+    "activities": [
+      "yachting",
+      "dining"
+    ]
+  },
+  "Doha Golf Club": {
+    "formatted_address": "Al Egla Street, West Bay, Doha, Qatar",
+    "formatted_phone_number": "+974 4496 0777",
+    "geometry": {
+      "location": {
+        "lat": 25.36,
+        "lng": 51.449
+      }
+    },
+    "name": "Doha Golf Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "An 18-hole championship golf course with additional recreational facilities including a swimming pool and fitness center.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/doha_golf_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/doha_golf_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/doha_golf_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/doha_golf_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/doha_golf_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/doha_golf_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.dohagolfclub.com/",
+    "activities": [
+      "golf",
+      "swimming",
+      "gym"
+    ]
+  },
+  "Al Banush Club": {
+    "formatted_address": "Mesaieed, Qatar",
+    "formatted_phone_number": "+974 4476 6000",
+    "geometry": {
+      "location": {
+        "lat": 24.9902,
+        "lng": 51.5504
+      }
+    },
+    "name": "Al Banush Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A club offering various sports facilities and hosting community events, primarily serving employees of QAFCO.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/al_banush_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/al_banush_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/al_banush_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/al_banush_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/al_banush_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/doha/al_banush_club_logo.png",
     "user_ratings_total": 0,
     "website": "",
     "activities": [
+      "football",
       "tennis",
-      "athletic",
+      "basketball",
       "swimming"
     ]
   }

@@ -1,11 +1,11 @@
 {
   "Club Centenario": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Avda. Mariscal López 1940, Asunción, Paraguay",
+    "formatted_phone_number": "+595 21 611 966",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -25.2945,
+        "lng": -57.6111
       }
     },
     "name": "Club Centenario",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1937, Club Centenario is an emblematic club in Asunción, offering a mix of social, sports, and family activities. It features large event rooms, various sports facilities, and a golf course in Surubi'i.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_centenario1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_centenario2.jpg",
@@ -22,20 +22,25 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_centenario4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_centenario5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.6,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_centenario_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 120,
     "website": "https://www.clubcentenario.org.py",
-    "activities": []
+    "activities": [
+      "tennis",
+      "football",
+      "swimming",
+      "golf"
+    ]
   },
   "Club de Emprendedores": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Avda. España 1239, Asunción, Paraguay",
+    "formatted_phone_number": "+595 21 609 277",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -25.2967,
+        "lng": -57.6345
       }
     },
     "name": "Club de Emprendedores",
@@ -44,7 +49,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A hub for entrepreneurs, Club de Emprendedores provides resources, workshops, and networking opportunities to foster business development in Paraguay.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_de_emprendedores1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_de_emprendedores2.jpg",
@@ -52,11 +57,144 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_de_emprendedores4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_de_emprendedores5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.5,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_de_emprendedores_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 85,
     "website": "https://www.emprendedor.org.py",
+    "activities": []
+  },
+  "Club Internacional de Tenis (CIT)": {
+    "formatted_address": "Avda. Santísima Trinidad 2200, Asunción, Paraguay",
+    "formatted_phone_number": "+595 21 290 090",
+    "geometry": {
+      "location": {
+        "lat": -25.2601,
+        "lng": -57.6115
+      }
+    },
+    "name": "Club Internacional de Tenis (CIT)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Established in 1981, CIT is renowned for its 25 clay tennis courts and two international ITF tournaments. The club also offers facilities for football, swimming, gyms, saunas, and dining options, including an on-site Burger King.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_internacional_de_tenis_cit1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_internacional_de_tenis_cit2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_internacional_de_tenis_cit3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_internacional_de_tenis_cit4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_internacional_de_tenis_cit5.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_internacional_de_tenis_cit_logo.png",
+    "user_ratings_total": 200,
+    "website": "https://www.cit.com.py",
+    "activities": [
+      "tennis",
+      "football",
+      "swimming",
+      "gym"
+    ]
+  },
+  "Yacht y Golf Club Paraguayo": {
+    "formatted_address": "Lambaré, Paraguay",
+    "formatted_phone_number": "+595 21 906 121",
+    "geometry": {
+      "location": {
+        "lat": -25.3645,
+        "lng": -57.6066
+      }
+    },
+    "name": "Yacht y Golf Club Paraguayo",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Nestled by the Paraguay River, this resort offers 131 rooms with views of the river or gardens. Amenities include a gym, two swimming pools, and extensive event spaces accommodating up to 3,000 guests.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/yacht_y_golf_club_paraguayo1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/yacht_y_golf_club_paraguayo2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/yacht_y_golf_club_paraguayo3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/yacht_y_golf_club_paraguayo4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/yacht_y_golf_club_paraguayo5.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/yacht_y_golf_club_paraguayo_logo.png",
+    "user_ratings_total": 310,
+    "website": "https://www.marriott.com/en-us/hotels/asutx-yacht-and-golf-club-paraguayo-a-tribute-portfolio-resort/overview/",
+    "activities": [
+      "golf",
+      "tennis",
+      "swimming",
+      "gym"
+    ]
+  },
+  "Club Naútico San Bernardino": {
+    "formatted_address": "Tte. Ricardo Cocco Riveros 435, San Bernardino, Paraguay",
+    "formatted_phone_number": "+595 21 441 556",
+    "geometry": {
+      "location": {
+        "lat": -25.3106,
+        "lng": -57.2968
+      }
+    },
+    "name": "Club Naútico San Bernardino",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Established in 1945, this club is located in San Bernardino, a popular summer destination. It serves as a gathering point for boat owners and families, offering activities like boating and fishing on Lake Ypacaraí.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_natico_san_bernardino1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_natico_san_bernardino2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_natico_san_bernardino3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_natico_san_bernardino4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_natico_san_bernardino5.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_natico_san_bernardino_logo.png",
+    "user_ratings_total": 95,
+    "website": "https://cnsb.org.py/",
+    "activities": [
+      "boating",
+      "swimming"
+    ]
+  },
+  "Club de Ejecutivos del Paraguay": {
+    "formatted_address": "Avda. Aviadores del Chaco 2050, Asunción, Paraguay",
+    "formatted_phone_number": "+595 21 609 277",
+    "geometry": {
+      "location": {
+        "lat": -25.2848,
+        "lng": -57.5582
+      }
+    },
+    "name": "Club de Ejecutivos del Paraguay",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A premier business club in Paraguay, it provides a platform for executives to develop professionally, offering events, workshops, and networking opportunities.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_de_ejecutivos_del_paraguay1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_de_ejecutivos_del_paraguay2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_de_ejecutivos_del_paraguay3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_de_ejecutivos_del_paraguay4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_de_ejecutivos_del_paraguay5.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/asuncion/club_de_ejecutivos_del_paraguay_logo.png",
+    "user_ratings_total": 65,
+    "website": "https://www.clubdeejecutivos.org.py/",
     "activities": []
   }
 }

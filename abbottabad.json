@@ -1,11 +1,11 @@
 {
   "Abbottabad Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "1 Club Road, Main GPO Chowk, Abbottabad, Khyber Pakhtunkhwa 22010, Pakistan",
+    "formatted_phone_number": "+92 992 330358",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 34.1463,
+        "lng": 73.2167
       }
     },
     "name": "Abbottabad Club",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1896, this prestigious club was recently renovated (2022) and features lush gardens and heritage architecture. It offers dining, lodging, a swimming pool, gym, and courts for squash, tennis and badminton&#8203;:contentReference[oaicite:2]{index=2}. Originally an exclusive officers’ club, it now welcomes a diverse membership.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/abbottabad/abbottabad_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/abbottabad/abbottabad_club2.jpg",
@@ -22,11 +22,17 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/abbottabad/abbottabad_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/abbottabad/abbottabad_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.2,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/abbottabad/abbottabad_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.facebook.com/Abbottabad-Club-1374367142847353/",
-    "activities": []
+    "user_ratings_total": 1155,
+    "website": "https://www.abbottabadclub.com",
+    "activities": [
+      "swimming",
+      "tennis",
+      "squash",
+      "badminton",
+      "gym"
+    ]
   }
 }

@@ -1,41 +1,41 @@
 {
-  "Academy of Magical Arts": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Academy of Magical Arts (The Magic Castle)": {
+    "formatted_address": "7001 Franklin Ave, Hollywood, CA 90028",
+    "formatted_phone_number": "+1 323-851-3313",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 34.104,
+        "lng": -118.3417
       }
     },
-    "name": "Academy of Magical Arts",
+    "name": "Academy of Magical Arts (The Magic Castle)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A private clubhouse for the Academy of Magical Arts, offering exclusive magic performances, dining, and a unique atmosphere dedicated to the art of magic.",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/academy_of_magical_arts1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/academy_of_magical_arts2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/academy_of_magical_arts3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/academy_of_magical_arts4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/academy_of_magical_arts5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/academy_of_magical_arts_the_magic_castle1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/academy_of_magical_arts_the_magic_castle2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/academy_of_magical_arts_the_magic_castle3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/academy_of_magical_arts_the_magic_castle4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/academy_of_magical_arts_the_magic_castle5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/academy_of_magical_arts_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/academy_of_magical_arts_the_magic_castle_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.magiccastle.com",
     "activities": []
   },
   "Adventurers' Club of Los Angeles": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "2433 N Broadway, Los Angeles, CA 90031",
+    "formatted_phone_number": "+1 323-223-3948",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 34.0739,
+        "lng": -118.217
       }
     },
     "name": "Adventurers' Club of Los Angeles",
@@ -44,7 +44,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A private club dedicated to promoting adventure and exploration, hosting regular meetings where members share experiences and stories from their travels.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/adventurers_club_of_los_angeles1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/adventurers_club_of_los_angeles2.jpg",
@@ -60,12 +60,12 @@
     "activities": []
   },
   "Bel-Air Country Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "10768 Bellagio Rd, Los Angeles, CA 90077",
+    "formatted_phone_number": "+1 310-472-9563",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 34.0822,
+        "lng": -118.4517
       }
     },
     "name": "Bel-Air Country Club",
@@ -74,7 +74,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "An exclusive country club featuring a championship 18-hole golf course, tennis facilities, and upscale dining options in a serene setting.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/belair_country_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/belair_country_club2.jpg",
@@ -87,15 +87,18 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/belair_country_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.bel-aircc.golf",
-    "activities": []
+    "activities": [
+      "golf",
+      "tennis"
+    ]
   },
   "California Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "538 S Flower St, Los Angeles, CA 90071",
+    "formatted_phone_number": "+1 213-622-1391",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 34.0505,
+        "lng": -118.2563
       }
     },
     "name": "California Club",
@@ -104,7 +107,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1888, this prestigious private social club offers fine dining, social events, and networking opportunities in a historic downtown location.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/california_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/california_club2.jpg",
@@ -119,43 +122,43 @@
     "website": "https://www.californiaclub.org",
     "activities": []
   },
-  "City Club (ClubCorp)": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "City Club Los Angeles (ClubCorp)": {
+    "formatted_address": "555 S Flower St, 51st Floor, Los Angeles, CA 90071",
+    "formatted_phone_number": "+1 213-620-9662",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 34.0505,
+        "lng": -118.2577
       }
     },
-    "name": "City Club (ClubCorp)",
+    "name": "City Club Los Angeles (ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A modern business and social club offering panoramic city views, fine dining, and networking events for professionals in the heart of downtown.",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/city_club_clubcorp1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/city_club_clubcorp2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/city_club_clubcorp3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/city_club_clubcorp4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/city_club_clubcorp5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/city_club_los_angeles_clubcorp1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/city_club_los_angeles_clubcorp2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/city_club_los_angeles_clubcorp3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/city_club_los_angeles_clubcorp4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/city_club_los_angeles_clubcorp5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/city_club_clubcorp_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/city_club_los_angeles_clubcorp_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.clubcorp.com/Clubs/City-Club-Los-Angeles",
     "activities": []
   },
   "Jonathan Club": {
-    "formatted_address": "545 South Figueroa Street, LA, California, 90071",
-    "formatted_phone_number": "",
+    "formatted_address": "545 S Figueroa St, Los Angeles, CA 90071",
+    "formatted_phone_number": "+1 213-624-0881",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 34.05,
+        "lng": -118.256
       }
     },
     "name": "Jonathan Club",
@@ -164,7 +167,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A historic private club with downtown and beach locations, offering dining, fitness facilities, and a range of social and cultural events.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/jonathan_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/jonathan_club2.jpg",
@@ -177,24 +180,27 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/jonathan_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.jc.org",
-    "activities": []
+    "activities": [
+      "fitness",
+      "swimming"
+    ]
   },
-  "Little Beach House Malibu (\"Soho House group)": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Little Beach House Malibu (Soho House Group)": {
+    "formatted_address": "22716 Pacific Coast Hwy, Malibu, CA 90265",
+    "formatted_phone_number": "+1 310-456-2400",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 34.033,
+        "lng": -118.685
       }
     },
-    "name": "Little Beach House Malibu (\"Soho House group)",
+    "name": "Little Beach House Malibu (Soho House Group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "An exclusive members-only club offering coastal views, dining, and wellness facilities, catering to the creative community in a relaxed beachfront setting.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/little_beach_house_malibu_soho_house_group1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/little_beach_house_malibu_soho_house_group2.jpg",
@@ -207,15 +213,18 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/little_beach_house_malibu_soho_house_group_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.littlebeachhousemalibu.com",
-    "activities": []
+    "activities": [
+      "swimming",
+      "wellness"
+    ]
   },
   "Los Angeles Athletic Club": {
-    "formatted_address": "431 West Seventh Street, LA, California, 90014",
-    "formatted_phone_number": "",
+    "formatted_address": "431 W 7th St, Los Angeles, CA 90014",
+    "formatted_phone_number": "+1 213-625-2211",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 34.0471,
+        "lng": -118.255
       }
     },
     "name": "Los Angeles Athletic Club",
@@ -224,7 +233,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1880, this club combines athletic facilities, including a pool and courts, with dining, accommodations, and social events in a historic building.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/los_angeles_athletic_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/los_angeles_athletic_club2.jpg",
@@ -237,15 +246,20 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/los_angeles_athletic_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.laac.com",
-    "activities": []
+    "activities": [
+      "basketball",
+      "swimming",
+      "squash",
+      "fitness"
+    ]
   },
   "Marina City Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "4333 Admiralty Way, Marina del Rey, CA 90292",
+    "formatted_phone_number": "+1 310-822-0611",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 33.9817,
+        "lng": -118.4513
       }
     },
     "name": "Marina City Club",
@@ -254,7 +268,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A waterfront residential and recreational complex offering tennis courts, swimming pools, a fitness center, and dining options with marina views.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/marina_city_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/marina_city_club2.jpg",
@@ -267,45 +281,52 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/marina_city_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.marinacityclub.net",
-    "activities": []
+    "activities": [
+      "tennis",
+      "swimming",
+      "fitness"
+    ]
   },
-  "Private Rooftop Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Private Rooftop Club at Petit Ermitage": {
+    "formatted_address": "8822 Cynthia St, West Hollywood, CA 90069",
+    "formatted_phone_number": "+1 310-854-1114",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 34.09,
+        "lng": -118.385
       }
     },
-    "name": "Private Rooftop Club",
+    "name": "Private Rooftop Club at Petit Ermitage",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "An intimate, members-only rooftop club offering a saltwater pool, garden, and dining, providing a secluded retreat in the heart of West Hollywood.",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/private_rooftop_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/private_rooftop_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/private_rooftop_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/private_rooftop_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/private_rooftop_club5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/private_rooftop_club_at_petit_ermitage1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/private_rooftop_club_at_petit_ermitage2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/private_rooftop_club_at_petit_ermitage3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/private_rooftop_club_at_petit_ermitage4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/private_rooftop_club_at_petit_ermitage5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/private_rooftop_club_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/private_rooftop_club_at_petit_ermitage_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.petitermitage.com/the-private-rooftop-west-hollywood/",
-    "activities": []
+    "activities": [
+      "swimming",
+      "wellness"
+    ]
   },
   "Riviera Country Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "1250 Capri Dr, Pacific Palisades, CA 90272",
+    "formatted_phone_number": "+1 310-454-6591",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 34.045,
+        "lng": -118.501
       }
     },
     "name": "Riviera Country Club",
@@ -314,7 +335,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A historic country club known for its championship golf course, tennis facilities, and hosting prestigious tournaments, offering upscale amenities to members.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/riviera_country_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/riviera_country_club2.jpg",
@@ -327,24 +348,27 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/riviera_country_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.therivieracountryclub.com",
-    "activities": []
+    "activities": [
+      "golf",
+      "tennis"
+    ]
   },
-  "Soho House West Hollywood (\"Soho House group)": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Soho House West Hollywood (Soho House Group)": {
+    "formatted_address": "9200 Sunset Blvd, West Hollywood, CA 90069",
+    "formatted_phone_number": "+1 310-432-9200",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 34.0909,
+        "lng": -118.3899
       }
     },
-    "name": "Soho House West Hollywood (\"Soho House group)",
+    "name": "Soho House West Hollywood (Soho House Group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A private members' club catering to the creative community, featuring dining, a rooftop pool, screening rooms, and wellness facilities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/soho_house_west_hollywood_soho_house_group1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/soho_house_west_hollywood_soho_house_group2.jpg",
@@ -357,15 +381,18 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/soho_house_west_hollywood_soho_house_group_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.sohohousewh.com",
-    "activities": []
+    "activities": [
+      "fitness",
+      "wellness"
+    ]
   },
   "The Aster": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "1717 Vine St, Los Angeles, CA 90028",
+    "formatted_phone_number": "+1 323-962-1717",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 34.102,
+        "lng": -118.3269
       }
     },
     "name": "The Aster",
@@ -374,7 +401,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A modern members' club offering workspace, dining, wellness facilities, and cultural programming, designed for creatives and entrepreneurs.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/the_aster1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/the_aster2.jpg",
@@ -387,24 +414,27 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/the_aster_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.theasterla.com",
-    "activities": []
+    "activities": [
+      "fitness",
+      "wellness"
+    ]
   },
-  "Trump National Golf Club - Los Angeles (\"Trump organization)": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Trump National Golf Club Los Angeles (Trump Organization)": {
+    "formatted_address": "1 Trump National Dr, Rancho Palos Verdes, CA 90275",
+    "formatted_phone_number": "+1 310-265-5000",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 33.738,
+        "lng": -118.3295
       }
     },
-    "name": "Trump National Golf Club - Los Angeles (\"Trump organization)",
+    "name": "Trump National Golf Club Los Angeles (Trump Organization)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A public golf course offering membership options, featuring a championship course with ocean views, dining facilities, and event spaces.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/trump_national_golf_club_los_angeles_trump_organization1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/trump_national_golf_club_los_angeles_trump_organization2.jpg",
@@ -417,15 +447,18 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/trump_national_golf_club_los_angeles_trump_organization_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.trumpnationallosangeles.com",
-    "activities": []
+    "activities": [
+      "golf",
+      "fitness"
+    ]
   },
   "California Yacht Club": {
-    "formatted_address": "4469 Admiralty Way, Marina Del Rey, CA 90292",
-    "formatted_phone_number": "",
+    "formatted_address": "4469 Admiralty Way, Marina del Rey, CA 90292",
+    "formatted_phone_number": "+1 310-823-4567",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 33.98,
+        "lng": -118.44
       }
     },
     "name": "California Yacht Club",
@@ -434,7 +467,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A premier yacht club offering sailing programs, regattas, dining, and social events, fostering a community of boating enthusiasts.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/california_yacht_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/california_yacht_club2.jpg",
@@ -447,6 +480,228 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/california_yacht_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.calyachtclub.com",
+    "activities": [
+      "sailing",
+      "rowing",
+      "fitness"
+    ]
+  },
+  "The Britely": {
+    "formatted_address": "8430 Sunset Blvd, West Hollywood, CA 90069",
+    "formatted_phone_number": "+1 323-410-6200",
+    "geometry": {
+      "location": {
+        "lat": 34.0953,
+        "lng": -118.374
+      }
+    },
+    "name": "The Britely",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A modern social club offering vibrant interiors, multiple dining venues, a rooftop pool, and a state-of-the-art gym, catering to a diverse and creative membership.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/the_britely1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/the_britely2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/the_britely3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/the_britely4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/the_britely5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/the_britely_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.thebritely.com/",
+    "activities": [
+      "fitness",
+      "swimming"
+    ]
+  },
+  "San Vicente Bungalows": {
+    "formatted_address": "845 N San Vicente Blvd, West Hollywood, CA 90069",
+    "formatted_phone_number": "+1 424-313-8088",
+    "geometry": {
+      "location": {
+        "lat": 34.085,
+        "lng": -118.385
+      }
+    },
+    "name": "San Vicente Bungalows",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "An ultra-exclusive club emphasizing privacy and discretion, providing upscale dining and intimate spaces for its select members.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/san_vicente_bungalows1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/san_vicente_bungalows2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/san_vicente_bungalows3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/san_vicente_bungalows4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/san_vicente_bungalows5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/san_vicente_bungalows_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.sanvicentebungalows.com/",
+    "activities": []
+  },
+  "NeueHouse Hollywood": {
+    "formatted_address": "6121 Sunset Blvd, Los Angeles, CA 90028",
+    "formatted_phone_number": "+1 323-337-1420",
+    "geometry": {
+      "location": {
+        "lat": 34.0983,
+        "lng": -118.322
+      }
+    },
+    "name": "NeueHouse Hollywood",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A private workspace and social club for creatives, offering shared workspaces, private studios, and cultural programming in the historic CBS Radio Building.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/neuehouse_hollywood1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/neuehouse_hollywood2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/neuehouse_hollywood3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/neuehouse_hollywood4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/neuehouse_hollywood5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/neuehouse_hollywood_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.neuehouse.com/hollywood/",
+    "activities": []
+  },
+  "The Bird Streets Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Bird Streets Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "An exclusive members-only club developed by The H.Wood Group, known for its privacy and high-profile clientele; specific details are limited due to its discreet nature.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/the_bird_streets_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/the_bird_streets_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/the_bird_streets_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/the_bird_streets_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/the_bird_streets_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/the_bird_streets_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": []
+  },
+  "Heimat": {
+    "formatted_address": "960 N La Brea Ave, Los Angeles, CA 90038",
+    "formatted_phone_number": "+1 323-850-8888",
+    "geometry": {
+      "location": {
+        "lat": 34.088,
+        "lng": -118.344
+      }
+    },
+    "name": "Heimat",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A luxury fitness and wellness club offering state-of-the-art gym facilities, group classes, spa services, and social spaces for health-conscious members.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/heimat1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/heimat2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/heimat3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/heimat4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/heimat5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/heimat_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.heimat.com/",
+    "activities": [
+      "fitness",
+      "wellness"
+    ]
+  },
+  "Remedy Place": {
+    "formatted_address": "8305 Sunset Blvd, West Hollywood, CA 90069",
+    "formatted_phone_number": "+1 323-645-7444",
+    "geometry": {
+      "location": {
+        "lat": 34.0955,
+        "lng": -118.373
+      }
+    },
+    "name": "Remedy Place",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A social wellness club providing holistic health services, including cryotherapy, infrared saunas, and meditation classes, in a serene and upscale environment.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/remedy_place1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/remedy_place2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/remedy_place3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/remedy_place4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/remedy_place5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/remedy_place_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.remedyplace.com/",
+    "activities": [
+      "wellness"
+    ]
+  },
+  "Gravitas": {
+    "formatted_address": "9595 Wilshire Blvd, Beverly Hills, CA 90212",
+    "formatted_phone_number": "+1 310-275-9595",
+    "geometry": {
+      "location": {
+        "lat": 34.0672,
+        "lng": -118.4013
+      }
+    },
+    "name": "Gravitas",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A private members' club offering a high-end, wine-centric dining and social experience, featuring luxurious decor and various spaces for events and gatherings.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/gravitas1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/gravitas2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/gravitas3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/gravitas4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/gravitas5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/los_angeles/gravitas_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.gravitasbh.com/",
     "activities": []
   }
 }

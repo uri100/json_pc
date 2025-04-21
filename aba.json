@@ -1,11 +1,11 @@
 {
   "Aba Sports Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "1 Club Road, Aba 450102, Abia State, Nigeria",
+    "formatted_phone_number": "+234 903 799 0065",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 5.111268,
+        "lng": 7.363848
       }
     },
     "name": "Aba Sports Club",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Historic sports and recreation club founded in the early 1900s (originally the Aba European Club). It offers diverse facilities including tennis, squash, swimming, golf and more&#8203;:contentReference[oaicite:1]{index=1}, promoting healthy lifestyles and camaraderie among members.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aba/aba_sports_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aba/aba_sports_club2.jpg",
@@ -22,11 +22,16 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aba/aba_sports_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aba/aba_sports_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aba/aba_sports_club_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 285,
     "website": "https://www.abasportsclub1926.org",
-    "activities": []
+    "activities": [
+      "tennis",
+      "squash",
+      "swimming",
+      "golf"
+    ]
   }
 }

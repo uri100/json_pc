@@ -1,34 +1,4 @@
 {
-  "University Club of St Paul": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "University Club of St Paul",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_paul/university_club_of_st_paul1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_paul/university_club_of_st_paul2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_paul/university_club_of_st_paul3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_paul/university_club_of_st_paul4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_paul/university_club_of_st_paul5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_paul/university_club_of_st_paul_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.universityclubofstpaul.com",
-    "activities": []
-  },
   "University Club of St. Paul": {
     "formatted_address": "420 Summit Avenue",
     "formatted_phone_number": "+1 651 2221751",
@@ -56,7 +26,7 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/st_paul/university_club_of_st_paul_logo.png",
     "user_ratings_total": 0,
-    "website": "",
+    "website": "https://www.universityclubofstpaul.com",
     "activities": [
       "tennis",
       "athletic",

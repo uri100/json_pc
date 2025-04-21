@@ -255,7 +255,7 @@
     "activities": [
       "circket",
       "futsal",
-      "pool",
+      "swimming",
       "darts",
       "hockey"
     ]
@@ -947,7 +947,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Backed by Honeycombers, founded by Chris Edwards, Launchpad is more than just a networking platformâ€”it's your entrepreneurial community of conscious entrepreneurs dedicated to propelling your business forward with its kind and generous culture.",
+    "description": "Backed by Honeycombers, founded by Chris Edwards, Launchpad is more than just a networking platform-it's your entrepreneurial community of conscious entrepreneurs dedicated to propelling your business forward with its kind and generous culture.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore/launchpad_singapore1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore/launchpad_singapore2.jpg",
@@ -1063,8 +1063,7 @@
       "badminton",
       "table tennis",
       "tennis",
-      "bowling",
-      ""
+      "bowling"
     ]
   },
   "National Service Resort & Country Club": {
@@ -1139,7 +1138,7 @@
       "spa"
     ]
   },
-  "ONEÂ°15 Marina Sentosa Cove": {
+  "ONE°15 Marina Sentosa Cove": {
     "formatted_address": "#01-01, 11 Cove Drive",
     "formatted_phone_number": "+65 6305 6988",
     "geometry": {
@@ -1148,7 +1147,7 @@
         "lng": 103.839488
       }
     },
-    "name": "ONEÂ°15 Marina Sentosa Cove",
+    "name": "ONE°15 Marina Sentosa Cove",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -1404,7 +1403,6 @@
     "website": "https://www.rafflestownclub.com.sg",
     "activities": [
       "tennis",
-      "pool",
       "swimming",
       "gym",
       "bowling",
@@ -2261,7 +2259,7 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore/tt_lab_table_tennis_club_novena_logo.png",
     "user_ratings_total": 38,
-    "website": "https://www.tabletennislab.com.sg",
+    "website": "https://www.table tennislab.com.sg",
     "activities": [
       "table tennis",
       "tennis"
@@ -2294,7 +2292,7 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/singapore/tt_lab_table_tennis_club_thomson_logo.png",
     "user_ratings_total": 69,
-    "website": "https://www.tabletennislab.com.sg",
+    "website": "https://www.table tennislab.com.sg",
     "activities": [
       "table tennis",
       "tennis"

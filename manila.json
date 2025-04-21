@@ -1,11 +1,11 @@
 {
   "Club Filipino": {
-    "formatted_address": "Club Filipino Avenue, Corner Eisenhower Street, Greenhills, San Juan City, Metro Manila 1502, Philippines",
-    "formatted_phone_number": "63 2 722 2001 , 6327222002",
+    "formatted_address": "Club Filipino Avenue corner Eisenhower Street, Greenhills, San Juan City 1502 Metro Manila",
+    "formatted_phone_number": "+63 2 8722 2001",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 14.6016,
+        "lng": 121.0487
       }
     },
     "name": "Club Filipino",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established on November 6, 1898, Club Filipino is the first exclusive social club in the Philippines, serving as a historic venue for political and social events. Amenities include a swimming pool, various sports courts, and dining facilities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/club_filipino1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/club_filipino2.jpg",
@@ -27,15 +27,21 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/club_filipino_logo.png",
     "user_ratings_total": 0,
     "website": "",
-    "activities": []
+    "activities": [
+      "swimming",
+      "tennis",
+      "badminton",
+      "squash",
+      "bowling"
+    ]
   },
   "German Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "5/F Eurovilla II Bldg., V.A. Rufino corner Legazpi Streets, Legazpi Village, Makati City 1229",
+    "formatted_phone_number": "+63 2 8817 3552",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 14.5573,
+        "lng": 121.018
       }
     },
     "name": "German Club",
@@ -44,7 +50,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1906, the German Club provides a venue for Germans and Filipinos to foster camaraderie, offering authentic German cuisine, cultural events, and a space for social gatherings.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/german_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/german_club2.jpg",
@@ -60,12 +66,12 @@
     "activities": []
   },
   "Manila Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "The Manila Club, 2nd Floor, Corinthian Plaza, 121 Paseo de Roxas, Makati City 1229",
+    "formatted_phone_number": "+63 2 832 8215",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 14.5563,
+        "lng": 121.0236
       }
     },
     "name": "Manila Club",
@@ -74,7 +80,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "As the oldest private membership social club in the Philippines, established in the 19th century, it serves as a meeting place for social and business functions, primarily for British and Commonwealth citizens.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/manila_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/manila_club2.jpg",
@@ -86,16 +92,16 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/manila_club_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.manilaclub.org.ph",
+    "website": "https://themanilaclub.com/",
     "activities": []
   },
   "Manila House": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "8th Floor, Seven/NEO Building, 5th Avenue, Bonifacio Global City 1634, Taguig City",
+    "formatted_phone_number": "+63 917 816 3685",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 14.5534,
+        "lng": 121.0453
       }
     },
     "name": "Manila House",
@@ -104,7 +110,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A contemporary private members club bringing together individuals from business, creative, cultural, and intellectual communities, offering dining, events, and networking opportunities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/manila_house1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/manila_house2.jpg",
@@ -116,16 +122,16 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/manila_house_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.manilahouseinc.com",
+    "website": "https://www.manilahouseinc.com/",
     "activities": []
   },
   "Manila Polo Club": {
-    "formatted_address": "McKinley Road, Forbes Park, Makati City",
-    "formatted_phone_number": "",
+    "formatted_address": "McKinley Road, Forbes Park, Makati City 1219",
+    "formatted_phone_number": "+63 2 8817 0951",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 14.5426,
+        "lng": 121.0322
       }
     },
     "name": "Manila Polo Club",
@@ -134,7 +140,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1909, this premier polo club offers extensive sports and recreational facilities, including polo fields, equestrian facilities, and various sports amenities, catering to the elite of Manila.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/manila_polo_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/manila_polo_club2.jpg",
@@ -146,7 +152,185 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/manila_polo_club_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.manilapolo.com.ph",
+    "website": "https://www.manilapolo.com.ph/",
+    "activities": [
+      "polo",
+      "equestrian",
+      "swimming",
+      "tennis",
+      "squash",
+      "badminton"
+    ]
+  },
+  "The City Club, Makati Place": {
+    "formatted_address": "Ayala Avenue (Buendia), Makati City, Metro Manila",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 14.5547,
+        "lng": 121.0244
+      }
+    },
+    "name": "The City Club, Makati Place",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A private urban lifestyle club offering fine dining, multiple sports and wellness facilities, and event venues for business and social gatherings.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/the_city_club_makati_place1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/the_city_club_makati_place2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/the_city_club_makati_place3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/the_city_club_makati_place4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/the_city_club_makati_place5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/the_city_club_makati_place_logo.png",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": [
+      "swimming",
+      "tennis",
+      "badminton",
+      "squash",
+      "gym"
+    ]
+  },
+  "Casino Español de Manila": {
+    "formatted_address": "855 T.M. Kalaw Street, Ermita, Manila, Metro Manila",
+    "formatted_phone_number": "+63 2 8522 0284",
+    "geometry": {
+      "location": {
+        "lat": 14.5783,
+        "lng": 120.9838
+      }
+    },
+    "name": "Casino Español de Manila",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Established in 1893, this heritage Spanish club serves as a social and cultural center for the Spanish and Filipino community, offering dining and event spaces.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/casino_espaol_de_manila1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/casino_espaol_de_manila2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/casino_espaol_de_manila3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/casino_espaol_de_manila4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/casino_espaol_de_manila5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/casino_espaol_de_manila_logo.png",
+    "user_ratings_total": 0,
+    "website": "http://www.casinoespanoldemanila",
     "activities": []
+  },
+  "Manila Yacht Club": {
+    "formatted_address": "2351 Roxas Boulevard, Manila Bay, Manila, Metro Manila",
+    "formatted_phone_number": "+63 2 8521 5858",
+    "geometry": {
+      "location": {
+        "lat": 14.5676,
+        "lng": 120.9824
+      }
+    },
+    "name": "Manila Yacht Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Founded in 1927, this members-only club promotes yachting and sailing, with marina facilities and social events along the scenic Manila Bay.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/manila_yacht_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/manila_yacht_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/manila_yacht_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/manila_yacht_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/manila_yacht_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/manila_yacht_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "http://www.manilayachtclub.com.ph",
+    "activities": [
+      "sailing",
+      "boating"
+    ]
+  },
+  "The Palms Country Club": {
+    "formatted_address": "1410 Laguna Heights Drive, Filinvest City, Alabang, Muntinlupa, Metro Manila",
+    "formatted_phone_number": "+63 2 8771 7171",
+    "geometry": {
+      "location": {
+        "lat": 14.4193,
+        "lng": 121.0381
+      }
+    },
+    "name": "The Palms Country Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "An upscale country club offering a wide range of dining and sports facilities in Alabang, known for its luxury setting and social lifestyle.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/the_palms_country_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/the_palms_country_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/the_palms_country_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/the_palms_country_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/the_palms_country_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/the_palms_country_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "http://www.thepalmsclub.com",
+    "activities": [
+      "swimming",
+      "bowling",
+      "gym",
+      "tennis",
+      "badminton"
+    ]
+  },
+  "Ayala Alabang Country Club": {
+    "formatted_address": "Acacia Avenue, Ayala Alabang Village, Muntinlupa, Metro Manila",
+    "formatted_phone_number": "+63 2 8809 2301",
+    "geometry": {
+      "location": {
+        "lat": 14.4062,
+        "lng": 121.0163
+      }
+    },
+    "name": "Ayala Alabang Country Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Established in 1981, this exclusive club features an 18-hole golf course, sports complex, swimming pool, and dining amenities for residents and members.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/ayala_alabang_country_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/ayala_alabang_country_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/ayala_alabang_country_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/ayala_alabang_country_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/ayala_alabang_country_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/ayala_alabang_country_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "http://www.shell.com.ph",
+    "activities": [
+      "golf",
+      "swimming",
+      "tennis",
+      "badminton",
+      "squash"
+    ]
   }
 }

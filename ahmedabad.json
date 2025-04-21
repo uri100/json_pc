@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Ahmedabad Gymkhana is a private sports and social club located in Ahmedabad.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmedabad/ahmedabad_gymkhana1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmedabad/ahmedabad_gymkhana2.jpg",
@@ -44,7 +44,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Club O7 is a modern lifestyle club in Ahmedabad offering extensive sports, wellness, and dining facilities. Members enjoy amenities like swimming, fitness, courts, and banquet spaces for social gatherings.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmedabad/club_o71.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmedabad/club_o72.jpg",
@@ -57,11 +57,13 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmedabad/club_o7_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.clubo7.com",
-    "activities": []
+    "activities": [
+      "fitness"
+    ]
   },
   "Ellisbridge Gymkhana": {
     "formatted_address": "Netaji Marg., Ahmedabab 380006, Gujarat, India",
-    "formatted_phone_number": "91 79 2642 5240-45 , 917926425239",
+    "formatted_phone_number": "+91 79 2642 5240",
     "geometry": {
       "location": {
         "lat": 0.0,
@@ -74,7 +76,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Ellisbridge Gymkhana is a prominent club in Ahmedabad established in 1895. It offers a range of sports facilities, including tennis and swimming, as well as dining and social events for its members.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmedabad/ellisbridge_gymkhana1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmedabad/ellisbridge_gymkhana2.jpg",
@@ -87,7 +89,9 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmedabad/ellisbridge_gymkhana_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.ellisbridgegymkhana.com",
-    "activities": []
+    "activities": [
+      "fitness"
+    ]
   },
   "Karnavati Club": {
     "formatted_address": "",
@@ -104,7 +108,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Karnavati Club is one of Ahmedabad’s premier clubs, providing extensive recreational facilities such as sports complexes, swimming pools, and dining venues, serving as a social and leisure hub for members.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmedabad/karnavati_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmedabad/karnavati_club2.jpg",
@@ -117,7 +121,9 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmedabad/karnavati_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.karnavaticlub.com",
-    "activities": []
+    "activities": [
+      "fitness"
+    ]
   },
   "Rajpath Club": {
     "formatted_address": "",
@@ -134,7 +140,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Rajpath Club in Ahmedabad is a large members club offering a variety of sports facilities (including swimming, squash, tennis), dining options, and event spaces, catering to the city’s elite for recreation and socializing.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmedabad/rajpath_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmedabad/rajpath_club2.jpg",
@@ -147,7 +153,9 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmedabad/rajpath_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.rajpathclub.com",
-    "activities": []
+    "activities": [
+      "fitness"
+    ]
   },
   "The Sports Club of Gujarat": {
     "formatted_address": "",
@@ -164,7 +172,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The Sports Club of Gujarat, located in Ahmedabad, is a well-known members club offering athletic facilities like swimming, badminton, and tennis, alongside banquet halls and restaurants for social events.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmedabad/the_sports_club_of_gujarat1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmedabad/the_sports_club_of_gujarat2.jpg",
@@ -177,6 +185,8 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmedabad/the_sports_club_of_gujarat_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.sportsclub-gujarat.com",
-    "activities": []
+    "activities": [
+      "fitness"
+    ]
   }
 }

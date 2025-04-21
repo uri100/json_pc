@@ -1,5 +1,5 @@
 {
-  "Firestone Country Club (\"ClubCorp)": {
+  "Firestone Country Club (ClubCorp)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,13 +8,13 @@
         "lng": 0.0
       }
     },
-    "name": "Firestone Country Club (\"ClubCorp)",
+    "name": "Firestone Country Club (ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Firestone Country Club in Akron, Ohio, is a prestigious private golf club known for its three championship golf courses (venue for PGA tournaments) and excellent clubhouse facilities, providing members with world-class golf and upscale dining experiences.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/akron/firestone_country_club_clubcorp1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/akron/firestone_country_club_clubcorp2.jpg",
@@ -27,6 +27,9 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/akron/firestone_country_club_clubcorp_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.clubcorp.com/Clubs/Firestone-Country-Club",
-    "activities": []
+    "activities": [
+      "Golf",
+      "Tennis"
+    ]
   }
 }

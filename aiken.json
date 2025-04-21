@@ -1,11 +1,11 @@
 {
   "Aiken Tennis Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "146 Newberry Street SW, Aiken, SC, USA",
+    "formatted_phone_number": "+1 803 649 6760",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 33.5594,
+        "lng": -81.7214
       }
     },
     "name": "Aiken Tennis Club",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The Aiken Tennis Club is a private court tennis club in Aiken, South Carolina. Incorporated in 1898, it features one of the few court tennis (real tennis) courts in the United States, housed in a historic building listed on the National Register of Historic Places.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aiken/aiken_tennis_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aiken/aiken_tennis_club2.jpg",
@@ -27,10 +27,12 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aiken/aiken_tennis_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.wikipedia.org/wiki/Aiken_Tennis_Club",
-    "activities": []
+    "activities": [
+      "tennis"
+    ]
   },
   "Green Boundary Club": {
-    "formatted_address": "780 Whiskey Road",
+    "formatted_address": "780 Whiskey Road, Aiken, SC 29801, USA",
     "formatted_phone_number": "+1 803 649 2549",
     "geometry": {
       "location": {
@@ -44,7 +46,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Green Boundary Club is a private club in Aiken, South Carolina, known for its elegant setting and social events. It offers dining, beautifully landscaped grounds, and reciprocal privileges with other clubs, reflecting Aiken’s Winter Colony traditions.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aiken/green_boundary_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aiken/green_boundary_club2.jpg",
@@ -57,9 +59,12 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aiken/green_boundary_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.greenboundaryclub.com",
-    "activities": []
+    "activities": [
+      "golf",
+      "tennis"
+    ]
   },
-  "Woodside Plantation Country Club (\"ClubCorp)": {
+  "Woodside Plantation Country Club (ClubCorp)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -68,13 +73,13 @@
         "lng": 0.0
       }
     },
-    "name": "Woodside Plantation Country Club (\"ClubCorp)",
+    "name": "Woodside Plantation Country Club (ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Woodside Plantation Country Club, part of ClubCorp, is a private country club in Aiken offering championship golf courses, tennis courts, a swimming pool, and dining facilities, catering to family-friendly recreation and social events.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aiken/woodside_plantation_country_club_clubcorp1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aiken/woodside_plantation_country_club_clubcorp2.jpg",
@@ -87,6 +92,10 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aiken/woodside_plantation_country_club_clubcorp_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.clubcorp.com/Clubs/Woodside-Plantation-Country-Club/",
-    "activities": []
+    "activities": [
+      "Golf",
+      "Tennis",
+      "Swimming"
+    ]
   }
 }

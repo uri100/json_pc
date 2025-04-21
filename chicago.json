@@ -1,11 +1,11 @@
 {
   "Casino Club": {
-    "formatted_address": "",
+    "formatted_address": "195 East Delaware Place, Chicago, IL 60611",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.8994,
+        "lng": -87.6229
       }
     },
     "name": "Casino Club",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "An exclusive private social club founded in 1914, known for its elegant atmosphere and cultural events.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/casino_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/casino_club2.jpg",
@@ -30,12 +30,12 @@
     "activities": []
   },
   "Caxton Club": {
-    "formatted_address": "",
+    "formatted_address": "60 West Walton Street, Chicago, IL 60610",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.899,
+        "lng": -87.6305
       }
     },
     "name": "Caxton Club",
@@ -44,7 +44,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1895, the Caxton Club is dedicated to the literary study and promotion of the arts pertaining to the production of books.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/caxton_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/caxton_club2.jpg",
@@ -60,12 +60,12 @@
     "activities": []
   },
   "Chicago Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "81 East Van Buren Street, Chicago, IL 60605",
+    "formatted_phone_number": "(312) 427-1825",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.8776,
+        "lng": -87.6243
       }
     },
     "name": "Chicago Club",
@@ -74,7 +74,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1869, The Chicago Club is one of the city's oldest private clubs, offering distinguished dining and social facilities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/chicago_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/chicago_club2.jpg",
@@ -90,12 +90,12 @@
     "activities": []
   },
   "Chicago Yacht Club": {
-    "formatted_address": "",
+    "formatted_address": "400 East Monroe Street, Chicago, IL 60603",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.8803,
+        "lng": -87.6167
       }
     },
     "name": "Chicago Yacht Club",
@@ -104,7 +104,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1875, the Chicago Yacht Club is renowned for its sailing programs and hosts the annual Race to Mackinac.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/chicago_yacht_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/chicago_yacht_club2.jpg",
@@ -117,15 +117,18 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/chicago_yacht_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.chicagoyachtclub.org",
-    "activities": []
+    "activities": [
+      "sailing",
+      "yachting"
+    ]
   },
   "Cliff Dwellers Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "200 South Michigan Avenue, Suite 2200, Chicago, IL 60604",
+    "formatted_phone_number": "(312) 922-8080",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.8795,
+        "lng": -87.6243
       }
     },
     "name": "Cliff Dwellers Club",
@@ -134,7 +137,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1907, The Cliff Dwellers is a private civic arts organization promoting the arts and culture in Chicago.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/cliff_dwellers_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/cliff_dwellers_club2.jpg",
@@ -150,12 +153,12 @@
     "activities": []
   },
   "Quadrangle Club": {
-    "formatted_address": "",
+    "formatted_address": "1155 East 57th Street, Chicago, IL 60637",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.7912,
+        "lng": -87.5984
       }
     },
     "name": "Quadrangle Club",
@@ -164,7 +167,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Affiliated with the University of Chicago, the Quadrangle Club serves as a faculty and social club offering dining and athletic facilities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/quadrangle_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/quadrangle_club2.jpg",
@@ -177,15 +180,18 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/quadrangle_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.quadclub.uchicago.edu",
-    "activities": []
+    "activities": [
+      "tennis",
+      "squash"
+    ]
   },
   "Racquet Club of Chicago": {
-    "formatted_address": "",
+    "formatted_address": "1365 North Dearborn Parkway, Chicago, IL 60610",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.9075,
+        "lng": -87.629
       }
     },
     "name": "Racquet Club of Chicago",
@@ -194,7 +200,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1923, this private club offers premier racquet sports facilities and social amenities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/racquet_club_of_chicago1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/racquet_club_of_chicago2.jpg",
@@ -207,45 +213,52 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/racquet_club_of_chicago_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.rcc.club",
-    "activities": []
+    "activities": [
+      "tennis",
+      "squash",
+      "racquetball"
+    ]
   },
-  "Soho House Chicago (\"Soho House group)": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Soho House Chicago": {
+    "formatted_address": "113-125 North Green Street, Chicago, IL 60607",
+    "formatted_phone_number": "+1 312 521 8000",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.8832,
+        "lng": -87.6488
       }
     },
-    "name": "Soho House Chicago (\"Soho House group)",
+    "name": "Soho House Chicago",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A modern private members' club offering accommodations, dining, fitness facilities, and cultural events.",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/soho_house_chicago_soho_house_group1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/soho_house_chicago_soho_house_group2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/soho_house_chicago_soho_house_group3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/soho_house_chicago_soho_house_group4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/soho_house_chicago_soho_house_group5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/soho_house_chicago1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/soho_house_chicago2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/soho_house_chicago3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/soho_house_chicago4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/soho_house_chicago5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/soho_house_chicago_soho_house_group_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/soho_house_chicago_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.sohohousechicago.com",
-    "activities": []
+    "activities": [
+      "gym",
+      "swimming"
+    ]
   },
   "Standard Club": {
-    "formatted_address": "",
+    "formatted_address": "320 South Plymouth Court, Chicago, IL 60604",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.8781,
+        "lng": -87.6298
       }
     },
     "name": "Standard Club",
@@ -254,7 +267,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1869, The Standard Club has a rich history of providing social and business amenities to its members.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/standard_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/standard_club2.jpg",
@@ -270,12 +283,12 @@
     "activities": []
   },
   "Union League Club of Chicago": {
-    "formatted_address": "65 West Jackson Blvd, Chicago, IL 60604-3598",
-    "formatted_phone_number": "+1 312 4277800",
+    "formatted_address": "65 West Jackson Boulevard, Chicago, IL 60604",
+    "formatted_phone_number": "312.427.7800",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.8784,
+        "lng": -87.6301
       }
     },
     "name": "Union League Club of Chicago",
@@ -284,7 +297,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1879, the Union League Club is known for its civic engagement, art collection, and comprehensive member facilities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/union_league_club_of_chicago1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/union_league_club_of_chicago2.jpg",
@@ -298,17 +311,18 @@
     "user_ratings_total": 0,
     "website": "https://www.ulcc.org",
     "activities": [
-      "athletic",
-      "swimming"
+      "fitness",
+      "swimming",
+      "squash"
     ]
   },
   "University Club of Chicago": {
     "formatted_address": "76 East Monroe Street, Chicago, IL 60603",
-    "formatted_phone_number": "",
+    "formatted_phone_number": "312.726.2840",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.8807,
+        "lng": -87.6253
       }
     },
     "name": "University Club of Chicago",
@@ -317,7 +331,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1887, this club offers a range of athletic facilities, dining options, and hosts cultural events.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/university_club_of_chicago1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/university_club_of_chicago2.jpg",
@@ -330,15 +344,19 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/university_club_of_chicago_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.ucco.com",
-    "activities": []
+    "activities": [
+      "squash",
+      "swimming",
+      "fitness center"
+    ]
   },
   "Women's Athletic Club": {
-    "formatted_address": "",
+    "formatted_address": "626 North Michigan Avenue, Chicago, IL 60611",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 41.8931,
+        "lng": -87.624
       }
     },
     "name": "Women's Athletic Club",
@@ -347,7 +365,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1898, the Women's Athletic Club is the first athletic club for women in the U.S., offering comprehensive fitness and social facilities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/womens_athletic_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/womens_athletic_club2.jpg",
@@ -360,6 +378,166 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/womens_athletic_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.wacchicago.com",
+    "activities": [
+      "fitness",
+      "swimming",
+      "spa services"
+    ]
+  },
+  "The Metropolitan": {
+    "formatted_address": "233 South Wacker Drive, 67th Floor, Chicago, IL 60606",
+    "formatted_phone_number": "1 312-876-3200",
+    "geometry": {
+      "location": {
+        "lat": 41.8789,
+        "lng": -87.6358
+      }
+    },
+    "name": "The Metropolitan",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Located on the 67th floor of Willis Tower, The Metropolitan offers panoramic city views, dining, networking events, and fitness facilities for business professionals and community leaders.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/the_metropolitan1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/the_metropolitan2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/the_metropolitan3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/the_metropolitan4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/the_metropolitan5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/the_metropolitan_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.invitedclubs.com/clubs/the-metropolitan",
+    "activities": [
+      "fitness"
+    ]
+  },
+  "Astor Club Chicago": {
+    "formatted_address": "24 E Goethe Street, Chicago, IL 60610",
+    "formatted_phone_number": "+1-312-900-0024",
+    "geometry": {
+      "location": {
+        "lat": 41.9065,
+        "lng": -87.6276
+      }
+    },
+    "name": "Astor Club Chicago",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A private members club situated in a historic underground speakeasy-style location, previously visited by notable figures such as Frank Sinatra and The Beatles, offering a unique social environment.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/astor_club_chicago1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/astor_club_chicago2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/astor_club_chicago3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/astor_club_chicago4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/astor_club_chicago5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/astor_club_chicago_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://astorclub.com/",
+    "activities": []
+  },
+  "The Clayton": {
+    "formatted_address": "212 N Canal Street, Chicago, IL 60606​",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 41.8864,
+        "lng": -87.639
+      }
+    },
+    "name": "The Clayton",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A luxury private members social club located in prime neighborhoods, providing a haven for members to connect and belong, with plans to expand to Washington D.C. and Miami.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/the_clayton1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/the_clayton2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/the_clayton3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/the_clayton4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/the_clayton5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/the_clayton_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.theclayton.com/",
+    "activities": []
+  },
+  "Saddle & Cycle Club": {
+    "formatted_address": "900 West Foster Avenue, Chicago, IL 60640",
+    "formatted_phone_number": "+1 773-769-4600",
+    "geometry": {
+      "location": {
+        "lat": 41.9765,
+        "lng": -87.6547
+      }
+    },
+    "name": "Saddle & Cycle Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Established in 1895, this family-oriented private club offers a range of recreational facilities, including swimming pools, tennis courts, and cycling activities, set within expansive grounds.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/saddle_cycle_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/saddle_cycle_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/saddle_cycle_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/saddle_cycle_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/saddle_cycle_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/saddle_cycle_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.saddleandcycle.com",
+    "activities": [
+      "swimming",
+      "tennis",
+      "cycling"
+    ]
+  },
+  "The Sky-Line Club": {
+    "formatted_address": "307 North Michigan Avenue, Chicago, IL 60601",
+    "formatted_phone_number": "+1 312-726-0460",
+    "geometry": {
+      "location": {
+        "lat": 41.8881,
+        "lng": -87.624
+      }
+    },
+    "name": "The Sky-Line Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Founded in 1926, The Sky-Line Club provides an elegant setting for dining and social events, located in the historic London Guarantee Building with views of the Chicago River.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/the_skyline_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/the_skyline_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/the_skyline_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/the_skyline_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/the_skyline_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chicago/the_skyline_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://skyline-club.com",
     "activities": []
   }
 }

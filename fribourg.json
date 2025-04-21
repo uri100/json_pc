@@ -1,5 +1,5 @@
 {
-  "Cercle de la Grande SociĂ©tĂ©": {
+  "Cercle de la Grande Société": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Cercle de la Grande SociĂ©tĂ©",
+    "name": "Cercle de la Grande Société",
     "opening_hours": {
       "open_now": false,
       "periods": [],

@@ -89,7 +89,7 @@
     "website": "https://www.defencecolonyclub.com",
     "activities": []
   },
-  "Delhi Golf Club (\"Lodhi Club)": {
+  "Delhi Golf Club (Lodhi Club)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -98,7 +98,7 @@
         "lng": 0.0
       }
     },
-    "name": "Delhi Golf Club (\"Lodhi Club)",
+    "name": "Delhi Golf Club (Lodhi Club)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

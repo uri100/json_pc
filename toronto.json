@@ -1,11 +1,11 @@
 {
   "Adelaide Club Toronto": {
-    "formatted_address": "1 First Canadian Place",
-    "formatted_phone_number": "+1 416 367 9957",
+    "formatted_address": "1 First Canadian Place, Toronto, ON M5X 1C8, Canada",
+    "formatted_phone_number": "+1 416-367-9957",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.6485,
+        "lng": -79.3817
       }
     },
     "name": "Adelaide Club Toronto",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Located in the heart of Toronto's financial district, the Adelaide Club offers state-of-the-art fitness facilities, including squash courts, yoga studios, and personalized training programs.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/adelaide_club_toronto1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/adelaide_club_toronto2.jpg",
@@ -22,53 +22,24 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/adelaide_club_toronto4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/adelaide_club_toronto5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.7,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/adelaide_club_toronto_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 85,
     "website": "https://www.adelaideclub.com",
     "activities": [
-      "athletic",
-      "swimming"
+      "fitness",
+      "squash",
+      "yoga"
     ]
   },
-  "Albany Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Albany Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/albany_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/albany_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/albany_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/albany_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/albany_club5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/albany_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.albanyclub.ca",
-    "activities": []
-  },
   "Albany Club of Toronto": {
-    "formatted_address": "91 King Street East",
-    "formatted_phone_number": "+1 416 3645471",
+    "formatted_address": "91 King St E, Toronto, ON M5C 1G3, Canada",
+    "formatted_phone_number": "+1 416-364-5471",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.6505,
+        "lng": -79.3756
       }
     },
     "name": "Albany Club of Toronto",
@@ -77,7 +48,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The Albany Club is one of Canada's oldest private clubs, offering a venue for leaders to discuss politics, business, and social issues, complemented by fine dining and event facilities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/albany_club_of_toronto1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/albany_club_of_toronto2.jpg",
@@ -85,20 +56,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/albany_club_of_toronto4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/albany_club_of_toronto5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.6,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/albany_club_of_toronto_logo.png",
-    "user_ratings_total": 0,
-    "website": "",
+    "user_ratings_total": 39,
+    "website": "https://www.albanyclub.ca",
     "activities": []
   },
   "Arts and Letters Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "14 Elm St, Toronto, ON M5G 1G7, Canada",
+    "formatted_phone_number": "+1 416-597-0223",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.6572,
+        "lng": -79.3832
       }
     },
     "name": "Arts and Letters Club",
@@ -107,7 +78,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A private club fostering the arts and culture in Toronto, hosting events, exhibitions, and providing a meeting place for artists and art enthusiasts.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/arts_and_letters_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/arts_and_letters_club2.jpg",
@@ -115,20 +86,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/arts_and_letters_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/arts_and_letters_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.8,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/arts_and_letters_club_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 25,
     "website": "https://www.artsandlettersclub.ca",
     "activities": []
   },
   "Badminton & Racquet Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "25 St Clair Ave W, Toronto, ON M4V 1K6, Canada",
+    "formatted_phone_number": "+1 416-921-2159",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.687,
+        "lng": -79.3966
       }
     },
     "name": "Badminton & Racquet Club",
@@ -137,7 +108,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1924, this club offers premier badminton and squash facilities, along with fitness programs and social events for its members.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/badminton_racquet_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/badminton_racquet_club2.jpg",
@@ -145,20 +116,24 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/badminton_racquet_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/badminton_racquet_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.5,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/badminton_racquet_club_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 55,
     "website": "https://www.thebandr.com",
-    "activities": []
+    "activities": [
+      "badminton",
+      "squash",
+      "fitness"
+    ]
   },
   "Boulevard Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "1491 Lake Shore Blvd W, Toronto, ON M6K 3C2, Canada",
+    "formatted_phone_number": "+1 416-532-3341",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.6305,
+        "lng": -79.4372
       }
     },
     "name": "Boulevard Club",
@@ -167,7 +142,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Situated on the shores of Lake Ontario, the Boulevard Club offers sailing, tennis, fitness, and social activities, fostering a community centered around waterfront recreation.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/boulevard_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/boulevard_club2.jpg",
@@ -175,20 +150,24 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/boulevard_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/boulevard_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.4,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/boulevard_club_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 112,
     "website": "https://www.boulevardclub.com",
-    "activities": []
+    "activities": [
+      "sailing",
+      "tennis",
+      "fitness"
+    ]
   },
   "Cambridge Club": {
-    "formatted_address": "100 Richmond St. West",
-    "formatted_phone_number": "+1 416 8621077",
+    "formatted_address": "100 Richmond St W Suite 300, Toronto, ON M5H 3K6, Canada",
+    "formatted_phone_number": "+1 416-862-1077",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.6514,
+        "lng": -79.3837
       }
     },
     "name": "Cambridge Club",
@@ -197,7 +176,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "An exclusive men's club offering comprehensive fitness facilities, squash courts, spa services, and a social lounge in the downtown core.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/cambridge_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/cambridge_club2.jpg",
@@ -205,23 +184,24 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/cambridge_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/cambridge_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.6,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/cambridge_club_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 48,
     "website": "https://www.thecambridgeclub.com",
     "activities": [
-      "athletic",
-      "swimming"
+      "fitness",
+      "squash",
+      "spa"
     ]
   },
   "Donalda Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "12 Bushbury Dr, Toronto, ON M3A 2Z7, Canada",
+    "formatted_phone_number": "+1 416-447-5575",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.7459,
+        "lng": -79.332
       }
     },
     "name": "Donalda Club",
@@ -230,7 +210,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A family-oriented private club featuring an 18-hole golf course, tennis courts, swimming pools, and dining facilities, set within a picturesque landscape.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/donalda_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/donalda_club2.jpg",
@@ -238,20 +218,24 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/donalda_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/donalda_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.7,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/donalda_club_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 89,
     "website": "https://www.donaldaclub.ca",
-    "activities": []
+    "activities": [
+      "golf",
+      "tennis",
+      "swimming"
+    ]
   },
   "Faculty Club of the University of Toronto": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "41 Willcocks St, Toronto, ON M5S 3G3, Canada",
+    "formatted_phone_number": "+1 416-978-6325",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.6629,
+        "lng": -79.3995
       }
     },
     "name": "Faculty Club of the University of Toronto",
@@ -260,7 +244,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Serving the University of Toronto community, the Faculty Club offers dining, meeting spaces, and hosts various social and cultural events.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/faculty_club_of_the_university_of_toronto1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/faculty_club_of_the_university_of_toronto2.jpg",
@@ -268,20 +252,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/faculty_club_of_the_university_of_toronto4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/faculty_club_of_the_university_of_toronto5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.5,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/faculty_club_of_the_university_of_toronto_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 33,
     "website": "https://www.facultyclub.utoronto.ca",
     "activities": []
   },
   "Granite Club": {
-    "formatted_address": "2350 Bayview Avenue, Toronto, ON, M2L 1E4",
-    "formatted_phone_number": "",
+    "formatted_address": "2350 Bayview Ave, North York, ON M2L 1E4, Canada",
+    "formatted_phone_number": "+1 416-449-8713",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.7337,
+        "lng": -79.3746
       }
     },
     "name": "Granite Club",
@@ -290,7 +274,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A prestigious family club offering a wide range of athletic facilities including curling, tennis, swimming, and fitness, along with dining and social events.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/granite_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/granite_club2.jpg",
@@ -298,20 +282,24 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/granite_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/granite_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.6,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/granite_club_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 76,
     "website": "https://www.graniteclub.com",
-    "activities": []
+    "activities": [
+      "curling",
+      "tennis",
+      "swimming"
+    ]
   },
   "Queen City Yacht Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "2 Seneca Ave, Toronto, ON M5J 2A1, Canada",
+    "formatted_phone_number": "+1 416-203-0929",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.6287,
+        "lng": -79.37
       }
     },
     "name": "Queen City Yacht Club",
@@ -320,7 +308,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Located on Toronto Island, QCYC provides sailing facilities, racing events, and a vibrant social scene for boating enthusiasts.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/queen_city_yacht_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/queen_city_yacht_club2.jpg",
@@ -328,20 +316,22 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/queen_city_yacht_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/queen_city_yacht_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.8,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/queen_city_yacht_club_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 22,
     "website": "https://www.qcyc.ca",
-    "activities": []
+    "activities": [
+      "sailing"
+    ]
   },
   "Royal Canadian Military Institute": {
-    "formatted_address": "426 University Avenue",
-    "formatted_phone_number": "+1 800 5851072",
+    "formatted_address": "426 University Ave, Toronto, ON M5G 1S9, Canada",
+    "formatted_phone_number": "+1 416-597-0286",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.655,
+        "lng": -79.389
       }
     },
     "name": "Royal Canadian Military Institute",
@@ -350,7 +340,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A historic institute offering members access to a vast military library, dining facilities, and a venue for discussions on military and security matters.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/royal_canadian_military_institute1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/royal_canadian_military_institute2.jpg",
@@ -358,20 +348,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/royal_canadian_military_institute4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/royal_canadian_military_institute5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.7,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/royal_canadian_military_institute_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 41,
     "website": "https://www.rcmi.org",
     "activities": []
   },
   "Royal Canadian Yacht Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "141 St. George St, Toronto, ON M5R 2L8, Canada",
+    "formatted_phone_number": "+1 416-967-7245",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.6677,
+        "lng": -79.399
       }
     },
     "name": "Royal Canadian Yacht Club",
@@ -380,7 +370,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "One of Canada's premier sailing clubs, RCYC offers extensive sailing programs, tennis courts, fitness facilities, and dining across its island and city locations.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/royal_canadian_yacht_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/royal_canadian_yacht_club2.jpg",
@@ -388,29 +378,33 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/royal_canadian_yacht_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/royal_canadian_yacht_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.6,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/royal_canadian_yacht_club_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 94,
     "website": "https://www.rcyc.ca",
-    "activities": []
+    "activities": [
+      "sailing",
+      "tennis",
+      "fitness"
+    ]
   },
-  "Soho House Toronto (\"Soho House group)": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Soho House Toronto (Soho House Group)": {
+    "formatted_address": "192 Adelaide St W, Toronto, ON M5H 0A4, Canada",
+    "formatted_phone_number": "+1 416-599-7646",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.6473,
+        "lng": -79.3883
       }
     },
-    "name": "Soho House Toronto (\"Soho House group)",
+    "name": "Soho House Toronto (Soho House Group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Part of the international Soho House group, this club caters to creative professionals, offering dining, events, and a space to connect in a stylish setting.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/soho_house_toronto_soho_house_group1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/soho_house_toronto_soho_house_group2.jpg",
@@ -418,50 +412,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/soho_house_toronto_soho_house_group4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/soho_house_toronto_soho_house_group5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.4,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/soho_house_toronto_soho_house_group_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 123,
     "website": "https://www.sohohousetoronto.com",
     "activities": []
   },
-  "Spoke Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Spoke Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/spoke_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/spoke_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/spoke_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/spoke_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/spoke_club5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/spoke_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.thespokeclub.com",
-    "activities": []
-  },
   "The Boulevard Club": {
-    "formatted_address": "1491 Lake Shore Boulevard West",
-    "formatted_phone_number": "+1 416 5323341",
+    "formatted_address": "1491 Lake Shore Blvd W, Toronto, ON M6K 3C2, Canada",
+    "formatted_phone_number": "+1 416-532-3341",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.6306,
+        "lng": -79.437
       }
     },
     "name": "The Boulevard Club",
@@ -470,7 +434,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The Boulevard Club is a prestigious private club located on the shores of Lake Ontario, offering a wide range of athletic and social amenities. Members enjoy facilities for sailing, tennis, fitness, badminton, pickleball, and both indoor and outdoor swimming pools. The club also provides dining options and hosts various social events throughout the year.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_boulevard_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_boulevard_club2.jpg",
@@ -478,24 +442,27 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_boulevard_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_boulevard_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.4,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_boulevard_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "",
+    "user_ratings_total": 8,
+    "website": "https://www.boulevardclub.com",
     "activities": [
+      "sailing",
       "tennis",
-      "athletic",
+      "fitness",
+      "badminton",
+      "pickleball",
       "swimming"
     ]
   },
   "The Faculty Club": {
-    "formatted_address": "41 Willcocks Street",
-    "formatted_phone_number": "+1 416 9786325",
+    "formatted_address": "41 Willcocks St, Toronto, ON M5S 3G3, Canada",
+    "formatted_phone_number": "+1 416-978-6325",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.6604,
+        "lng": -79.3986
       }
     },
     "name": "The Faculty Club",
@@ -504,7 +471,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The Faculty Club at the University of Toronto serves as a meeting place for faculty, staff, alumni, and guests. It offers dining services, event spaces, and a venue for intellectual and social interactions within the university community.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_faculty_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_faculty_club2.jpg",
@@ -516,16 +483,16 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_faculty_club_logo.png",
     "user_ratings_total": 0,
-    "website": "",
+    "website": "https://www.facultyclub.utoronto.ca",
     "activities": []
   },
   "The National Club": {
-    "formatted_address": "303 Bay Street, Toronto, ON, M5H 2R1",
-    "formatted_phone_number": "",
+    "formatted_address": "303 Bay St, Toronto, ON M5H 2R1, Canada",
+    "formatted_phone_number": "+1 416-364-3247",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.6483,
+        "lng": -79.3806
       }
     },
     "name": "The National Club",
@@ -534,7 +501,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1874, The National Club is a leading business and social club offering dining, meeting facilities, and a venue for networking among professionals.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_national_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_national_club2.jpg",
@@ -542,20 +509,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_national_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_national_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.6,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_national_club_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 29,
     "website": "https://www.thenationalclub.com",
     "activities": []
   },
   "The University Club of Toronto": {
-    "formatted_address": "380 University Avenue",
-    "formatted_phone_number": "+1 416 5971336",
+    "formatted_address": "380 University Ave, Toronto, ON M5G 1R6, Canada",
+    "formatted_phone_number": "+1 416-597-1336",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.6545,
+        "lng": -79.3865
       }
     },
     "name": "The University Club of Toronto",
@@ -564,7 +531,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The University Club of Toronto is a private club offering dining, social events, and fitness facilities. It serves as a meeting place for professionals and academics in the heart of downtown Toronto.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_university_club_of_toronto1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_university_club_of_toronto2.jpg",
@@ -576,18 +543,18 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_university_club_of_toronto_logo.png",
     "user_ratings_total": 0,
-    "website": "",
+    "website": "https://www.universitycluboftoronto.com",
     "activities": [
-      "athletic"
+      "fitness"
     ]
   },
   "Toronto Athletic Club": {
-    "formatted_address": "TD Waterhouse Tower",
-    "formatted_phone_number": "+1 416 8650900",
+    "formatted_address": "79 Wellington St W 36th Floor, Toronto, ON M5K 1J5, Canada",
+    "formatted_phone_number": "+1 416-865-0900",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.647,
+        "lng": -79.3819
       }
     },
     "name": "Toronto Athletic Club",
@@ -596,7 +563,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Located atop the TD South Tower, this club offers panoramic city views alongside premium fitness facilities, including squash courts and a saltwater pool.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/toronto_athletic_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/toronto_athletic_club2.jpg",
@@ -604,23 +571,24 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/toronto_athletic_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/toronto_athletic_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.5,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/toronto_athletic_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "",
+    "user_ratings_total": 67,
+    "website": "https://www.torontoathleticclub.com",
     "activities": [
-      "athletic",
+      "fitness",
+      "squash",
       "swimming"
     ]
   },
   "Toronto Cricket, Skating and Curling Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "141 Wilson Ave, Toronto, ON M5M 3A3, Canada",
+    "formatted_phone_number": "+1 416-487",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.738,
+        "lng": -79.4185
       }
     },
     "name": "Toronto Cricket, Skating and Curling Club",
@@ -629,7 +597,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A multifaceted athletic club offering facilities for cricket, skating, curling, tennis, and fitness, along with dining and social events for members.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/toronto_cricket_skating_and_curling_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/toronto_cricket_skating_and_curling_club2.jpg",
@@ -641,16 +609,21 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/toronto_cricket_skating_and_curling_club_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.torontocricketclub.com",
-    "activities": []
+    "website": "",
+    "activities": [
+      "cricket",
+      "skating",
+      "curling",
+      "fitness"
+    ]
   },
   "Toronto Lawn Tennis Club": {
-    "formatted_address": "44 Price Street, Toronto, ON, M4W 1Z4",
-    "formatted_phone_number": "",
+    "formatted_address": "44 Price St, Toronto, ON M4W 1Z4, Canada",
+    "formatted_phone_number": "+1 416-922-1105",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.676,
+        "lng": -79.388
       }
     },
     "name": "Toronto Lawn Tennis Club",
@@ -659,7 +632,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1876, the Toronto Lawn Tennis Club is one of Canada's oldest private tennis clubs. Located in the Rosedale neighborhood, it offers 17 Har-Tru tennis courts, squash courts, a swimming pool, and a fitness center. The club also provides dining facilities and hosts various social events, maintaining a rich history in Canada's tennis community.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/toronto_lawn_tennis_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/toronto_lawn_tennis_club2.jpg",
@@ -672,45 +645,20 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/toronto_lawn_tennis_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.torontolawn.com",
-    "activities": []
-  },
-  "University Club of Toronto": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "University Club of Toronto",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/university_club_of_toronto1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/university_club_of_toronto2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/university_club_of_toronto3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/university_club_of_toronto4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/university_club_of_toronto5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/university_club_of_toronto_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.universitycluboftoronto.com",
-    "activities": []
+    "activities": [
+      "tennis",
+      "squash",
+      "swimming",
+      "fitness"
+    ]
   },
   "Verity": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "111d Queen St E, Toronto, ON M5C 1S2, Canada",
+    "formatted_phone_number": "+1 416-368-6006",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.6535,
+        "lng": -79.3746
       }
     },
     "name": "Verity",
@@ -719,7 +667,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Verity is an exclusive women's club offering a range of amenities including fitness facilities, a spa, fine dining, and event spaces. It provides a supportive community for professional women in Toronto.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/verity1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/verity2.jpg",
@@ -732,15 +680,18 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/verity_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.verity.ca",
-    "activities": []
+    "activities": [
+      "fitness",
+      "spa"
+    ]
   },
   "York Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "135 St George St, Toronto, ON M5R 2L8, Canada",
+    "formatted_phone_number": "+1 416-922-3101",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 43.6681,
+        "lng": -79.3986
       }
     },
     "name": "York Club",
@@ -749,7 +700,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The York Club is a prestigious private members' club located in a historic building. It offers dining and social events for its members, fostering a community of distinguished individuals.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/york_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/york_club2.jpg",

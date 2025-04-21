@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Ballena Bay Yacht Club, located in Alameda, California, is a private yacht club that provides marina access, sailing activities, and social events for sailing enthusiasts and members.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/alameda/ballena_bay_yacht_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/alameda/ballena_bay_yacht_club2.jpg",
@@ -27,6 +27,9 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/alameda/ballena_bay_yacht_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.bbyc.org",
-    "activities": []
+    "activities": [
+      "Boating",
+      "Sailing"
+    ]
   }
 }

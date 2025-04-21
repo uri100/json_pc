@@ -1,20 +1,20 @@
 {
-  "AsociaciĂłn Civil Hurlingham Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Asociación Civil Hurlingham Club": {
+    "formatted_address": "Av. Julio Argentino Roca 1411, Hurlingham, Buenos Aires, Argentina",
+    "formatted_phone_number": "+54 11 4662-5510",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.588,
+        "lng": -58.639
       }
     },
-    "name": "AsociaciĂłn Civil Hurlingham Club",
+    "name": "Asociación Civil Hurlingham Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1888 by the British community, the Hurlingham Club offers a blend of traditional sports and social activities, featuring facilities for golf, polo, tennis, cricket, and swimming.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/asociacin_civil_hurlingham_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/asociacin_civil_hurlingham_club2.jpg",
@@ -26,16 +26,25 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/asociacin_civil_hurlingham_club_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.hurlinghamclub.com.ar",
-    "activities": []
+    "website": "https://hurlinghamclub.com.ar",
+    "activities": [
+      "golf",
+      "polo",
+      "tennis",
+      "cricket",
+      "swimming",
+      "squash",
+      "paddle",
+      "gym"
+    ]
   },
   "Asociacion Sueca": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Tacuarí 147, C1071AAC, Buenos Aires, Argentina",
+    "formatted_phone_number": "+54 11 4361-0917",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.6132,
+        "lng": -58.3772
       }
     },
     "name": "Asociacion Sueca",
@@ -44,7 +53,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The Asociación Sueca serves as a cultural and social hub for the Swedish community in Buenos Aires, promoting Swedish traditions and organizing various events.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/asociacion_sueca1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/asociacion_sueca2.jpg",
@@ -60,12 +69,12 @@
     "activities": []
   },
   "Buenos Aires Rowing Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Gral. Bartolomé Mitre 226, B1648 Tigre, Buenos Aires, Argentina",
+    "formatted_phone_number": "+54 11 4731-5551",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.4265,
+        "lng": -58.5796
       }
     },
     "name": "Buenos Aires Rowing Club",
@@ -74,7 +83,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1873, the Buenos Aires Rowing Club is one of the oldest rowing institutions in Argentina, offering rowing facilities along with tennis courts and a swimming pool.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/buenos_aires_rowing_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/buenos_aires_rowing_club2.jpg",
@@ -87,15 +96,24 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/buenos_aires_rowing_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.buenosairesrowing.com.ar",
-    "activities": []
+    "activities": [
+      "rowing",
+      "tennis",
+      "swimming",
+      "indoor football",
+      "paddle",
+      "bowls",
+      "basketball",
+      "gym"
+    ]
   },
   "Centro Naval": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Av. Córdoba 622, C1054AAS, Buenos Aires, Argentina",
+    "formatted_phone_number": "+54 11 4311-1071",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.5984,
+        "lng": -58.3758
       }
     },
     "name": "Centro Naval",
@@ -104,7 +122,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Centro Naval is a prestigious institution associated with the Argentine Navy, providing social and cultural activities for its members.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval2.jpg",
@@ -116,25 +134,25 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.wikipedia.org/wiki/Centro_Naval",
+    "website": "https://www.centronaval.org.ar",
     "activities": []
   },
-  "Centro Naval NĂşĂ±ez": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Centro Naval Núñez": {
+    "formatted_address": "Av. del Libertador 8600, C1429BOS, Buenos Aires, Argentina",
+    "formatted_phone_number": "+54 11 4703-1814",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.5456,
+        "lng": -58.4567
       }
     },
-    "name": "Centro Naval NĂşĂ±ez",
+    "name": "Centro Naval Núñez",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The Núñez branch of Centro Naval offers various sports facilities and social events for its members, fostering a community centered around naval traditions.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_nez1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_nez2.jpg",
@@ -147,15 +165,19 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_nez_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.centronaval.org.ar/sedes/sede-nunez.html",
-    "activities": []
+    "activities": [
+      "field hockey",
+      "rugby",
+      "rowing"
+    ]
   },
   "Centro Naval Olivos": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Juan Díaz de Solís 1887, B1636DSC, Olivos, Buenos Aires, Argentina",
+    "formatted_phone_number": "+54 11 4794-4080",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.5053,
+        "lng": -58.4791
       }
     },
     "name": "Centro Naval Olivos",
@@ -164,7 +186,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Located in Olivos, this branch of Centro Naval provides members with sports amenities and hosts social gatherings, emphasizing camaraderie and naval heritage.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_olivos1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_olivos2.jpg",
@@ -177,15 +199,24 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_olivos_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.centronaval.org.ar/sedes/sede-olivos.html",
-    "activities": []
+    "activities": [
+      "fencing",
+      "football",
+      "gymnastics",
+      "karate",
+      "swimming",
+      "taekwondo",
+      "tennis",
+      "yachting"
+    ]
   },
   "Centro Naval Tigre": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Río Luján s/n, B1648, Tigre, Buenos Aires, Argentina",
+    "formatted_phone_number": "+54 11 4731-0917",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.4099,
+        "lng": -58.5796
       }
     },
     "name": "Centro Naval Tigre",
@@ -194,7 +225,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The Tigre branch of Centro Naval focuses on water sports such as rowing and sailing, offering members access to the scenic waterways of the Tigre delta.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_tigre1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_tigre2.jpg",
@@ -207,24 +238,28 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/centro_naval_tigre_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.centronaval.org.ar/sedes/sede-tigre.html",
-    "activities": []
+    "activities": [
+      "rowing",
+      "tennis",
+      "yachting"
+    ]
   },
-  "CĂ­rculo de Armas": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Cí­rculo de Armas": {
+    "formatted_address": "Av. de Mayo 725, C1084AAD, Buenos Aires, Argentina",
+    "formatted_phone_number": "+54 11 4331-0216",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.6091,
+        "lng": -58.379
       }
     },
-    "name": "CĂ­rculo de Armas",
+    "name": "Cí­rculo de Armas",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Círculo de Armas is a distinguished club that combines the practice of shooting sports with social events, catering to enthusiasts in a historic setting.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/crculo_de_armas1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/crculo_de_armas2.jpg",
@@ -236,25 +271,27 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/crculo_de_armas_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.wikipedia.org/wiki/C%C3%ADrculo_de_Armas",
-    "activities": []
+    "website": "https://circulodearmas.com.ar",
+    "activities": [
+      "shooting"
+    ]
   },
-  "CĂ­rculo Militar": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Cí­rculo Militar": {
+    "formatted_address": "Av. Santa Fe 750, C1059ABO, Buenos Aires, Argentina",
+    "formatted_phone_number": "+54 11 4311-1071",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.5965,
+        "lng": -58.3791
       }
     },
-    "name": "CĂ­rculo Militar",
+    "name": "Cí­rculo Militar",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Círculo Militar serves as a social and recreational center for military personnel and their families, offering various sports facilities and hosting cultural events.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/crculo_militar1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/crculo_militar2.jpg",
@@ -270,12 +307,12 @@
     "activities": []
   },
   "Club Americano De Buenos Aires": {
-    "formatted_address": "Viamonte 1133 - Piso 10, Ciudad AutĂłnoma de Buenos Aires, Buenos Aires C1053ABW, AR",
-    "formatted_phone_number": "",
+    "formatted_address": "Viamonte 1133, C1053ABW, Buenos Aires, Argentina",
+    "formatted_phone_number": "+54 11 4815-6695",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.6012,
+        "lng": -58.3838
       }
     },
     "name": "Club Americano De Buenos Aires",
@@ -284,7 +321,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The American Club of Buenos Aires had its original conception in1914 and formally founded in 1918. Nowadays, the purpose of the Club continues to be to promote Argentine-North American fraternity. A traditional meeting point for American and Argentine culture, business persons and politicians.",
+    "description": "The American Club of Buenos Aires fosters cultural exchange and social interaction among its members, providing a space for events and networking.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_americano_de_buenos_aires1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_americano_de_buenos_aires2.jpg",
@@ -300,12 +337,12 @@
     "activities": []
   },
   "Club de Pescadores": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Av. Costanera Rafael Obligado s/n, C1425DAA, Buenos Aires, Argentina",
+    "formatted_phone_number": "+54 11 4783-2642",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.5689,
+        "lng": -58.4112
       }
     },
     "name": "Club de Pescadores",
@@ -314,7 +351,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1903, Club de Pescadores is dedicated to fishing enthusiasts, offering facilities on the Río de la Plata and promoting responsible angling practices.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_de_pescadores1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_de_pescadores2.jpg",
@@ -327,15 +364,17 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_de_pescadores_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.club-pescadores.com.ar",
-    "activities": []
+    "activities": [
+      "fishing"
+    ]
   },
   "Club del Progreso": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Sarmiento 1334, C1041AAZ, Buenos Aires, Argentina",
+    "formatted_phone_number": "+54 11 4372-3380",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.6037,
+        "lng": -58.3856
       }
     },
     "name": "Club del Progreso",
@@ -344,7 +383,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1852, Club del Progreso is one of the oldest social clubs in Argentina, providing a venue for cultural activities, dining, and social gatherings.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_del_progreso1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_del_progreso2.jpg",
@@ -359,22 +398,22 @@
     "website": "https://www.clubdelprogreso.org",
     "activities": []
   },
-  "Club EspaĂ±ol": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Club Español": {
+    "formatted_address": "Bernardo de Irigoyen 172, C1072AAD, Buenos Aires, Argentina",
+    "formatted_phone_number": "+54 11 4331-8204",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.6113,
+        "lng": -58.3789
       }
     },
-    "name": "Club EspaĂ±ol",
+    "name": "Club Español",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Club Español serves as a cultural center for the Spanish community in Buenos Aires, promoting Spanish heritage through events, dining, and social activities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_espaol1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_espaol2.jpg",
@@ -389,22 +428,22 @@
     "website": "https://www.clubespanolba.com.ar",
     "activities": []
   },
-  "Club FrancĂ©s": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Club Francés": {
+    "formatted_address": "Rodríguez Peña 1832, C1021ABO, Buenos Aires, Argentina",
+    "formatted_phone_number": "+54 11 4811-4267",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.5961,
+        "lng": -58.3936
       }
     },
-    "name": "Club FrancĂ©s",
+    "name": "Club Francés",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Club Francés offers a refined environment for social interactions and dining, celebrating French culture and cuisine in an elegant setting.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_francs1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_francs2.jpg",
@@ -420,12 +459,12 @@
     "activities": []
   },
   "Club Harrods Gath & Chaves": {
-    "formatted_address": "",
+    "formatted_address": "Av. Santa Fe 1653, C1060ABO, Buenos Aires, Argentina",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.5962,
+        "lng": -58.3937
       }
     },
     "name": "Club Harrods Gath & Chaves",
@@ -434,7 +473,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Club Harrods Gath & Chaves provides members with sports facilities and social events, continuing the legacy of the historic Harrods department store in Buenos Aires.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_harrods_gath_chaves1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_harrods_gath_chaves2.jpg",
@@ -446,25 +485,25 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_harrods_gath_chaves_logo.png",
     "user_ratings_total": 0,
-    "website": "",
+    "website": "https://www.clubharrods.com.ar/",
     "activities": []
   },
-  "Club Sirio LibanĂ©s": {
-    "formatted_address": "",
+  "Club Sirio Libanés": {
+    "formatted_address": "Av. Independencia 732, C1099AAP, Buenos Aires, Argentina",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.6135,
+        "lng": -58.385
       }
     },
-    "name": "Club Sirio LibanĂ©s",
+    "name": "Club Sirio Libanés",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Club Sirio Libanés promotes the cultural heritage of the Syrian and Lebanese communities, hosting social events,",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_sirio_libans1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_sirio_libans2.jpg",
@@ -476,25 +515,31 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_sirio_libans_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.clubsiriolibanes.org.ar",
-    "activities": []
+    "website": "https://www.clubsiriolibanes.org.ar/",
+    "activities": [
+      "tennis",
+      "swimming",
+      "football",
+      "volleyball",
+      "golf"
+    ]
   },
-  "Club Universitario de Buenos Aires (\"C.U.B.A.)": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Club Universitario de Buenos Aires (C.U.B.A.)": {
+    "formatted_address": "Viamonte 1560, Buenos Aires, Argentina",
+    "formatted_phone_number": "+54 11 4374-6500",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.6032,
+        "lng": -58.392
       }
     },
-    "name": "Club Universitario de Buenos Aires (\"C.U.B.A.)",
+    "name": "Club Universitario de Buenos Aires (C.U.B.A.)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "C.U.B.A. is a large and well-established multi-sport private club offering a wide array of athletic activities across multiple locations, with special focus on family-friendly sports participation.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_universitario_de_buenos_aires_cuba1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_universitario_de_buenos_aires_cuba2.jpg",
@@ -507,15 +552,39 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_universitario_de_buenos_aires_cuba_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.cuba.org.ar",
-    "activities": []
+    "activities": [
+      "aikido",
+      "mountaineering",
+      "basketball",
+      "boxing",
+      "scuba",
+      "fencing",
+      "skiing",
+      "football",
+      "gymnastics",
+      "golf",
+      "hockey",
+      "judo",
+      "swimming",
+      "yachting",
+      "paddle",
+      "basque pelota",
+      "rugby",
+      "squash",
+      "taekwondo",
+      "tennis",
+      "volleyball",
+      "windsurfing",
+      "yoga"
+    ]
   },
   "Jockey Club Buenos Aires": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Av. Alvear 1345, Buenos Aires, Argentina",
+    "formatted_phone_number": "+54 11 4815-6641",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.5895,
+        "lng": -58.3879
       }
     },
     "name": "Jockey Club Buenos Aires",
@@ -524,7 +593,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1882, the Jockey Club is a prestigious institution offering two 18-hole golf courses designed by Alister MacKenzie, multiple polo fields, swimming pools, tennis courts, and football fields.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/jockey_club_buenos_aires1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/jockey_club_buenos_aires2.jpg",
@@ -537,15 +606,21 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/jockey_club_buenos_aires_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.jockeyclub.org.ar",
-    "activities": []
+    "activities": [
+      "golf",
+      "polo",
+      "swimming",
+      "tennis",
+      "football"
+    ]
   },
   "The Clubhouse": {
-    "formatted_address": "",
+    "formatted_address": "Palermo Soho, Buenos Aires, Argentina",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.5883,
+        "lng": -58.4303
       }
     },
     "name": "The Clubhouse",
@@ -554,7 +629,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The Clubhouse is an urban members' club located in a contemporary neo-eclectic house in Palermo Soho. Founded in 2011, it caters to a diverse community, particularly from the art, media, and design industries. The club features a swimming pool and hosts various events, including private dinners, tastings, art exhibitions, live concerts, and pool parties.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/the_clubhouse1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/the_clubhouse2.jpg",
@@ -567,15 +642,17 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/the_clubhouse_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.clubhouseba.com",
-    "activities": []
+    "activities": [
+      "swimming"
+    ]
   },
   "Yacht Club Argentino": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Cecilia Grierson 500, Buenos Aires, Argentina",
+    "formatted_phone_number": "+54 11 4314-0505",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -34.598,
+        "lng": -58.3646
       }
     },
     "name": "Yacht Club Argentino",
@@ -584,7 +661,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1883, the Yacht Club Argentino is one of the oldest yacht clubs in Argentina, offering comprehensive yachting services, including moorings, haul-out facilities, and workshops for boat maintenance. The club hosts over 365 regattas annually.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/yacht_club_argentino1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/yacht_club_argentino2.jpg",
@@ -597,6 +674,84 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/yacht_club_argentino_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.yca.org.ar",
-    "activities": []
+    "activities": [
+      "sailing"
+    ]
+  },
+  "Club Náutico Hacoaj": {
+    "formatted_address": "Av. Luis García 943, Tigre, Buenos Aires, Argentina",
+    "formatted_phone_number": "+54 11 4005-8100",
+    "geometry": {
+      "location": {
+        "lat": -34.42,
+        "lng": -58.58
+      }
+    },
+    "name": "Club Náutico Hacoaj",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Founded by the Jewish community in Argentina, Hacoaj is one of the most complete sports clubs in the country, with excellent infrastructure for land and water sports.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_nutico_hacoaj1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_nutico_hacoaj2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_nutico_hacoaj3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_nutico_hacoaj4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_nutico_hacoaj5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_nutico_hacoaj_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.hacoaj.org.ar",
+    "activities": [
+      "basketball",
+      "cestoball",
+      "field hockey",
+      "football",
+      "gymnastics",
+      "martial arts",
+      "rowing",
+      "tennis",
+      "volleyball"
+    ]
+  },
+  "Club Liceo Naval": {
+    "formatted_address": "Av. Cantilo s/n, Núñez, Buenos Aires, Argentina",
+    "formatted_phone_number": "+54 11 4781-2729",
+    "geometry": {
+      "location": {
+        "lat": -34.545,
+        "lng": -58.449
+      }
+    },
+    "name": "Club Liceo Naval",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Club Liceo Naval offers facilities for rugby union, field hockey, football, rowing, and tennis, catering to a wide range of athletic interests for its members.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_liceo_naval1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_liceo_naval2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_liceo_naval3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_liceo_naval4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_liceo_naval5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/club_liceo_naval_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.cglnm.com.ar/",
+    "activities": [
+      "rugby union",
+      "field hockey",
+      "football",
+      "rowing",
+      "tennis"
+    ]
   }
 }

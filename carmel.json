@@ -1,5 +1,5 @@
 {
-  "Quail Lodge & Golf Club *": {
+  "Quail Lodge & Golf Club": {
     "formatted_address": "8205 Valley Greens Drive, Carmel, California, 93923",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Quail Lodge & Golf Club *",
+    "name": "Quail Lodge & Golf Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],

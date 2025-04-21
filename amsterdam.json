@@ -1,101 +1,11 @@
 {
-  "A'dam & Co": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "A'dam & Co",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/adam_co1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/adam_co2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/adam_co3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/adam_co4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/adam_co5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/adam_co_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.adamand.co",
-    "activities": []
-  },
-  "Amstel Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Amstel Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/amstel_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/amstel_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/amstel_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/amstel_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/amstel_club5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/amstel_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.amstelclub.nl",
-    "activities": []
-  },
-  "Koninklijke Groote Industrieele Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Koninklijke Groote Industrieele Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/koninklijke_groote_industrieele_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/koninklijke_groote_industrieele_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/koninklijke_groote_industrieele_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/koninklijke_groote_industrieele_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/koninklijke_groote_industrieele_club5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/koninklijke_groote_industrieele_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.igc.nl",
-    "activities": []
-  },
   "Koninklijke Industrieele Groote Club": {
-    "formatted_address": "Dam 27",
-    "formatted_phone_number": "+31 20 6242220",
+    "formatted_address": "Dam 27, 1012 JS Amsterdam",
+    "formatted_phone_number": "+31 20 624 2220",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 52.3723,
+        "lng": 4.8931
       }
     },
     "name": "Koninklijke Industrieele Groote Club",
@@ -104,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A historic business and social club on Dam Square, founded 1913 (with roots dating to 1788). The “Royal IGC” offers an oasis of refinement in central Amsterdam, hosting lectures, dinners, and cultural events in a monumental building. Members are an eclectic mix of the (inter)national business community, gathering in elegant lounges and dining rooms to network and be inspired.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/koninklijke_industrieele_groote_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/koninklijke_industrieele_groote_club2.jpg",
@@ -112,29 +22,29 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/koninklijke_industrieele_groote_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/koninklijke_industrieele_groote_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.7,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/koninklijke_industrieele_groote_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "",
+    "user_ratings_total": 15,
+    "website": "https://www.igc.nl",
     "activities": []
   },
-  "SociĂ«teit de Kring": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Sociëteit De Kring": {
+    "formatted_address": "Kleine-Gartmanplantsoen 7–9, 1017 RP Amsterdam",
+    "formatted_phone_number": "+31 20 623 6985",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 52.3645,
+        "lng": 4.8834
       }
     },
-    "name": "SociĂ«teit de Kring",
+    "name": "Sociëteit De Kring",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "De Kring is a private artists’ society founded in 1922 by artists and intellectuals seeking a “home away from home” in Amsterdam. It remains a creative haven where members from the arts and cultural sphere gather for conversation, exhibitions, and performances. With its informal clubhouse atmosphere above Café Luxembourg, De Kring has fostered art and debate in the city for a century, preserving its intimate, bohemian character.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/sociteit_de_kring1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/sociteit_de_kring2.jpg",
@@ -147,36 +57,6 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/sociteit_de_kring_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.kring.nl",
-    "activities": []
-  },
-  "Soho House Amsterdam (\"Soho House group)": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Soho House Amsterdam (\"Soho House group)",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/soho_house_amsterdam_soho_house_group1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/soho_house_amsterdam_soho_house_group2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/soho_house_amsterdam_soho_house_group3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/soho_house_amsterdam_soho_house_group4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/soho_house_amsterdam_soho_house_group5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/amsterdam/soho_house_amsterdam_soho_house_group_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.sohohouseamsterdam.com",
     "activities": []
   }
 }

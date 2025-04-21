@@ -1,11 +1,11 @@
 {
   "Algonquin Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "217 Commonwealth Avenue, Boston, MA 02116",
+    "formatted_phone_number": "+1 617-266-2400",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.351,
+        "lng": -71.0776
       }
     },
     "name": "Algonquin Club",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A prestigious private social club founded in 1886, offering dining, social events, and networking opportunities in a historic Back Bay townhouse.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/algonquin_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/algonquin_club2.jpg",
@@ -30,12 +30,12 @@
     "activities": []
   },
   "Badminton & Tennis Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "52 Hemenway Street, Boston, MA 02115",
+    "formatted_phone_number": "+1 617-536-1870",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.3432,
+        "lng": -71.0915
       }
     },
     "name": "Badminton & Tennis Club",
@@ -44,7 +44,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1908, this club provides facilities for badminton and tennis enthusiasts, promoting both recreational and competitive play.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/badminton_tennis_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/badminton_tennis_club2.jpg",
@@ -57,24 +57,27 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/badminton_tennis_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.facebook.com/The-Badminton-Tennis-Club-114327725257964/",
-    "activities": []
+    "activities": [
+      "badminton",
+      "tennis"
+    ]
   },
-  "Boston College Club (\"Clubcorp)": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Boston College Club (ClubCorp)": {
+    "formatted_address": "100 Federal Street, 36th Floor, Boston, MA 02110",
+    "formatted_phone_number": "+1 617-946-2828",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.3555,
+        "lng": -71.0569
       }
     },
-    "name": "Boston College Club (\"Clubcorp)",
+    "name": "Boston College Club (ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A business and social club offering panoramic city views, fine dining, and networking events, catering primarily to Boston College alumni and the business community.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/boston_college_club_clubcorp1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/boston_college_club_clubcorp2.jpg",
@@ -90,12 +93,12 @@
     "activities": []
   },
   "Boston Yacht Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "1 Front Street, Marblehead, MA 01945",
+    "formatted_phone_number": "+1 781-631-3100",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.5001,
+        "lng": -70.8578
       }
     },
     "name": "Boston Yacht Club",
@@ -104,7 +107,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1866, one of the oldest yacht clubs in America, providing sailing programs, racing events, and a vibrant social scene for boating enthusiasts.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/boston_yacht_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/boston_yacht_club2.jpg",
@@ -117,15 +120,18 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/boston_yacht_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.bostonyc.org",
-    "activities": []
+    "activities": [
+      "sailing",
+      "boating"
+    ]
   },
   "Chilton Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "152 Commonwealth Avenue, Boston, MA 02116",
+    "formatted_phone_number": "+1 617-536-6779",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.3519,
+        "lng": -71.0765
       }
     },
     "name": "Chilton Club",
@@ -134,7 +140,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "An exclusive women's club established in 1910, offering cultural programs, dining, and a private retreat for its members in an elegant Back Bay setting.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/chilton_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/chilton_club2.jpg",
@@ -150,12 +156,12 @@
     "activities": []
   },
   "Club of Odd Volumes": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "77 Mount Vernon Street, Boston, MA 02108",
+    "formatted_phone_number": "+1 617-227-0620",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.3588,
+        "lng": -71.0707
       }
     },
     "name": "Club of Odd Volumes",
@@ -164,7 +170,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A private social club founded in 1887, dedicated to bibliophiles and the arts, hosting literary events, exhibitions, and fostering a community of intellectual engagement.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/club_of_odd_volumes1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/club_of_odd_volumes2.jpg",
@@ -176,16 +182,16 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/club_of_odd_volumes_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.wikipedia.org/wiki/The_Club_of_Odd_Volumes",
+    "website": "",
     "activities": []
   },
   "Harvard Club of Boston": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "374 Commonwealth Avenue, Boston, MA 02215",
+    "formatted_phone_number": "+1 617-536-1260",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.3496,
+        "lng": -71.089
       }
     },
     "name": "Harvard Club of Boston",
@@ -194,7 +200,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1908, this club serves Harvard alumni with dining, athletic facilities, event spaces, and a range of social and cultural activities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/harvard_club_of_boston1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/harvard_club_of_boston2.jpg",
@@ -207,15 +213,19 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/harvard_club_of_boston_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.harvardclub.com",
-    "activities": []
+    "activities": [
+      "squash",
+      "pickleball",
+      "fitness"
+    ]
   },
   "Somerset Club Boston": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "42 Beacon Street, Boston, MA 02108",
+    "formatted_phone_number": "+1 617-227-1754",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.3565,
+        "lng": -71.0676
       }
     },
     "name": "Somerset Club Boston",
@@ -224,7 +234,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A historic private social club tracing its origins to 1826, known for its exclusivity and distinguished membership, offering dining and social engagements in a Beacon Hill mansion.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/somerset_club_boston1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/somerset_club_boston2.jpg",
@@ -236,16 +246,16 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/somerset_club_boston_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.wikipedia.org/wiki/Somerset_Club",
+    "website": "",
     "activities": []
   },
   "St. Botolph Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "199 Commonwealth Avenue, Boston, MA 02116",
+    "formatted_phone_number": "+1 617-536-7570",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.3514,
+        "lng": -71.08
       }
     },
     "name": "St. Botolph Club",
@@ -254,7 +264,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1880, this club brings together individuals interested in arts, literature, and social discourse, hosting exhibitions, lectures, and providing dining facilities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/st_botolph_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/st_botolph_club2.jpg",
@@ -270,12 +280,12 @@
     "activities": []
   },
   "Tavern Club Boston": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "4 Boylston Place, Boston, MA 02116",
+    "formatted_phone_number": "+1 617-338-9682",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.3522,
+        "lng": -71.0649
       }
     },
     "name": "Tavern Club Boston",
@@ -284,7 +294,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1884, the oldest literary club in Boston, offering a venue for intellectual exchange, dining, and cultural events among its members.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/tavern_club_boston1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/tavern_club_boston2.jpg",
@@ -300,12 +310,12 @@
     "activities": []
   },
   "Tennis and Racquet Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "939 Boylston Street, Boston, MA 02115",
+    "formatted_phone_number": "+1 617-536-4630",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.3484,
+        "lng": -71.0837
       }
     },
     "name": "Tennis and Racquet Club",
@@ -314,7 +324,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1902, the oldest athletic and social club in the city, providing facilities for court tennis, squash, and hosting social events.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/tennis_and_racquet_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/tennis_and_racquet_club2.jpg",
@@ -327,15 +337,19 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/tennis_and_racquet_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.tandr.org",
-    "activities": []
+    "activities": [
+      "tennis",
+      "squash",
+      "court tennis"
+    ]
   },
   "UMass Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "One Beacon Street, 32nd Floor, Boston, MA 02108",
+    "formatted_phone_number": "+1 617-287-3030",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.3584,
+        "lng": -71.0615
       }
     },
     "name": "UMass Club",
@@ -344,7 +358,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A private social club for alumni, faculty, staff, and friends of the University of Massachusetts system, offering dining, networking events, and panoramic city views.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/umass_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/umass_club2.jpg",
@@ -360,12 +374,12 @@
     "activities": []
   },
   "Union Boat Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "144 Chestnut Street, Boston, MA 02108",
+    "formatted_phone_number": "+1 617-742-1520",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.356,
+        "lng": -71.07
       }
     },
     "name": "Union Boat Club",
@@ -374,7 +388,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1851, Boston's oldest rowing club, providing facilities for rowing, squash, and the traditional English sport of fives.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/union_boat_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/union_boat_club2.jpg",
@@ -387,15 +401,19 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/union_boat_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.unionboatclub.org",
-    "activities": []
+    "activities": [
+      "rowing",
+      "squash",
+      "fives"
+    ]
   },
   "Union Club of Boston": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "8 Park Street, Boston, MA 02108",
+    "formatted_phone_number": "+1 617-227-0589",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.3575,
+        "lng": -71.0625
       }
     },
     "name": "Union Club of Boston",
@@ -404,7 +422,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1863, a private social club offering dining, social events, and a venue for intellectual engagement in a historic Beacon Hill location.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/union_club_of_boston1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/union_club_of_boston2.jpg",
@@ -420,12 +438,12 @@
     "activities": []
   },
   "University Club of Boston": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "426 Stuart Street, Boston, MA 02116",
+    "formatted_phone_number": "+1 617-266-5600",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.3489,
+        "lng": -71.0745
       }
     },
     "name": "University Club of Boston",
@@ -434,7 +452,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1891, offering athletic facilities including a pool and squash courts, along with dining and social events for its members.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/university_club_of_boston1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/university_club_of_boston2.jpg",
@@ -447,15 +465,19 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/university_club_of_boston_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.uclub.org",
-    "activities": []
+    "activities": [
+      "swimming",
+      "squash",
+      "fitness"
+    ]
   },
   "University of Massachusetts Boston University Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "100 Morrissey Boulevard, Boston, MA 02125",
+    "formatted_phone_number": "+1 617-287-4000",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.3134,
+        "lng": -71.0383
       }
     },
     "name": "University of Massachusetts Boston University Club",
@@ -464,7 +486,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A faculty and staff dining facility located on the UMass Boston campus, providing a space for meetings, events, and social interaction.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/university_of_massachusetts_boston_university_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/university_of_massachusetts_boston_university_club2.jpg",
@@ -477,6 +499,100 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/university_of_massachusetts_boston_university_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.umb.edu/universityclub",
+    "activities": []
+  },
+  "The 'Quin House": {
+    "formatted_address": "217 Commonwealth Avenue, Boston, MA 02116",
+    "formatted_phone_number": "+1 617-536-9311",
+    "geometry": {
+      "location": {
+        "lat": 42.351,
+        "lng": -71.0776
+      }
+    },
+    "name": "The 'Quin House",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Formerly the Algonquin Club, The 'Quin House is a reimagined private social club that blends historic charm with modern amenities, offering dining, cultural events, and networking opportunities in a beautifully restored Beaux-Arts building.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/the_quin_house1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/the_quin_house2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/the_quin_house3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/the_quin_house4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/the_quin_house5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/the_quin_house_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://thequinhouse.com/",
+    "activities": [
+      "N/A"
+    ]
+  },
+  "The College Club of Boston": {
+    "formatted_address": "44 Commonwealth Avenue, Boston, MA 02116",
+    "formatted_phone_number": "+1 617-536-9510",
+    "geometry": {
+      "location": {
+        "lat": 42.3521,
+        "lng": -71.0755
+      }
+    },
+    "name": "The College Club of Boston",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Established in 1890, The College Club of Boston is the oldest women's college club in the United States, providing a welcoming environment for women graduates to engage in intellectual and social activities. The club also offers charming guest rooms for members and visitors.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/the_college_club_of_boston1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/the_college_club_of_boston2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/the_college_club_of_boston3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/the_college_club_of_boston4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/the_college_club_of_boston5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/the_college_club_of_boston_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.thecollegeclubofboston.com/",
+    "activities": [
+      "N/A"
+    ]
+  },
+  "Legacy Club of Boston": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Legacy Club of Boston",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "The Legacy Club of Boston is a private members-only business and social club inspired by the legacies of its predecessors. It provides a comfortable sanctuary with exceptional amenities and services for members to enjoy.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/legacy_club_of_boston1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/legacy_club_of_boston2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/legacy_club_of_boston3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/legacy_club_of_boston4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/legacy_club_of_boston5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/legacy_club_of_boston_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://legacyclub.boston/",
     "activities": []
   }
 }

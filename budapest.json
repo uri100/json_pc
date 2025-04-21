@@ -1,11 +1,11 @@
 {
   "Brody House (BrodyLand group)": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Bródy Sándor utca 10, 1088 Budapest, Hungary",
+    "formatted_phone_number": "+36 70 418 7894",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 47.4935,
+        "lng": 19.0635
       }
     },
     "name": "Brody House (BrodyLand group)",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "An award-winning boutique hotel and art hub located in a 19th-century palazzo, featuring uniquely designed rooms each with its own art narrative. Hosts cultural events and offers a private bar and club rooms for guests.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_house_brodyland_group1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_house_brodyland_group2.jpg",
@@ -22,20 +22,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_house_brodyland_group4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_house_brodyland_group5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.8,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_house_brodyland_group_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.brody.land/brody-house",
+    "user_ratings_total": 781,
+    "website": "https://www.brody.house/",
     "activities": []
   },
   "Brody Studios (BrodyLand group)": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Vörösmarty utca 38, 1064 Budapest, Hungary",
+    "formatted_phone_number": "+36 1 323 7591",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 47.5052,
+        "lng": 19.0633
       }
     },
     "name": "Brody Studios (BrodyLand group)",
@@ -44,7 +44,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Formerly a sought-after arts club and events venue, now operates as a film studio. Known for its meticulously designed interior blending contemporary and historic elements.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_studios_brodyland_group1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_studios_brodyland_group2.jpg",
@@ -56,16 +56,16 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_studios_brodyland_group_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.brody.land/brody-studios",
+    "website": "https://www.thestudios.life/",
     "activities": []
   },
   "Paulay House (BrodyLand group)": {
-    "formatted_address": "",
+    "formatted_address": "Paulay Ede utca 16, 1061 Budapest, Hungary",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 47.4999,
+        "lng": 19.058
       }
     },
     "name": "Paulay House (BrodyLand group)",
@@ -74,7 +74,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Part of The Living Quarters, offering mid-term serviced apartment rentals with artistic flair in central Budapest locations.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/paulay_house_brodyland_group1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/paulay_house_brodyland_group2.jpg",
@@ -90,12 +90,12 @@
     "activities": []
   },
   "Writer's Villa (BrodyLand group)": {
-    "formatted_address": "",
+    "formatted_address": "Művész út 2, 1121 Budapest, Hungary",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 47.4957,
+        "lng": 19.0023
       }
     },
     "name": "Writer's Villa (BrodyLand group)",
@@ -104,7 +104,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A historic villa providing a serene retreat for creatives, featuring elegant rooms and spaces for artistic endeavors.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/writers_villa_brodyland_group1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/writers_villa_brodyland_group2.jpg",
@@ -117,6 +117,156 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/writers_villa_brodyland_group_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.brody.land/the-writers-villa",
+    "activities": []
+  },
+  "LOCK Club": {
+    "formatted_address": "Tölgyfa utca 1-3, 1027 Budapest, Hungary",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 47.5145,
+        "lng": 19.038
+      }
+    },
+    "name": "LOCK Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "LOCK is an exclusive nightclub in Budapest, renowned for its extravagant interior, leather furnishings, craft cocktails, VIP areas, and a spacious dance floor featuring top house and RnB music.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/lock_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/lock_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/lock_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/lock_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/lock_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/lock_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.finestclubs.com/venues/lock",
+    "activities": []
+  },
+  "Budapest Private Society (BPS)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Budapest Private Society (BPS)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "BPS is an elite club for high-value entrepreneurs across Europe, offering exclusive events and networking opportunities aimed at enhancing the entrepreneurial lifestyle.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/budapest_private_society_bps1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/budapest_private_society_bps2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/budapest_private_society_bps3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/budapest_private_society_bps4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/budapest_private_society_bps5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/budapest_private_society_bps_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.budapestprivatesociety.com/",
+    "activities": []
+  },
+  "Akadémia Klub": {
+    "formatted_address": "Széchenyi István tér 9, 1051 Budapest, Hungary",
+    "formatted_phone_number": "+36 1 312 0626",
+    "geometry": {
+      "location": {
+        "lat": 47.5009,
+        "lng": 19.0458
+      }
+    },
+    "name": "Akadémia Klub",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Located in a historic Danube-side building, Akadémia Klub offers elegant meeting rooms and event spaces, hosting a range of private events from conferences to gala dinners.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/akadmia_klub1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/akadmia_klub2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/akadmia_klub3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/akadmia_klub4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/akadmia_klub5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/akadmia_klub_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://akademiaklub.hu/en/about-us/",
+    "activities": []
+  },
+  "A38": {
+    "formatted_address": "Petőfi Bridge, Buda side, 1117 Budapest, Hungary",
+    "formatted_phone_number": "+36 1 464 3940",
+    "geometry": {
+      "location": {
+        "lat": 47.4769,
+        "lng": 19.0596
+      }
+    },
+    "name": "A38",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A38 is a cultural venue on a repurposed Ukrainian stone-carrier ship, offering a restaurant, exhibition hall, dance floor, and concert hall, hosting a variety of music and cultural events.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/a381.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/a382.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/a383.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/a384.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/a385.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/a38_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.a38.hu/en",
+    "activities": []
+  },
+  "The CLUB": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The CLUB",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "The CLUB, Budapest, is a group dedicated to continuing the camaraderie and ambiance found in the former Britannia Club of the British Embassy, organizing social gatherings for its members.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/the_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/the_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/the_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/the_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/the_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/the_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.facebook.com/groups/275537139157192/",
     "activities": []
   }
 }

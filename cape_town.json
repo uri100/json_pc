@@ -1,11 +1,11 @@
 {
   "Cape Town Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "18 Queen Victoria Street, Cape Town, South Africa",
+    "formatted_phone_number": "+27 21 424 5586",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -33.928,
+        "lng": 18.4174
       }
     },
     "name": "Cape Town Club",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1858, the Cape Town Club is a modern private members' club housed in a Sir Herbert Baker-designed building, offering elegant dining, lounges, and event spaces.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/cape_town_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/cape_town_club2.jpg",
@@ -30,12 +30,12 @@
     "activities": []
   },
   "Ideas Cartel": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Multiple locations in Cape Town, South Africa",
+    "formatted_phone_number": "+27 87 550 1160",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -33.918,
+        "lng": 18.4232
       }
     },
     "name": "Ideas Cartel",
@@ -44,7 +44,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Ideas Cartel provides co-working spaces, boutique hotels, and private members' club amenities, including gyms and rooftop pools, across several Cape Town locations.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/ideas_cartel1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/ideas_cartel2.jpg",
@@ -57,15 +57,18 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/ideas_cartel_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.ideascartel.com",
-    "activities": []
+    "activities": [
+      "gym",
+      "swimming"
+    ]
   },
   "Kelvin Grove Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "144 Campground Road, Newlands, Cape Town, South Africa",
+    "formatted_phone_number": "+27 21 658 4500",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -33.97,
+        "lng": 18.465
       }
     },
     "name": "Kelvin Grove Club",
@@ -74,7 +77,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1925, Kelvin Grove Club is one of the largest private clubs in South Africa, offering extensive sports and social facilities, including dining venues and event spaces.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/kelvin_grove_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/kelvin_grove_club2.jpg",
@@ -87,15 +90,22 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/kelvin_grove_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.kelvingrove.co.za",
-    "activities": []
+    "activities": [
+      "tennis",
+      "squash",
+      "swimming",
+      "cricket",
+      "bowls",
+      "gym"
+    ]
   },
   "Royal Cape Yacht Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Duncan Road, Table Bay Harbour, Cape Town, South Africa",
+    "formatted_phone_number": "+27 21 421 1354",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -33.9184,
+        "lng": 18.435
       }
     },
     "name": "Royal Cape Yacht Club",
@@ -104,7 +114,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1905, the Royal Cape Yacht Club is a premier sailing club hosting numerous regattas and offering comprehensive yachting facilities and training programs.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/royal_cape_yacht_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/royal_cape_yacht_club2.jpg",
@@ -117,15 +127,18 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/royal_cape_yacht_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.rcyc.co.za",
-    "activities": []
+    "activities": [
+      "sailing",
+      "yachting"
+    ]
   },
   "The Stack": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "7 Leinster Hall, 79 Hope Street, Gardens, Cape Town, South Africa",
+    "formatted_phone_number": "+27 21 286 0187",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": -33.9316,
+        "lng": 18.414
       }
     },
     "name": "The Stack",
@@ -134,7 +147,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The Stack is a unique establishment combining a public brasserie and bar with a private members' club, featuring lounges, meeting rooms, and event spaces in a restored historic building.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/the_stack1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/the_stack2.jpg",
@@ -148,5 +161,160 @@
     "user_ratings_total": 0,
     "website": "https://www.thestack.co.za",
     "activities": []
+  },
+  "The Alibi": {
+    "formatted_address": "Cape Town CBD, South Africa",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": -33.9249,
+        "lng": 18.4241
+      }
+    },
+    "name": "The Alibi",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A unique private cannabis members' club offering multi-level spaces with plush lounges, co-working areas, and social dining tables adorned with eclectic artwork and cinema screens.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/the_alibi1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/the_alibi2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/the_alibi3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/the_alibi4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/the_alibi5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/the_alibi_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.thealibi.co.za/venue",
+    "activities": []
+  },
+  "Elevate* Members Club": {
+    "formatted_address": "55 Wale Street, Cape Town, South Africa",
+    "formatted_phone_number": "+27 67 380 2220",
+    "geometry": {
+      "location": {
+        "lat": -33.921,
+        "lng": 18.4155
+      }
+    },
+    "name": "Elevate* Members Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A private members' club providing a relaxed environment with a fully stocked Bud Bar and Coffee Bar, offering views over Cape Town's city center.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/elevate_members_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/elevate_members_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/elevate_members_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/elevate_members_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/elevate_members_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/elevate_members_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://elevateclub.co.za/",
+    "activities": []
+  },
+  "The Owl Club": {
+    "formatted_address": "Kelvin Grove Club, Newlands, Cape Town, South Africa",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": -33.97,
+        "lng": 18.465
+      }
+    },
+    "name": "The Owl Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Established in 1894, The Owl Club is a social meeting place for individuals interested in the arts and sciences, hosting monthly dinner meetings with talks and musical entertainment.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/the_owl_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/the_owl_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/the_owl_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/the_owl_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/the_owl_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/the_owl_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.owls.org.za/",
+    "activities": []
+  },
+  "Mavericks Revue Bar": {
+    "formatted_address": "68 Barrack Street, Cape Town, South Africa",
+    "formatted_phone_number": "+27 21 461 9988",
+    "geometry": {
+      "location": {
+        "lat": -33.924,
+        "lng": 18.4223
+      }
+    },
+    "name": "Mavericks Revue Bar",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A premier gentlemen's club featuring multiple lounges across three levels, including VIP sections and private booths, offering exotic dancing and entertainment.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/mavericks_revue_bar1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/mavericks_revue_bar2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/mavericks_revue_bar3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/mavericks_revue_bar4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/mavericks_revue_bar5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/mavericks_revue_bar_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://mavericks.co.za/",
+    "activities": []
+  },
+  "The Mountain Club of South Africa": {
+    "formatted_address": "97 Hatfield Street, Cape Town, South Africa",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": -33.9308,
+        "lng": 18.418
+      }
+    },
+    "name": "The Mountain Club of South Africa",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Founded in 1891, this club facilitates mountaineering activities, including climbing, hiking, and conservation efforts, and is involved in mountain search and rescue operations.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/the_mountain_club_of_south_africa1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/the_mountain_club_of_south_africa2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/the_mountain_club_of_south_africa3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/the_mountain_club_of_south_africa4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/the_mountain_club_of_south_africa5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cape_town/the_mountain_club_of_south_africa_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://mcsa.org.za/",
+    "activities": [
+      "mountaineering",
+      "rock climbing",
+      "bouldering",
+      "hiking"
+    ]
   }
 }

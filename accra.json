@@ -1,7 +1,7 @@
 {
   "Front/Back": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "First Osu Lane, Osu, Accra, Ghana",
+    "formatted_phone_number": "+233 24 918 4103",
     "geometry": {
       "location": {
         "lat": 0.0,
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Accra’s exclusive members-only club blending art, music, cuisine, and nightlife. Hidden within an art gallery space, it celebrates African culture and the diaspora through live music, DJ nights, dining, and artistic decor&#8203;:contentReference[oaicite:11]{index=11}&#8203;:contentReference[oaicite:12]{index=12}. Opened in 2017, Front/Back has become a creative hub for entrepreneurs and artists, offering a vibrant social scene to its tight-knit member community.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/accra/frontback1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/accra/frontback2.jpg",
@@ -22,10 +22,10 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/accra/frontback4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/accra/frontback5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.4,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/accra/frontback_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 423,
     "website": "",
     "activities": []
   }

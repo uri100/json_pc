@@ -28,15 +28,15 @@
     "user_ratings_total": 0,
     "website": "https://www.casinodemadrid.es",
     "activities": [
-      "billiard",
+      "billiards",
       "gym",
       "golf",
       "padel",
       "swimming",
-      "atheltic"
+      "atheltics"
     ]
   },
-  "Centro Cultural de los EjĂ©rcitos": {
+  "Centro Cultural de los Ejércitos": {
     "formatted_address": "Gran VĂ­a, 13 -28013 Madrid",
     "formatted_phone_number": "+34 915222309",
     "geometry": {
@@ -45,7 +45,7 @@
         "lng": -3.699892
       }
     },
-    "name": "Centro Cultural de los EjĂ©rcitos",
+    "name": "Centro Cultural de los Ejércitos",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -70,7 +70,7 @@
       "gym"
     ]
   },
-  "CĂ­rculo de Bellas Artes": {
+  "Cí­rculo de Bellas Artes": {
     "formatted_address": "AlcalĂˇ 42, 28014 Madrid",
     "formatted_phone_number": "+34 91 360 54 00",
     "geometry": {
@@ -79,7 +79,7 @@
         "lng": -3.696576
       }
     },
-    "name": "CĂ­rculo de Bellas Artes",
+    "name": "Cí­rculo de Bellas Artes",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -100,7 +100,7 @@
     "website": "https://www.circulobellasartes.com",
     "activities": []
   },
-  "Club Financiero GĂ©nova": {
+  "Club Financiero Génova": {
     "formatted_address": "C/ MarquĂ©s de la Ensenada, 14 - Madrid",
     "formatted_phone_number": "+34 91 310 49 00",
     "geometry": {
@@ -109,7 +109,7 @@
         "lng": -3.69215
       }
     },
-    "name": "Club Financiero GĂ©nova",
+    "name": "Club Financiero Génova",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -166,7 +166,7 @@
     "website": "https://www.clubmatador.com",
     "activities": []
   },
-  "La Gran PeĂ±a": {
+  "La Gran Peña": {
     "formatted_address": "C/ Gran VĂ­a, 2 - 28013 Madrid",
     "formatted_phone_number": "+34 91 522 46 13",
     "geometry": {
@@ -175,13 +175,13 @@
         "lng": -3.870846
       }
     },
-    "name": "La Gran PeĂ±a",
+    "name": "La Gran Peña",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "La Gran PeĂ±a (also known as el CĂ­rculo de la Gran PeĂ±a) is a private community centre located in the building on Gran VĂ­a 2 in Madrid. The community was created in 1869 by the Spanish military. Presidents of the institution are usually high-ranking military personnel or members of the Grandee. Politicians like JosĂ© Canalejas, JosĂ© Calvo Sotelo, as well as royals as Alfonso XIII, and since 1975 Juan Carlos I, are among the most illustrious club members.",
+    "description": "La Gran Peña (also known as el Circulo de la Gran Peña) is a private community centre located in the building on Gran VĂ­a 2 in Madrid. The community was created in 1869 by the Spanish military. Presidents of the institution are usually high-ranking military personnel or members of the Grandee. Politicians like JosĂ© Canalejas, JosĂ© Calvo Sotelo, as well as royals as Alfonso XIII, and since 1975 Juan Carlos I, are among the most illustrious club members.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pea1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pea2.jpg",

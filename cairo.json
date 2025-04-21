@@ -1,41 +1,41 @@
 {
-  "Cairo Capital Club (Signature Clubs International)": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Cairo Capital Club": {
+    "formatted_address": "Nile City Towers, 2005 B Corniche El Nil, Cairo, Egypt",
+    "formatted_phone_number": "+20 2 2461 9155",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 30.0657,
+        "lng": 31.2265
       }
     },
-    "name": "Cairo Capital Club (Signature Clubs International)",
+    "name": "Cairo Capital Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "An exclusive business and social club offering panoramic views of Cairo and the Nile, providing dining, meeting, and event spaces for professionals.",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/cairo_capital_club_signature_clubs_international1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/cairo_capital_club_signature_clubs_international2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/cairo_capital_club_signature_clubs_international3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/cairo_capital_club_signature_clubs_international4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/cairo_capital_club_signature_clubs_international5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/cairo_capital_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/cairo_capital_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/cairo_capital_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/cairo_capital_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/cairo_capital_club5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/cairo_capital_club_signature_clubs_international_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/cairo_capital_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.cairocapitalclub.net",
     "activities": []
   },
   "Gezira Sporting Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "3 Mohammed Mazhar Street, Zamalek, Cairo, Egypt",
+    "formatted_phone_number": "+20 2 2735 6000",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 30.0485,
+        "lng": 31.2243
       }
     },
     "name": "Gezira Sporting Club",
@@ -44,7 +44,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1882, Gezira Sporting Club is Egypt's largest multi-sport facility, offering a wide range of athletic and recreational activities across its expansive grounds in Zamalek.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/gezira_sporting_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/gezira_sporting_club2.jpg",
@@ -57,15 +57,40 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/gezira_sporting_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.geziraclub.club",
-    "activities": []
+    "activities": [
+      "golf",
+      "tennis",
+      "squash",
+      "swimming",
+      "basketball",
+      "football",
+      "horse riding",
+      "cricket",
+      "gymnastics",
+      "handball",
+      "hockey",
+      "judo",
+      "kung-fu",
+      "karate",
+      "polo",
+      "speedball",
+      "table tennis",
+      "taekwondo",
+      "volleyball",
+      "water polo",
+      "synchronized swimming",
+      "aerobics",
+      "ballet",
+      "fencing"
+    ]
   },
   "Le Lido City View Clubhouse": {
-    "formatted_address": "",
+    "formatted_address": "K 19 Cairo-Alexandria Desert Road, City View Village, 6th of October City, Giza, Egypt",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 30.0131,
+        "lng": 31.013
       }
     },
     "name": "Le Lido City View Clubhouse",
@@ -74,7 +99,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A clubhouse offering a retreat within the city, providing facilities for relaxation and social events for its members.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/le_lido_city_view_clubhouse1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/le_lido_city_view_clubhouse2.jpg",
@@ -87,6 +112,322 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/le_lido_city_view_clubhouse_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.facebook.com/citylodgebyngsc/",
+    "activities": []
+  },
+  "Heliopolis Sporting Club": {
+    "formatted_address": "Al Orouba Street, Heliopolis, Cairo, Egypt",
+    "formatted_phone_number": "+20 2 2417 4824",
+    "geometry": {
+      "location": {
+        "lat": 30.0864,
+        "lng": 31.3446
+      }
+    },
+    "name": "Heliopolis Sporting Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Founded in 1910, Heliopolis Sporting Club is one of Egypt's largest and most prestigious sports clubs, offering a wide range of athletic and social facilities to its members.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/heliopolis_sporting_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/heliopolis_sporting_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/heliopolis_sporting_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/heliopolis_sporting_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/heliopolis_sporting_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/heliopolis_sporting_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "http://www.heliopolisclub.com",
+    "activities": [
+      "tennis",
+      "squash",
+      "swimming",
+      "basketball",
+      "football",
+      "handball",
+      "volleyball",
+      "gymnastics",
+      "judo",
+      "aikido",
+      "kung-fu",
+      "speedball",
+      "table tennis",
+      "taekwondo",
+      "water polo",
+      "water ballet",
+      "athletics"
+    ]
+  },
+  "Seasons Country Club": {
+    "formatted_address": "Cairo-Alexandria Desert Road, Giza, Egypt",
+    "formatted_phone_number": "+20 2 3539 0000",
+    "geometry": {
+      "location": {
+        "lat": 30.028,
+        "lng": 31.1055
+      }
+    },
+    "name": "Seasons Country Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Situated along the Cairo-Alexandria Desert Road, Seasons Country Club is a premier social, entertainment, and leisure destination offering a blend of fitness facilities, dining, and communal activities.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/seasons_country_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/seasons_country_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/seasons_country_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/seasons_country_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/seasons_country_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/seasons_country_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.seasonscc.com/",
+    "activities": [
+      "swimming",
+      "tennis",
+      "squash",
+      "gym"
+    ]
+  },
+  "Mohamed Ali Club": {
+    "formatted_address": "Shubra El Kheima, Qalyubia Governorate, Egypt",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 30.1286,
+        "lng": 31.2422
+      }
+    },
+    "name": "Mohamed Ali Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Established as an elite club for Egypt's royal and affluent society, Mohamed Ali Club offers luxurious amenities and a rich history of exclusivity.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/mohamed_ali_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/mohamed_ali_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/mohamed_ali_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/mohamed_ali_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/mohamed_ali_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/mohamed_ali_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://rcma-eg.com/",
+    "activities": []
+  },
+  "Shooting Club": {
+    "formatted_address": "Dokki, Giza, Egypt",
+    "formatted_phone_number": "+20 2 3338 0000",
+    "geometry": {
+      "location": {
+        "lat": 30.0386,
+        "lng": 31.2116
+      }
+    },
+    "name": "Shooting Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Located in Dokki, the Shooting Club is renowned for its extensive sports facilities and vibrant community, catering to various athletic interests.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/shooting_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/shooting_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/shooting_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/shooting_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/shooting_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/shooting_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "http://www.egyptianshootingclub.com/ ​",
+    "activities": [
+      "shooting",
+      "tennis",
+      "squash",
+      "swimming",
+      "football",
+      "basketball",
+      "handball",
+      "volleyball"
+    ]
+  },
+  "New Giza Sporting Club": {
+    "formatted_address": "New Giza, Giza, Egypt",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 30.005,
+        "lng": 31.0244
+      }
+    },
+    "name": "New Giza Sporting Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A traditional private members club situated in New Giza, offering premier golf courses and a variety of sports facilities in a luxurious setting.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/new_giza_sporting_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/new_giza_sporting_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/new_giza_sporting_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/new_giza_sporting_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/new_giza_sporting_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/new_giza_sporting_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://ngsportsclub.com/",
+    "activities": [
+      "golf",
+      "tennis",
+      "squash",
+      "swimming",
+      "football"
+    ]
+  },
+  "Katameya Dunes Golf Club": {
+    "formatted_address": "New Cairo, Cairo, Egypt",
+    "formatted_phone_number": "+20 2 2758 0515",
+    "geometry": {
+      "location": {
+        "lat": 29.9934,
+        "lng": 31.4445
+      }
+    },
+    "name": "Katameya Dunes Golf Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Featuring two links-style golf courses, Katameya Dunes offers exceptional golfing experiences along with tennis courts and a full-service spa.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/katameya_dunes_golf_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/katameya_dunes_golf_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/katameya_dunes_golf_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/katameya_dunes_golf_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/katameya_dunes_golf_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/katameya_dunes_golf_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.katameyadunes.club/ ​",
+    "activities": [
+      "golf",
+      "tennis",
+      "spa"
+    ]
+  },
+  "Madinaty Golf Club": {
+    "formatted_address": "Madinaty, Cairo, Egypt",
+    "formatted_phone_number": "+20 2 2929 4000",
+    "geometry": {
+      "location": {
+        "lat": 30.1186,
+        "lng": 31.6366
+      }
+    },
+    "name": "Madinaty Golf Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Known for its immaculate condition and exceptional service, Madinaty Golf Club provides top-tier golfing facilities complemented by tennis courts and swimming pools.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/madinaty_golf_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/madinaty_golf_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/madinaty_golf_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/madinaty_golf_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/madinaty_golf_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/madinaty_golf_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.madinatygolfclub.com/",
+    "activities": [
+      "golf",
+      "tennis",
+      "swimming"
+    ]
+  },
+  "SODIC Clubs": {
+    "formatted_address": "Various locations in Egypt",
+    "formatted_phone_number": "+20 2 3857 0000",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "SODIC Clubs",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Operating across five of Egypt's premier private sports and social clubs, SODIC Clubs offer a wide range of sporting, wellness, and leisure activities, along with exceptional dining and entertainment options.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/sodic_clubs1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/sodic_clubs2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/sodic_clubs3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/sodic_clubs4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/sodic_clubs5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/sodic_clubs_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.sodicclubs.com/",
+    "activities": []
+  },
+  "Airport Rooftop Club Luxurious Private Studios": {
+    "formatted_address": "Cairo International Airport Area, Cairo, Egypt",
+    "formatted_phone_number": "+20 100 123 4567",
+    "geometry": {
+      "location": {
+        "lat": 30.1219,
+        "lng": 31.4056
+      }
+    },
+    "name": "Airport Rooftop Club Luxurious Private Studios",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Providing luxurious private studios with amenities such as a garden, bar, and barbecue facilities, this club offers a comfortable stay near the airport.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/airport_rooftop_club_luxurious_private_studios1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/airport_rooftop_club_luxurious_private_studios2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/airport_rooftop_club_luxurious_private_studios3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/airport_rooftop_club_luxurious_private_studios4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/airport_rooftop_club_luxurious_private_studios5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/airport_rooftop_club_luxurious_private_studios_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.bedandbreakfast.eu/en/a/KzW9AgDjb0wp/airport-rooftop-club-luxurious-private-studios",
     "activities": []
   }
 }

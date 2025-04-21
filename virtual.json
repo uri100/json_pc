@@ -88,5 +88,35 @@
     "user_ratings_total": 0,
     "website": "https://www.joinpavilion.com/",
     "activities": []
+  },
+  "Gold Alliance": {
+    "formatted_address": "C. del Marqués del Riscal, 11, 3-6, Madrid Spain",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Gold Alliance",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Gold Alliance is a Pan-European association uniting members of prestigious private clubs across the continent. Founded by Piero Cattarini, a long-standing member of both La Real Gran Peña (Madrid) and the Koninklijke Industrieele Groote Club (Amsterdam), the Gold Alliance was born from a vision to foster genuine connections, cultural exchange, and enduring friendships among the next generation of club members. What began in 2017 as a single inter-club gathering in Madrid has since evolved into a growing movement — the Young European Inter-Club Weekends — bringing together hundreds of members from dozens of clubs in cities such as Amsterdam, Paris, Barcelona, London, Genoa, and Helsinki. Each event showcases the unique heritage and hospitality of its host club, while deepening the bonds between members across Europe.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/gold_alliance1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/gold_alliance2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/gold_alliance3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/gold_alliance4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/gold_alliance5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/gold_alliance_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.goldalliance.org",
+    "activities": []
   }
 }

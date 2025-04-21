@@ -1,11 +1,11 @@
 {
   "Kildare Street and University Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "17 St. Stephen’s Green, Dublin 2, D02 ND68, Ireland",
+    "formatted_phone_number": "+353 1 676 2975",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 53.3383,
+        "lng": -6.2588
       }
     },
     "name": "Kildare Street and University Club",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A prestigious private club formed in 1976 by the merger of the historic Kildare Street Club and the University Club. With origins dating back to the 19th century, it offers members a stately “home in the city” for socializing and networking. The club’s Georgian premises on St. Stephen’s Green provide an elegant setting with dining rooms, a reading room, and meeting spaces for Dublin’s business and academic elite.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/kildare_street_and_university_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/kildare_street_and_university_club2.jpg",
@@ -27,45 +27,17 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/kildare_street_and_university_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.ksuc.ie",
-    "activities": []
-  },
-  "Royal Dublin Society": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Royal Dublin Society",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/royal_dublin_society1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/royal_dublin_society2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/royal_dublin_society3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/royal_dublin_society4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/royal_dublin_society5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/royal_dublin_society_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.rds.ie",
-    "activities": []
+    "activities": [
+      "billiards"
+    ]
   },
   "Royal Dublin Society (RDS)": {
-    "formatted_address": "Ballsbridge",
-    "formatted_phone_number": "+353 1 2407296",
+    "formatted_address": "Merrion Road, Ballsbridge, Dublin 4, D04 AK83, Ireland",
+    "formatted_phone_number": "+353 1 240 7296",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 53.3258,
+        "lng": -6.2293
       }
     },
     "name": "Royal Dublin Society (RDS)",
@@ -74,7 +46,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The RDS, founded in 1731, is a philanthropic society dedicated to Ireland’s cultural and economic development. Its campus in Ballsbridge includes arenas and halls used for major exhibitions, conferences, and sporting events. Renowned for the Dublin Horse Show and other large-scale events, the RDS functions as a members’ club offering dining and networking for members, as well as a public venue. It marries tradition with modern purpose, embodying nearly 300 years of Irish innovation and social gathering.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/royal_dublin_society_rds1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/royal_dublin_society_rds2.jpg",
@@ -82,59 +54,62 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/royal_dublin_society_rds4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/royal_dublin_society_rds5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.7,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/royal_dublin_society_rds_logo.png",
-    "user_ratings_total": 0,
-    "website": "",
-    "activities": []
+    "user_ratings_total": 124,
+    "website": "https://www.rds.ie",
+    "activities": [
+      "Equestrian",
+      "rugby"
+    ]
   },
-  "Royal Irish Automobile Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Royal Irish Automobile Club (RIAC)": {
+    "formatted_address": "34 Dawson Street, Dublin 2, D02 RF90, Ireland",
+    "formatted_phone_number": "+353 1 677 5141",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 53.3427,
+        "lng": -6.258
       }
     },
-    "name": "Royal Irish Automobile Club",
+    "name": "Royal Irish Automobile Club (RIAC)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1901, the RIAC is a private members’ motor and social club situated in central Dublin. It combines modern amenities with historic charm in its clubhouse. Members enjoy two restaurants, a bar, reading rooms, and meeting facilities. It is famed for housing Ireland’s finest motoring archive (the Guinness Seagrave Library) and providing secure 24/7 parking for members, and has long been the gathering place for automotive enthusiasts and business leaders in Dublin’s city centre.",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/royal_irish_automobile_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/royal_irish_automobile_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/royal_irish_automobile_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/royal_irish_automobile_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/royal_irish_automobile_club5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/royal_irish_automobile_club_riac1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/royal_irish_automobile_club_riac2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/royal_irish_automobile_club_riac3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/royal_irish_automobile_club_riac4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/royal_irish_automobile_club_riac5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/royal_irish_automobile_club_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/royal_irish_automobile_club_riac_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.riac.ie",
     "activities": []
   },
-  "Stephen's Green Hibernian Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Stephen’s Green Hibernian Club": {
+    "formatted_address": "9 St. Stephen’s Green, Dublin 2, D02 X281, Ireland",
+    "formatted_phone_number": "+353 1 677 4744",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 53.3389,
+        "lng": -6.2565
       }
     },
-    "name": "Stephen's Green Hibernian Club",
+    "name": "Stephen’s Green Hibernian Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Often simply called ‘Stephen’s Green Club,’ this is one of Ireland’s oldest private clubs, tracing its heritage to 1840. It offers members comfort and privacy in a grand Georgian townhouse on Stephen’s Green, featuring elegant lounges, dining salons, and meeting rooms that confer a sense of tradition and exclusivity.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/stephens_green_hibernian_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/stephens_green_hibernian_club2.jpg",
@@ -147,15 +122,17 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/stephens_green_hibernian_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.sghc.ie",
-    "activities": []
+    "activities": [
+      "billiards"
+    ]
   },
   "United Arts Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "3 Upper Fitzwilliam Street, Dublin 2, D02 RR50, Ireland",
+    "formatted_phone_number": "+353 1 661 1411",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 53.3362,
+        "lng": -6.2497
       }
     },
     "name": "United Arts Club",
@@ -164,7 +141,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1907, the United Arts Club is a historic artistic and literary club that has been a center for Ireland’s creative community for over a century. Its Georgian clubhouse provides a warm, bohemian environment where artists, writers, and art-lovers meet to share ideas and host art exhibitions, recitals, talks, and social events.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/united_arts_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/united_arts_club2.jpg",
@@ -176,7 +153,7 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dublin/united_arts_club_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.dublinarts.com",
+    "website": "https://www.unitedartsclubdublin.com",
     "activities": []
   }
 }

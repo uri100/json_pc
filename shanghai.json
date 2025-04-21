@@ -1,11 +1,11 @@
 {
   "Ambassy Club": {
-    "formatted_address": "1500 Central Huai Hai Road, Shanghai, 200031",
-    "formatted_phone_number": "",
+    "formatted_address": "1502 Huaihai Middle Rd, Xuhui District, Shanghai, China, 200333",
+    "formatted_phone_number": "+86 21 6437 9800",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 31.2154,
+        "lng": 121.45
       }
     },
     "name": "Ambassy Club",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The Ambassy Club Shanghai is a prestigious private membership club offering a range of facilities including swimming pools, tennis courts, and fitness centers. Located centrally on Huaihai Middle Road, it provides various membership options tailored to meet specific needs.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shanghai/ambassy_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shanghai/ambassy_club2.jpg",
@@ -27,45 +27,19 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shanghai/ambassy_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.ambassyclub.com.cn",
-    "activities": []
-  },
-  "Calgary Winter Club": {
-    "formatted_address": "4611-14th St. NW, Calgary, Alberta, T2K 1J7, Canada",
-    "formatted_phone_number": "403 289 5511 , 4032826392",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Calgary Winter Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shanghai/calgary_winter_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shanghai/calgary_winter_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shanghai/calgary_winter_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shanghai/calgary_winter_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shanghai/calgary_winter_club5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shanghai/calgary_winter_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.calgarywinterclub.com",
-    "activities": []
+    "activities": [
+      "swimming",
+      "tennis",
+      "fitness"
+    ]
   },
   "Kee Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "796 Huaihai Zhong Lu, Huangpu District, Shanghai, China",
+    "formatted_phone_number": "+86 21 3395 0888",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 31.2155,
+        "lng": 121.4648
       }
     },
     "name": "Kee Club",
@@ -74,7 +48,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "KEE Club Shanghai is an exclusive private members' club situated in the historic 1920s Twin Villas. It caters to individuals interested in a chic lifestyle embracing art, music, food, wine, and social connections.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shanghai/kee_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shanghai/kee_club2.jpg",
@@ -90,12 +64,12 @@
     "activities": []
   },
   "Roosevelt Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "27 Zhongshan East 1st Rd, Huangpu District, Shanghai, China",
+    "formatted_phone_number": "+86 21 2322 0800",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 31.235,
+        "lng": 121.49
       }
     },
     "name": "Roosevelt Club",
@@ -104,7 +78,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The Roosevelt Club is the crown jewel of The House of Roosevelt, located on the Bund. It features elegant settings with breathtaking views of Pudong and the Huangpu River, offering amenities such as a cigar lounge, dining rooms, and multi-function rooms.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shanghai/roosevelt_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shanghai/roosevelt_club2.jpg",
@@ -120,12 +94,12 @@
     "activities": []
   },
   "Shanghai Racquet Club": {
-    "formatted_address": "Lane 555 Jinfeng Road, Hua Cao Town, Minhang District",
-    "formatted_phone_number": "+86 21 22010000",
+    "formatted_address": "Lane 555 Jinfeng Rd, Minhang District, Shanghai, China",
+    "formatted_phone_number": "+86 21 2201 0000",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 31.1696,
+        "lng": 121.3223
       }
     },
     "name": "Shanghai Racquet Club",
@@ -134,7 +108,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The Shanghai Racquet Club is a premier residential and athletic community offering top-notch facilities for tennis, swimming, and fitness. It provides a family-friendly environment with various programs and events for members.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shanghai/shanghai_racquet_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shanghai/shanghai_racquet_club2.jpg",
@@ -149,17 +123,17 @@
     "website": "https://www.src.com.cn",
     "activities": [
       "tennis",
-      "athletic",
-      "swimming"
+      "swimming",
+      "fitness"
     ]
   },
   "Shanghai Savage Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "1515 West Chophouse & Bar; Jing'an Shangri La Hotel, No. 1218 Yan'an Middle Road, Shanghai, China",
+    "formatted_phone_number": "N/A",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 31.223,
+        "lng": 121.4455
       }
     },
     "name": "Shanghai Savage Club",
@@ -168,7 +142,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The Shanghai Savage Club is a branch of the famous original Savage Club in London. It holds monthly long lunches featuring speakers on diverse, non-business topics, fostering engagement with new ideas and great company.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shanghai/shanghai_savage_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shanghai/shanghai_savage_club2.jpg",
@@ -184,12 +158,12 @@
     "activities": []
   },
   "Shanghai Town & Country Club": {
-    "formatted_address": "No. 46 Luding Road, Putuo District, Shanghai, P.R. China, 200062",
-    "formatted_phone_number": "",
+    "formatted_address": "46 Luding Rd, Putuo District, Shanghai, China",
+    "formatted_phone_number": "+86 21 8023 1888",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 31.241,
+        "lng": 121.395
       }
     },
     "name": "Shanghai Town & Country Club",
@@ -198,7 +172,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The Shanghai Town & Country Club is an exclusive private club located in the Putuo District, catering to the needs of family, business, social, arts, and culture communities. It offers spacious, high-quality amenities and superior services.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shanghai/shanghai_town_country_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shanghai/shanghai_town_country_club2.jpg",
@@ -211,15 +185,19 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shanghai/shanghai_town_country_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.stcclifestyle.cn",
-    "activities": []
+    "activities": [
+      "swimming",
+      "tennis",
+      "fitness"
+    ]
   },
   "Yongfoo Elite": {
-    "formatted_address": "200 Yong Fu Road",
-    "formatted_phone_number": "+86 21 54662727",
+    "formatted_address": "200 Yongfu Rd, Xuhui District, Shanghai, China",
+    "formatted_phone_number": "+86 21 5466 2727",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 31.2045,
+        "lng": 121.444
       }
     },
     "name": "Yongfoo Elite",
@@ -228,7 +206,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Yongfoo Elite is a prestigious private club located in a historic garden villa, offering exquisite dining experiences, art exhibitions, and cultural events in an elegant setting.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shanghai/yongfoo_elite1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/shanghai/yongfoo_elite2.jpg",

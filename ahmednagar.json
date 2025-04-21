@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Ahmednagar Club is a historical club in Ahmednagar, India, offering dining and lodging facilities, and serving as a social gathering point for its members since the colonial era.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmednagar/ahmednagar_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmednagar/ahmednagar_club2.jpg",
@@ -27,7 +27,9 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmednagar/ahmednagar_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.ahmednagarclub.com",
-    "activities": []
+    "activities": [
+      "fitness"
+    ]
   },
   "Ahmednagar Gymkhana": {
     "formatted_address": "",
@@ -44,7 +46,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Ahmednagar Gymkhana provides sports facilities and social spaces for members in Ahmednagar. The club offers activities such as tennis and cricket, along with dining and event venues.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmednagar/ahmednagar_gymkhana1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmednagar/ahmednagar_gymkhana2.jpg",
@@ -57,6 +59,8 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/ahmednagar/ahmednagar_gymkhana_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.ahmednagargymkhana.com",
-    "activities": []
+    "activities": [
+      "fitness"
+    ]
   }
 }

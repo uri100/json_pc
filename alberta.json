@@ -1,11 +1,11 @@
 {
   "The Bow Valley Athletic Club": {
-    "formatted_address": "370 - 250 6 Ave S.W., Calgary, Alberta, T2P 3H7",
-    "formatted_phone_number": "",
+    "formatted_address": "370 – 250 6 Ave SW, Calgary, Alberta T2P 3H7, Canada",
+    "formatted_phone_number": "+1 403-265-9074",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 51.0478,
+        "lng": -114.067
       }
     },
     "name": "The Bow Valley Athletic Club",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1981 and reimagined in 2021, the Bow Valley Athletic Club is downtown Calgary’s premier social and athletic club. It features upscale casual dining, squash courts, a modern fitness facility, a golf simulator, and spaces for meetings and events.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/alberta/the_bow_valley_athletic_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/alberta/the_bow_valley_athletic_club2.jpg",
@@ -26,7 +26,12 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/alberta/the_bow_valley_athletic_club_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.bowvalleysthleticclub.com",
-    "activities": []
+    "website": "https://www.bowvalleyathleticclub.com",
+    "activities": [
+      "Squash",
+      "fitness",
+      "Golf",
+      ""
+    ]
   }
 }

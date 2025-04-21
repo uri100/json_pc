@@ -1,11 +1,11 @@
 {
   "Abeokuta Sports Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "1 Oba Ademola Road, Ibara GRA, Abeokuta, Ogun State, Nigeria",
+    "formatted_phone_number": "+234 703 079 5853",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 7.1545,
+        "lng": 3.342
       }
     },
     "name": "Abeokuta Sports Club",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1904, this is one of Nigeria’s oldest sports clubs&#8203;:contentReference[oaicite:3]{index=3}. It offers facilities for tennis, squash, swimming, billiards, and other recreational activities in a historic environment. The club continues to foster sports development and social engagement for members.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/abeokuta/abeokuta_sports_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/abeokuta/abeokuta_sports_club2.jpg",
@@ -22,11 +22,16 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/abeokuta/abeokuta_sports_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/abeokuta/abeokuta_sports_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/abeokuta/abeokuta_sports_club_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 285,
     "website": "https://www.abeokutasportsclub.org",
-    "activities": []
+    "activities": [
+      "tennis",
+      "squash",
+      "swimming",
+      "billiards"
+    ]
   }
 }

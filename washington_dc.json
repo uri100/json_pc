@@ -1,11 +1,11 @@
 {
   "Capitol Hill Club": {
-    "formatted_address": "300 First Street, Southeast",
-    "formatted_phone_number": "+1 202 4844590",
+    "formatted_address": "300 First Street SE, Washington, DC 20003, USA",
+    "formatted_phone_number": "+1 202-484-4590",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.8831,
+        "lng": -77.0052
       }
     },
     "name": "Capitol Hill Club",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The Capitol Hill Club – officially The National Republican Club of Capitol Hill – is a private club founded in 1951 for members of the Republican Party (and their guests) in Washington. Located just steps from the U.S. Capitol, it serves as a convenient retreat for Republican lawmakers, staffers, and lobbyists. The club offers several dining rooms, bars, and meeting spaces across five floors in a historic building. It is well-known for its elegant Grill Room and the Dwight D. Eisenhower Lounge. The atmosphere and membership are politically focused; it’s a place to network, fundraise, and unwind in a setting steeped in GOP history and camaraderie.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/capitol_hill_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/capitol_hill_club2.jpg",
@@ -22,20 +22,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/capitol_hill_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/capitol_hill_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.5,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/capitol_hill_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "",
+    "user_ratings_total": 130,
+    "website": "https://www.capitolhillclub.org",
     "activities": []
   },
   "The George Town Club": {
-    "formatted_address": "1530 Wisconsin Avenue, N W",
-    "formatted_phone_number": "+1 202 3339330",
+    "formatted_address": "1530 Wisconsin Avenue NW, Washington, DC 20007, USA",
+    "formatted_phone_number": "+1 202-333-9330",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.9093,
+        "lng": -77.065
       }
     },
     "name": "The George Town Club",
@@ -44,7 +44,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Tucked in historic Georgetown, The George Town Club (est. 1966) is an elegant private social club known for its refined dining and intimate ambiance. It occupies an 18th-century townhouse, where members enjoy gourmet cuisine in wood-paneled dining rooms and cocktails in cozy lounges adorned with antiques. The club’s membership includes diplomats, business leaders, and academics. It has been a quiet haven for power dinners and intellectual discourse for decades, centering on fine dining, wine tastings, lectures, and cultural events, reflecting the charm and sophistication of Georgetown.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/the_george_town_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/the_george_town_club2.jpg",
@@ -52,80 +52,50 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/the_george_town_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/the_george_town_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.7,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/the_george_town_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "",
+    "user_ratings_total": 60,
+    "website": "https://www.georgetownclub.org",
     "activities": []
   },
-  "116 Club (aka One Sixteen Club)": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "116 Club": {
+    "formatted_address": "116 2nd Street NE, Washington, DC 20002, USA",
+    "formatted_phone_number": "+1 202-543-1168",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.8905,
+        "lng": -77.0047
       }
     },
-    "name": "116 Club (aka One Sixteen Club)",
+    "name": "116 Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A small, lesser-known private club on Capitol Hill, the 116 Club is a bipartisan social club frequented by congressional staff and lobbyists. It operates in a rowhouse at 116 2nd St. NE, offering a dining room and bar in a relaxed, convivial setting. Often described as a “hideaway” on the Hill, it provides affordable meals and a quiet place for off-the-record conversations among political professionals. Its history dates back to the mid-20th century, and it remains one of Capitol Hill’s insider spots, prized for its discretion and unpretentious atmosphere.",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/116_club_aka_one_sixteen_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/116_club_aka_one_sixteen_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/116_club_aka_one_sixteen_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/116_club_aka_one_sixteen_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/116_club_aka_one_sixteen_club5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/116_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/116_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/116_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/116_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/116_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.9,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/116_club_aka_one_sixteen_club_logo.png",
-    "user_ratings_total": 0,
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/116_club_logo.png",
+    "user_ratings_total": 10,
     "website": "",
-    "activities": []
-  },
-  "Alibi Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Alibi Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/alibi_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/alibi_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/alibi_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/alibi_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/alibi_club5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/alibi_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.wikipedia.org/wiki/Alibi_Club",
     "activities": []
   },
   "Arts Club of Washington": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "2017 I Street NW, Washington, DC 20006, USA",
+    "formatted_phone_number": "+1 202-331-7282",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.9015,
+        "lng": -77.0452
       }
     },
     "name": "Arts Club of Washington",
@@ -134,7 +104,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Housed in the historic James Monroe House, the Arts Club of Washington (founded 1916) is a private club dedicated to the promotion of the arts. Artists, musicians, writers, and art patrons gather here for gallery exhibitions, musical performances, literary readings, and social events. The elegant Federal-era townhouse includes dining rooms, art galleries, a courtyard, and parlors filled with art. The club offers artist residencies and competitions to support the arts in DC, continuing a century-old tradition of fostering the arts in the capital.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/arts_club_of_washington1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/arts_club_of_washington2.jpg",
@@ -142,50 +112,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/arts_club_of_washington4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/arts_club_of_washington5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.6,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/arts_club_of_washington_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 70,
     "website": "https://www.artsclubofwashington.org",
     "activities": []
   },
-  "Capitol Hill Club (\"The National Republican Club)": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Capitol Hill Club (\"The National Republican Club)",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/capitol_hill_club_the_national_republican_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/capitol_hill_club_the_national_republican_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/capitol_hill_club_the_national_republican_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/capitol_hill_club_the_national_republican_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/capitol_hill_club_the_national_republican_club5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/capitol_hill_club_the_national_republican_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.capitolhillclub.org",
-    "activities": []
-  },
   "City Tavern Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "3206 M Street NW, Washington, DC 20007, USA",
+    "formatted_phone_number": "+1 202-337-8770",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.9057,
+        "lng": -77.0658
       }
     },
     "name": "City Tavern Club",
@@ -194,7 +134,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The City Tavern Club is a private social club in Georgetown located in one of the city’s oldest buildings – a Federal-style tavern built in 1796. Saved from demolition and turned into a club in 1959, it retains colonial charm with its period decor. The club features an intimate dining room, a pub, and several private event rooms, as well as a walled garden. It hosts formal dinners, weddings, and lectures, and has a vibrant young membership as well as long-time Washingtonians. The City Tavern Club embodies Georgetown’s historic hospitality, offering members a convivial gathering place steeped in early American history.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/city_tavern_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/city_tavern_club2.jpg",
@@ -202,20 +142,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/city_tavern_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/city_tavern_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.7,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/city_tavern_club_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 90,
     "website": "https://www.citytavernclubdc.org",
     "activities": []
   },
   "Cosmos Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "2121 Massachusetts Ave NW, Washington, DC 20008, USA",
+    "formatted_phone_number": "+1 202-387-7783",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.9122,
+        "lng": -77.0477
       }
     },
     "name": "Cosmos Club",
@@ -224,7 +164,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1878, the Cosmos Club is a private social club for those distinguished in science, literature, the arts, or public service. Its home is the magnificent Townsend Mansion on Embassy Row. The club is renowned for its intellectual atmosphere – boasting a grand library, reading rooms, and hosting lectures and cultural programs for members. The Cosmos Club’s mansion offers multiple dining rooms, reception halls, overnight rooms for members, and even a small gym. Membership has included Nobel laureates, presidents, and scholars. Its motto is “The advancement of its members in science, literature, and art,” and it remains one of Washington’s most prestigious clubs.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/cosmos_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/cosmos_club2.jpg",
@@ -232,80 +172,52 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/cosmos_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/cosmos_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.8,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/cosmos_club_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 240,
     "website": "https://www.cosmosclub.org",
-    "activities": []
+    "activities": [
+      "fitness"
+    ]
   },
-  "George Town Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Metropolitan Club": {
+    "formatted_address": "1700 H Street NW, Washington, DC 20006, USA",
+    "formatted_phone_number": "+1 202-835-2500",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.9003,
+        "lng": -77.0399
       }
     },
-    "name": "George Town Club",
+    "name": "Metropolitan Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The Metropolitan Club, founded in 1863, is one of Washington’s oldest and most exclusive clubs. Its clubhouse – a stately Beaux-Arts building just one block from the White House – provides an elegant retreat for its members, who include leaders in government, business, and diplomacy. The club offers formal and informal dining rooms, a library, banquet halls, and overnight guest rooms. Decorated with portraits of statesmen and historic artifacts, the Metropolitan exudes an ambiance of old Washington. It has reciprocal arrangements with top clubs worldwide and follows the motto “Entertain strangers, strengthen friendships.”",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/george_town_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/george_town_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/george_town_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/george_town_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/george_town_club5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/metropolitan_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/metropolitan_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/metropolitan_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/metropolitan_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/metropolitan_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.6,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/george_town_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.georgetownclub.org",
-    "activities": []
-  },
-  "Metropolitan Club DC": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Metropolitan Club DC",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/metropolitan_club_dc1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/metropolitan_club_dc2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/metropolitan_club_dc3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/metropolitan_club_dc4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/metropolitan_club_dc5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/metropolitan_club_dc_logo.png",
-    "user_ratings_total": 0,
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/metropolitan_club_logo.png",
+    "user_ratings_total": 120,
     "website": "https://www.metroclub.com",
     "activities": []
   },
   "National Democratic Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "30 Ivy Street SE, Washington, DC 20003, USA",
+    "formatted_phone_number": "+1 202-543-2035",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.8851,
+        "lng": -76.9997
       }
     },
     "name": "National Democratic Club",
@@ -314,7 +226,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The National Democratic Club is a private club and gathering place for members of the Democratic Party, serving a role parallel to the Capitol Hill Club but on a smaller scale. It provides dining and meeting facilities primarily for Democratic lawmakers and staff. The clubhouse, located near Capitol South, includes a grill (casual dining pub) and event spaces adorned with Democratic memorabilia. It is a convenient spot for Democrats on Capitol Hill to socialize, fundraise, or strategize in an informal setting. The club fosters fellowship within the party in the heart of Washington’s political arena.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/national_democratic_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/national_democratic_club2.jpg",
@@ -322,20 +234,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/national_democratic_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/national_democratic_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.4,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/national_democratic_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.natdemclub.org",
+    "user_ratings_total": 50,
+    "website": "https://natdemclub.org",
     "activities": []
   },
   "National Press Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "529 14th Street NW, 13th Floor, Washington, DC 20045, USA",
+    "formatted_phone_number": "+1 202-662-7500",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.8961,
+        "lng": -77.0307
       }
     },
     "name": "National Press Club",
@@ -344,7 +256,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The National Press Club, founded 1908, is the world’s leading professional organization for journalists. Both a private club and a conference center, it occupies the 13th floor of the National Press Building in downtown DC. The Press Club features a restaurant and bar (“The Reliable Source”), a ballroom, broadcast studios, and meeting rooms. It is famous for its newsmaker luncheons and events where global leaders and celebrities speak; these events often make headlines. Members are journalists and communications professionals, but membership also extends to others in allied fields. With its motto “Where News Happens,” the NPC serves as a social hub for the press and a venue championing press freedom.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/national_press_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/national_press_club2.jpg",
@@ -352,20 +264,22 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/national_press_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/national_press_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.7,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/national_press_club_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 780,
     "website": "https://www.press.org",
-    "activities": []
+    "activities": [
+      "gym"
+    ]
   },
   "Sulgrave Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "1801 Massachusetts Ave NW, Washington, DC 20036, USA",
+    "formatted_phone_number": "+1 202-667-3800",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.9104,
+        "lng": -77.0418
       }
     },
     "name": "Sulgrave Club",
@@ -374,7 +288,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Housed in the ornate Wadsworth House (a Gilded Age mansion), the Sulgrave Club is a private women’s club founded in 1932. It is a center of social life for prominent women in Washington. The club’s interior boasts grand ballrooms, dining salons, and a beautiful garden – often the site of charity galas, luncheons, and weddings. The Sulgrave provides fine dining service to members and their guests, as well as cultural programs like art tours and flower arranging. With a relatively small membership, it maintains an air of exclusivity and traditional elegance. The club is named after Sulgrave Manor and has a sisterly relationship with women’s clubs around the world.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/sulgrave_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/sulgrave_club2.jpg",
@@ -382,20 +296,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/sulgrave_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/sulgrave_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.9,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/sulgrave_club_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 40,
     "website": "https://www.sulgraveclub.org",
     "activities": []
   },
   "wineLAIR D.C.": {
-    "formatted_address": "1120 22nd Street NW",
-    "formatted_phone_number": "+1 202 525 1209",
+    "formatted_address": "1120 22nd Street NW, Washington, DC 20037, USA",
+    "formatted_phone_number": "+1 202-525-1209",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.9041,
+        "lng": -77.0487
       }
     },
     "name": "wineLAIR D.C.",
@@ -404,7 +318,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "wineLAIR is a modern private club in DC dedicated to wine enthusiasts. Opened in 2020, it offers secure, climate-controlled wine lockers for members to store their collections, as well as a stylish lounge and tasting areas. Members have 24/7 access to enjoy their own wines on-site or partake in club-arranged tastings, wine education events, and social gatherings. The ambience is chic and intimate – designed like a sophisticated wine cellar meets luxury living room. It’s part of an international concept bringing together oenophiles in a communal space.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/winelair_dc1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/winelair_dc2.jpg",
@@ -412,20 +326,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/winelair_dc4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/winelair_dc5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 5.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/winelair_dc_logo.png",
-    "user_ratings_total": 0,
-    "website": "",
+    "user_ratings_total": 15,
+    "website": "https://winelair.com",
     "activities": []
   },
   "Army and Navy Club": {
-    "formatted_address": "901 17th Street, NW, Washington DC 20006",
-    "formatted_phone_number": "202 628 8400 , 2027852481",
+    "formatted_address": "901 17th Street NW, Washington, DC 20006, USA",
+    "formatted_phone_number": "+1 202-628-8400",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.9018,
+        "lng": -77.039
       }
     },
     "name": "Army and Navy Club",
@@ -434,7 +348,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1885, the Army and Navy Club is a prestigious military officers’ club in Washington. Its current clubhouse, a grand neo-classical building off Farragut Square, offers refined dining (including a formal dining room and the Eagle Grill), overnight hotel rooms, a ballroom, a fitness center and squash court, as well as a famous military library and museum displays. Membership is open to U.S. and international officers (active or retired) and civilians with distinguished service. Steeped in tradition, the club has counted presidents and generals among its ranks. It serves as a social hub for the defense community, hosting events from military lectures to formal galas.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/army_and_navy_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/army_and_navy_club2.jpg",
@@ -442,29 +356,32 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/army_and_navy_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/army_and_navy_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.8,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/army_and_navy_club_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 310,
     "website": "https://www.armynavyclub.org",
-    "activities": []
+    "activities": [
+      "fitness",
+      "squash"
+    ]
   },
-  "University Club Of Washington DC": {
-    "formatted_address": "1135 16th Street, NW, Washington DC 20036",
-    "formatted_phone_number": "202 862 8800 , 2022962347",
+  "University Club of Washington, DC": {
+    "formatted_address": "1135 16th Street NW, Washington, DC 20036, USA",
+    "formatted_phone_number": "+1 202-862-8800",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.904,
+        "lng": -77.0365
       }
     },
-    "name": "University Club Of Washington DC",
+    "name": "University Club of Washington, DC",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "The University Club, founded in 1904, is a distinguished athletic and social club. Its eight-story clubhouse features restaurants, bars, meeting rooms, banquet halls, 35 guest hotel rooms, and extensive athletic facilities (including a full gym, indoor pool, squash courts, sauna). The club’s membership draws from professionals and academics and it fosters networking, athletics, and intellectual enrichment. It encapsulates the ideal of “sound mind in a sound body” for its members in the capital.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/university_club_of_washington_dc1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/university_club_of_washington_dc2.jpg",
@@ -472,11 +389,15 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/university_club_of_washington_dc4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/university_club_of_washington_dc5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.7,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/washington_dc/university_club_of_washington_dc_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 160,
     "website": "https://www.universityclubdc.com",
-    "activities": []
+    "activities": [
+      "fitness",
+      "swimming",
+      "squash"
+    ]
   }
 }

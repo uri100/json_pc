@@ -1,41 +1,41 @@
 {
-  "New Club Edinbrough": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "The New Club Edinburgh": {
+    "formatted_address": "86 Princes Street, Edinburgh, EH2 2BB, Scotland",
+    "formatted_phone_number": "+44 131 226 4881",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 55.9516,
+        "lng": -3.2009
       }
     },
-    "name": "New Club Edinbrough",
+    "name": "The New Club Edinburgh",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Scotland's oldest private members' club, established in 1787, offering fine dining, accommodation, and a socially vibrant atmosphere in a historical setting.",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/new_club_edinbrough1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/new_club_edinbrough2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/new_club_edinbrough3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/new_club_edinbrough4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/new_club_edinbrough5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/the_new_club_edinburgh1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/the_new_club_edinburgh2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/the_new_club_edinburgh3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/the_new_club_edinburgh4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/the_new_club_edinburgh5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/new_club_edinbrough_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/the_new_club_edinburgh_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.newclub.co.uk",
     "activities": []
   },
   "Royal Scots Club": {
-    "formatted_address": "29 - 31 Abercromby Place, Edinburgh, EH3 6QE, Scotland, UK",
-    "formatted_phone_number": "44 13 1556 4270 , 441315583769",
+    "formatted_address": "29-31 Abercromby Place, Edinburgh, EH3 6QE, Scotland",
+    "formatted_phone_number": "+44 131 556 4270",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 55.9563,
+        "lng": -3.1983
       }
     },
     "name": "Royal Scots Club",
@@ -44,7 +44,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1919 as a tribute to those who fell in the Great War, this club offers a blend of historic charm and modern facilities, including accommodation, dining, and event spaces.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/royal_scots_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/royal_scots_club2.jpg",
@@ -60,12 +60,12 @@
     "activities": []
   },
   "Scottish Arts Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "24 Rutland Square, Edinburgh, EH1 2BW, Scotland",
+    "formatted_phone_number": "+44 131 229 8157",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 55.9475,
+        "lng": -3.2081
       }
     },
     "name": "Scottish Arts Club",
@@ -74,7 +74,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A sociable members' club full of arts enthusiasts and creatives, hosting events, workshops, exhibitions, and providing dining facilities in a historic Georgian townhouse.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/scottish_arts_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/scottish_arts_club2.jpg",
@@ -90,12 +90,12 @@
     "activities": []
   },
   "Gleneagles Townhouse": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "39 St Andrew Square, Edinburgh, EH2 2AD, Scotland",
+    "formatted_phone_number": "+44 131 370 9000",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 55.9545,
+        "lng": -3.1949
       }
     },
     "name": "Gleneagles Townhouse",
@@ -104,7 +104,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A luxurious members' club offering exclusive access to restaurants, private spaces, guest bedrooms, and wellness areas, including a state-of-the-art gym and spa facilities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/gleneagles_townhouse1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/gleneagles_townhouse2.jpg",
@@ -116,7 +116,139 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/gleneagles_townhouse_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.gleneagles.com",
+    "website": "https://gleneagles.com/townhouse/",
+    "activities": [
+      "gym",
+      "spa"
+    ]
+  },
+  "The Grange Club": {
+    "formatted_address": "Portgower Place, Stockbridge, Edinburgh, EH4 1HQ, Scotland",
+    "formatted_phone_number": "+44 131 332 2148",
+    "geometry": {
+      "location": {
+        "lat": 55.9611,
+        "lng": -3.2115
+      }
+    },
+    "name": "The Grange Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Founded in 1832, The Grange Club is a prestigious sports club offering facilities for cricket, squash, tennis, and hockey. It serves as the regular home of the Scotland national cricket team and provides a vibrant social environment for its members.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/the_grange_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/the_grange_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/the_grange_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/the_grange_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/the_grange_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/the_grange_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.thegrangeclub.com/",
+    "activities": [
+      "cricket",
+      "squash",
+      "tennis",
+      "hockey"
+    ]
+  },
+  "Drumsheugh Baths Club": {
+    "formatted_address": "5 Belford Road, Edinburgh, EH4 3BL, Scotland",
+    "formatted_phone_number": "+44 131 225 4631",
+    "geometry": {
+      "location": {
+        "lat": 55.9515,
+        "lng": -3.219
+      }
+    },
+    "name": "Drumsheugh Baths Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Established in 1882, Drumsheugh Baths Club is a private swimming club housed in a historic Victorian building. Members enjoy access to a unique swimming pool, gym facilities, sauna, and a range of fitness classes in an exclusive setting.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/drumsheugh_baths_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/drumsheugh_baths_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/drumsheugh_baths_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/drumsheugh_baths_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/drumsheugh_baths_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/drumsheugh_baths_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.drumsheughbaths.com/",
+    "activities": [
+      "swimming",
+      "gym",
+      "sauna"
+    ]
+  },
+  "Puffin's Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Puffin's Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "A private members' luncheon club established in the 1960s by historian Sir Iain Moncreiffe. Membership is by invitation only and is open to those whose families fought at the Battle of Flodden or 'would have had they been there.' The club convenes monthly in Edinburgh and London.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/puffins_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/puffins_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/puffins_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/puffins_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/puffins_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/puffins_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": []
+  },
+  "Aesculapian Club": {
+    "formatted_address": "Royal College of Physicians of Edinburgh, 9 Queen Street, Edinburgh, EH2 1JQ, Scotland",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 55.955,
+        "lng": -3.1965
+      }
+    },
+    "name": "Aesculapian Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Founded in 1773 by Dr. Andrew Duncan, the Aesculapian Club is one of the oldest medical dining clubs in the world. Membership is limited to Fellows of the Royal College of Physicians and the Royal College of Surgeons of Edinburgh, aiming to foster convivial relations and intellectual discussion among medical professionals.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/aesculapian_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/aesculapian_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/aesculapian_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/aesculapian_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/aesculapian_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/edinburgh/aesculapian_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "",
     "activities": []
   }
 }

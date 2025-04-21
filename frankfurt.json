@@ -1,11 +1,11 @@
 {
   "Union International Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Am Leonhardsbrunn 12, 60487 Frankfurt am Main, Germany",
+    "formatted_phone_number": "+49 69 703031",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 50.127254,
+        "lng": 8.653439
       }
     },
     "name": "Union International Club",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1956 as an American press club, it gradually transformed into an international business club that was joined by people of various nationalities. It is located in one of the most picturesque residential areas of the city, surrounded by a garden with a swimming pool and tennis courts. \"The Villa Merton Mansion\" was built in 1925 by Richard Merton, a renowned businessman following the baroque style of the time. During the war it was bombed, suffering significant damage. After the war, it was sold and transformed into the American press center. Later a business club was formed. Today all the accredited diplomats in the city are members, as well as the advisers of the European Central Bank. Its restaurant has a star from the Michelin guide and is considered one of the best in the city. It has all the services for salons. It has six very well equipped rooms.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/frankfurt/union_international_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/frankfurt/union_international_club2.jpg",
@@ -22,11 +22,71 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/frankfurt/union_international_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/frankfurt/union_international_club5.jpg"
     ],
-    "rating": 0.0,
+    "rating": 4.8,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/frankfurt/union_international_club_logo.png",
-    "user_ratings_total": 0,
+    "user_ratings_total": 51,
     "website": "https://www.union-club.com",
+    "activities": []
+  },
+  "Frankfurter Gesellschaft": {
+    "formatted_address": "Siesmayerstraße 12, 60323 Frankfurt am Main, Germany",
+    "formatted_phone_number": "+49 69 726579",
+    "geometry": {
+      "location": {
+        "lat": 50.12033,
+        "lng": 8.659775
+      }
+    },
+    "name": "Frankfurter Gesellschaft",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "The \"Frankfurter Gesellschaft für Handel, Industrie und Wissenschaft e.V. - Casino-Gesellschaft von 1802 -'', founded in 1919, whose intellectual roots go back to the Casino-Gesellschaft of 1802, is an association of domestic and foreign personalities from all walks of life, irrespective of their origin, religion and political location, for whom involvement in the affairs of the community, especially in talks, lectures and discussions, is a special concern. It is welcomed when members become personally involved in community affairs. In individual cases, the Society itself may also be active externally in this sense. The essential basis for the Society and its members is the freedom of thought and opinion within the free democratic basic order of the Basic Law, as well as respect for the person and the opinion of others in dealings with each other. On this basis, the society sees itself as cosmopolitan, pluralistic and tolerant.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/frankfurt/frankfurter_gesellschaft1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/frankfurt/frankfurter_gesellschaft2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/frankfurt/frankfurter_gesellschaft3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/frankfurt/frankfurter_gesellschaft4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/frankfurt/frankfurter_gesellschaft5.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/frankfurt/frankfurter_gesellschaft_logo.png",
+    "user_ratings_total": 112,
+    "website": "https://www.frankfurter-gesellschaft.de",
+    "activities": []
+  },
+  "Airport Club for International Executives GmbH": {
+    "formatted_address": "Hugo-Eckener-Ring, 60549 Frankfurt am Main, Germany",
+    "formatted_phone_number": "+49 69 697070",
+    "geometry": {
+      "location": {
+        "lat": 50.053116,
+        "lng": 8.581115
+      }
+    },
+    "name": "Airport Club for International Executives GmbH",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "The Airport Club Frankfurt is an exclusive Members club for companies and private individuals with over 30 conference rooms, four lounges and its own restaurant with top gastronomy. Personalities from Germany and abroad, from business, science, culture and politics find themselves in a pleasant environment and benefit from numerous privileges and services tailored to their needs. In addition to the optimal location at the hub of Frankfurt Airport, the club offers the ideal conditions for every type of conference and event – in a sustainable and beautiful ambience, with modern technical equipment, professional management, top-class physical and virtual events and courteous but discreet service.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/frankfurt/airport_club_for_international_executives_gmbh1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/frankfurt/airport_club_for_international_executives_gmbh2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/frankfurt/airport_club_for_international_executives_gmbh3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/frankfurt/airport_club_for_international_executives_gmbh4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/frankfurt/airport_club_for_international_executives_gmbh5.jpg"
+    ],
+    "rating": 4.7,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/frankfurt/airport_club_for_international_executives_gmbh_logo.png",
+    "user_ratings_total": 187,
+    "website": "https://www.airportclub.de/",
     "activities": []
   }
 }
