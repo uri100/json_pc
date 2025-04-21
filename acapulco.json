@@ -1,11 +1,11 @@
 {
   "Club de Yates de Acapulco": {
-    "formatted_address": "Av. Gran Vía Tropical & Tambuco, Fracc. Las Playas, Acapulco, Guerrero 39390, Mexico",
-    "formatted_phone_number": "+52 744 434 1999",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 16.8333,
-        "lng": -99.905
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Club de Yates de Acapulco",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "A prestigious yacht club in Acapulco known for its family-friendly community and rich nautical tradition. The club provides marina services and amenities (water, fuel, etc.) and offers on-water and off-water activities for members&#8203;:contentReference[oaicite:9]{index=9}, including sailing regattas, a pool, dining facilities, and social events. It’s one of Mexico’s most storied yacht clubs with a history featured in classic films.&#8203;:contentReference[oaicite:10]{index=10}",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/acapulco/club_de_yates_de_acapulco1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/acapulco/club_de_yates_de_acapulco2.jpg",
@@ -22,15 +22,11 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/acapulco/club_de_yates_de_acapulco4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/acapulco/club_de_yates_de_acapulco5.jpg"
     ],
-    "rating": 4.5,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/acapulco/club_de_yates_de_acapulco_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.clubdeyatesdeacapulco.com",
-    "activities": [
-      "boating",
-      "sailing",
-      "swimming"
-    ]
+    "activities": []
   }
 }

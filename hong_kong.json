@@ -1,11 +1,11 @@
 {
   "Aberdeen Boat Club": {
-    "formatted_address": "20 Shum Wan Road, Aberdeen, Hong Kong",
-    "formatted_phone_number": "+852 2518 9500",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 22.2471,
-        "lng": 114.1648
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Aberdeen Boat Club",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Founded in 1967, Aberdeen Boat Club is a members-only sailing and leisure club located on the south side of Hong Kong Island, offering sailing races, boating facilities, and family-friendly social events in a relaxed atmosphere.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/aberdeen_boat_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/aberdeen_boat_club2.jpg",
@@ -22,28 +22,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/aberdeen_boat_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/aberdeen_boat_club5.jpg"
     ],
-    "rating": 4.6,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/aberdeen_boat_club_logo.png",
-    "user_ratings_total": 54,
+    "user_ratings_total": 0,
     "website": "https://www.abclubhk.com",
-    "activities": [
-      "Sailing",
-      "yachting",
-      "padel",
-      "swimming",
-      "squash",
-      "fitness",
-      "billiards"
-    ]
+    "activities": []
   },
   "Aberdeen Marina Club": {
-    "formatted_address": "8 Shum Wan Road, Aberdeen, Hong Kong",
-    "formatted_phone_number": "+852 2555 8321",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 22.248,
-        "lng": 114.1609
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Aberdeen Marina Club",
@@ -52,7 +44,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Exclusive private marina club operated by Shangri-La Group, providing resort-style facilities, fine dining, wellness services, and family-focused amenities, making it a luxurious retreat in Wong Chuk Hang.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/aberdeen_marina_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/aberdeen_marina_club2.jpg",
@@ -60,27 +52,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/aberdeen_marina_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/aberdeen_marina_club5.jpg"
     ],
-    "rating": 4.6,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/aberdeen_marina_club_logo.png",
-    "user_ratings_total": 385,
+    "user_ratings_total": 0,
     "website": "https://www.aberdeenmarinaclub.com",
-    "activities": [
-      "swimming",
-      "tennis",
-      "squash",
-      "bowling",
-      "fitness",
-      "spa"
-    ]
+    "activities": []
   },
   "American Club Hong Kong": {
-    "formatted_address": "Floors 48-49, Two Exchange Square, Central, Hong Kong; 28 Tai Tam Road, Tai Tam, Hong Kong",
-    "formatted_phone_number": "+852 2842 7400",
+    "formatted_address": "Floors 47-49 (Town & Country Club), Two Exchange Square, Central, Hong Kong",
+    "formatted_phone_number": "852 2842 7400 , 85221473867",
     "geometry": {
       "location": {
-        "lat": 22.283,
-        "lng": 114.1587
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "American Club Hong Kong",
@@ -89,7 +74,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Prestigious private club with two clubhouses, offering fine dining, sports amenities, family recreation, and business networking for international and local members.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/american_club_hong_kong1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/american_club_hong_kong2.jpg",
@@ -97,57 +82,50 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/american_club_hong_kong4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/american_club_hong_kong5.jpg"
     ],
-    "rating": 4.5,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/american_club_hong_kong_logo.png",
-    "user_ratings_total": 120,
+    "user_ratings_total": 0,
     "website": "https://www.americanclubhk.com",
-    "activities": [
-      "Swimming",
-      "fitness",
-      "tennis",
-      "squash"
-    ]
+    "activities": []
   },
-  "The China Club": {
-    "formatted_address": "13-15/F, Old Bank of China Building, 1 Bank Street, Central, Hong Kong",
-    "formatted_phone_number": "+852 2521 8888",
+  "China Club Hong Kong": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 22.2819,
-        "lng": 114.158
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "The China Club",
+    "name": "China Club Hong Kong",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "Exclusive members-only club known for its 1930s Shanghai-style ambiance, renowned Cantonese dining, and art-filled interiors; popular among Hong Kong's business and social elite.",
+    "description": "",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_china_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_china_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_china_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_china_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_china_club5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/china_club_hong_kong1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/china_club_hong_kong2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/china_club_hong_kong3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/china_club_hong_kong4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/china_club_hong_kong5.jpg"
     ],
-    "rating": 4.5,
+    "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_china_club_logo.png",
-    "user_ratings_total": 270,
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/china_club_hong_kong_logo.png",
+    "user_ratings_total": 0,
     "website": "https://www.laisundining.com/the-venues/the-china-club/",
-    "activities": [
-      "billiards"
-    ]
+    "activities": []
   },
   "Club Lusitano": {
-    "formatted_address": "16 Ice House Street, Central, Hong Kong",
-    "formatted_phone_number": "+852 2523 5367",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 22.2802,
-        "lng": 114.1571
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Club Lusitano",
@@ -156,7 +134,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Historic private club founded in 1865 catering primarily to the Portuguese community; offers elegant dining and social events but no sports facilities.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/club_lusitano1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/club_lusitano2.jpg",
@@ -164,22 +142,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/club_lusitano4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/club_lusitano5.jpg"
     ],
-    "rating": 4.5,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/club_lusitano_logo.png",
-    "user_ratings_total": 35,
+    "user_ratings_total": 0,
     "website": "https://www.clublusitano.com",
-    "activities": [
-      "billiards"
-    ]
+    "activities": []
   },
   "Dynasty Club": {
-    "formatted_address": "7/F, South West Tower, Convention Plaza, 1 Harbour Road, Wan Chai, Hong Kong",
-    "formatted_phone_number": "+852 2824 1122",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 22.2811,
-        "lng": 114.1733
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Dynasty Club",
@@ -188,7 +164,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Luxury private club providing sophisticated dining, wellness facilities, and recreational amenities, popular among business professionals and families in central Hong Kong.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/dynasty_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/dynasty_club2.jpg",
@@ -196,26 +172,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/dynasty_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/dynasty_club5.jpg"
     ],
-    "rating": 4.3,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/dynasty_club_logo.png",
-    "user_ratings_total": 64,
+    "user_ratings_total": 0,
     "website": "https://www.dynastyclub.com.hk",
-    "activities": [
-      "Swimming",
-      "fitness",
-      "squash",
-      "bowling",
-      "billiards"
-    ]
+    "activities": []
   },
   "Foreign Correspondents' Club": {
-    "formatted_address": "North Block, 2 Lower Albert Road, Central, Hong Kong",
-    "formatted_phone_number": "+852 2521 1511",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 22.2793,
-        "lng": 114.1553
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Foreign Correspondents' Club",
@@ -224,7 +194,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Historic journalists' club renowned for networking and events focused on journalism, offering dining, a billiards room, and cultural exhibitions in a colonial building.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/foreign_correspondents_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/foreign_correspondents_club2.jpg",
@@ -232,23 +202,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/foreign_correspondents_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/foreign_correspondents_club5.jpg"
     ],
-    "rating": 4.5,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/foreign_correspondents_club_logo.png",
-    "user_ratings_total": 228,
+    "user_ratings_total": 0,
     "website": "https://www.fcchk.org",
-    "activities": [
-      "Billiards",
-      "fitness"
-    ]
+    "activities": []
   },
   "Hebe Haven Yacht Club": {
-    "formatted_address": "10.5 Miles, Hiram's Highway, Pak Sha Wan, Sai Kung, New Territories, Hong Kong",
-    "formatted_phone_number": "+852 2719 9682",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 22.344,
-        "lng": 114.2672
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Hebe Haven Yacht Club",
@@ -257,7 +224,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Family-oriented yacht club in Sai Kung offering sailing facilities, youth programs, watersports, and casual dining in a relaxed seaside environment.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hebe_haven_yacht_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hebe_haven_yacht_club2.jpg",
@@ -265,56 +232,50 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hebe_haven_yacht_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hebe_haven_yacht_club5.jpg"
     ],
-    "rating": 4.4,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hebe_haven_yacht_club_logo.png",
-    "user_ratings_total": 138,
+    "user_ratings_total": 0,
     "website": "https://www.hhyc.org.hk",
-    "activities": [
-      "Yachting",
-      "sailing",
-      "kayaking",
-      "swimming",
-      "fitness"
-    ]
+    "activities": []
   },
-  "The Helena May": {
-    "formatted_address": "35 Garden Road, Central, Hong Kong",
-    "formatted_phone_number": "+852 2522 6766",
+  "Helena May Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 22.2781,
-        "lng": 114.1577
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "The Helena May",
+    "name": "Helena May Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "Historic club established in 1916 providing a tranquil residence and cultural hub primarily for women, featuring a library, dining, and social activities without sports amenities.",
+    "description": "",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_helena_may1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_helena_may2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_helena_may3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_helena_may4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_helena_may5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/helena_may_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/helena_may_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/helena_may_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/helena_may_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/helena_may_club5.jpg"
     ],
-    "rating": 4.5,
+    "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_helena_may_logo.png",
-    "user_ratings_total": 70,
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/helena_may_club_logo.png",
+    "user_ratings_total": 0,
     "website": "https://www.helenamay.com",
     "activities": []
   },
   "Hong Kong Bankers Club": {
-    "formatted_address": "3/F, Nexxus Building, 41 Connaught Road Central, Central, Hong Kong",
-    "formatted_phone_number": "+852 2521 2365",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 22.2834,
-        "lng": 114.1579
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Hong Kong Bankers Club",
@@ -323,7 +284,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Exclusive dining club for banking and finance professionals offering upscale dining, networking events, and private meeting facilities in Central Hong Kong.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_bankers_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_bankers_club2.jpg",
@@ -331,55 +292,50 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_bankers_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_bankers_club5.jpg"
     ],
-    "rating": 4.7,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_bankers_club_logo.png",
-    "user_ratings_total": 15,
+    "user_ratings_total": 0,
     "website": "https://www.hkbankersclub.com",
     "activities": []
   },
-  "The Hong Kong Club": {
-    "formatted_address": "1 Jackson Road, Central, Hong Kong",
-    "formatted_phone_number": "+852 2525 8251",
+  "Hong Kong Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 22.2811,
-        "lng": 114.159
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "The Hong Kong Club",
+    "name": "Hong Kong Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "Hong Kong's oldest prestigious private club offering refined dining, business amenities, squash, billiards, and social events in a distinguished setting.",
+    "description": "",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_hong_kong_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_hong_kong_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_hong_kong_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_hong_kong_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_hong_kong_club5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_club5.jpg"
     ],
-    "rating": 4.6,
+    "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_hong_kong_club_logo.png",
-    "user_ratings_total": 90,
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_club_logo.png",
+    "user_ratings_total": 0,
     "website": "https://www.thehongkongclub.hk",
-    "activities": [
-      "Fitness",
-      "squash",
-      "bowling",
-      "billiards"
-    ]
+    "activities": []
   },
   "Hong Kong Cricket Club": {
-    "formatted_address": "137 Wong Nai Chung Gap Road, Happy Valley, Hong Kong",
-    "formatted_phone_number": "+852 3511 8668",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 22.2587,
-        "lng": 114.1889
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Hong Kong Cricket Club",
@@ -388,7 +344,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Historic sports club with cricket as its heritage sport, offering comprehensive family-friendly recreational amenities including tennis, squash, swimming, and dining.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_cricket_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_cricket_club2.jpg",
@@ -396,26 +352,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_cricket_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_cricket_club5.jpg"
     ],
-    "rating": 4.6,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_cricket_club_logo.png",
-    "user_ratings_total": 97,
+    "user_ratings_total": 0,
     "website": "https://www.hkcc.org",
-    "activities": [
-      "Cricket",
-      "tennis",
-      "squash",
-      "swimming",
-      "fitness"
-    ]
+    "activities": []
   },
   "Hong Kong Football Club": {
     "formatted_address": "3 Sports Road, Happy Valley, Hong Kong",
-    "formatted_phone_number": "+852 2830 9500",
+    "formatted_phone_number": "852 2830 9500 , 85228825040",
     "geometry": {
       "location": {
-        "lat": 22.2737,
-        "lng": 114.1821
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Hong Kong Football Club",
@@ -424,7 +374,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Multi-sport club known for rugby and football, providing extensive sports facilities, dining options, and social events located within Happy Valley Racecourse.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_football_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_football_club2.jpg",
@@ -432,29 +382,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_football_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_football_club5.jpg"
     ],
-    "rating": 4.2,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_football_club_logo.png",
-    "user_ratings_total": 980,
+    "user_ratings_total": 0,
     "website": "https://www.hkfc.com.hk",
-    "activities": [
-      "Football",
-      "rugby",
-      "hockey",
-      "tennis",
-      "squash",
-      "swimming",
-      "fitness",
-      "bowling"
-    ]
+    "activities": []
   },
   "Hong Kong Golf Club": {
-    "formatted_address": "Lot No.1 Fan Kam Road, Fanling, New Territories, Hong Kong; Deep Water Bay Drive, Shouson Hill, Hong Kong",
-    "formatted_phone_number": "+852 2670 1211",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 22.5001,
-        "lng": 114.1273
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Hong Kong Golf Club",
@@ -463,7 +404,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Prestigious golf club featuring championship courses in Fanling and a seaside 9-hole course at Deep Water Bay, known for hosting international tournaments.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_golf_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_golf_club2.jpg",
@@ -471,26 +412,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_golf_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_golf_club5.jpg"
     ],
-    "rating": 4.6,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_golf_club_logo.png",
-    "user_ratings_total": 233,
+    "user_ratings_total": 0,
     "website": "https://www.hkgolfclub.org",
-    "activities": [
-      "Golf",
-      "tennis",
-      "squash",
-      "swimming",
-      "fitness"
-    ]
+    "activities": []
   },
   "Hong Kong Jockey Club": {
-    "formatted_address": "1 Sports Road, Happy Valley, Hong Kong",
-    "formatted_phone_number": "+852 2966 8111",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 22.2745,
-        "lng": 114.182
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Hong Kong Jockey Club",
@@ -499,7 +434,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Prestigious club operating horse racing at Happy Valley and Sha Tin, offering comprehensive recreational facilities, upscale dining, and charitable activities.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_jockey_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_jockey_club2.jpg",
@@ -507,27 +442,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_jockey_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_jockey_club5.jpg"
     ],
-    "rating": 4.7,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/hong_kong_jockey_club_logo.png",
-    "user_ratings_total": 474,
+    "user_ratings_total": 0,
     "website": "https://www.hkjc.com",
-    "activities": [
-      "Horse racing",
-      "tennis",
-      "squash",
-      "swimming",
-      "fitness",
-      "bowling"
-    ]
+    "activities": []
   },
   "Ladies' Recreation Club": {
     "formatted_address": "10 Old Peak Road, Mid-Levels, Hong Kong",
-    "formatted_phone_number": "+852 3199 3500",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 22.2789,
-        "lng": 114.155
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Ladies' Recreation Club",
@@ -536,7 +464,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Family-friendly club in Mid-Levels, offering extensive sports and wellness facilities alongside diverse dining options and frequent social events.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/ladies_recreation_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/ladies_recreation_club2.jpg",
@@ -544,154 +472,101 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/ladies_recreation_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/ladies_recreation_club5.jpg"
     ],
-    "rating": 4.6,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/ladies_recreation_club_logo.png",
-    "user_ratings_total": 79,
+    "user_ratings_total": 0,
     "website": "https://www.lrc.com.hk",
-    "activities": [
-      "Tennis",
-      "squash",
-      "swimming",
-      "fitness",
-      "bowling"
-    ]
-  },
-  "Kowloon Cricket Club": {
-    "formatted_address": "10 Cox's Road, Tsim Sha Tsui, Kowloon, Hong Kong",
-    "formatted_phone_number": "+852 2367 4141",
-    "geometry": {
-      "location": {
-        "lat": 22.3051,
-        "lng": 114.1743
-      }
-    },
-    "name": "Kowloon Cricket Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "Historic Kowloon-based club famous for cricket and lawn bowls, providing comprehensive recreational facilities, family amenities, and social activities.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/kowloon_cricket_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/kowloon_cricket_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/kowloon_cricket_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/kowloon_cricket_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/kowloon_cricket_club5.jpg"
-    ],
-    "rating": 4.5,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/kowloon_cricket_club_logo.png",
-    "user_ratings_total": 149,
-    "website": "https://www.rhkyc.org.hk",
-    "activities": [
-      "Cricket",
-      "tennis",
-      "squash",
-      "swimming",
-      "bowling",
-      "fitness"
-    ]
-  },
-  "Pacific Club": {
-    "formatted_address": "Harbour City, 17 Canton Road, Tsim Sha Tsui, Kowloon, Hong Kong",
-    "formatted_phone_number": "+852 2118 1828",
-    "geometry": {
-      "location": {
-        "lat": 22.295,
-        "lng": 114.1683
-      }
-    },
-    "name": "Pacific Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "Modern private club in Tsim Sha Tsui, featuring harbor-view fitness amenities, dining, and social spaces ideal for business entertainment and family relaxation.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/pacific_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/pacific_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/pacific_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/pacific_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/pacific_club5.jpg"
-    ],
-    "rating": 4.5,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/pacific_club_logo.png",
-    "user_ratings_total": 85,
-    "website": "https://www.pacificclub.com.hk/",
-    "activities": [
-      "Swimming",
-      "fitness",
-      "squash"
-    ]
-  },
-  "Carlyle & Co.": {
-    "formatted_address": "6-8/F, Rosewood Hong Kong, 18 Salisbury Road, Tsim Sha Tsui, Kowloon, Hong Kong",
-    "formatted_phone_number": "+852 2138 2222",
-    "geometry": {
-      "location": {
-        "lat": 22.2949,
-        "lng": 114.1747
-      }
-    },
-    "name": "Carlyle & Co.",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "Luxurious private members' club inspired by New York glamour, providing fine dining, entertainment, and lifestyle services within Rosewood Hong Kong.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/carlyle_co1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/carlyle_co2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/carlyle_co3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/carlyle_co4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/carlyle_co5.jpg"
-    ],
-    "rating": 4.8,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/carlyle_co_logo.png",
-    "user_ratings_total": 40,
-    "website": "https://www.carlyleandco.com/",
     "activities": []
   },
-  "Clearwater Bay Golf & Country Club": {
-    "formatted_address": "139 Tai Au Mun Road, Clearwater Bay, New Territories, Hong Kong",
-    "formatted_phone_number": "+852 2335 3700",
+  "Royal Hong Kong Yacht Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 22.2784,
-        "lng": 114.2843
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "Clearwater Bay Golf & Country Club",
+    "name": "Royal Hong Kong Yacht Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "Prestigious golf and country club offering spectacular ocean-view golf courses, tennis courts, and resort-like recreational amenities in Clearwater Bay.",
+    "description": "",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/clearwater_bay_golf_country_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/clearwater_bay_golf_country_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/clearwater_bay_golf_country_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/clearwater_bay_golf_country_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/clearwater_bay_golf_country_club5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/royal_hong_kong_yacht_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/royal_hong_kong_yacht_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/royal_hong_kong_yacht_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/royal_hong_kong_yacht_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/royal_hong_kong_yacht_club5.jpg"
     ],
-    "rating": 4.7,
+    "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/clearwater_bay_golf_country_club_logo.png",
-    "user_ratings_total": 227,
-    "website": "https://www.cwbgolf.org/",
-    "activities": [
-      "Golf",
-      "tennis",
-      "swimming",
-      "fitness",
-      "squash"
-    ]
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/royal_hong_kong_yacht_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.rhkyc.org.hk",
+    "activities": []
+  },
+  "The Refinery": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Refinery",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_refinery1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_refinery2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_refinery3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_refinery4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_refinery5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/the_refinery_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.refineryclub.com",
+    "activities": []
+  },
+  "Club C+": {
+    "formatted_address": "M1 Baskerville House, 13 Duddell Street, Central",
+    "formatted_phone_number": "+852 2550 2022",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Club C+",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/club_c1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/club_c2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/club_c3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/club_c4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/club_c5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/hong_kong/club_c_logo.png",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": []
   }
 }

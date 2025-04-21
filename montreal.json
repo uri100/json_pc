@@ -1,5 +1,5 @@
 {
-  "Club Saint-James de Montréal": {
+  "Club Saint-James de MontrĂ©al": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Club Saint-James de Montréal",
+    "name": "Club Saint-James de MontrĂ©al",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -92,7 +92,7 @@
     "website": "https://www.forestandstream.ca",
     "activities": []
   },
-  "Le Club Universitaire de Montréal": {
+  "Le Club Universitaire de MontrĂ©al": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -101,7 +101,7 @@
         "lng": 0.0
       }
     },
-    "name": "Le Club Universitaire de Montréal",
+    "name": "Le Club Universitaire de MontrĂ©al",
     "opening_hours": {
       "open_now": false,
       "periods": [],

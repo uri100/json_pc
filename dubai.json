@@ -1,85 +1,73 @@
 {
-  "Capital Club Dubai": {
-    "formatted_address": "Gate Village, Building 3, DIFC, Dubai, UAE",
-    "formatted_phone_number": "+971 4 364 0111",
+  "Capital Club Dubai (Signature Clubs International)": {
+    "formatted_address": "Gate Village, Building 3, Dubai International Financial Centre, Dubai, UAE, PO Box 506536",
+    "formatted_phone_number": "+971 4 3640111",
     "geometry": {
       "location": {
-        "lat": 25.2096,
-        "lng": 55.2799
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "Capital Club Dubai",
+    "name": "Capital Club Dubai (Signature Clubs International)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "Founded in 2008, Capital Club Dubai is one of the UAE’s leading private business clubs located in DIFC. It offers fine dining, bars, meeting rooms, a business center, and a boutique fitness facility, fostering collaboration among business leaders and innovators.",
+    "description": "",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/capital_club_dubai1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/capital_club_dubai2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/capital_club_dubai3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/capital_club_dubai4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/capital_club_dubai5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/capital_club_dubai_signature_clubs_international1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/capital_club_dubai_signature_clubs_international2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/capital_club_dubai_signature_clubs_international3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/capital_club_dubai_signature_clubs_international4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/capital_club_dubai_signature_clubs_international5.jpg"
     ],
-    "rating": 4.4,
+    "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/capital_club_dubai_logo.png",
-    "user_ratings_total": 120,
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/capital_club_dubai_signature_clubs_international_logo.png",
+    "user_ratings_total": 0,
     "website": "https://www.capitalclubdubai.com",
     "activities": [
-      "Fitness",
-      "gym"
+      "athletic"
     ]
   },
-  "India Club": {
-    "formatted_address": "Oud Metha Road, (near Indian High School), Dubai, UAE",
-    "formatted_phone_number": "+971 4 337 1112",
+  "India Club Dubai": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 25.2408,
-        "lng": 55.3122
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "India Club",
+    "name": "India Club Dubai",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "Established in 1964, India Club Dubai is a large social and sports club serving the Indian community. Spread over a spacious campus in Oud Metha, it offers a wide range of sports facilities, dining options, banquet halls, and cultural events, boasting over 6,500 members.",
+    "description": "",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/india_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/india_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/india_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/india_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/india_club5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/india_club_dubai1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/india_club_dubai2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/india_club_dubai3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/india_club_dubai4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/india_club_dubai5.jpg"
     ],
-    "rating": 4.5,
+    "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/india_club_logo.png",
-    "user_ratings_total": 1300,
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/india_club_dubai_logo.png",
+    "user_ratings_total": 0,
     "website": "https://www.indiaclubdubai.com",
-    "activities": [
-      "badminton",
-      "tennis",
-      "squash",
-      "basketball",
-      "volleyball",
-      "cricket",
-      "table tennis",
-      "billiards",
-      "swimming",
-      "gym"
-    ]
+    "activities": []
   },
   "World Trade Club": {
-    "formatted_address": "33rd Floor, Sheikh Rashid Tower (Dubai World Trade Centre), Sheikh Zayed Road, Dubai, UAE",
-    "formatted_phone_number": "+971 4 309 7979",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 25.2235,
-        "lng": 55.284
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "World Trade Club",
@@ -88,7 +76,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Opened in 1989, the World Trade Club is a private business club located on the 33rd floor of the Dubai World Trade Centre. It offers panoramic city views and exclusive dining, lounge, and conference facilities for government officials, diplomats, and business professionals.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/world_trade_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/world_trade_club2.jpg",
@@ -96,80 +84,80 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/world_trade_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/world_trade_club5.jpg"
     ],
-    "rating": 4.7,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/world_trade_club_logo.png",
-    "user_ratings_total": 30,
-    "website": "",
+    "user_ratings_total": 0,
+    "website": "https://www.dwtc.com",
     "activities": []
   },
-  "The Arts Club Dubai": {
-    "formatted_address": "ICD Brookfield Place, DIFC, Dubai, UAE",
-    "formatted_phone_number": "+971 4 350 8000",
-    "geometry": {
-      "location": {
-        "lat": 25.2055,
-        "lng": 55.2719
-      }
-    },
-    "name": "The Arts Club Dubai",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "An extension of the Arts Club in London, The Arts Club Dubai opened in 2020 in a Foster+Partners-designed building. It features multiple restaurants, a rooftop terrace, a late-night club, a cigar lounge, and private event spaces, blending classic heritage with contemporary style.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/the_arts_club_dubai1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/the_arts_club_dubai2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/the_arts_club_dubai3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/the_arts_club_dubai4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/the_arts_club_dubai5.jpg"
-    ],
-    "rating": 4.8,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/the_arts_club_dubai_logo.png",
-    "user_ratings_total": 100,
-    "website": "https://www.theartsclub.ae",
-    "activities": []
-  },
-  "Neéra": {
-    "formatted_address": "Al Habtoor City, Sheikh Zayed Road, Dubai, UAE",
+  "The Arts Club in Dubai": {
+    "formatted_address": "Dubai International Financial Centre (DIFC), within ICD Brookfield Place",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 25.1841,
-        "lng": 55.2542
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "Neéra",
+    "name": "The Arts Club in Dubai",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "Neéra is a forthcoming private members club in Dubai shrouded in mystery and centered on sustainability and wellness. Slated to be an invitation-only retreat, Neéra promises an oasis of calm amid the city’s bustle. It is rumored to champion eco-friendly living and mindful practices: “a sanctuary where eco-friendly living and mindful wellness are celebrated”. The club’s concept emphasizes green spaces, a serene atmosphere, and a community united by conscience and heart. (As of the latest update, Neéra has been in development, generating buzz for its novel approach to exclusive club life focused on environmental ethos.)",
+    "description": "The Arts Club Dubai, an extension of the historic London club founded in 1863, brings a piece of cultural and artistic heritage to DIFC's ICD Brookfield Place. The social club features sophisticated interiors with a blend of contemporary and classic design, spanning several floors with three restaurants, a library, a rooftop terrace, a nightclub, a cigar lounge, and a blank canvas events space where creativity flows as freely as the cocktails (or mocktails).",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/nera1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/nera2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/nera3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/nera4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/nera5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/the_arts_club_in_dubai1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/the_arts_club_in_dubai2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/the_arts_club_in_dubai3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/the_arts_club_in_dubai4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/the_arts_club_in_dubai5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/nera_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/the_arts_club_in_dubai_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.neeradubai.com",
+    "website": "https://www.https://www.theartsclub.ae/",
+    "activities": []
+  },
+  "Neera": {
+    "formatted_address": "Al Habtoor City - Sheikh Zayed Rd - Dubai",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Neera",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Neera, though shrouded in mystery, is rumored to be Dubai's latest enclave of exclusivity, championing sustainability and wellness. Picture a sanctuary where eco-friendly living and mindful wellness are not just encouraged but celebrated. \n \n\n With an emphasis on green spaces and a serene atmosphere, the exclusive club is poised to be an invitation-only retreat for those who lead with conscience and live by the heart. Membership requirements whisper of an allegiance to the earth and to each other, promising an oasis of calm in the desert city",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/neera1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/neera2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/neera3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/neera4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/neera5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/neera_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.https://www.neeradubai.com/",
     "activities": []
   },
   "Nasab": {
-    "formatted_address": "Wadi Al Safa 3, near Mohammed Bin Rashid Gardens, Dubai, UAE",
-    "formatted_phone_number": "+971 4 586 7711",
+    "formatted_address": "Wadi Al Safa 3, close to Mohammed Bin Rashid Gardens",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 25.0468,
-        "lng": 55.279
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Nasab",
@@ -178,7 +166,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Opened in 2019 by KOA, Nasab is a modern hybrid of a members’ social club and a co-working space. It reimagines work-life balance in a resort-like setting on the outskirts of Dubai. Nasab’s stylish campus offers collaborative workspaces, private offices, artfully designed lounges, two outdoor pools, a high-tech gym, paddle tennis court, and a rotation of wellness classes. The vibe is luxurious yet creative – “where work meets play in a luxurious setting”. Membership is extremely selective, targeting successful creatives, entrepreneurs, and innovators. Nasab provides a holistic lifestyle environment (“an extended living room”) for those blurring the lines between business, leisure, and well-being.",
+    "description": "Nasab reimagines the workspace and social club concept with a stylish twist, launched by KOA in 2019. It's where work meets play in a luxurious setting, blending coworking spaces with wellness facilities, pools, private offices and a vibe that's as productive as it is relaxing. \n \n\n As one of the most exclusive clubs in Dubai, Nasab membership is extremely selective and aimed at highly successful creatives, entrepreneurs, and professionals. Tailored to discerning individuals, membership at Nasab means joining a dynamic community that values balance, design, and a good espresso.\n \n\n It's the ultimate backdrop for those who live to blur the lines between work and leisure, providing a holistic approach to the professional lifestyle in a meticulously designed, modern setting.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/nasab1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/nasab2.jpg",
@@ -186,33 +174,29 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/nasab4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/nasab5.jpg"
     ],
-    "rating": 4.6,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/nasab_logo.png",
-    "user_ratings_total": 90,
-    "website": "https://nasabdubai.com",
-    "activities": [
-      "swimming",
-      "fitness",
-      "yoga"
-    ]
+    "user_ratings_total": 0,
+    "website": "https://www.https://nasabdubai.com/",
+    "activities": []
   },
-  "Za’abeel Sports District": {
-    "formatted_address": "9th Floor, The Dubai Mall – Zabeel Extension, Financial Centre Road, Za’abeel 2, Dubai, UAE",
+  "Za'abeel Sports District": {
+    "formatted_address": "9th Floor, The Dubai Mall Zabeel, Financial Centre Road, Za'abeel 2",
     "formatted_phone_number": "+971 50 760 8475",
     "geometry": {
       "location": {
-        "lat": 25.1987,
-        "lng": 55.2799
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "Za’abeel Sports District",
+    "name": "Za'abeel Sports District",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "Za’abeel Sports District is a new urban sports hub located on a 20,000 sq ft rooftop in Downtown Dubai. Opened in 2022 on top of the Dubai Mall’s Zabeel extension, it offers state-of-the-art facilities for a variety of sports. Members (and pay-to-play visitors) can enjoy five indoor padel courts, a basketball/volleyball court, badminton courts, and even a cricket training pitch – all with skyline views. The complex is designed for both casual play and professional training, and frequently hosts sports events and tournaments. It provides a unique, climate-controlled environment for sports enthusiasts in the heart of the city.",
+    "description": "A dynamic sports complex spanning 20,000 sqft, offering state-of-the-art facilities for various sports, located on the rooftop of Dubai Mall.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/zaabeel_sports_district1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/zaabeel_sports_district2.jpg",
@@ -220,14 +204,13 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/zaabeel_sports_district4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/zaabeel_sports_district5.jpg"
     ],
-    "rating": 4.9,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/zaabeel_sports_district_logo.png",
-    "user_ratings_total": 70,
-    "website": "https://zabeelsportsdistrict.com",
+    "user_ratings_total": 0,
+    "website": "https://www.https://zabeelsportsdistrict.com/",
     "activities": [
-      "padel",
-      "tennis",
+      "Padel tennis",
       "basketball",
       "volleyball",
       "badminton",
@@ -235,12 +218,12 @@
     ]
   },
   "Champs Sports Club": {
-    "formatted_address": "Al Quoz Industrial Area 3, Dubai, UAE",
-    "formatted_phone_number": "+971 4 338 8901",
+    "formatted_address": "Al Quoz Industrial Area 3",
+    "formatted_phone_number": "`+971 4 338 8901",
     "geometry": {
       "location": {
-        "lat": 25.1445,
-        "lng": 55.2328
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Champs Sports Club",
@@ -249,7 +232,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Champs Sports Club is a comprehensive youth-oriented sports academy and club in Dubai focusing on personal development through sports. It offers coaching programs in a range of disciplines: football, basketball, swimming, martial arts, and more. The club features indoor and outdoor training facilities and emphasizes building discipline, teamwork, and confidence in its members. Champs is also a community hub that hosts sports tournaments, summer camps, and wellness workshops. With a mission to “build champions in sport and life,” the club caters to children and teens looking to train in a professional yet supportive environment.",
+    "description": "A comprehensive sports club offering training in various disciplines, with a focus on personal development and community engagement.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/champs_sports_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/champs_sports_club2.jpg",
@@ -257,26 +240,25 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/champs_sports_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/champs_sports_club5.jpg"
     ],
-    "rating": 4.8,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/champs_sports_club_logo.png",
-    "user_ratings_total": 40,
-    "website": "https://champs-sportsclub.com",
+    "user_ratings_total": 0,
+    "website": "https://www.https://champssportsclub.com/",
     "activities": [
-      "football",
+      "Football",
       "basketball",
       "swimming",
-      "martial arts",
-      "gym"
+      "martial arts"
     ]
   },
   "Al Nasr Leisureland": {
-    "formatted_address": "Oud Metha Road, Dubai, UAE",
-    "formatted_phone_number": "+971 4 337 1234",
+    "formatted_address": "Oud Metha Road, Dubai",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 25.2295,
-        "lng": 55.3121
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Al Nasr Leisureland",
@@ -285,7 +267,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Opened in 1979, Al Nasr Leisureland is a family-oriented sports and entertainment club in central Dubai. It occupies a large park-like complex and offers a wide array of activities: from an Olympic-size ice rink (one of the first in Dubai) to tennis and squash courts, a bowling center, a swimming pool, and a health club. Leisureland also has a fun-fair area with rides, a roller skating rink, restaurants, and banquet halls. It has historically been a popular spot for community events, sports leagues, and concerts. The club welcomes both members and day-pass visitors, reflecting Dubai’s heritage of community recreation spanning decades.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/al_nasr_leisureland1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/al_nasr_leisureland2.jpg",
@@ -293,18 +275,11 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/al_nasr_leisureland4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/al_nasr_leisureland5.jpg"
     ],
-    "rating": 4.1,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/dubai/al_nasr_leisureland_logo.png",
-    "user_ratings_total": 1700,
+    "user_ratings_total": 0,
     "website": "https://www.alnasrll.com",
-    "activities": [
-      "tennis",
-      "squash",
-      "bowling",
-      "ice skating",
-      "swimming",
-      "gym"
-    ]
+    "activities": []
   }
 }

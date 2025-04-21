@@ -1,11 +1,11 @@
 {
   "Acres Club": {
-    "formatted_address": "411-B, Hemu Kalani Marg, Sindhi Society, Chembur East, Mumbai 400071, India",
-    "formatted_phone_number": "+91 22 68541100",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 19.052126,
-        "lng": 72.892426
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Acres Club",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Acres Club opened in 2000 in Chembur and quickly became one of the area’s finest lifestyle clubs. It offers a wide range of sports amenities including a pool, courts for tennis, badminton, squash, a football turf, table tennis and a gym, along with dining and event venues. The club serves over 2,000 members and is part of the Apurva Natvar Parikh Group.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/acres_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/acres_club2.jpg",
@@ -22,29 +22,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/acres_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/acres_club5.jpg"
     ],
-    "rating": 4.2,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/acres_club_logo.png",
-    "user_ratings_total": 5754,
+    "user_ratings_total": 0,
     "website": "https://www.theacresclub.com",
-    "activities": [
-      "swimming",
-      "tennis",
-      "football",
-      "badminton",
-      "squash",
-      "table tennis",
-      "basketball",
-      "gym"
-    ]
+    "activities": []
   },
   "Andheri Recreation Club": {
-    "formatted_address": "Dadabhai Road, Opp. Bhavan's College, Andheri (West), Mumbai 400058, India",
-    "formatted_phone_number": "+91 22 26239891",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 19.118662,
-        "lng": 72.837978
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Andheri Recreation Club",
@@ -53,7 +44,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Founded in 1970, the Andheri Recreation Club in Andheri West offers members a blend of luxury and comprehensive sports facilities. The club features a swimming pool, lawn tennis and squash courts, badminton and table tennis areas, as well as a modern gym and health club. It is a strictly vegetarian club with banquet halls, a restaurant, guest rooms, and other amenities.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/andheri_recreation_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/andheri_recreation_club2.jpg",
@@ -61,27 +52,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/andheri_recreation_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/andheri_recreation_club5.jpg"
     ],
-    "rating": 4.3,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/andheri_recreation_club_logo.png",
-    "user_ratings_total": 627,
+    "user_ratings_total": 0,
     "website": "https://www.andherirecreationclub.com",
-    "activities": [
-      "swimming",
-      "tennis",
-      "badminton",
-      "squash",
-      "table tennis",
-      "gym"
-    ]
+    "activities": []
   },
   "Bombay Gymkhana": {
     "formatted_address": "Mahatma Gandhi Road, Fort, Mumbai 400001, India",
-    "formatted_phone_number": "+91 22 43223400",
+    "formatted_phone_number": "91 22 2207 0311 , 912222070431",
     "geometry": {
       "location": {
-        "lat": 18.9374306,
-        "lng": 72.8312111
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Bombay Gymkhana",
@@ -90,7 +74,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Established in 1875, Bombay Gymkhana is one of Mumbai’s premier private clubs. It offers facilities for rugby, football, cricket, swimming, tennis, badminton, squash, and a fitness centre. It hosted India’s first Test cricket match in 1933 and continues to be an exclusive club with a rich sporting heritage.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_gymkhana1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_gymkhana2.jpg",
@@ -98,29 +82,24 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_gymkhana4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_gymkhana5.jpg"
     ],
-    "rating": 4.6,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_gymkhana_logo.png",
-    "user_ratings_total": 2293,
+    "user_ratings_total": 0,
     "website": "https://www.bombaygymkhana.com",
     "activities": [
-      "rugby",
-      "football",
-      "cricket",
-      "swimming",
       "tennis",
-      "badminton",
-      "squash",
-      "gym"
+      "athletic",
+      "swimming"
     ]
   },
   "Bombay Presidency Golf Club": {
-    "formatted_address": "Dr. Choitram Gidwani Road, Chembur, Mumbai 400074, India",
-    "formatted_phone_number": "+91 22 50965000",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 19.0461896,
-        "lng": 72.8962612
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Bombay Presidency Golf Club",
@@ -129,7 +108,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Bombay Presidency Golf Club (BPGC) is one of the oldest and most famous golf clubs in Mumbai. Established in 1927, it features an 18-hole Par-70 course, clubhouse, dining, swimming pool, and fitness amenities. It serves as a hub for Mumbai’s golf community.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_presidency_golf_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_presidency_golf_club2.jpg",
@@ -137,24 +116,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_presidency_golf_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_presidency_golf_club5.jpg"
     ],
-    "rating": 4.4,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_presidency_golf_club_logo.png",
-    "user_ratings_total": 3624,
+    "user_ratings_total": 0,
     "website": "https://www.bpgc-golf.com",
-    "activities": [
-      "golf",
-      "swimming",
-      "gym"
-    ]
+    "activities": []
   },
   "Bombay Presidency Radio Club": {
-    "formatted_address": "157, Arthur Bunder Road, Colaba, Mumbai 400005, India",
-    "formatted_phone_number": "+91 22 22845025",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 18.918306,
-        "lng": 72.823104
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Bombay Presidency Radio Club",
@@ -163,7 +138,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Established in 1928, Radio Club offers a sea-facing pool, indoor sports, and a health club near the Gateway of India. It blends vintage charm with modern recreation for its private members.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_presidency_radio_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_presidency_radio_club2.jpg",
@@ -171,26 +146,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_presidency_radio_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_presidency_radio_club5.jpg"
     ],
-    "rating": 4.4,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/bombay_presidency_radio_club_logo.png",
-    "user_ratings_total": 4566,
+    "user_ratings_total": 0,
     "website": "https://www.radioclub.in",
-    "activities": [
-      "swimming",
-      "badminton",
-      "table tennis",
-      "cricket",
-      "gym"
-    ]
+    "activities": []
   },
   "Breach Candy Swimming & Bath Trust": {
-    "formatted_address": "66 Bhulabhai Desai Road, Breach Candy, Mumbai 400026, India",
-    "formatted_phone_number": "+91 22 2369 4902",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 18.9711,
-        "lng": 72.8075
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Breach Candy Swimming & Bath Trust",
@@ -199,7 +168,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Breach Candy Club is known for its iconic seafront saltwater swimming pool. It also features tennis courts, a fitness center, and dining. Membership is exclusive and highly coveted.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/breach_candy_swimming_bath_trust1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/breach_candy_swimming_bath_trust2.jpg",
@@ -207,24 +176,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/breach_candy_swimming_bath_trust4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/breach_candy_swimming_bath_trust5.jpg"
     ],
-    "rating": 4.5,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/breach_candy_swimming_bath_trust_logo.png",
-    "user_ratings_total": 448,
-    "website": "https://breachcandyclub.com",
-    "activities": [
-      "swimming",
-      "tennis",
-      "gym"
-    ]
+    "user_ratings_total": 0,
+    "website": "https://www.economictimes.indiatimes.com/pay-1-12-crore-to-join-mumbais-oldest-club-the-breach-candy-club/articleshow/20867898.cms",
+    "activities": []
   },
   "Catholic Gymkhana": {
-    "formatted_address": "47-A, Netaji Subhash Road, Marine Drive, Mumbai 400002, India",
-    "formatted_phone_number": "+91 22 22814755",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 18.9435,
-        "lng": 72.8236
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Catholic Gymkhana",
@@ -233,7 +198,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Founded over a century ago, this club offers indoor sports and social spaces for the Catholic community, located right on Marine Drive.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/catholic_gymkhana1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/catholic_gymkhana2.jpg",
@@ -241,24 +206,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/catholic_gymkhana4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/catholic_gymkhana5.jpg"
     ],
-    "rating": 4.3,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/catholic_gymkhana_logo.png",
-    "user_ratings_total": 1072,
+    "user_ratings_total": 0,
     "website": "https://www.catholicgymkhana.com",
-    "activities": [
-      "badminton",
-      "table tennis",
-      "gym"
-    ]
+    "activities": []
   },
   "Celebration Sports Club": {
-    "formatted_address": "Garden No.5, Lokhandwala Complex, Andheri (West), Mumbai 400053, India",
-    "formatted_phone_number": "+91 8097810572",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 19.1345,
-        "lng": 72.8267
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Celebration Sports Club",
@@ -267,7 +228,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Modern suburban club with extensive sports infrastructure including tennis, squash, cricket, and skating rinks. Offers pool, gym, dining and event spaces.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/celebration_sports_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/celebration_sports_club2.jpg",
@@ -275,28 +236,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/celebration_sports_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/celebration_sports_club5.jpg"
     ],
-    "rating": 4.3,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/celebration_sports_club_logo.png",
-    "user_ratings_total": 1154,
+    "user_ratings_total": 0,
     "website": "https://www.thecelebrationsportsclub.com",
-    "activities": [
-      "badminton",
-      "cricket",
-      "skating",
-      "squash",
-      "tennis",
-      "table tennis",
-      "billiards"
-    ]
+    "activities": []
   },
   "Chembur Gymkhana": {
-    "formatted_address": "16th Road, Near Ambedkar Garden, Chembur East, Mumbai 400071, India",
-    "formatted_phone_number": "+91 22 41353500",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 19.0583,
-        "lng": 72.9006
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Chembur Gymkhana",
@@ -305,7 +258,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Located in the heart of Chembur, this club provides family-friendly sports facilities and recreational amenities for members.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/chembur_gymkhana1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/chembur_gymkhana2.jpg",
@@ -313,28 +266,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/chembur_gymkhana4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/chembur_gymkhana5.jpg"
     ],
-    "rating": 4.3,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/chembur_gymkhana_logo.png",
-    "user_ratings_total": 4777,
+    "user_ratings_total": 0,
     "website": "https://www.chemburgymkhana.in",
-    "activities": [
-      "swimming",
-      "tennis",
-      "badminton",
-      "squash",
-      "table tennis",
-      "billiards",
-      "gym"
-    ]
+    "activities": []
   },
   "Cricket Club of India": {
-    "formatted_address": "Brabourne Stadium, Dinshaw Vacha Road, Churchgate, Mumbai 400020, India",
-    "formatted_phone_number": "+91 22 67853600",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 18.9352,
-        "lng": 72.8277
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Cricket Club of India",
@@ -343,7 +288,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "CCI is one of India’s top sporting institutions, featuring the historic Brabourne Stadium. Offers world-class sports, dining, and event venues for elite members.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/cricket_club_of_india1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/cricket_club_of_india2.jpg",
@@ -351,28 +296,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/cricket_club_of_india4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/cricket_club_of_india5.jpg"
     ],
-    "rating": 4.6,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/cricket_club_of_india_logo.png",
-    "user_ratings_total": 2365,
+    "user_ratings_total": 0,
     "website": "https://www.thecricketclubofindia.com",
-    "activities": [
-      "cricket",
-      "tennis",
-      "badminton",
-      "squash",
-      "swimming",
-      "billiards",
-      "gym"
-    ]
+    "activities": []
   },
   "Dadar Club": {
-    "formatted_address": "Lokmanya Tilak Colony, Lane No.3, Dadar (East), Mumbai 400014, India",
-    "formatted_phone_number": "+91 9930032971",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 19.0202,
-        "lng": 72.8525
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Dadar Club",
@@ -381,7 +318,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Dadar Club is a modern recreational club offering indoor sports like badminton and table tennis, a gym, and event spaces. It serves as a local hub for fitness and community events.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/dadar_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/dadar_club2.jpg",
@@ -389,24 +326,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/dadar_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/dadar_club5.jpg"
     ],
-    "rating": 4.2,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/dadar_club_logo.png",
-    "user_ratings_total": 1654,
+    "user_ratings_total": 0,
     "website": "https://www.dadarclub.com",
-    "activities": [
-      "badminton",
-      "table tennis",
-      "gym"
-    ]
+    "activities": []
   },
   "Ghatkopar Jolly Gymkhana": {
-    "formatted_address": "Kirol Street, Jugaldas Modi Marg, Ghatkopar (West), Mumbai 400086, India",
-    "formatted_phone_number": "+91 22 25112137",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 19.0896,
-        "lng": 72.9012
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Ghatkopar Jolly Gymkhana",
@@ -415,7 +348,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "One of the oldest clubs in the eastern suburbs, it offers a range of sports facilities including tennis courts, swimming pool, indoor games and a health club.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/ghatkopar_jolly_gymkhana1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/ghatkopar_jolly_gymkhana2.jpg",
@@ -423,27 +356,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/ghatkopar_jolly_gymkhana4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/ghatkopar_jolly_gymkhana5.jpg"
     ],
-    "rating": 4.3,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/ghatkopar_jolly_gymkhana_logo.png",
-    "user_ratings_total": 3790,
+    "user_ratings_total": 0,
     "website": "https://www.jollygymkhana.in",
-    "activities": [
-      "swimming",
-      "tennis",
-      "badminton",
-      "table tennis",
-      "gym",
-      "yoga"
-    ]
+    "activities": []
   },
   "Golden Swan Country Club": {
-    "formatted_address": "Yeoor Hills, Off Pokharan Road No.1, Thane (West) 400606, India",
-    "formatted_phone_number": "+91 22 25856515",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 19.2362,
-        "lng": 72.956
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Golden Swan Country Club",
@@ -452,7 +378,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Set in scenic Yeoor Hills, this 26-acre country club offers a 9-hole golf course, swimming pools, tennis, nature trails and resort-like amenities for leisure and events.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/golden_swan_country_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/golden_swan_country_club2.jpg",
@@ -460,24 +386,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/golden_swan_country_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/golden_swan_country_club5.jpg"
     ],
-    "rating": 4.2,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/golden_swan_country_club_logo.png",
-    "user_ratings_total": 1999,
+    "user_ratings_total": 0,
     "website": "https://www.goldenswan.com",
-    "activities": [
-      "golf",
-      "swimming",
-      "tennis"
-    ]
+    "activities": []
   },
   "Indus Club": {
-    "formatted_address": "One BKC, A Wing, 4th Floor, Bandra Kurla Complex, Mumbai 400051, India",
-    "formatted_phone_number": "+91 22 4160 0800",
+    "formatted_address": "One BKC, A Wing, Level 4, BKC, Mumbai 400051",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 19.0625,
-        "lng": 72.8681
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Indus Club",
@@ -486,7 +408,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "An elite members-only business and social club offering a luxury gym, spa, co-working areas, fine dining, and event space. Membership is by invitation only.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/indus_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/indus_club2.jpg",
@@ -494,23 +416,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/indus_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/indus_club5.jpg"
     ],
-    "rating": 4.7,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/indus_club_logo.png",
-    "user_ratings_total": 222,
+    "user_ratings_total": 0,
     "website": "https://www.theindusclub.com",
-    "activities": [
-      "gym",
-      "spa"
-    ]
+    "activities": []
   },
   "Islam Gymkhana": {
-    "formatted_address": "Netaji Subhash Chandra Bose Road, Marine Lines, Mumbai 400002, India",
-    "formatted_phone_number": "+91 22 2202 2611",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 18.9435,
-        "lng": 72.8236
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Islam Gymkhana",
@@ -519,7 +438,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Islam Gymkhana is a historic seafront club on Marine Drive with a large sports ground used for cricket and football, mainly serving the Muslim community.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/islam_gymkhana1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/islam_gymkhana2.jpg",
@@ -527,23 +446,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/islam_gymkhana4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/islam_gymkhana5.jpg"
     ],
-    "rating": 4.3,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/islam_gymkhana_logo.png",
-    "user_ratings_total": 3009,
-    "website": "https://www.islamgymkhana.in",
-    "activities": [
-      "cricket",
-      "football"
-    ]
+    "user_ratings_total": 0,
+    "website": "https://www.wikipedia.org/wiki/Islam_Gymkhana,_Mumbai",
+    "activities": []
   },
   "Jolie's": {
-    "formatted_address": "Birla Centurion, Worli, Mumbai 400030, India",
-    "formatted_phone_number": "+91 8657556600",
+    "formatted_address": "Birla Centurion, Worli",
+    "formatted_phone_number": "91 86 5755 6600",
     "geometry": {
       "location": {
-        "lat": 18.9986,
-        "lng": 72.8175
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Jolie's",
@@ -552,7 +468,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Jolie's is a boutique, members-only club known for luxury experiences, fine dining, elite networking, and wellness facilities including a spa and gym. Invite-only.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/jolies1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/jolies2.jpg",
@@ -560,23 +476,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/jolies4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/jolies5.jpg"
     ],
-    "rating": 4.5,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/jolies_logo.png",
-    "user_ratings_total": 162,
-    "website": "https://clubjolies.com",
-    "activities": [
-      "gym",
-      "spa"
-    ]
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": []
   },
   "Juhu Vile Parle Gymkhana Club": {
-    "formatted_address": "N.S. Road No. 13, JVPD Scheme, Juhu, Mumbai 400049, India",
-    "formatted_phone_number": "+91 22 26203081",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 19.1155,
-        "lng": 72.8263
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Juhu Vile Parle Gymkhana Club",
@@ -585,7 +498,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Founded in 1925, JVPG Club offers a full suite of sports and recreation amenities for members, including swimming, racket sports, dining, and social spaces.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/juhu_vile_parle_gymkhana_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/juhu_vile_parle_gymkhana_club2.jpg",
@@ -593,27 +506,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/juhu_vile_parle_gymkhana_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/juhu_vile_parle_gymkhana_club5.jpg"
     ],
-    "rating": 4.3,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/juhu_vile_parle_gymkhana_club_logo.png",
-    "user_ratings_total": 3140,
+    "user_ratings_total": 0,
     "website": "https://www.jvpgclub.com",
-    "activities": [
-      "swimming",
-      "tennis",
-      "badminton",
-      "squash",
-      "table tennis",
-      "gym"
-    ]
+    "activities": []
   },
   "Khar Gymkhana": {
-    "formatted_address": "13th Road, Khar (West), Mumbai 400052, India",
-    "formatted_phone_number": "+91 22 26495865",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 19.0663,
-        "lng": 72.8355
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Khar Gymkhana",
@@ -622,7 +528,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "A legacy suburban club with extensive sports infrastructure including swimming, racket sports, a shooting range, and gym facilities. Popular among Bandra/Khar residents.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/khar_gymkhana1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/khar_gymkhana2.jpg",
@@ -630,28 +536,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/khar_gymkhana4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/khar_gymkhana5.jpg"
     ],
-    "rating": 4.2,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/khar_gymkhana_logo.png",
-    "user_ratings_total": 4323,
+    "user_ratings_total": 0,
     "website": "https://www.khargymkhana.com",
-    "activities": [
-      "swimming",
-      "tennis",
-      "badminton",
-      "squash",
-      "table tennis",
-      "shooting",
-      "gym"
-    ]
+    "activities": []
   },
   "Medical College Gymkhana": {
-    "formatted_address": "Marine Lines, Mumbai 400020, India",
+    "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 18.9435,
-        "lng": 72.8236
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Medical College Gymkhana",
@@ -660,7 +558,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "A gymkhana primarily for medical students and staff of Mumbai’s medical colleges. Includes a cricket ground and space for college-level sports and events.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/medical_college_gymkhana1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/medical_college_gymkhana2.jpg",
@@ -672,18 +570,16 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/medical_college_gymkhana_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.club10gymkhana.com",
-    "activities": [
-      "cricket"
-    ]
+    "website": "",
+    "activities": []
   },
   "National Sports Club of India (NSCI)": {
-    "formatted_address": "Lala Lajpatrai Marg, Royal Western India Turf Club, Mahalakshmi, Mumbai 400018, India",
-    "formatted_phone_number": "+91 22 24938813",
+    "formatted_address": "Lala Lajpatrai Marg, Royal Western India Turf Club, Mahalakshmi, Mumbai, Maharashtra 400018, India",
+    "formatted_phone_number": "+91 22 2493 8813",
     "geometry": {
       "location": {
-        "lat": 18.979,
-        "lng": 72.817
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "National Sports Club of India (NSCI)",
@@ -692,7 +588,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "NSCI is one of Mumbai’s premier multisport clubs, offering world-class sports courts, a large pool, gym, and its iconic indoor stadium (NSCI Dome) for events.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/national_sports_club_of_india_nsci1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/national_sports_club_of_india_nsci2.jpg",
@@ -700,26 +596,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/national_sports_club_of_india_nsci4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/national_sports_club_of_india_nsci5.jpg"
     ],
-    "rating": 4.4,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/national_sports_club_of_india_nsci_logo.png",
-    "user_ratings_total": 6405,
+    "user_ratings_total": 0,
     "website": "https://www.nscimumbai.com",
-    "activities": [
-      "badminton",
-      "tennis",
-      "squash",
-      "swimming",
-      "gym"
-    ]
+    "activities": []
   },
   "Navi Mumbai Sports Association": {
-    "formatted_address": "Sector 1A, Vashi, Navi Mumbai 400703, India",
-    "formatted_phone_number": "+91 22 27821897",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 19.0726,
-        "lng": 72.9986
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Navi Mumbai Sports Association",
@@ -728,7 +618,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "NMSA is a large-scale sports complex in Vashi offering an Olympic-sized pool, tennis, badminton, squash, table tennis, gym and frequent competitions and coaching programs.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/navi_mumbai_sports_association1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/navi_mumbai_sports_association2.jpg",
@@ -736,27 +626,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/navi_mumbai_sports_association4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/navi_mumbai_sports_association5.jpg"
     ],
-    "rating": 4.3,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/navi_mumbai_sports_association_logo.png",
-    "user_ratings_total": 4360,
+    "user_ratings_total": 0,
     "website": "https://www.nmsaindia.com",
-    "activities": [
-      "swimming",
-      "tennis",
-      "badminton",
-      "table tennis",
-      "squash",
-      "gym"
-    ]
+    "activities": []
   },
   "Parmananddas Jivandas Hindu Gymkhana": {
-    "formatted_address": "Netaji Subhash Road, Marine Drive, Mumbai 400002, India",
-    "formatted_phone_number": "+91 2281 2126",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 18.9435,
-        "lng": 72.8236
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Parmananddas Jivandas Hindu Gymkhana",
@@ -765,7 +648,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "One of the oldest community gymkhanas on Marine Drive, with a cricket ground and tennis courts. Membership is primarily community-based, with deep historic roots.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/parmananddas_jivandas_hindu_gymkhana1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/parmananddas_jivandas_hindu_gymkhana2.jpg",
@@ -778,18 +661,15 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/parmananddas_jivandas_hindu_gymkhana_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.pjhindugymkhana.com",
-    "activities": [
-      "cricket",
-      "tennis"
-    ]
+    "activities": []
   },
   "Parsi Gymkhana": {
-    "formatted_address": "Netaji Subhash Road, Marine Drive, Mumbai 400002, India",
-    "formatted_phone_number": "+91 22 2281 1869",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 18.9435,
-        "lng": 72.8236
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Parsi Gymkhana",
@@ -798,7 +678,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Historic seafront club established in 1888 for the Parsi community. Primarily known for its cricket ground, it continues to host matches and community events.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/parsi_gymkhana1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/parsi_gymkhana2.jpg",
@@ -806,22 +686,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/parsi_gymkhana4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/parsi_gymkhana5.jpg"
     ],
-    "rating": 4.3,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/parsi_gymkhana_logo.png",
-    "user_ratings_total": 1058,
-    "website": "https://parseegymkhana.in",
-    "activities": [
-      "cricket"
-    ]
+    "user_ratings_total": 0,
+    "website": "https://www.wikipedia.org/wiki/Parsi_Gymkhana,_Marine_Drive",
+    "activities": []
   },
   "Ripon Club": {
-    "formatted_address": "Mahatma Gandhi Road, Fort, Mumbai 400001, India",
-    "formatted_phone_number": "+91 22 22650445",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 18.9374306,
-        "lng": 72.8312111
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Ripon Club",
@@ -830,7 +708,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "A heritage dining and social club associated with the Parsi community. It offers reading rooms, a dining hall and card room, but minimal sports infrastructure.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/ripon_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/ripon_club2.jpg",
@@ -838,20 +716,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/ripon_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/ripon_club5.jpg"
     ],
-    "rating": 4.4,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/ripon_club_logo.png",
-    "user_ratings_total": 113,
+    "user_ratings_total": 0,
     "website": "https://www.riponclub.in",
     "activities": []
   },
   "Royal Bombay Yacht Club": {
-    "formatted_address": "Chhatrapati Shivaji Maharaj Marg, Apollo Bunder, Colaba, Mumbai 400001, India",
-    "formatted_phone_number": "+91 22 22021880",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 18.922,
-        "lng": 72.8346
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Royal Bombay Yacht Club",
@@ -860,7 +738,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Founded in 1846, RBYC is a prestigious sailing club near the Gateway of India. Offers yacht berths, regattas, dining, and residential rooms for members.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_bombay_yacht_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_bombay_yacht_club2.jpg",
@@ -868,22 +746,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_bombay_yacht_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_bombay_yacht_club5.jpg"
     ],
-    "rating": 4.6,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_bombay_yacht_club_logo.png",
-    "user_ratings_total": 1622,
+    "user_ratings_total": 0,
     "website": "https://www.rbyc.co.in",
-    "activities": [
-      "sailing"
-    ]
+    "activities": []
   },
   "Royal Palms Golf & Country Club": {
-    "formatted_address": "Aarey Milk Colony, Goregaon (East), Mumbai 400065, India",
-    "formatted_phone_number": "+91 22 28790603",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 19.1551,
-        "lng": 72.8834
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Royal Palms Golf & Country Club",
@@ -892,7 +768,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Luxury country club featuring an 18-hole golf course, pool, clubhouse, and resort-style amenities. A scenic green retreat within city limits.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_palms_golf_country_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_palms_golf_country_club2.jpg",
@@ -900,23 +776,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_palms_golf_country_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_palms_golf_country_club5.jpg"
     ],
-    "rating": 4.8,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_palms_golf_country_club_logo.png",
-    "user_ratings_total": 13,
+    "user_ratings_total": 0,
     "website": "https://www.royalpalmsindia.com",
-    "activities": [
-      "golf",
-      "swimming"
-    ]
+    "activities": []
   },
   "Royal Western Indian Turf Club": {
-    "formatted_address": "Mahalakshmi Race Course, Mahalaxmi, Mumbai 400034, India",
-    "formatted_phone_number": "+91 22 23071401",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 18.979,
-        "lng": 72.817
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Royal Western Indian Turf Club",
@@ -925,7 +798,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "RWITC manages the Mahalaxmi Racecourse and is the face of thoroughbred horse racing in Mumbai. Offers viewing pavilions, stables, riding and social spaces.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_western_indian_turf_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_western_indian_turf_club2.jpg",
@@ -938,18 +811,15 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/royal_western_indian_turf_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.rwitc.com",
-    "activities": [
-      "horse racing",
-      "equestrian"
-    ]
+    "activities": []
   },
   "Sher-E-Punjab Gymkhana & Health Club": {
-    "formatted_address": "368, Sher-E-Punjab Society, Andheri (East), Mumbai 400093, India",
-    "formatted_phone_number": "+91 22 28212879",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 19.123,
-        "lng": 72.8616
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Sher-E-Punjab Gymkhana & Health Club",
@@ -958,7 +828,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "A community-focused gymkhana offering a pool, gym, and basic sports infrastructure. Also hosts local events, camps, and gatherings in the Andheri East area.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/sherepunjab_gymkhana_health_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/sherepunjab_gymkhana_health_club2.jpg",
@@ -966,32 +836,29 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/sherepunjab_gymkhana_health_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/sherepunjab_gymkhana_health_club5.jpg"
     ],
-    "rating": 4.0,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/sherepunjab_gymkhana_health_club_logo.png",
-    "user_ratings_total": 5390,
+    "user_ratings_total": 0,
     "website": "https://www.sherepunjabgymkhanaandhealthclub.com",
-    "activities": [
-      "swimming",
-      "gym"
-    ]
+    "activities": []
   },
-  "Soho House Mumbai (Soho House Group)": {
-    "formatted_address": "Juhu Tara Road, Juhu, Mumbai 400049, India",
-    "formatted_phone_number": "+91 22 62133333",
+  "Soho House Mumbai (\"Soho House group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 19.0968,
-        "lng": 72.8265
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "Soho House Mumbai (Soho House Group)",
+    "name": "Soho House Mumbai (\"Soho House group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "A global private members club for creatives. This Juhu location has a rooftop pool, gym, restaurants, lounges, and curated events. Stylish, exclusive, and artsy.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/soho_house_mumbai_soho_house_group1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/soho_house_mumbai_soho_house_group2.jpg",
@@ -999,23 +866,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/soho_house_mumbai_soho_house_group4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/soho_house_mumbai_soho_house_group5.jpg"
     ],
-    "rating": 4.5,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/soho_house_mumbai_soho_house_group_logo.png",
-    "user_ratings_total": 3105,
+    "user_ratings_total": 0,
     "website": "https://www.sohohousemumbai.com",
-    "activities": [
-      "swimming",
-      "gym"
-    ]
+    "activities": []
   },
   "The A": {
-    "formatted_address": "One India Bulls Center (now One World Center), Tower 2A, 8th Floor, Lower Parel, Mumbai 400013, India",
-    "formatted_phone_number": "+91 22 62888222",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 18.9956,
-        "lng": 72.8257
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "The A",
@@ -1024,7 +888,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Previously a members-only social club with wellness and dining. Merged into The Quorum Mumbai in 2021. Featured a gym, Japanese sauna, work and event spaces.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_a1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_a2.jpg",
@@ -1037,18 +901,15 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_a_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.thea.club",
-    "activities": [
-      "gym",
-      "sauna"
-    ]
+    "activities": []
   },
   "The Club Mumbai": {
-    "formatted_address": "197, D. N. Nagar, Andheri (West), Mumbai 400053, India",
-    "formatted_phone_number": "+91 22 66117777",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 19.123,
-        "lng": 72.8265
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "The Club Mumbai",
@@ -1057,7 +918,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "A large family-oriented suburban club offering tennis courts, jogging track, swimming pool, gym, spa, restaurants, banquet halls, and kids’ play zones.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_club_mumbai1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_club_mumbai2.jpg",
@@ -1065,25 +926,54 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_club_mumbai4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_club_mumbai5.jpg"
     ],
-    "rating": 4.7,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_club_mumbai_logo.png",
-    "user_ratings_total": 40100,
+    "user_ratings_total": 0,
     "website": "https://www.theclubmumbai.com",
+    "activities": []
+  },
+  "The Club, Mumbai": {
+    "formatted_address": "197 D N Nagar, Andheri (West)",
+    "formatted_phone_number": "+91 22 66117777",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Club, Mumbai",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_club_mumbai1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_club_mumbai2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_club_mumbai3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_club_mumbai4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_club_mumbai5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_club_mumbai_logo.png",
+    "user_ratings_total": 0,
+    "website": "",
     "activities": [
-      "swimming",
       "tennis",
-      "athletics",
-      "gym"
+      "athletic",
+      "swimming"
     ]
   },
   "The Modernist": {
-    "formatted_address": "33rd Floor, Four Seasons Hotel, 1/136, Dr. E Moses Rd, Worli, Mumbai 400018, India",
-    "formatted_phone_number": "+91 22 69828190",
+    "formatted_address": "1/136, Dr. E Moses Rd",
+    "formatted_phone_number": "9.10E+12",
     "geometry": {
       "location": {
-        "lat": 18.99,
-        "lng": 72.817
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "The Modernist",
@@ -1092,7 +982,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "An exclusive rooftop club atop Four Seasons Mumbai. Focused on networking, culture and fine dining, not sports. Features lounges, meeting rooms, and curated events.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_modernist1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_modernist2.jpg",
@@ -1100,20 +990,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_modernist4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_modernist5.jpg"
     ],
-    "rating": 5.0,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_modernist_logo.png",
-    "user_ratings_total": 8,
-    "website": "https://www.fourseasons.com/mumbai/services-and-amenities/modernist",
+    "user_ratings_total": 0,
+    "website": "",
     "activities": []
   },
   "The Quorum Mumbai": {
-    "formatted_address": "One World Center, Tower 2A, 8th Floor, Senapati Bapat Marg, Lower Parel, Mumbai 400013, India",
-    "formatted_phone_number": "+91 7208898778",
+    "formatted_address": "One World Center, Tower 2A, 8th floor, Senapati Bapat Marg, Lower Parel",
+    "formatted_phone_number": "+91 72088 98778",
     "geometry": {
       "location": {
-        "lat": 18.9956,
-        "lng": 72.8257
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "The Quorum Mumbai",
@@ -1122,7 +1012,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Contemporary members club that absorbed The A. Combines co-working, fitness, fine dining, and creative events. Popular among business and creative professionals.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_quorum_mumbai1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_quorum_mumbai2.jpg",
@@ -1130,20 +1020,22 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_quorum_mumbai4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_quorum_mumbai5.jpg"
     ],
-    "rating": 4.5,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/the_quorum_mumbai_logo.png",
-    "user_ratings_total": 157,
-    "website": "https://thequorumclub.com/",
-    "activities": []
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": [
+      "athletic"
+    ]
   },
   "Umbergoan Club": {
-    "formatted_address": "Umbergaon, Valsad District, Gujarat 396170, India",
-    "formatted_phone_number": "+91 260 2562841",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 20.17,
-        "lng": 72.77
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Umbergoan Club",
@@ -1152,7 +1044,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Weekend getaway club affiliated with Mumbai-based institutions. Offers swimming pool, racket sports, and resort lodging near the Gujarat-Maharashtra coast.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/umbergoan_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/umbergoan_club2.jpg",
@@ -1160,24 +1052,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/umbergoan_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/umbergoan_club5.jpg"
     ],
-    "rating": 3.9,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/umbergoan_club_logo.png",
-    "user_ratings_total": 1730,
+    "user_ratings_total": 0,
     "website": "https://www.umbergaonclub.com",
-    "activities": [
-      "swimming",
-      "tennis",
-      "badminton"
-    ]
+    "activities": []
   },
   "United Services Club": {
-    "formatted_address": "Near Afghan Church, Colaba, Mumbai 400005, India",
-    "formatted_phone_number": "+91 22 22150121",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 18.915,
-        "lng": 72.8147
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "United Services Club",
@@ -1186,7 +1074,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Established for armed forces officers and their families. Offers a private 9-hole golf course, pool, tennis/squash courts, sailing options and secure facilities.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/united_services_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/united_services_club2.jpg",
@@ -1194,25 +1082,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/united_services_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/united_services_club5.jpg"
     ],
-    "rating": 4.6,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/united_services_club_logo.png",
-    "user_ratings_total": 556,
+    "user_ratings_total": 0,
     "website": "https://www.usclub.co.in",
-    "activities": [
-      "swimming",
-      "golf",
-      "tennis",
-      "squash"
-    ]
+    "activities": []
   },
   "Willingdon Catholic Gymkhana": {
-    "formatted_address": "Church Avenue, Santa Cruz (West), Mumbai 400054, India",
-    "formatted_phone_number": "+91 22 26657720",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 19.08,
-        "lng": 72.841
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Willingdon Catholic Gymkhana",
@@ -1221,7 +1104,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Historic community gymkhana with a football ground and indoor sports facilities. Hosts cultural, youth and sporting events for Catholic community members.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/willingdon_catholic_gymkhana1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/willingdon_catholic_gymkhana2.jpg",
@@ -1229,24 +1112,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/willingdon_catholic_gymkhana4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/willingdon_catholic_gymkhana5.jpg"
     ],
-    "rating": 4.2,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/willingdon_catholic_gymkhana_logo.png",
-    "user_ratings_total": 3309,
+    "user_ratings_total": 0,
     "website": "https://www.wcgym.in",
-    "activities": [
-      "football",
-      "badminton",
-      "table tennis"
-    ]
+    "activities": []
   },
   "Willingdon Sports Club": {
-    "formatted_address": "Tardeo, Mumbai 400034, India",
-    "formatted_phone_number": "+91 22 23544539",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 18.98,
-        "lng": 72.811
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Willingdon Sports Club",
@@ -1255,7 +1134,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Elite legacy club with an 18-hole golf course, tennis, squash courts, swimming pool, and old-world dining and social spaces. Very selective membership.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/willingdon_sports_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/willingdon_sports_club2.jpg",
@@ -1263,25 +1142,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/willingdon_sports_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/willingdon_sports_club5.jpg"
     ],
-    "rating": 4.6,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/willingdon_sports_club_logo.png",
-    "user_ratings_total": 2893,
+    "user_ratings_total": 0,
     "website": "https://www.willingdonclub.com",
-    "activities": [
-      "golf",
-      "tennis",
-      "squash",
-      "swimming"
-    ]
+    "activities": []
   },
   "Wilson College Gymkhana": {
-    "formatted_address": "Marine Drive, Chowpatty, Mumbai 400007, India",
-    "formatted_phone_number": "+91 22-23685807",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 18.95,
-        "lng": 72.814
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Wilson College Gymkhana",
@@ -1290,7 +1164,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Part of Wilson College, this gymkhana offers cricket and football grounds on Marine Drive for student and inter-collegiate events. Not open to general public.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/wilson_college_gymkhana1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/wilson_college_gymkhana2.jpg",
@@ -1298,14 +1172,11 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/wilson_college_gymkhana4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/wilson_college_gymkhana5.jpg"
     ],
-    "rating": 4.2,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/mumbai/wilson_college_gymkhana_logo.png",
-    "user_ratings_total": 55,
-    "website": "http://www.leevents.com/",
-    "activities": [
-      "cricket",
-      "football"
-    ]
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": []
   }
 }

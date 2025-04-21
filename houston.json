@@ -1,5 +1,5 @@
 {
-  "Bay Oaks Country Club (ClubCorp)": {
+  "Bay Oaks Country Club (\"ClubCorp)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Bay Oaks Country Club (ClubCorp)",
+    "name": "Bay Oaks Country Club (\"ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -89,7 +89,7 @@
     "website": "https://www.coronadoclub.com",
     "activities": []
   },
-  "Houston Club (ClubCorp)": {
+  "Houston Club (\"ClubCorp)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -98,7 +98,7 @@
         "lng": 0.0
       }
     },
-    "name": "Houston Club (ClubCorp)",
+    "name": "Houston Club (\"ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

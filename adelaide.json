@@ -1,11 +1,11 @@
 {
   "Adelaide Club Australia": {
-    "formatted_address": "165 North Terrace, Adelaide, South Australia 5000, Australia",
-    "formatted_phone_number": "+61 8 8231 3348",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": -34.921888,
-        "lng": 138.600017
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Adelaide Club Australia",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Founded in 1863, the Adelaide Club is an exclusive gentlemen’s club and one of Australia’s oldest private clubs&#8203;:contentReference[oaicite:13]{index=13}. Its heritage clubhouse on North Terrace offers dining rooms, a billiards room, meeting spaces, accommodation suites, and a distinguished environment for socializing and networking among Adelaide’s business and community leaders.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/adelaide_club_australia1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/adelaide_club_australia2.jpg",
@@ -30,12 +30,12 @@
     "activities": []
   },
   "Lyceum Club Adelaide": {
-    "formatted_address": "Level 1, 20-24 Leigh Street, Adelaide, South Australia 5000, Australia",
-    "formatted_phone_number": "+61 8 8212 4508",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": -34.924,
-        "lng": 138.595
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Lyceum Club Adelaide",
@@ -44,7 +44,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "A private women’s club in Adelaide for those interested in arts, literature, science and public affairs. Founded in 1922 (part of the International Association of Lyceum Clubs), it provides a venue for lectures, discussion groups, and cultural activities in an apolitical, non-sectarian environment, fostering friendship and intellectual exchange among its members&#8203;:contentReference[oaicite:14]{index=14}.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/lyceum_club_adelaide1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/lyceum_club_adelaide2.jpg",
@@ -56,46 +56,76 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/lyceum_club_adelaide_logo.png",
     "user_ratings_total": 0,
-    "website": "",
+    "website": "https://www.facebook.com/LyceumAdelaide",
     "activities": []
   },
-  "Naval, Military & Air Force Club of South Australia Inc.": {
-    "formatted_address": "111 Hutt Street, Adelaide, South Australia 5000, Australia",
-    "formatted_phone_number": "+61 8 8223 2422",
+  "Naval Military & Air Force Club of South Australia": {
+    "formatted_address": "111 Hutt Street, Adelaide, South Australia 5000",
+    "formatted_phone_number": "61 88223 2422, 61882323082",
     "geometry": {
       "location": {
-        "lat": -34.92808,
-        "lng": 138.60747
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "Naval, Military & Air Force Club of South Australia Inc.",
+    "name": "Naval Military & Air Force Club of South Australia",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "A prestigious private military-origin club tracing its roots to 1879&#8203;:contentReference[oaicite:15]{index=15}. Originally an officers’ club, it now welcomes members of all backgrounds. The clubhouse offers elegant dining, a bar, library and reading rooms, and boutique accommodation. The club’s atmosphere honors tradition and service heritage while providing a social and networking hub for its members&#8203;:contentReference[oaicite:16]{index=16}&#8203;:contentReference[oaicite:17]{index=17}.",
+    "description": "",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/naval_military_air_force_club_of_south_australia_inc1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/naval_military_air_force_club_of_south_australia_inc2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/naval_military_air_force_club_of_south_australia_inc3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/naval_military_air_force_club_of_south_australia_inc4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/naval_military_air_force_club_of_south_australia_inc5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/naval_military_air_force_club_of_south_australia1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/naval_military_air_force_club_of_south_australia2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/naval_military_air_force_club_of_south_australia3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/naval_military_air_force_club_of_south_australia4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/naval_military_air_force_club_of_south_australia5.jpg"
     ],
-    "rating": 4.8,
+    "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/naval_military_air_force_club_of_south_australia_inc_logo.png",
-    "user_ratings_total": 82,
-    "website": "https://www.navmil.com.au",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/naval_military_air_force_club_of_south_australia_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.navmil.org",
+    "activities": []
+  },
+  "Naval, Military and Air Force Club of South Australia Inc.": {
+    "formatted_address": "111 Hutt Street",
+    "formatted_phone_number": "+61 8 82232422",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Naval, Military and Air Force Club of South Australia Inc.",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/naval_military_and_air_force_club_of_south_australia_inc1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/naval_military_and_air_force_club_of_south_australia_inc2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/naval_military_and_air_force_club_of_south_australia_inc3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/naval_military_and_air_force_club_of_south_australia_inc4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/naval_military_and_air_force_club_of_south_australia_inc5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/naval_military_and_air_force_club_of_south_australia_inc_logo.png",
+    "user_ratings_total": 0,
+    "website": "",
     "activities": []
   },
   "Public Schools Club": {
-    "formatted_address": "207 East Terrace, Adelaide, South Australia 5000, Australia",
-    "formatted_phone_number": "+61 8 8223 3213",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": -34.9262,
-        "lng": 138.6141
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Public Schools Club",
@@ -104,7 +134,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Established in 1959 by alumni of Adelaide’s elite schools&#8203;:contentReference[oaicite:18]{index=18}, this private club (housed in historic Sandford House) offers a collegial atmosphere for graduates. It features a restaurant (open to public as “Club Bragg’s”), function rooms, a bar and accommodation. The club continues to uphold traditions of academic excellence and camaraderie, now welcoming male and female graduates from any school&#8203;:contentReference[oaicite:19]{index=19}&#8203;:contentReference[oaicite:20]{index=20}.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/public_schools_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/public_schools_club2.jpg",
@@ -120,12 +150,12 @@
     "activities": []
   },
   "Queen Adelaide Club": {
-    "formatted_address": "North Terrace, Adelaide, South Australia 5000, Australia",
-    "formatted_phone_number": "+61 8 8223 5055",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": -34.9205,
-        "lng": 138.6065
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Queen Adelaide Club",
@@ -134,7 +164,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Founded in 1909, the Queen Adelaide Club is an exclusive women’s club offering a refined environment for social interaction, cultural activities, and networking. Located on North Terrace, it provides dining and lounge facilities and maintains a tradition of philanthropy and community service involvement among its members. Membership is by invitation, continuing a legacy as Adelaide’s premier ladies’ club.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/queen_adelaide_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/adelaide/queen_adelaide_club2.jpg",

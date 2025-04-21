@@ -29,7 +29,7 @@
     "website": "https://www.circolobellini1769.com",
     "activities": []
   },
-  "Circolo della Vela Sicilia": {
+  "venue_1": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -38,7 +38,7 @@
         "lng": 0.0
       }
     },
-    "name": "Circolo della Vela Sicilia",
+    "name": "venue_1",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -46,15 +46,15 @@
     },
     "description": "",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/palermo/circolo_della_vela_sicilia1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/palermo/circolo_della_vela_sicilia2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/palermo/circolo_della_vela_sicilia3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/palermo/circolo_della_vela_sicilia4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/palermo/circolo_della_vela_sicilia5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/palermo/venue11.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/palermo/venue12.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/palermo/venue13.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/palermo/venue14.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/palermo/venue15.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/palermo/circolo_della_vela_sicilia_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/palermo/venue1_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.circolodellavela.it",
     "activities": []

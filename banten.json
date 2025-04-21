@@ -1,5 +1,5 @@
 {
-  "Aryaduta Country Club": {
+  "Aryaduta Country Club *": {
     "formatted_address": "401 Boulevard Jend Sudirman, LIPPO Village 1300, Tangerang 15811, Banten, Indonesia",
     "formatted_phone_number": "62 21 546 0101 , 62215460139",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Aryaduta Country Club",
+    "name": "Aryaduta Country Club *",
     "opening_hours": {
       "open_now": false,
       "periods": [],

@@ -1,11 +1,11 @@
 {
   "Amador": {
-    "formatted_address": "550 Montgomery St, San Francisco, CA 94111",
-    "formatted_phone_number": "(415) 781-8000",
+    "formatted_address": "550 Montgomery St. 10th Floor",
+    "formatted_phone_number": "+1 415 956 0506",
     "geometry": {
       "location": {
-        "lat": 37.7946,
-        "lng": -122.4021
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Amador",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Amador Club offers a modern interpretation of the classic social club, providing members with a comfortable environment featuring a main bar and lounge, private parlor rooms, a billiards room, and an extensive whiskey collection.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/amador1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/amador2.jpg",
@@ -22,22 +22,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/amador4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/amador5.jpg"
     ],
-    "rating": 4.8,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/amador_logo.png",
-    "user_ratings_total": 203,
-    "website": "https://www.amadorclub.com/",
-    "activities": [
-      "billiards"
-    ]
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": []
   },
   "Bohemian Club": {
-    "formatted_address": "624 Taylor St, San Francisco, CA 94102",
-    "formatted_phone_number": "(415) 885-3138",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 37.7887,
-        "lng": -122.4115
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Bohemian Club",
@@ -46,7 +44,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Bohemian Club is a private all-male club founded in 1872, known for its annual summer retreat at the Bohemian Grove and its association with prominent figures in art, literature, and politics.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/bohemian_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/bohemian_club2.jpg",
@@ -54,29 +52,29 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/bohemian_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/bohemian_club5.jpg"
     ],
-    "rating": 3.9,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/bohemian_club_logo.png",
-    "user_ratings_total": 136,
-    "website": "https://www.bohemianclub.com",
+    "user_ratings_total": 0,
+    "website": "https://www.wikipedia.org/wiki/Bohemian_Club",
     "activities": []
   },
-  "Cercle de l'Union (French Club)": {
-    "formatted_address": "414 Mason St, San Francisco, CA 94102",
-    "formatted_phone_number": "(415) 781-7058",
+  "Cercle de l'Union (\"French Club)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 37.7875,
-        "lng": -122.4102
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "Cercle de l'Union (French Club)",
+    "name": "Cercle de l'Union (\"French Club)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "Cercle de l'Union, also known as the French Club, is a private social club that celebrates French culture and heritage, offering members a venue for social events, dining, and cultural activities.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/cercle_de_lunion_french_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/cercle_de_lunion_french_club2.jpg",
@@ -84,20 +82,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/cercle_de_lunion_french_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/cercle_de_lunion_french_club5.jpg"
     ],
-    "rating": 4.9,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/cercle_de_lunion_french_club_logo.png",
-    "user_ratings_total": 8,
+    "user_ratings_total": 0,
     "website": "https://www.frenchclub.org",
     "activities": []
   },
   "City Club of San Francisco": {
-    "formatted_address": "155 Sansome St, San Francisco, CA 94104",
-    "formatted_phone_number": "(415) 362-2480",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 37.7913,
-        "lng": -122.4015
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "City Club of San Francisco",
@@ -106,7 +104,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The City Club of San Francisco is an elegant private club located in the heart of the financial district, offering members fine dining, event spaces, and networking opportunities in an Art Deco setting.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/city_club_of_san_francisco1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/city_club_of_san_francisco2.jpg",
@@ -114,20 +112,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/city_club_of_san_francisco4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/city_club_of_san_francisco5.jpg"
     ],
-    "rating": 4.6,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/city_club_of_san_francisco_logo.png",
-    "user_ratings_total": 103,
+    "user_ratings_total": 0,
     "website": "https://www.cityclubsf.com",
     "activities": []
   },
   "Corinthian Yacht Club of San Francisco": {
-    "formatted_address": "43 Main St, Tiburon, CA 94920",
-    "formatted_phone_number": "(415) 435-4771",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 37.8735,
-        "lng": -122.4567
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Corinthian Yacht Club of San Francisco",
@@ -136,7 +134,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Established in 1886, the Corinthian Yacht Club offers sailing enthusiasts a vibrant community with a historic clubhouse featuring dining facilities, event spaces, and panoramic views of the San Francisco Bay.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/corinthian_yacht_club_of_san_francisco1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/corinthian_yacht_club_of_san_francisco2.jpg",
@@ -144,22 +142,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/corinthian_yacht_club_of_san_francisco4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/corinthian_yacht_club_of_san_francisco5.jpg"
     ],
-    "rating": 4.7,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/corinthian_yacht_club_of_san_francisco_logo.png",
-    "user_ratings_total": 67,
+    "user_ratings_total": 0,
     "website": "https://www.cyc.org",
-    "activities": [
-      "sailing"
-    ]
+    "activities": []
   },
   "Francisca Club": {
-    "formatted_address": "595 Sutter St, San Francisco, CA 94102",
-    "formatted_phone_number": "(415) 421-7140",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 37.7883,
-        "lng": -122.4108
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Francisca Club",
@@ -168,7 +164,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Francisca Club is a private women's club founded in 1919, providing a space for social engagement, cultural enrichment, and intellectual growth among its members.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/francisca_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/francisca_club2.jpg",
@@ -176,20 +172,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/francisca_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/francisca_club5.jpg"
     ],
-    "rating": 4.7,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/francisca_club_logo.png",
-    "user_ratings_total": 9,
+    "user_ratings_total": 0,
     "website": "https://www.franciscaclub.com",
     "activities": []
   },
   "Gotham Club": {
-    "formatted_address": "Oracle Park, 24 Willie Mays Plaza, San Francisco, CA 94107",
-    "formatted_phone_number": "(415) 972-2000",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 37.7786,
-        "lng": -122.3893
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Gotham Club",
@@ -198,7 +194,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Gotham Club is an exclusive, members-only club located within Oracle Park, offering San Francisco Giants fans unique game-day experiences, private dining, and access to exclusive events.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/gotham_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/gotham_club2.jpg",
@@ -206,22 +202,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/gotham_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/gotham_club5.jpg"
     ],
-    "rating": 4.2,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/gotham_club_logo.png",
-    "user_ratings_total": 15,
+    "user_ratings_total": 0,
     "website": "https://www.mlb.com/giants/gc1883",
-    "activities": [
-      "baseball"
-    ]
+    "activities": []
   },
   "Marines' Memorial Club": {
-    "formatted_address": "609 Sutter St, San Francisco, CA 94102",
-    "formatted_phone_number": "(415) 673-6672",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 37.7889,
-        "lng": -122.4101
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Marines' Memorial Club",
@@ -230,7 +224,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Marines' Memorial Club & Hotel is a historic establishment dedicated to honoring the legacy of military service, offering members accommodations, dining, a fitness center, and a theater hosting various events.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/marines_memorial_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/marines_memorial_club2.jpg",
@@ -238,22 +232,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/marines_memorial_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/marines_memorial_club5.jpg"
     ],
-    "rating": 4.6,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/marines_memorial_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.marinesmemorial.org",
-    "activities": [
-      "fitness"
-    ]
+    "activities": []
   },
   "Mariposa Hunters Point Yacht Club": {
-    "formatted_address": "405 Terry A Francois Blvd, San Francisco, CA 94158",
-    "formatted_phone_number": "(415) 495-9344",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 37.7701,
-        "lng": -122.3865
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Mariposa Hunters Point Yacht Club",
@@ -262,7 +254,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Mariposa Hunters Point Yacht Club is a member-run organization that provides boating enthusiasts with docking facilities, social events, and a community of like-minded individuals passionate about maritime activities.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/mariposa_hunters_point_yacht_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/mariposa_hunters_point_yacht_club2.jpg",
@@ -270,22 +262,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/mariposa_hunters_point_yacht_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/mariposa_hunters_point_yacht_club5.jpg"
     ],
-    "rating": 4.5,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/mariposa_hunters_point_yacht_club_logo.png",
-    "user_ratings_total": 22,
+    "user_ratings_total": 0,
     "website": "https://www.mhpyc.club",
-    "activities": [
-      "sailing"
-    ]
+    "activities": []
   },
   "Metropolitan Club San Francisco": {
-    "formatted_address": "640 Sutter St, San Francisco, CA 94102",
-    "formatted_phone_number": "(415) 872-7200",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 37.7892,
-        "lng": -122.4103
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Metropolitan Club San Francisco",
@@ -294,7 +284,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Metropolitan Club, founded in 1915, is a private women's club offering members a range of amenities including dining, event spaces, fitness facilities, and a swimming pool, all within a historic building.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/metropolitan_club_san_francisco1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/metropolitan_club_san_francisco2.jpg",
@@ -302,23 +292,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/metropolitan_club_san_francisco4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/metropolitan_club_san_francisco5.jpg"
     ],
-    "rating": 4.7,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/metropolitan_club_san_francisco_logo.png",
-    "user_ratings_total": 36,
+    "user_ratings_total": 0,
     "website": "https://www.metropolitanclubsf.org",
-    "activities": [
-      "fitness",
-      "swimming"
-    ]
+    "activities": []
   },
   "Modernist": {
-    "formatted_address": "139 Steuart St, San Francisco, CA 94105",
-    "formatted_phone_number": "(415) 801-8808",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 37.7924,
-        "lng": -122.3936
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Modernist",
@@ -327,7 +314,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Modernist is a contemporary private social club that provides members with a stylish environment for networking, events, and cultural experiences, emphasizing modern design and innovation.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/modernist1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/modernist2.jpg",
@@ -335,20 +322,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/modernist4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/modernist5.jpg"
     ],
-    "rating": 4.4,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/modernist_logo.png",
-    "user_ratings_total": 157,
+    "user_ratings_total": 0,
     "website": "https://www.modernist.club",
     "activities": []
   },
   "Norwegian Club of San Francisco": {
-    "formatted_address": "1900 Fell St, San Francisco, CA 94117",
+    "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 37.7735,
-        "lng": -122.4524
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Norwegian Club of San Francisco",
@@ -357,7 +344,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Norwegian Club of San Francisco is a cultural organization dedicated to celebrating Norwegian heritage, offering members social gatherings, cultural events, and traditional Norwegian cuisine.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/norwegian_club_of_san_francisco1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/norwegian_club_of_san_francisco2.jpg",
@@ -365,20 +352,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/norwegian_club_of_san_francisco4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/norwegian_club_of_san_francisco5.jpg"
     ],
-    "rating": 4.8,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/norwegian_club_of_san_francisco_logo.png",
-    "user_ratings_total": 20,
+    "user_ratings_total": 0,
     "website": "https://www.norwegianclub.org",
     "activities": []
   },
   "Olympic Club": {
-    "formatted_address": "524 Post St, San Francisco, CA 94102",
-    "formatted_phone_number": "(415) 345-5100",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 37.7881,
-        "lng": -122.4109
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Olympic Club",
@@ -387,7 +374,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Olympic Club, established in 1860, is the oldest athletic club in the U.S., offering members extensive facilities including golf courses, swimming pools, tennis courts, and a comprehensive fitness center.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/olympic_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/olympic_club2.jpg",
@@ -395,25 +382,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/olympic_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/olympic_club5.jpg"
     ],
-    "rating": 4.7,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/olympic_club_logo.png",
-    "user_ratings_total": 456,
+    "user_ratings_total": 0,
     "website": "https://www.olyclub.com",
-    "activities": [
-      "golf",
-      "swimming",
-      "tennis",
-      "fitness"
-    ]
+    "activities": []
   },
   "Pacific-Union Club": {
-    "formatted_address": "1000 California St, San Francisco, CA 94108",
-    "formatted_phone_number": "(415) 775-1234",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 37.7925,
-        "lng": -122.4106
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Pacific-Union Club",
@@ -422,7 +404,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Pacific-Union Club is an exclusive private social club housed in the historic Flood Mansion atop Nob Hill, known for its distinguished membership and elegant facilities.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/pacificunion_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/pacificunion_club2.jpg",
@@ -430,20 +412,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/pacificunion_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/pacificunion_club5.jpg"
     ],
-    "rating": 4.5,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/pacificunion_club_logo.png",
-    "user_ratings_total": 42,
+    "user_ratings_total": 0,
     "website": "https://www.wikipedia.org/wiki/Pacific-Union_Club",
     "activities": []
   },
   "Presidio Golf & Concordia Club": {
     "formatted_address": "8 Presidio Terrace, San Francisco, CA 94118",
-    "formatted_phone_number": "(415) 221-8833",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 37.7876,
-        "lng": -122.4589
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Presidio Golf & Concordia Club",
@@ -452,7 +434,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Presidio Golf & Concordia Club offers members a unique blend of social and recreational opportunities, centered around its historic golf course and clubhouse within the Presidio.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/presidio_golf_concordia_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/presidio_golf_concordia_club2.jpg",
@@ -460,22 +442,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/presidio_golf_concordia_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/presidio_golf_concordia_club5.jpg"
     ],
-    "rating": 4.6,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/presidio_golf_concordia_club_logo.png",
-    "user_ratings_total": 89,
+    "user_ratings_total": 0,
     "website": "https://www.pgccsf.com",
-    "activities": [
-      "golf"
-    ]
+    "activities": []
   },
   "San Francisco Yacht Club": {
-    "formatted_address": "98 Beach Rd, Belvedere Tiburon, CA 94920",
-    "formatted_phone_number": "(415) 435-9133",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 37.8723,
-        "lng": -122.4565
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "San Francisco Yacht Club",
@@ -484,7 +464,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Founded in 1869, the San Francisco Yacht Club is the oldest yacht club on the Pacific Coast, providing members with excellent sailing facilities, a vibrant social scene, and waterfront dining.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/san_francisco_yacht_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/san_francisco_yacht_club2.jpg",
@@ -492,22 +472,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/san_francisco_yacht_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/san_francisco_yacht_club5.jpg"
     ],
-    "rating": 4.8,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/san_francisco_yacht_club_logo.png",
-    "user_ratings_total": 112,
+    "user_ratings_total": 0,
     "website": "https://www.sfyc.org",
-    "activities": [
-      "sailing"
-    ]
+    "activities": []
   },
   "Sausalito Cruising Club": {
-    "formatted_address": "1610 Bridgeway, Sausalito, CA 94965",
-    "formatted_phone_number": "(415) 332-9922",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 37.8604,
-        "lng": -122.4862
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Sausalito Cruising Club",
@@ -516,7 +494,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "A private club offering boating activities, live music, and dining experiences along the Sausalito waterfront.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/sausalito_cruising_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/sausalito_cruising_club2.jpg",
@@ -524,22 +502,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/sausalito_cruising_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/sausalito_cruising_club5.jpg"
     ],
-    "rating": 4.5,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/sausalito_cruising_club_logo.png",
-    "user_ratings_total": 92,
+    "user_ratings_total": 0,
     "website": "https://www.sausalitocruisingclub.org",
-    "activities": [
-      "sailing"
-    ]
+    "activities": []
   },
   "St. Francis Yacht Club": {
-    "formatted_address": "700 Marina Boulevard",
-    "formatted_phone_number": "415-563-6363",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 37.8067,
-        "lng": -122.441
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "St. Francis Yacht Club",
@@ -548,7 +524,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The St. Francis Yacht Club is a premier yachting institution offering panoramic views of the Golden Gate Bridge and Alcatraz Island. It hosts numerous sailing events and provides year-round youth sailing programs.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/st_francis_yacht_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/st_francis_yacht_club2.jpg",
@@ -556,22 +532,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/st_francis_yacht_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/st_francis_yacht_club5.jpg"
     ],
-    "rating": 4.7,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/st_francis_yacht_club_logo.png",
-    "user_ratings_total": 45,
+    "user_ratings_total": 0,
     "website": "https://www.stfyc.com",
-    "activities": [
-      "Sailing"
-    ]
+    "activities": []
   },
   "The Academy": {
-    "formatted_address": "2166 Market Street",
-    "formatted_phone_number": "415-813-7800",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 37.7655,
-        "lng": -122.4312
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "The Academy",
@@ -580,7 +554,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Academy is a social club offering a variety of events and amenities including fitness facilities designed to foster community and connection among its members.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_academy1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_academy2.jpg",
@@ -588,23 +562,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_academy4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_academy5.jpg"
     ],
-    "rating": 4.8,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_academy_logo.png",
-    "user_ratings_total": 20,
+    "user_ratings_total": 0,
     "website": "https://www.academy-sf.com",
-    "activities": [
-      "Fitness",
-      "Spa"
-    ]
+    "activities": []
   },
   "The Battery": {
-    "formatted_address": "717 Battery Street",
-    "formatted_phone_number": "415-230-8000",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 37.7983,
-        "lng": -122.4009
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "The Battery",
@@ -613,7 +584,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Battery is a private club featuring a luxury boutique hotel multiple dining venues and event spaces. It offers a range of amenities including fitness facilities and cultural programming.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_battery1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_battery2.jpg",
@@ -621,22 +592,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_battery4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_battery5.jpg"
     ],
-    "rating": 4.6,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_battery_logo.png",
-    "user_ratings_total": 150,
+    "user_ratings_total": 0,
     "website": "https://www.thebatterysf.com",
-    "activities": [
-      "Fitness"
-    ]
+    "activities": []
   },
   "The Family": {
-    "formatted_address": "545 Powell Street",
+    "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 37.7899,
-        "lng": -122.409
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "The Family",
@@ -645,7 +614,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Family is an exclusive invitation-only all-male club founded in 1902 by newspapermen. It maintains a clubhouse in San Francisco and a rural property in Woodside hosting social events among redwood and oak trees.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_family1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_family2.jpg",
@@ -653,20 +622,50 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_family4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_family5.jpg"
     ],
-    "rating": 4.7,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_family_logo.png",
-    "user_ratings_total": 3,
+    "user_ratings_total": 0,
     "website": "https://www.wikipedia.org/wiki/The_Family_(club)",
     "activities": []
   },
-  "Town and Country Club": {
-    "formatted_address": "218 Stockton Street",
-    "formatted_phone_number": "415-781-4444",
+  "The Marines' Memorial Club & Hotel": {
+    "formatted_address": "609 Sutter Street, San Francisco, CA 94102",
+    "formatted_phone_number": "415 673 6672 , 4154413649",
     "geometry": {
       "location": {
-        "lat": 37.7891,
-        "lng": -122.4065
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "The Marines' Memorial Club & Hotel",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_marines_memorial_club_hotel1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_marines_memorial_club_hotel2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_marines_memorial_club_hotel3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_marines_memorial_club_hotel4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_marines_memorial_club_hotel5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/the_marines_memorial_club_hotel_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.marineclub.com",
+    "activities": []
+  },
+  "Town and Country Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Town and Country Club",
@@ -675,7 +674,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Town and Country Club is a private women's club offering dining. social events, and fitness facilities to its members.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/town_and_country_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/town_and_country_club2.jpg",
@@ -683,22 +682,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/town_and_country_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/town_and_country_club5.jpg"
     ],
-    "rating": 4.8,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/town_and_country_club_logo.png",
-    "user_ratings_total": 8,
+    "user_ratings_total": 0,
     "website": "https://www.tccsf.com",
-    "activities": [
-      "Fitness"
-    ]
+    "activities": []
   },
   "University Club of San Francisco": {
-    "formatted_address": "800 Powell Street",
-    "formatted_phone_number": "415-781-0900",
+    "formatted_address": "800 Powell Street, San Francisco, CA 94108",
+    "formatted_phone_number": "415 781 0900 , 4156779323",
     "geometry": {
       "location": {
-        "lat": 37.7925,
-        "lng": -122.4101
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "University Club of San Francisco",
@@ -707,7 +704,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The University Club of San Francisco is a historic gathering place offering dining, overnight accommodations, and athletic facilities, including squash courts.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/university_club_of_san_francisco1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/university_club_of_san_francisco2.jpg",
@@ -715,23 +712,22 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/university_club_of_san_francisco4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/university_club_of_san_francisco5.jpg"
     ],
-    "rating": 4.4,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/university_club_of_san_francisco_logo.png",
-    "user_ratings_total": 85,
+    "user_ratings_total": 0,
     "website": "https://www.uclubsf.org",
     "activities": [
-      "Squash",
-      "Fitness"
+      "athletic"
     ]
   },
   "Villa Taverna": {
-    "formatted_address": "27 Hotaling Place",
-    "formatted_phone_number": "415-981-2333",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 37.7963,
-        "lng": -122.4028
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Villa Taverna",
@@ -740,7 +736,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Villa Taverna is an exclusive private dining club offering a refined atmosphere and exceptional cuisine to its members.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/villa_taverna1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/villa_taverna2.jpg",
@@ -748,20 +744,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/villa_taverna4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/villa_taverna5.jpg"
     ],
-    "rating": 4.7,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/villa_taverna_logo.png",
-    "user_ratings_total": 48,
+    "user_ratings_total": 0,
     "website": "https://www.villatavernasf.com",
     "activities": []
   },
   "Wingtip Club": {
-    "formatted_address": "550 Montgomery Street",
+    "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 37.7946,
-        "lng": -122.4021
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Wingtip Club",
@@ -770,7 +766,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Wingtip Club is a modern social club offering a bar and lounge, private parlors, a billiards room, and fitness facilities, blending tradition with contemporary amenities.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/wingtip_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/wingtip_club2.jpg",
@@ -778,14 +774,11 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/wingtip_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/wingtip_club5.jpg"
     ],
-    "rating": 4.7,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/san_francisco/wingtip_club_logo.png",
-    "user_ratings_total": 60,
+    "user_ratings_total": 0,
     "website": "https://www.wingtip.club",
-    "activities": [
-      "Billiards",
-      "Fitness"
-    ]
+    "activities": []
   }
 }

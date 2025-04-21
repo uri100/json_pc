@@ -1,5 +1,5 @@
 {
-  "Casino Español de México": {
+  "Casino EspaĂ±ol de MĂ©xico": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Casino Español de México",
+    "name": "Casino EspaĂ±ol de MĂ©xico",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -29,7 +29,7 @@
     "website": "https://www.casinoespanolmexico.com",
     "activities": []
   },
-  "Club de Banqueros de México": {
+  "Club de Banqueros de MĂ©xico": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -38,7 +38,7 @@
         "lng": 0.0
       }
     },
-    "name": "Club de Banqueros de México",
+    "name": "Club de Banqueros de MĂ©xico",
     "opening_hours": {
       "open_now": false,
       "periods": [],

@@ -59,7 +59,7 @@
     "website": "https://www.djursholmcountryclub.com",
     "activities": []
   },
-  "Militärsällskapet": {
+  "MilitĂ¤rsĂ¤llskapet": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -68,7 +68,7 @@
         "lng": 0.0
       }
     },
-    "name": "Militärsällskapet",
+    "name": "MilitĂ¤rsĂ¤llskapet",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -89,7 +89,7 @@
     "website": "https://www.militarsallskapet.se",
     "activities": []
   },
-  "Nya Sällskapet": {
+  "Nya SĂ¤llskapet": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -98,7 +98,7 @@
         "lng": 0.0
       }
     },
-    "name": "Nya Sällskapet",
+    "name": "Nya SĂ¤llskapet",
     "opening_hours": {
       "open_now": false,
       "periods": [],

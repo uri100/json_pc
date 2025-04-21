@@ -1,5 +1,5 @@
 {
-  "Gleneagles Country Club (ClubCorp)": {
+  "Gleneagles Country Club (\"ClubCorp)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Gleneagles Country Club (ClubCorp)",
+    "name": "Gleneagles Country Club (\"ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

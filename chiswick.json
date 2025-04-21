@@ -1,5 +1,5 @@
 {
-  "Maggie and Rose Club Chiswick (Maggie and Rose group)": {
+  "High Road House (\"Soho House group)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,37 @@
         "lng": 0.0
       }
     },
-    "name": "Maggie and Rose Club Chiswick (Maggie and Rose group)",
+    "name": "High Road House (\"Soho House group)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chiswick/high_road_house_soho_house_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chiswick/high_road_house_soho_house_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chiswick/high_road_house_soho_house_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chiswick/high_road_house_soho_house_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chiswick/high_road_house_soho_house_group5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/chiswick/high_road_house_soho_house_group_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.highroadhouse.co.uk",
+    "activities": []
+  },
+  "Maggie and Rose Club Chiswick (\"Maggie and Rose group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Maggie and Rose Club Chiswick (\"Maggie and Rose group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

@@ -1,11 +1,11 @@
 {
   "Aman": {
-    "formatted_address": "730 Fifth Avenue, New York, NY 10019, USA",
-    "formatted_phone_number": "+1 646 459 5302",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.762971,
-        "lng": -73.974751
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Aman",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Aman New York is an ultra-luxury hotel and private club that provides an exclusive urban sanctuary. Members enjoy world-class dining, a three-floor spa, and tranquil lounges high above the bustle of Midtown Manhattan.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/aman1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/aman2.jpg",
@@ -22,25 +22,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/aman4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/aman5.jpg"
     ],
-    "rating": 4.3,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/aman_logo.png",
-    "user_ratings_total": 233,
+    "user_ratings_total": 0,
     "website": "https://www.aman.com",
-    "activities": [
-      "spa",
-      "hammam",
-      "swimming",
-      "fitness"
-    ]
+    "activities": []
   },
   "Casa Cipriani": {
-    "formatted_address": "10 South Street, New York, NY 10004, USA",
-    "formatted_phone_number": "+1 212 584 5801",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.70083,
-        "lng": -74.01194
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Casa Cipriani",
@@ -49,7 +44,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Casa Cipriani is a private members club and hotel in the Beaux-Arts Battery Maritime Building, offering panoramic views of New York Harbor. It provides an elegant sanctuary with upscale dining, music events, and wellness amenities for its high-profile members.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/casa_cipriani1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/casa_cipriani2.jpg",
@@ -57,24 +52,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/casa_cipriani4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/casa_cipriani5.jpg"
     ],
-    "rating": 4.6,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/casa_cipriani_logo.png",
-    "user_ratings_total": 78,
+    "user_ratings_total": 0,
     "website": "https://www.casaciprianinewyork.com",
-    "activities": [
-      "spa",
-      "gym",
-      "fitness"
-    ]
+    "activities": []
   },
   "Century Association": {
-    "formatted_address": "7 West 43rd Street, New York, NY 10036, USA",
-    "formatted_phone_number": "+1 212 944 0090",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.754583,
-        "lng": -73.980972
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Century Association",
@@ -83,7 +74,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Century Association is a private club (founded 1847) for distinguished authors and artists. Its landmark clubhouse on West 43rd Street hosts a renowned library and art collection, fostering intellectual conversation among its members.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/century_association1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/century_association2.jpg",
@@ -98,7 +89,7 @@
     "website": "https://www.thecentury.org/club/scripts/section/section.asp?NS=HP",
     "activities": []
   },
-  "Chemists’ Club": {
+  "Chemists' Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -107,13 +98,13 @@
         "lng": 0.0
       }
     },
-    "name": "Chemists’ Club",
+    "name": "Chemists' Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Chemists’ Club is a nonprofit organization for professionals in chemistry and related sciences. It hosts networking events, lectures, and industry tours to promote the chemical sciences and connect members in the field.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/chemists_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/chemists_club2.jpg",
@@ -129,12 +120,12 @@
     "activities": []
   },
   "Collectors Club of New York": {
-    "formatted_address": "58 West 40th Street, Mezzanine, New York, NY 10018, USA",
-    "formatted_phone_number": "+1 212 683 0559",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.75304,
-        "lng": -73.98443
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Collectors Club of New York",
@@ -143,7 +134,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Often called the Collectors Club, this society (founded 1896) is devoted to philately (stamp collecting). It maintains one of the world’s largest philatelic libraries and hosts exhibitions and lectures to further the hobby of stamp collecting.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/collectors_club_of_new_york1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/collectors_club_of_new_york2.jpg",
@@ -159,12 +150,12 @@
     "activities": []
   },
   "Colony Club": {
-    "formatted_address": "564 Park Avenue, New York, NY 10065, USA",
-    "formatted_phone_number": "+1 212 838 4200",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.76515,
-        "lng": -73.96871
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Colony Club",
@@ -173,7 +164,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Colony Club, founded in 1903 as NYC’s first women-only private club, offers elegant lounges, dining rooms, a ballroom, fitness facilities (including a pool and squash courts), and guest accommodations. It remains an exclusive social club known for its storied membership.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/colony_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/colony_club2.jpg",
@@ -186,19 +177,15 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/colony_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.colonyclub.org",
-    "activities": [
-      "fitness",
-      "swimming",
-      "squash"
-    ]
+    "activities": []
   },
   "CORE: Club": {
-    "formatted_address": "711 Fifth Avenue, New York, NY 10022, USA",
-    "formatted_phone_number": "+1 212 486 6600",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.7628,
-        "lng": -73.97448
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "CORE: Club",
@@ -207,7 +194,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "CORE: Club (opened 2005) is a modern private club catering to a diverse elite (finance, arts, tech). Its chic multi-floor space features a fine-dining restaurant, art-filled lounges, a screening room, a full-service spa, and hosts talks and cultural events for its members.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/core_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/core_club2.jpg",
@@ -220,17 +207,15 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/core_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.thecoreclub.com",
-    "activities": [
-      "spa"
-    ]
+    "activities": []
   },
   "Cornell Club of New York": {
-    "formatted_address": "6 East 44th Street, New York, NY 10017, USA",
-    "formatted_phone_number": "+1 212 986 0300",
+    "formatted_address": "6 East 44th Street, New York, NY 10017",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.75425,
-        "lng": -73.98075
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Cornell Club of New York",
@@ -239,7 +224,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Cornell Club is a university alumni club open to Cornell graduates and affiliates. Its Midtown clubhouse provides dining and bar facilities, meeting rooms, overnight rooms, a fitness center, and a library, serving as a social and networking hub for members.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/cornell_club_of_new_york1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/cornell_club_of_new_york2.jpg",
@@ -252,47 +237,45 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/cornell_club_of_new_york_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.cornellclubnyc.com",
-    "activities": [
-      "fitness"
-    ]
+    "activities": []
   },
-  "Cosmopolitan Club (NYC)": {
-    "formatted_address": "122 East 66th Street, New York, NY 10065, USA",
-    "formatted_phone_number": "+1 212 734 5950",
+  "Cosmopolitan Club New York": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.7667,
-        "lng": -73.9656
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "Cosmopolitan Club (NYC)",
+    "name": "Cosmopolitan Club New York",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Cosmopolitan Club (founded 1909) is a private women’s club on the Upper East Side. Its 10-story clubhouse offers elegant lounges, dining facilities, guest rooms, and lovely outdoor terraces for events, fostering friendship and cultural pursuits among accomplished women.",
+    "description": "",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/cosmopolitan_club_nyc1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/cosmopolitan_club_nyc2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/cosmopolitan_club_nyc3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/cosmopolitan_club_nyc4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/cosmopolitan_club_nyc5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/cosmopolitan_club_new_york1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/cosmopolitan_club_new_york2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/cosmopolitan_club_new_york3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/cosmopolitan_club_new_york4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/cosmopolitan_club_new_york5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/cosmopolitan_club_nyc_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/cosmopolitan_club_new_york_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.cosclub.com",
     "activities": []
   },
   "Down Town Association": {
-    "formatted_address": "60 Pine Street, New York, NY 10005, USA",
-    "formatted_phone_number": "+1 212 422 1982",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.7055,
-        "lng": -74.0075
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Down Town Association",
@@ -301,7 +284,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Down Town Association (est. 1859) is the fifth-oldest club in NYC and the first in Lower Manhattan. Its Victorian-era clubhouse on Pine Street includes dining facilities, lounges, and guest rooms, serving as a haven for business and social gatherings in the Financial District.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/down_town_association1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/down_town_association2.jpg",
@@ -314,27 +297,24 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/down_town_association_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.thedta.com",
-    "activities": [
-      "billiards",
-      "fitness"
-    ]
+    "activities": []
   },
-  "Dumbo House (Soho House Group)": {
-    "formatted_address": "55 Water Street, Brooklyn, NY 11201, USA",
-    "formatted_phone_number": "+1 718 650 5243",
+  "Dumbo House (\"Soho House group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.7033,
-        "lng": -73.9903
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "Dumbo House (Soho House Group)",
+    "name": "Dumbo House (\"Soho House group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "Dumbo House is a Soho House members-only club in Brooklyn overlooking the East River. It features a rooftop pool and bar with skyline views, chic lounges and workspaces, and hosts art, music, and social events geared toward creative professionals.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/dumbo_house_soho_house_group1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/dumbo_house_soho_house_group2.jpg",
@@ -347,17 +327,15 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/dumbo_house_soho_house_group_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.dumbohouse.com",
-    "activities": [
-      "swimming"
-    ]
+    "activities": []
   },
   "Explorers Club": {
-    "formatted_address": "46 East 70th Street, New York, NY 10021, USA",
-    "formatted_phone_number": "+1 212 628 8383",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.769891,
-        "lng": -73.965614
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Explorers Club",
@@ -366,7 +344,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Explorers Club (founded 1904) is a society for explorers and scientists. Its Upper East Side headquarters is a museum-like townhouse filled with expedition artifacts and a library. The Club hosts frequent lectures and supports expeditions to promote scientific exploration.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/explorers_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/explorers_club2.jpg",
@@ -381,13 +359,43 @@
     "website": "https://www.explorers.org",
     "activities": []
   },
-  "Grolier Club": {
-    "formatted_address": "47 East 60th Street, New York, NY 10022, USA",
-    "formatted_phone_number": "+1 212 838 6690",
+  "Friars' Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.76425,
-        "lng": -73.9707
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Friars' Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/friars_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/friars_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/friars_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/friars_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/friars_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/friars_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.friarsclub.com",
+    "activities": []
+  },
+  "Grolier Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Grolier Club",
@@ -396,7 +404,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Grolier Club (founded 1884) is America’s oldest society for bibliophiles. Its Upper East Side clubhouse houses a gallery for book and printing exhibitions (free to the public) and a research library. Members (book lovers and collectors) enjoy club lounges and literary events.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/grolier_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/grolier_club2.jpg",
@@ -412,12 +420,12 @@
     "activities": []
   },
   "Harmonie Club": {
-    "formatted_address": "4 East 60th Street, New York, NY 10022, USA",
-    "formatted_phone_number": "+1 212 355 7400",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.7648,
-        "lng": -73.9718
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Harmonie Club",
@@ -426,7 +434,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Harmonie Club (est. 1852) is NYC’s second-oldest private social club. Its Beaux-Arts clubhouse on East 60th offers fine dining, elegant reception rooms, a health club (pool and squash), and hosts upscale galas, lectures, and concerts for its diverse membership.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/harmonie_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/harmonie_club2.jpg",
@@ -439,54 +447,45 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/harmonie_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.harmonieclub.org",
-    "activities": [
-      "fitness",
-      "swimming",
-      "squash",
-      "sauna",
-      "billiards"
-    ]
+    "activities": []
   },
-  "Harvard Club of New York City": {
-    "formatted_address": "35 West 44th Street, New York, NY 10036, USA",
-    "formatted_phone_number": "+1 212 840 6600",
+  "Harvard Club of New York": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.75556,
-        "lng": -73.98139
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "Harvard Club of New York City",
+    "name": "Harvard Club of New York",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Harvard Club of NYC (founded 1887) is an alumni club open to Harvard graduates. Its landmark clubhouse on West 44th includes dining venues, banquet halls, an athletic center (squash courts, gym, spa), 73 guest rooms, and hosts lectures, networking events, and social gatherings for members.",
+    "description": "",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/harvard_club_of_new_york_city1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/harvard_club_of_new_york_city2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/harvard_club_of_new_york_city3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/harvard_club_of_new_york_city4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/harvard_club_of_new_york_city5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/harvard_club_of_new_york1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/harvard_club_of_new_york2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/harvard_club_of_new_york3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/harvard_club_of_new_york4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/harvard_club_of_new_york5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/harvard_club_of_new_york_city_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/harvard_club_of_new_york_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.hcny.com",
-    "activities": [
-      "fitness",
-      "squash"
-    ]
+    "activities": []
   },
   "Knickerbocker Club": {
-    "formatted_address": "2 East 62nd Street, New York, NY 10065, USA",
-    "formatted_phone_number": "+1 212 838 6900",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.76681,
-        "lng": -73.97278
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Knickerbocker Club",
@@ -495,7 +494,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Knickerbocker Club (“The Knick,” est. 1871) is one of the most exclusive gentlemen’s clubs in America. Its neo-Georgian townhouse on East 62nd Street serves as a discreet gathering place for prominent members, offering dining, a library, and overnight accommodations in an atmosphere of old New York aristocracy.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/knickerbocker_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/knickerbocker_club2.jpg",
@@ -507,27 +506,25 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/knickerbocker_club_logo.png",
     "user_ratings_total": 0,
-    "website": "",
-    "activities": [
-      "billiards"
-    ]
+    "website": "https://www.wikipedia.org/wiki/Knickerbocker_Club",
+    "activities": []
   },
-  "La Nacional – Spanish Benevolent Society": {
-    "formatted_address": "239 West 14th Street, New York, NY 10011, USA",
-    "formatted_phone_number": "+1 212 929 7873",
+  "La Nacional â€” Spanish Benevolent Society": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.7408,
-        "lng": -74.0006
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "La Nacional – Spanish Benevolent Society",
+    "name": "La Nacional â€” Spanish Benevolent Society",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "La Nacional (est. 1868) is the oldest Spanish cultural club in NYC. Located in “Little Spain” in Chelsea, it operates a popular Spanish restaurant/tapas bar open to the public. The society also hosts flamenco shows, cultural classes, and community events celebrating Spanish heritage.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/la_nacional_spanish_benevolent_society1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/la_nacional_spanish_benevolent_society2.jpg",
@@ -535,82 +532,80 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/la_nacional_spanish_benevolent_society4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/la_nacional_spanish_benevolent_society5.jpg"
     ],
-    "rating": 4.5,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/la_nacional_spanish_benevolent_society_logo.png",
-    "user_ratings_total": 180,
+    "user_ratings_total": 0,
     "website": "https://www.lanacional.org",
     "activities": []
   },
-  "The Lambs Club": {
-    "formatted_address": "132 West 44th Street, New York, NY 10036, USA",
-    "formatted_phone_number": "+1 212 997 5262",
+  "Lambs Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.7563,
-        "lng": -73.984
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "The Lambs Club",
+    "name": "Lambs Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Lambs Club originally was a theatrical fraternity (est. 1874); today its legacy lives on as a restaurant and lounge in the Chatwal Hotel. It offers an Art Deco dining room known for Broadway power breakfasts and a classy bar that nods to its show-business heritage. The Lambs have met in a dozen different Manhattan locations since 1874. We currently have a floor at 3 West 51st Street, our home since 1976. This is the 3 West Club historic 1935 building with rooftop solarium. Our private floor has three rehearsal rooms, three Steinway pianos, a pool table, a writer’s nook, our legendary art collection, comfy chairs, free high-speed WiFi, library, script library, and 24/7 access. We share the building with other clubs, so our use of other floors and the bar-restaurant is shared space.",
+    "description": "",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_lambs_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_lambs_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_lambs_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_lambs_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_lambs_club5.jpg"
-    ],
-    "rating": 4.4,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_lambs_club_logo.png",
-    "user_ratings_total": 420,
-    "website": "https://the-lambs.org",
-    "activities": [
-      "billiards"
-    ]
-  },
-  "The Leash Club": {
-    "formatted_address": "41 East 63rd Street, New York, NY 10065, USA",
-    "formatted_phone_number": "+1 212 838 0114",
-    "geometry": {
-      "location": {
-        "lat": 40.76598,
-        "lng": -73.96722
-      }
-    },
-    "name": "The Leash Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "The Leash Club (founded 1925) is a small, elite private club originally for dog enthusiasts. Tucked into an Upper East Side townhouse, it began as a Prohibition-era speakeasy where members stored liquor in “doggy” lockers. Today it remains a discreet men’s club adorned with canine art – famed as a convivial retreat “to get your life together during a divorce”.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_leash_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_leash_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_leash_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_leash_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_leash_club5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/lambs_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/lambs_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/lambs_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/lambs_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/lambs_club5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_leash_club_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/lambs_club_logo.png",
     "user_ratings_total": 0,
-    "website": "",
+    "website": "https://www.thelambsclub.com",
+    "activities": []
+  },
+  "Leash Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Leash Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/leash_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/leash_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/leash_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/leash_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/leash_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/leash_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.sideways.nyc/2015/05/the-leash-club/",
     "activities": []
   },
   "Links Club": {
-    "formatted_address": "36 East 62nd Street, New York, NY 10065, USA",
-    "formatted_phone_number": "+1 212 838 8181",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.7665,
-        "lng": -73.9695
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Links Club",
@@ -619,7 +614,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Links Club (founded 1916) is a private club originally for golf enthusiasts. Its elegant East 62nd Street clubhouse (a Cross & Cross Georgian Revival mansion) offers dining, card rooms, and a golf simulator. It serves as a refined social club for members, many of whom are prominent in business and the golf world.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/links_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/links_club2.jpg",
@@ -631,18 +626,16 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/links_club_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.thelinksclub.org/",
-    "activities": [
-      "golf"
-    ]
+    "website": "https://www.wikipedia.org/wiki/Links_Club",
+    "activities": []
   },
   "Lotos Club": {
-    "formatted_address": "5 East 66th Street, New York, NY 10065, USA",
-    "formatted_phone_number": "+1 212 737 7100",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.768,
-        "lng": -73.968
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Lotos Club",
@@ -651,7 +644,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Lotos Club (founded 1870) is one of New York’s oldest literary clubs. Housed in a beautiful Fifth Avenue mansion, it features lavish dining rooms, a ballroom, art-filled lounges, and bedrooms for members and guests. The Club is famed for its cultural programs—“State Dinners” honoring leaders in the arts and literature—and elegant social events.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/lotos_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/lotos_club2.jpg",
@@ -666,52 +659,52 @@
     "website": "https://www.lotosclub.org",
     "activities": []
   },
-  "Ludlow House (Soho House)": {
-    "formatted_address": "139 Ludlow Street, New York, NY 10002, USA",
-    "formatted_phone_number": "+1 212 627 9800",
+  "Ludlow House (\"Soho House group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.7205,
-        "lng": -73.9896
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "Ludlow House (Soho House)",
+    "name": "Ludlow House (\"Soho House group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "Ludlow House is a Soho House club on the Lower East Side, catering to creative professionals. Spread over several floors of a converted mansion, it offers a restaurant, bar, and lounges with a relaxed vibe, plus a rooftop space. It regularly hosts film screenings, art shows, and live music for its members.",
+    "description": "",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/ludlow_house_soho_house1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/ludlow_house_soho_house2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/ludlow_house_soho_house3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/ludlow_house_soho_house4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/ludlow_house_soho_house5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/ludlow_house_soho_house_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/ludlow_house_soho_house_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/ludlow_house_soho_house_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/ludlow_house_soho_house_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/ludlow_house_soho_house_group5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/ludlow_house_soho_house_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/ludlow_house_soho_house_group_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.soholudlowhouse.com",
     "activities": []
   },
-  "Metropolitan Club (NYC)": {
-    "formatted_address": "1 East 60th Street, New York, NY 10022, USA",
-    "formatted_phone_number": "+1 212 838 7400",
+  "Metropolitan Club NYC": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.765,
-        "lng": -73.97222
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "Metropolitan Club (NYC)",
+    "name": "Metropolitan Club NYC",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Metropolitan Club (founded 1891 by J.P. Morgan) is a Gilded Age social club on Fifth Avenue at 60th Street. Its palatial landmark clubhouse features a spectacular marble-lined dining hall, multiple lounges and meeting rooms, and accommodations for members. The club hosts black-tie galas and remains a bastion of old New York society.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/metropolitan_club_nyc1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/metropolitan_club_nyc2.jpg",
@@ -724,18 +717,15 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/metropolitan_club_nyc_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.metropolitanclubnyc.org",
-    "activities": [
-      "billiards",
-      "fitness"
-    ]
+    "activities": []
   },
   "Montauk Club": {
-    "formatted_address": "25 Eighth Avenue, Brooklyn, NY 11217, USA",
-    "formatted_phone_number": "+1 718 638 0800",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.6751,
-        "lng": -73.9743
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Montauk Club",
@@ -744,7 +734,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Montauk Club (founded 1889) is a private social club in Park Slope, Brooklyn, housed in a Venetian Gothic mansion. It features dining facilities, event spaces, and a terrace. The club offers a relaxed atmosphere with networking events, community gatherings, and arts programs, now with more young members revitalizing it.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/montauk_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/montauk_club2.jpg",
@@ -760,12 +750,12 @@
     "activities": []
   },
   "National Arts Club": {
-    "formatted_address": "15 Gramercy Park South, New York, NY 10003, USA",
-    "formatted_phone_number": "+1 212 475 3424",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.7377,
-        "lng": -73.9863
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "National Arts Club",
@@ -774,7 +764,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The National Arts Club (founded 1898) is an arts and literary club located in the historic Tilden Mansion on Gramercy Park. It showcases art exhibitions (open free to the public) and offers members a fine dining room, a cozy bar, a beautiful garden, and overnight rooms. The club hosts art receptions, film screenings, and cultural events that promote the arts.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/national_arts_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/national_arts_club2.jpg",
@@ -782,29 +772,29 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/national_arts_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/national_arts_club5.jpg"
     ],
-    "rating": 4.6,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/national_arts_club_logo.png",
-    "user_ratings_total": 340,
+    "user_ratings_total": 0,
     "website": "https://www.nationalartsclub.org",
     "activities": []
   },
-  "Ned NoMad (Soho House Group)": {
-    "formatted_address": "1170 Broadway, New York, NY 10001, USA",
-    "formatted_phone_number": "+1 212 722 0555",
+  "Ned NoMad (Soho House group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.7448,
-        "lng": -73.9891
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "Ned NoMad (Soho House Group)",
+    "name": "Ned NoMad (Soho House group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Ned NoMad (opened 2022) is a members club and boutique hotel in a restored Beaux-Arts building on Broadway. A sibling of London’s Ned and part of Soho House, it boasts multiple dining and drinking venues (including a rooftop and a jazz club), stylish work/lounge spaces, and a busy calendar of events for its creative and socialite members.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/ned_nomad_soho_house_group1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/ned_nomad_soho_house_group2.jpg",
@@ -817,17 +807,15 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/ned_nomad_soho_house_group_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.thened.com",
-    "activities": [
-      "gym"
-    ]
+    "activities": []
   },
   "New York Athletic Club": {
-    "formatted_address": "180 Central Park South, New York, NY 10019, USA",
-    "formatted_phone_number": "+1 212 247 5100",
+    "formatted_address": "180 Central Park South, New York, NY 100191",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.7679,
-        "lng": -73.9817
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "New York Athletic Club",
@@ -836,7 +824,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The New York Athletic Club (founded 1868) is a premier private athletic and social club. Its 24-floor Central Park South clubhouse offers world-class sports facilities (pool, courts, gyms), numerous dining options from casual to formal, a rooftop terrace overlooking the park, banquet halls, and hotel-style guest rooms. It has a storied Olympic heritage and a very active membership of athletes and professionals.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/new_york_athletic_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/new_york_athletic_club2.jpg",
@@ -849,23 +837,15 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/new_york_athletic_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.nyac.org",
-    "activities": [
-      "swimming",
-      "basketball",
-      "squash",
-      "boxing",
-      "gym",
-      "atheltics",
-      "sauna"
-    ]
+    "activities": []
   },
   "New York Yacht Club": {
-    "formatted_address": "37 West 44th Street, New York, NY 10036, USA",
-    "formatted_phone_number": "+1 212 382 1000",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.7553,
-        "lng": -73.9817
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "New York Yacht Club",
@@ -874,7 +854,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The New York Yacht Club (founded 1844) is one of the world’s foremost yacht clubs. Its Manhattan clubhouse on W. 44th Street is famous for the Model Room (displaying ship models) and ornate dining spaces. While sailing takes place in Newport, RI, the NYC clubhouse serves as a social hub, hosting elegant dinners, lectures, and trophy ceremonies steeped in sailing tradition.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/new_york_yacht_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/new_york_yacht_club2.jpg",
@@ -887,18 +867,15 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/new_york_yacht_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.nyyc.org",
-    "activities": [
-      "sailing",
-      "boating"
-    ]
+    "activities": []
   },
   "Nippon Club": {
-    "formatted_address": "145 West 57th Street, New York, NY 10019, USA",
-    "formatted_phone_number": "+1 212 581 2223",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.7656,
-        "lng": -73.9791
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Nippon Club",
@@ -907,7 +884,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Nippon Club (founded 1905) is a private club for Japanese businesspeople and those fostering US-Japan relations. Located in a midtown high-rise, it features a Japanese restaurant and bar, meeting/event spaces, a small gym, and hosts cultural programs (language classes, art exhibitions) for members.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/nippon_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/nippon_club2.jpg",
@@ -920,49 +897,105 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/nippon_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.nipponclub.org",
-    "activities": [
-      "fitness"
-    ]
+    "activities": []
   },
-  "Penn Club of New York": {
-    "formatted_address": "30 West 44th Street, New York, NY 10036, USA",
-    "formatted_phone_number": "+1 212 764 3550",
+  "Norwood Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.7553,
-        "lng": -73.982
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "Penn Club of New York",
+    "name": "Norwood Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Penn Club (founded 1901) is the University of Pennsylvania’s alumni club in NYC. Its 13-story clubhouse features a main dining room and casual grill room, two cocktail lounges, overnight rooms, a fitness center, and banquet facilities. The club is a social and networking hub for UPenn alumni and affiliated schools, offering a full calendar of events and Ivy League camaraderie.",
+    "description": "",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/penn_club_of_new_york1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/penn_club_of_new_york2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/penn_club_of_new_york3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/penn_club_of_new_york4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/penn_club_of_new_york5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/norwood_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/norwood_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/norwood_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/norwood_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/norwood_club5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/penn_club_of_new_york_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/norwood_club_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.pennclub.org",
-    "activities": [
-      "fitness"
-    ]
+    "website": "https://www.wikipedia.org/wiki/Norwood_Club",
+    "activities": []
   },
-  "Racquet and Tennis Club": {
-    "formatted_address": "370 Park Avenue, New York, NY 10022, USA",
-    "formatted_phone_number": "+1 212 753 9700",
+  "Penn Club of New York City": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.75757,
-        "lng": -73.9728
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Penn Club of New York City",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/penn_club_of_new_york_city1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/penn_club_of_new_york_city2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/penn_club_of_new_york_city3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/penn_club_of_new_york_city4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/penn_club_of_new_york_city5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/penn_club_of_new_york_city_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.pennclub.org",
+    "activities": []
+  },
+  "Princeton Club of New York": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Princeton Club of New York",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.princetonclub.com",
+    "activities": []
+  },
+  "Racquet and Tennis Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Racquet and Tennis Club",
@@ -971,7 +1004,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Racquet and Tennis Club (“R&T,” founded 1876) is a private men’s sports club on Park Avenue. Its 1918 clubhouse contains indoor courts for squash and real tennis (court tennis), plus a fitness center, locker rooms with sauna, and stately dining and lounge facilities. It remains a bastion of traditional men’s athletics and fellowship, with many Wall Street members.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/racquet_and_tennis_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/racquet_and_tennis_club2.jpg",
@@ -983,22 +1016,16 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/racquet_and_tennis_club_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.rtcny.org/",
-    "activities": [
-      "squash",
-      "tennis",
-      "fitness",
-      "sauna",
-      "billiards"
-    ]
+    "website": "https://www.wikipedia.org/wiki/Racquet_and_Tennis_Club",
+    "activities": []
   },
   "River Club of New York": {
-    "formatted_address": "447 East 52nd Street, New York, NY 10022, USA",
-    "formatted_phone_number": "+1 212 751 0100",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.7557,
-        "lng": -73.9618
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "River Club of New York",
@@ -1007,7 +1034,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The River Club (founded 1931) is a family-centric private club located within the exclusive River House residence. Amenities include an indoor pool, a year-round tennis court in a bubble, a gym and squash court, as well as elegant dining facilities and a bar overlooking the East River. It’s known for its family-friendly atmosphere, offering children’s programs and a tight-knit community among Manhattan’s elite.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/river_club_of_new_york1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/river_club_of_new_york2.jpg",
@@ -1020,23 +1047,15 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/river_club_of_new_york_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.riverclubnyc.com",
-    "activities": [
-      "swimming",
-      "tennis",
-      "fitness",
-      "squash",
-      "golf",
-      "padel",
-      "gym"
-    ]
+    "activities": []
   },
   "Salmagundi Club": {
-    "formatted_address": "47 Fifth Avenue, New York, NY 10003, USA",
-    "formatted_phone_number": "+1 212 255 7740",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.73475,
-        "lng": -73.994
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Salmagundi Club",
@@ -1045,7 +1064,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Salmagundi Club (founded 1871) is a historic arts club in Greenwich Village. It maintains galleries for art exhibitions (often open to the public), hosts art classes and workshops, and provides member dining and a bar in its brownstone on Fifth Avenue. The club is a hub for fine artists, illustrators, photographers and patrons, featuring weekly sketch classes, auctions, and an art-packed library in a warm, bohemian setting.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/salmagundi_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/salmagundi_club2.jpg",
@@ -1060,45 +1079,43 @@
     "website": "https://www.salmagundi.org",
     "activities": []
   },
-  "Soho House New York": {
-    "formatted_address": "29-35 Ninth Avenue, New York, NY 10014, USA",
-    "formatted_phone_number": "+1 212 627 9800",
+  "Soho House New York (\"Soho House group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.74256,
-        "lng": -74.0064
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "Soho House New York",
+    "name": "Soho House New York (\"Soho House group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "Soho House New York (opened 2003 in Meatpacking) is a private club/hotel for creatives. It occupies a converted warehouse featuring a famous rooftop pool and bar with city views, a trendy restaurant and lounges, a small screening room, a spa, and 30 guest rooms for members. The House frequently hosts film screenings, parties, and fashion events, reflecting its hip, cosmopolitan membership.",
+    "description": "",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/soho_house_new_york1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/soho_house_new_york2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/soho_house_new_york3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/soho_house_new_york4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/soho_house_new_york5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/soho_house_new_york_soho_house_group1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/soho_house_new_york_soho_house_group2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/soho_house_new_york_soho_house_group3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/soho_house_new_york_soho_house_group4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/soho_house_new_york_soho_house_group5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/soho_house_new_york_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/soho_house_new_york_soho_house_group_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.sohohouseny.com",
-    "activities": [
-      "swimming"
-    ]
+    "activities": []
   },
   "Spring Place": {
-    "formatted_address": "6 St. Johns Lane, New York, NY 10013, USA",
-    "formatted_phone_number": "+1 917 935 6600",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.7213,
-        "lng": -74.006
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Spring Place",
@@ -1107,7 +1124,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Spring Place (launched 2016 in Tribeca) was a hybrid members’ club and co-working space geared toward the creative industries (fashion, media, design). It provided upscale offices and meeting spaces, a stylish restaurant/bar, and frequent industry events and showcases. (Note: Spring Place’s NY location closed in 2020.)",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/spring_place1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/spring_place2.jpg",
@@ -1123,12 +1140,12 @@
     "activities": []
   },
   "The Brook": {
-    "formatted_address": "111 East 54th Street, New York, NY 10022, USA",
-    "formatted_phone_number": "+1 212 753 6080",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.75975,
-        "lng": -73.9712
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "The Brook",
@@ -1137,7 +1154,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Brook (founded 1903) is an elite private men’s club on East 54th Street. Known for its secrecy and distinguished membership (names like Astaire, Bloomberg, Vanderbilt), it provides refined dining, comfortable lounges, and game rooms in a five-story townhouse. The club prides itself on offering an oasis of understated luxury and privacy for gentlemen of prominence.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_brook1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_brook2.jpg",
@@ -1149,148 +1166,136 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_brook_logo.png",
     "user_ratings_total": 0,
-    "website": "",
-    "activities": [
-      "billiards"
-    ]
+    "website": "https://www.wikipedia.org/wiki/The_Brook",
+    "activities": []
   },
-  "The Players": {
-    "formatted_address": "16 Gramercy Park South, New York, NY 10003, USA",
-    "formatted_phone_number": "+1 212 475 6116",
+  "The Players NYC": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.73744,
-        "lng": -73.98677
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "The Players",
+    "name": "The Players NYC",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Players (founded 1888 by Edwin Booth) is a private social club for actors and arts patrons, housed in Booth’s former mansion on Gramercy Park. The clubhouse features a gilded Age dining room, a cozy pub where many Broadway legends have gathered, a theater for stage readings, a billiards room, an impressive portrait gallery, and overnight accommodations. It remains a convivial haunt for theater professionals and enthusiasts.",
+    "description": "",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_players1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_players2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_players3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_players4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_players5.jpg"
-    ],
-    "rating": 4.6,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_players_logo.png",
-    "user_ratings_total": 130,
-    "website": "https://www.theplayersnyc.org",
-    "activities": [
-      "billiards"
-    ]
-  },
-  "Trump Golf Links – Ferry Point": {
-    "formatted_address": "500 Hutchinson River Pkwy, Bronx, NY 10465, USA",
-    "formatted_phone_number": "+1 718 414 1555",
-    "geometry": {
-      "location": {
-        "lat": 40.8186,
-        "lng": -73.8291
-      }
-    },
-    "name": "Trump Golf Links – Ferry Point",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "Trump Golf Links at Ferry Point (opened 2015) is a public golf course in the Bronx, operated by the Trump Organization. The 7,400-yard links-style course offers challenging play with NYC skyline views. Its clubhouse features a full-service restaurant and event space. (Not a private member club; open to daily-fee golfers and outings.)",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/trump_golf_links_ferry_point1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/trump_golf_links_ferry_point2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/trump_golf_links_ferry_point3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/trump_golf_links_ferry_point4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/trump_golf_links_ferry_point5.jpg"
-    ],
-    "rating": 4.1,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/trump_golf_links_ferry_point_logo.png",
-    "user_ratings_total": 1000,
-    "website": "https://www.trumpferrypoint.com",
-    "activities": [
-      "golf"
-    ]
-  },
-  "Union Club of NYC": {
-    "formatted_address": "101 East 69th Street, New York, NY 10021, USA",
-    "formatted_phone_number": "+1 212 734 5400",
-    "geometry": {
-      "location": {
-        "lat": 40.7691,
-        "lng": -73.9647
-      }
-    },
-    "name": "Union Club of NYC",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "The Union Club (founded 1836) is New York’s oldest private social club. Its imposing clubhouse at Park & 69th Street features grand dining and drawing rooms, a billiards room, a well-stocked library, and overnight accommodations. Long known as the “Mother of Clubs,” it maintains an atmosphere of patrician tradition and counted U.S. presidents and business magnates among its members.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_club_of_nyc1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_club_of_nyc2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_club_of_nyc3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_club_of_nyc4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_club_of_nyc5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_players_nyc1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_players_nyc2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_players_nyc3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_players_nyc4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_players_nyc5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_club_of_nyc_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_players_nyc_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.theplayersnyc.org",
+    "activities": []
+  },
+  "Trump Golf Links - Ferry Point (\"Trump organization)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Trump Golf Links - Ferry Point (\"Trump organization)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/trump_golf_links_ferry_point_trump_organization1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/trump_golf_links_ferry_point_trump_organization2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/trump_golf_links_ferry_point_trump_organization3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/trump_golf_links_ferry_point_trump_organization4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/trump_golf_links_ferry_point_trump_organization5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/trump_golf_links_ferry_point_trump_organization_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.trumpferrypoint.com",
+    "activities": []
+  },
+  "Union Club NYC": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Union Club NYC",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_club_nyc1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_club_nyc2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_club_nyc3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_club_nyc4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_club_nyc5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_club_nyc_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.theunionclub.com",
-    "activities": [
-      "billiards",
-      "fitness"
-    ]
+    "activities": []
   },
-  "Union League Club (NY)": {
-    "formatted_address": "38 East 37th Street, New York, NY 10016, USA",
-    "formatted_phone_number": "+1 212 685 3800",
+  "Union League Club of New York": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.74926,
-        "lng": -73.981
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "Union League Club (NY)",
+    "name": "Union League Club of New York",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Union League Club (founded 1863) is a private club known for its civic and philanthropic heritage (supporting the Union cause in the Civil War). Its Murray Hill clubhouse includes elegant dining rooms, a rooftop terrace, a notable art collection, meeting facilities, guest accommodations, and athletic facilities (squash courts, gym). It emphasizes tradition and service, counting many NYC civic leaders as members.",
+    "description": "",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_league_club_ny1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_league_club_ny2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_league_club_ny3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_league_club_ny4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_league_club_ny5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_league_club_of_new_york1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_league_club_of_new_york2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_league_club_of_new_york3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_league_club_of_new_york4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_league_club_of_new_york5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_league_club_ny_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/union_league_club_of_new_york_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.unionleagueclub.org",
-    "activities": [
-      "fitness",
-      "squash"
-    ]
+    "activities": []
   },
   "University Club of New York": {
-    "formatted_address": "1 West 54th Street, New York, NY 10019, USA",
-    "formatted_phone_number": "+1 212 247 2100",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.76139,
-        "lng": -73.97556
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "University Club of New York",
@@ -1299,7 +1304,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The University Club (founded 1865) is a prestigious club whose members must hold a college degree. Housed in an ornate Renaissance-palazzo clubhouse on Fifth Avenue, it boasts a famed vaulted library, a pool and athletic facilities, sumptuous dining halls, and richly appointed lounges. It remains an intellectual and social haven, with a highly educated membership and a tradition of academic and cultural events.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/university_club_of_new_york1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/university_club_of_new_york2.jpg",
@@ -1312,30 +1317,24 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/university_club_of_new_york_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.universityclubny.org",
-    "activities": [
-      "fitness",
-      "swimming",
-      "squash",
-      "gym",
-      "billiards"
-    ]
+    "activities": []
   },
-  "Women’s National Republican Club": {
-    "formatted_address": "3 West 51st Street, New York, NY 10019, USA",
-    "formatted_phone_number": "+1 212 582 5454",
+  "Women's National Republican Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.759,
-        "lng": -73.9774
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "Women’s National Republican Club",
+    "name": "Women's National Republican Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Women’s National Republican Club (founded 1921 by suffragist Henrietta Wells Livermore) is one of the oldest partisan clubs. Its Midtown clubhouse offers dining and bar services, a ballroom for events, a political library and memorabilia, a rooftop terrace, and hotel rooms. It hosts political discussions, receptions, and civic events, historically serving as a base for women in the Republican Party (though membership is open to all genders today).",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/womens_national_republican_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/womens_national_republican_club2.jpg",
@@ -1351,12 +1350,12 @@
     "activities": []
   },
   "Yale Club of New York City": {
-    "formatted_address": "50 Vanderbilt Avenue, New York, NY 10017, USA",
-    "formatted_phone_number": "+1 212 716 2100",
+    "formatted_address": "50 Vanderbilt Avenue, New York, NY 10017",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 40.75389,
-        "lng": -73.9775
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Yale Club of New York City",
@@ -1365,7 +1364,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Yale Club (founded 1897) is the largest private college clubhouse in the world, a 22-story building near Grand Central. Open to Yale alumni (and some affiliate schools), it offers multiple dining options, over 100 guest rooms, a huge fitness center with a pool and squash courts, and numerous banquet halls. Adorned with portraits of U.S. Presidents who were Yale alumni, it’s a bustling home for Bulldogs in NYC and a nexus for networking, weddings, and reunions.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/yale_club_of_new_york_city1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/yale_club_of_new_york_city2.jpg",
@@ -1378,11 +1377,6 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/yale_club_of_new_york_city_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.yaleclubnyc.org",
-    "activities": [
-      "fitness",
-      "squash",
-      "swimming",
-      "sauna"
-    ]
+    "activities": []
   }
 }

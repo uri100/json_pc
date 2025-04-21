@@ -1,5 +1,5 @@
 {
-  "Associação Naval de Lisboa": {
+  "AssociaĂ§Ăˇo Naval de Lisboa": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Associação Naval de Lisboa",
+    "name": "AssociaĂ§Ăˇo Naval de Lisboa",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -61,7 +61,7 @@
       "golf"
     ]
   },
-  "Circulo Eça de Queiroz": {
+  "Circulo EĂ§a de Queiroz": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -70,7 +70,7 @@
         "lng": 0.0
       }
     },
-    "name": "Circulo Eça de Queiroz",
+    "name": "Circulo EĂ§a de Queiroz",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -121,7 +121,7 @@
     "website": "https://www.clubenavaldelisboa.pt",
     "activities": []
   },
-  "Grémio Literário": {
+  "GrĂ©mio LiterĂˇrio": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -130,7 +130,7 @@
         "lng": 0.0
       }
     },
-    "name": "Grémio Literário",
+    "name": "GrĂ©mio LiterĂˇrio",
     "opening_hours": {
       "open_now": false,
       "periods": [],

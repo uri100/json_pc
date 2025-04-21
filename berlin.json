@@ -1,11 +1,11 @@
 {
   "Berlin Capital Club": {
-    "formatted_address": "Mohrenstraße 30, 10117 Berlin, Germany",
-    "formatted_phone_number": "+49 30 2062970",
+    "formatted_address": "MohrenstraĂźe 30",
+    "formatted_phone_number": "+49 30 2062976",
     "geometry": {
       "location": {
-        "lat": 52.5116,
-        "lng": 13.3903
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Berlin Capital Club",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Berlin Capital Club is an exclusive private business club located in the heart of Berlin. It offers a sophisticated environment for business meetings, networking events, and private dining. The club emphasizes privacy and discretion, providing members with upscale facilities including formal dining rooms, a members bar, lounge, and cigar lounge.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/berlin_capital_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/berlin_capital_club2.jpg",
@@ -22,20 +22,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/berlin_capital_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/berlin_capital_club5.jpg"
     ],
-    "rating": 4.6,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/berlin_capital_club_logo.png",
-    "user_ratings_total": 85,
+    "user_ratings_total": 0,
     "website": "https://www.berlincapitalclub.de",
     "activities": []
   },
   "Berliner Golf & Country Club Motzener See": {
-    "formatted_address": "Golfweg 22, 15749 Mittenwalde, Germany",
-    "formatted_phone_number": "+49 33769 5010",
+    "formatted_address": "Am Golfplatz 5",
+    "formatted_phone_number": "+49 33769 50130",
     "geometry": {
       "location": {
-        "lat": 52.2669,
-        "lng": 13.5113
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Berliner Golf & Country Club Motzener See",
@@ -44,7 +44,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Berliner Golf & Country Club Motzener See is a prestigious golf club situated near Berlin. It features an 18-hole championship golf course set amidst scenic landscapes, offering a challenging experience for golf enthusiasts. The club also provides practice facilities, a clubhouse with dining options, and organizes various tournaments and events.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/berliner_golf_country_club_motzener_see1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/berliner_golf_country_club_motzener_see2.jpg",
@@ -52,22 +52,22 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/berliner_golf_country_club_motzener_see4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/berliner_golf_country_club_motzener_see5.jpg"
     ],
-    "rating": 4.7,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/berliner_golf_country_club_motzener_see_logo.png",
-    "user_ratings_total": 112,
-    "website": "https://golfclubmotzen.de/",
+    "user_ratings_total": 0,
+    "website": "",
     "activities": [
       "golf"
     ]
   },
   "China Club Berlin": {
-    "formatted_address": "Behrenstraße 72, 10117 Berlin, Germany",
-    "formatted_phone_number": "+49 30 20914890",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 52.5145,
-        "lng": 13.3805
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "China Club Berlin",
@@ -76,7 +76,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The China Club Berlin is a private members' club located in the center of the capital. It offers a luxurious and elegant atmosphere, adorned with precious Chinese antiquities and contemporary Chinese art. The club provides exquisite Chinese cuisine and serves as a meeting place for high society from the fields of culture, politics, media, and the economy.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/china_club_berlin1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/china_club_berlin2.jpg",
@@ -84,20 +84,20 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/china_club_berlin4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/china_club_berlin5.jpg"
     ],
-    "rating": 4.8,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/china_club_berlin_logo.png",
-    "user_ratings_total": 56,
+    "user_ratings_total": 0,
     "website": "https://www.china-club-berlin.de",
     "activities": []
   },
   "International Club Berlin": {
-    "formatted_address": "Thüringer Allee 5-11, 14052 Berlin, Germany",
-    "formatted_phone_number": "+49 30 3000870",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 52.5206,
-        "lng": 13.2616
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "International Club Berlin",
@@ -106,7 +106,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The International Club Berlin is an urban country club that promotes the exchange of ideas and experiences among citizens and representatives from various fields, including politics, business, art, and culture. The club offers sports facilities such as tennis courts and a swimming pool, as well as spaces for social gatherings and events.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/international_club_berlin1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/international_club_berlin2.jpg",
@@ -114,32 +114,29 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/international_club_berlin4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/international_club_berlin5.jpg"
     ],
-    "rating": 4.5,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/international_club_berlin_logo.png",
-    "user_ratings_total": 74,
+    "user_ratings_total": 0,
     "website": "https://www.ic-b.de",
-    "activities": [
-      "tennis",
-      "swimming"
-    ]
+    "activities": []
   },
-  "Soho House Berlin (Soho House Group)": {
-    "formatted_address": "Torstraße 1, 10119 Berlin, Germany",
-    "formatted_phone_number": "+49 30 4050440",
+  "Soho House Berlin (\"Soho House group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 52.5301,
-        "lng": 13.4018
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "Soho House Berlin (Soho House Group)",
+    "name": "Soho House Berlin (\"Soho House group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "Soho House Berlin is a members' club and hotel located in a Grade II listed building in Mitte. It provides a place for members to relax, eat, drink, and meet. The club features various amenities, including a gym, spa, rooftop pool, restaurants, and workspaces, catering to creative professionals and entrepreneurs.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/soho_house_berlin_soho_house_group1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/soho_house_berlin_soho_house_group2.jpg",
@@ -147,173 +144,11 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/soho_house_berlin_soho_house_group4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/soho_house_berlin_soho_house_group5.jpg"
     ],
-    "rating": 4.4,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/soho_house_berlin_soho_house_group_logo.png",
-    "user_ratings_total": 987,
+    "user_ratings_total": 0,
     "website": "https://www.sohohouseberlin.com",
-    "activities": [
-      "gym",
-      "spa"
-    ]
-  },
-  "Golf- und Land-Club Berlin-Wannsee": {
-    "formatted_address": "Golfweg 22, 14109 Berlin, Germany",
-    "formatted_phone_number": "+49 30 8067060",
-    "geometry": {
-      "location": {
-        "lat": 52.4213,
-        "lng": 13.1816
-      }
-    },
-    "name": "Golf- und Land-Club Berlin-Wannsee",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "Founded in 1895, the Golf- und Land-Club Berlin-Wannsee is one of Germany's oldest and most prestigious golf clubs. It offers an 18-hole championship course and a 9-hole course, both set in picturesque surroundings. The club has a rich history and has hosted numerous national and international tournaments.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/golf_und_landclub_berlinwannsee1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/golf_und_landclub_berlinwannsee2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/golf_und_landclub_berlinwannsee3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/golf_und_landclub_berlinwannsee4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/golf_und_landclub_berlinwannsee5.jpg"
-    ],
-    "rating": 4.6,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/golf_und_landclub_berlinwannsee_logo.png",
-    "user_ratings_total": 89,
-    "website": "https://www.wannsee.de/",
-    "activities": [
-      "golf"
-    ]
-  },
-  "Verein Seglerhaus am Wannsee": {
-    "formatted_address": "Am Großen Wannsee 22-26, 14109 Berlin, Germany",
-    "formatted_phone_number": "+49 30 8051400",
-    "geometry": {
-      "location": {
-        "lat": 52.4346,
-        "lng": 13.1658
-      }
-    },
-    "name": "Verein Seglerhaus am Wannsee",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "Established in 1867, the Verein Seglerhaus am Wannsee is one of Germany's oldest yacht clubs. Located on the shores of the Wannsee lake, the club offers excellent facilities for sailing enthusiasts, including mooring spaces for yachts and regular regatta events with both domestic and international participation.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/verein_seglerhaus_am_wannsee1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/verein_seglerhaus_am_wannsee2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/verein_seglerhaus_am_wannsee3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/verein_seglerhaus_am_wannsee4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/verein_seglerhaus_am_wannsee5.jpg"
-    ],
-    "rating": 4.7,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/verein_seglerhaus_am_wannsee_logo.png",
-    "user_ratings_total": 43,
-    "website": "https://www.vsaw.de/",
-    "activities": [
-      "sailing"
-    ]
-  },
-  "Aspria Berlin Ku'damm": {
-    "formatted_address": "Karlsruher Str. 20, 10711 Berlin, Germany",
-    "formatted_phone_number": "+49 30 89068880",
-    "geometry": {
-      "location": {
-        "lat": 52.501,
-        "lng": 13.2825
-      }
-    },
-    "name": "Aspria Berlin Ku'damm",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "Aspria Berlin Ku'damm is a members' club offering extensive health, fitness, and spa facilities. Members can enjoy a fully equipped gym, swimming pools, spa services, and tennis courts. The club also provides overnight accommodations and various wellness programs.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/aspria_berlin_kudamm1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/aspria_berlin_kudamm2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/aspria_berlin_kudamm3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/aspria_berlin_kudamm4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/aspria_berlin_kudamm5.jpg"
-    ],
-    "rating": 4.3,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/aspria_berlin_kudamm_logo.png",
-    "user_ratings_total": 320,
-    "website": "https://www.aspria.com/de/berlin-kudamm",
-    "activities": [
-      "gym",
-      "swimming",
-      "spa",
-      "tennis"
-    ]
-  },
-  "Club von Berlin": {
-    "formatted_address": "Jägerstraße 1, 10117 Berlin, Germany",
-    "formatted_phone_number": "+49 30 203050",
-    "geometry": {
-      "location": {
-        "lat": 52.5125,
-        "lng": 13.3933
-      }
-    },
-    "name": "Club von Berlin",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "Founded in 1864, the Club von Berlin is a private club that serves as a forum for individuals from various sectors, including business, politics, culture, and science. The club organizes regular lectures and discussions on current topics, providing a space for open and confidential exchange of ideas.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/club_von_berlin1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/club_von_berlin2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/club_von_berlin3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/club_von_berlin4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/club_von_berlin5.jpg"
-    ],
-    "rating": 4.5,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/club_von_berlin_logo.png",
-    "user_ratings_total": 27,
-    "website": "https://www.clubvonberlin.de/",
-    "activities": []
-  },
-  "Internationaler Lyceum Club Berlin": {
-    "formatted_address": "Fasanenstraße 24, 10719 Berlin, Germany",
-    "formatted_phone_number": "+49 30 8826295",
-    "geometry": {
-      "location": {
-        "lat": 52.5026,
-        "lng": 13.3269
-      }
-    },
-    "name": "Internationaler Lyceum Club Berlin",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "The Internationaler Lyceum Club Berlin is part of a global association of women's clubs focused on cultural and artistic exchange. The club offers a platform for women interested in arts, literature, music, and social issues to engage in various activities and events.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/internationaler_lyceum_club_berlin1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/internationaler_lyceum_club_berlin2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/internationaler_lyceum_club_berlin3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/internationaler_lyceum_club_berlin4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/internationaler_lyceum_club_berlin5.jpg"
-    ],
-    "rating": 4.6,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/berlin/internationaler_lyceum_club_berlin_logo.png",
-    "user_ratings_total": 15,
-    "website": "https://lyceumclub-berlin.de/",
     "activities": []
   }
 }

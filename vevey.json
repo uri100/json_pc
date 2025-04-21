@@ -1,5 +1,5 @@
 {
-  "Cercle du Marché": {
+  "Cercle du MarchĂ©": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Cercle du Marché",
+    "name": "Cercle du MarchĂ©",
     "opening_hours": {
       "open_now": false,
       "periods": [],

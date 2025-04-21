@@ -211,7 +211,7 @@
   },
   "Royal Automobile Club of Victoria": {
     "formatted_address": "501 Bourke Street, Melbourne, Australia, VIC 3000",
-    "formatted_phone_number": "1161400000000",
+    "formatted_phone_number": "1.16E+12",
     "geometry": {
       "location": {
         "lat": 0.0,

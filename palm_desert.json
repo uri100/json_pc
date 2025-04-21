@@ -1,5 +1,5 @@
 {
-  "Desert Falls Country Club (ClubCorp)": {
+  "Desert Falls Country Club (\"ClubCorp)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Desert Falls Country Club (ClubCorp)",
+    "name": "Desert Falls Country Club (\"ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

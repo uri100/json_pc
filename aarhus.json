@@ -1,11 +1,11 @@
 {
   "Aarhus Sejlklub": {
-    "formatted_address": "Kystpromenaden 7, 8000 Aarhus C, Denmark",
-    "formatted_phone_number": "+45 2119 4061",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 56.166917,
-        "lng": 10.224167
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Aarhus Sejlklub",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "One of the oldest yacht clubs in Denmark, established in 1879. Based in Aarhus Docklands, it offers sailing training programs and hosts competitive regattas&#8203;:contentReference[oaicite:0]{index=0}.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aarhus/aarhus_sejlklub1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aarhus/aarhus_sejlklub2.jpg",
@@ -27,8 +27,6 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/aarhus/aarhus_sejlklub_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.aarhussejlklub.dk",
-    "activities": [
-      "sailing"
-    ]
+    "activities": []
   }
 }

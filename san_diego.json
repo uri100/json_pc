@@ -1,5 +1,5 @@
 {
-  "Bernardo Heights Country Club (ClubCorp)": {
+  "Bernardo Heights Country Club (\"ClubCorp)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Bernardo Heights Country Club (ClubCorp)",
+    "name": "Bernardo Heights Country Club (\"ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

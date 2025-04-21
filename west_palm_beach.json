@@ -89,7 +89,7 @@
     "website": "https://www.pbyc.com",
     "activities": []
   },
-  "Trump International Golf Club - West Palm Beach (Trump organization)": {
+  "Trump International Golf Club - West Palm Beach (\"Trump organization)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -98,7 +98,7 @@
         "lng": 0.0
       }
     },
-    "name": "Trump International Golf Club - West Palm Beach (Trump organization)",
+    "name": "Trump International Golf Club - West Palm Beach (\"Trump organization)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

@@ -59,7 +59,7 @@
     "website": "https://www.clubgiraud.com",
     "activities": []
   },
-  "Fair Oaks Ranch Golf & Country Club (ClubCorp)": {
+  "Fair Oaks Ranch Golf & Country Club (\"ClubCorp)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -68,7 +68,7 @@
         "lng": 0.0
       }
     },
-    "name": "Fair Oaks Ranch Golf & Country Club (ClubCorp)",
+    "name": "Fair Oaks Ranch Golf & Country Club (\"ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

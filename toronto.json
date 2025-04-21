@@ -395,7 +395,7 @@
     "website": "https://www.rcyc.ca",
     "activities": []
   },
-  "Soho House Toronto (Soho House Group)": {
+  "Soho House Toronto (\"Soho House group)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -404,7 +404,7 @@
         "lng": 0.0
       }
     },
-    "name": "Soho House Toronto (Soho House Group)",
+    "name": "Soho House Toronto (\"Soho House group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

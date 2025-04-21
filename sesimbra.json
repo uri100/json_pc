@@ -1,5 +1,5 @@
 {
-  "Clube Sesimbrese": {
+  "Clube Sesimbrese (\"AKA â€śGrĂ©mioâ€ť)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Clube Sesimbrese",
+    "name": "Clube Sesimbrese (\"AKA â€śGrĂ©mioâ€ť)",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -16,15 +16,15 @@
     },
     "description": "",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sesimbra/clube_sesimbrese1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sesimbra/clube_sesimbrese2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sesimbra/clube_sesimbrese3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sesimbra/clube_sesimbrese4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sesimbra/clube_sesimbrese5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sesimbra/clube_sesimbrese_aka_grmio1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sesimbra/clube_sesimbrese_aka_grmio2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sesimbra/clube_sesimbrese_aka_grmio3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sesimbra/clube_sesimbrese_aka_grmio4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sesimbra/clube_sesimbrese_aka_grmio5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sesimbra/clube_sesimbrese_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/sesimbra/clube_sesimbrese_aka_grmio_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.facebook.com/ClubeSesimbrense/",
     "activities": []

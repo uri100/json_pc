@@ -331,7 +331,7 @@
     "website": "https://www.rcop.com",
     "activities": []
   },
-  "Trump National Golf Club - Philadelphia (Trump organization)": {
+  "Trump National Golf Club - Philadelphia (\"Trump organization)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -340,7 +340,7 @@
         "lng": 0.0
       }
     },
-    "name": "Trump National Golf Club - Philadelphia (Trump organization)",
+    "name": "Trump National Golf Club - Philadelphia (\"Trump organization)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

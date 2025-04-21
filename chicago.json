@@ -209,7 +209,7 @@
     "website": "https://www.rcc.club",
     "activities": []
   },
-  "Soho House Chicago (Soho House Group)": {
+  "Soho House Chicago (\"Soho House group)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -218,7 +218,7 @@
         "lng": 0.0
       }
     },
-    "name": "Soho House Chicago (Soho House Group)",
+    "name": "Soho House Chicago (\"Soho House group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

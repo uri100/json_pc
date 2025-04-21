@@ -1,5 +1,5 @@
 {
-  "Asociación Civil Hurlingham Club": {
+  "AsociaciĂłn Civil Hurlingham Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Asociación Civil Hurlingham Club",
+    "name": "AsociaciĂłn Civil Hurlingham Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -119,7 +119,7 @@
     "website": "https://www.wikipedia.org/wiki/Centro_Naval",
     "activities": []
   },
-  "Centro Naval Núñez": {
+  "Centro Naval NĂşĂ±ez": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -128,7 +128,7 @@
         "lng": 0.0
       }
     },
-    "name": "Centro Naval Núñez",
+    "name": "Centro Naval NĂşĂ±ez",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -209,7 +209,7 @@
     "website": "https://www.centronaval.org.ar/sedes/sede-tigre.html",
     "activities": []
   },
-  "Cí­rculo de Armas": {
+  "CĂ­rculo de Armas": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -218,7 +218,7 @@
         "lng": 0.0
       }
     },
-    "name": "Cí­rculo de Armas",
+    "name": "CĂ­rculo de Armas",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -239,7 +239,7 @@
     "website": "https://www.wikipedia.org/wiki/C%C3%ADrculo_de_Armas",
     "activities": []
   },
-  "Cí­rculo Militar": {
+  "CĂ­rculo Militar": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -248,7 +248,7 @@
         "lng": 0.0
       }
     },
-    "name": "Cí­rculo Militar",
+    "name": "CĂ­rculo Militar",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -359,7 +359,7 @@
     "website": "https://www.clubdelprogreso.org",
     "activities": []
   },
-  "Club Español": {
+  "Club EspaĂ±ol": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -368,7 +368,7 @@
         "lng": 0.0
       }
     },
-    "name": "Club Español",
+    "name": "Club EspaĂ±ol",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -389,7 +389,7 @@
     "website": "https://www.clubespanolba.com.ar",
     "activities": []
   },
-  "Club Francés": {
+  "Club FrancĂ©s": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -398,7 +398,7 @@
         "lng": 0.0
       }
     },
-    "name": "Club Francés",
+    "name": "Club FrancĂ©s",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -449,7 +449,7 @@
     "website": "",
     "activities": []
   },
-  "Club Sirio Libanés": {
+  "Club Sirio LibanĂ©s": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -458,7 +458,7 @@
         "lng": 0.0
       }
     },
-    "name": "Club Sirio Libanés",
+    "name": "Club Sirio LibanĂ©s",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -479,7 +479,7 @@
     "website": "https://www.clubsiriolibanes.org.ar",
     "activities": []
   },
-  "Club Universitario de Buenos Aires (C.U.B.A.)": {
+  "Club Universitario de Buenos Aires (\"C.U.B.A.)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -488,7 +488,7 @@
         "lng": 0.0
       }
     },
-    "name": "Club Universitario de Buenos Aires (C.U.B.A.)",
+    "name": "Club Universitario de Buenos Aires (\"C.U.B.A.)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

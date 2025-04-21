@@ -1,11 +1,11 @@
 {
   "The Club": {
-    "formatted_address": "Mina Saadiyat, Abu Dhabi, United Arab Emirates",
-    "formatted_phone_number": "+971 2 673 1111",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 24.5335,
-        "lng": 54.4339
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "The Club",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "One of Abu Dhabi’s premier private clubs, established in 1962 (originally as the British Club)&#8203;:contentReference[oaicite:7]{index=7}. It has evolved into a multicultural hub with members from over 80 nationalities. Facilities include a private beach, swimming pools, a health complex, and numerous sports from sailing and diving to tennis and football&#8203;:contentReference[oaicite:8]{index=8}, along with multiple dining venues.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/abu_dhabi/the_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/abu_dhabi/the_club2.jpg",
@@ -22,16 +22,11 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/abu_dhabi/the_club4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/abu_dhabi/the_club5.jpg"
     ],
-    "rating": 4.5,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/abu_dhabi/the_club_logo.png",
-    "user_ratings_total": 729,
+    "user_ratings_total": 0,
     "website": "https://www.the-club.com",
-    "activities": [
-      "sailing",
-      "diving",
-      "tennis",
-      "fitness"
-    ]
+    "activities": []
   }
 }

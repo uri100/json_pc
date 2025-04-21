@@ -1,5 +1,5 @@
 {
-  "Canterwood Golf and Country Club (ClubCorp)": {
+  "Canterwood Golf and Country Club (\"ClubCorp)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Canterwood Golf and Country Club (ClubCorp)",
+    "name": "Canterwood Golf and Country Club (\"ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

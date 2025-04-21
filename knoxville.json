@@ -1,5 +1,5 @@
 {
-  "Club LeConte (ClubCorp)": {
+  "Club LeConte (\"ClubCorp)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Club LeConte (ClubCorp)",
+    "name": "Club LeConte (\"ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

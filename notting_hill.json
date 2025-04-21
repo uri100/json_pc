@@ -1,5 +1,5 @@
 {
-  "Electric House (Soho House Group)": {
+  "Cloud Twelve": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,37 @@
         "lng": 0.0
       }
     },
-    "name": "Electric House (Soho House Group)",
+    "name": "Cloud Twelve",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/notting_hill/cloud_twelve1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/notting_hill/cloud_twelve2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/notting_hill/cloud_twelve3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/notting_hill/cloud_twelve4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/notting_hill/cloud_twelve5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/notting_hill/cloud_twelve_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.cloudtwelve.co.uk",
+    "activities": []
+  },
+  "Electric House (\"Soho House group)": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Electric House (\"Soho House group)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

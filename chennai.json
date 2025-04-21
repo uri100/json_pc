@@ -269,7 +269,7 @@
     "website": "https://www.madrasraceclub.com",
     "activities": []
   },
-  "Presidency Club (1929) Royal Madras Yacht Club": {
+  "Presidency Club (\"1929) Royal Madras Yacht Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -278,7 +278,7 @@
         "lng": 0.0
       }
     },
-    "name": "Presidency Club (1929) Royal Madras Yacht Club",
+    "name": "Presidency Club (\"1929) Royal Madras Yacht Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],

@@ -1,5 +1,5 @@
 {
-  "Círculo Agrí­cola y Mercantil Villenense": {
+  "CĂ­rculo AgrĂ­cola y Mercantil": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -8,7 +8,7 @@
         "lng": 0.0
       }
     },
-    "name": "Círculo Agrí­cola y Mercantil Villenense",
+    "name": "CĂ­rculo AgrĂ­cola y Mercantil",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -16,15 +16,15 @@
     },
     "description": "",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/villena/crculo_agrcola_y_mercantil_villenense1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/villena/crculo_agrcola_y_mercantil_villenense2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/villena/crculo_agrcola_y_mercantil_villenense3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/villena/crculo_agrcola_y_mercantil_villenense4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/villena/crculo_agrcola_y_mercantil_villenense5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/villena/crculo_agrcola_y_mercantil1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/villena/crculo_agrcola_y_mercantil2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/villena/crculo_agrcola_y_mercantil3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/villena/crculo_agrcola_y_mercantil4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/villena/crculo_agrcola_y_mercantil5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/villena/crculo_agrcola_y_mercantil_villenense_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/villena/crculo_agrcola_y_mercantil_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.camv.es",
     "activities": []

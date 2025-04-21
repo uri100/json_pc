@@ -29,7 +29,7 @@
     "website": "https://www.55seventy.com",
     "activities": []
   },
-  "Brookhaven Country Club (ClubCorp)": {
+  "Brookhaven Country Club (\"ClubCorp)": {
     "formatted_address": "",
     "formatted_phone_number": "",
     "geometry": {
@@ -38,7 +38,7 @@
         "lng": 0.0
       }
     },
-    "name": "Brookhaven Country Club (ClubCorp)",
+    "name": "Brookhaven Country Club (\"ClubCorp)",
     "opening_hours": {
       "open_now": false,
       "periods": [],

@@ -1,11 +1,11 @@
 {
   "Am Hof 8": {
-    "formatted_address": "Am Hof 8, 1010 Vienna, Austria",
-    "formatted_phone_number": "+43 1 909 4489",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 48.2103,
-        "lng": 16.3663
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Am Hof 8",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "Am Hof 8 is Vienna’s first modern private members club, opened in September 2022. Housed in the historic ‘Kattus House’ dating from 1508, it provides an exclusive retreat in the city center with restaurants, bars, meeting rooms, co-working spaces, a hidden rooftop terrace, guest suites, and a speakeasy-style nightclub in medieval vaults.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/am_hof_81.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/am_hof_82.jpg",
@@ -26,57 +26,55 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/am_hof_8_logo.png",
     "user_ratings_total": 0,
-    "website": "https://amhof8.com",
+    "website": "https://www.amhof8.com",
     "activities": []
   },
-  "Grand Étage Club at Grand Ferdinand": {
-    "formatted_address": "Grand Ferdinand Hotel, Schubertring 10–12, 1010 Vienna, Austria",
-    "formatted_phone_number": "+43 1 91880",
+  "Grand Etage Club at Grand Ferdinand": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 48.2027,
-        "lng": 16.3765
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "Grand Étage Club at Grand Ferdinand",
+    "name": "Grand Etage Club at Grand Ferdinand",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Grand Étage is a private rooftop club and dining lounge atop the Grand Ferdinand Hotel, offering panoramic views over Vienna’s Ringstrasse. Spread across the 8th floor, it features an elegant bar, restaurant, and terrace with a rooftop pool, providing a refined atmosphere for socializing or quiet relaxation.",
+    "description": "",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/grand_tage_club_at_grand_ferdinand1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/grand_tage_club_at_grand_ferdinand2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/grand_tage_club_at_grand_ferdinand3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/grand_tage_club_at_grand_ferdinand4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/grand_tage_club_at_grand_ferdinand5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/grand_etage_club_at_grand_ferdinand1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/grand_etage_club_at_grand_ferdinand2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/grand_etage_club_at_grand_ferdinand3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/grand_etage_club_at_grand_ferdinand4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/grand_etage_club_at_grand_ferdinand5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/grand_tage_club_at_grand_ferdinand_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/grand_etage_club_at_grand_ferdinand_logo.png",
     "user_ratings_total": 0,
-    "website": "https://grandferdinand.com",
-    "activities": [
-      "swimming"
-    ]
+    "website": "https://www.grandferdinand.com",
+    "activities": []
   },
-  "Österreichische Campagnereiter-Gesellschaft": {
-    "formatted_address": "Trabrennstraße 2, 1020 Vienna, Austria",
-    "formatted_phone_number": "+43 1 728 01 16",
+  "Ă–sterreichische Campagnereiter-Gesellschaft": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 48.223,
-        "lng": 16.4213
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "Österreichische Campagnereiter-Gesellschaft",
+    "name": "Ă–sterreichische Campagnereiter-Gesellschaft",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "Founded in 1872, the Campagnereiter-Gesellschaft is a venerable equestrian society promoting campagne riding. It organized its first public horse show in 1875 and, after joining with the Vienna Racing Club, continues to host equestrian competitions and social events.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/sterreichische_campagnereitergesellschaft1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/sterreichische_campagnereitergesellschaft2.jpg",
@@ -88,29 +86,25 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/sterreichische_campagnereitergesellschaft_logo.png",
     "user_ratings_total": 0,
-    "website": "http://www.campagnereiter.at",
-    "activities": [
-      "Equestrian",
-      "horse riding",
-      "show jumping"
-    ]
+    "website": "https://www.campagnereiter.at",
+    "activities": []
   },
-  "St. Johanns Club": {
-    "formatted_address": "Schubertring 4, 1010 Vienna, Austria",
-    "formatted_phone_number": "+43 1 512 2155",
+  "St Johanns Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 48.203,
-        "lng": 16.3752
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
-    "name": "St. Johanns Club",
+    "name": "St Johanns Club",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "St. Johanns Club is an exclusive private club in Vienna, founded in 1954 as the successor to Austria’s Catholic nobility association. It offers an elegant, historic venue for social and cultural gatherings in a refined setting on the Ringstrasse.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/st_johanns_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/st_johanns_club2.jpg",
@@ -126,12 +120,12 @@
     "activities": []
   },
   "Wiener Rennverein": {
-    "formatted_address": "Freudenau Racecourse, 1020 Vienna, Austria",
-    "formatted_phone_number": "+43 1 728 95 40",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 48.1816,
-        "lng": 16.4645
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Wiener Rennverein",
@@ -140,7 +134,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Wiener Rennverein, established in the 19th century, is Vienna’s horse racing society that has organized thoroughbred races for over a century. It played a key role in merging Vienna’s riding and racing clubs into the Austrian Racing and Riding Association, and remains central to the city’s equestrian racing activities.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/wiener_rennverein1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/wiener_rennverein2.jpg",
@@ -152,9 +146,37 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/wiener_rennverein_logo.png",
     "user_ratings_total": 0,
-    "website": "https://rennverein.at/",
-    "activities": [
-      "Horse racing"
-    ]
+    "website": "https://www.rennverein.at",
+    "activities": []
+  },
+  "Westwood Country Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Westwood Country Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/westwood_country_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/westwood_country_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/westwood_country_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/westwood_country_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/westwood_country_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/vienna/westwood_country_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.westwoodcc.com",
+    "activities": []
   }
 }

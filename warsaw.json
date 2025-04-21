@@ -1,11 +1,11 @@
 {
   "Klub Polskiej Rady Biznesu": {
-    "formatted_address": "Pałac Sobańskich, Aleje Ujazdowskie 13, 00-567 Warszawa, Poland",
-    "formatted_phone_number": "+48 22 523 66 11",
+    "formatted_address": "",
+    "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 52.22136,
-        "lng": 21.02397
+        "lat": 0.0,
+        "lng": 0.0
       }
     },
     "name": "Klub Polskiej Rady Biznesu",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Polish Business Roundtable Club (Klub PRB) is an elite private club housed in the historic Sobański Palace. Since the 1990s, it has been a top venue for Poland’s business leaders, featuring gourmet dining, salons, meeting rooms, and a garden terrace for discreet executive discussions.",
+    "description": "",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/warsaw/klub_polskiej_rady_biznesu1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/warsaw/klub_polskiej_rady_biznesu2.jpg",
@@ -22,11 +22,11 @@
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/warsaw/klub_polskiej_rady_biznesu4.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/warsaw/klub_polskiej_rady_biznesu5.jpg"
     ],
-    "rating": 4.6,
+    "rating": 0.0,
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/warsaw/klub_polskiej_rady_biznesu_logo.png",
-    "user_ratings_total": 13,
-    "website": "https://kprb.pl",
+    "user_ratings_total": 0,
+    "website": "https://www.amber-room.pl",
     "activities": []
   }
 }
