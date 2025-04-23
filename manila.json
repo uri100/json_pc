@@ -332,5 +332,102 @@
       "badminton",
       "squash"
     ]
+  },
+  "Manila Golf & Country Club": {
+    "formatted_address": "Harvard Road, Makati City, 1220 Metro Manila, Philippines",
+    "formatted_phone_number": "+63 2 817 0266",
+    "geometry": {
+      "location": {
+        "lat": 14.5535,
+        "lng": 121.0371
+      }
+    },
+    "name": "Manila Golf & Country Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Established in 1901, Manila Golf & Country Club is one of the Philippines' most prestigious golf clubs, featuring an 18-hole championship course and exclusive amenities for members and their guests.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/manila_golf_country_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/manila_golf_country_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/manila_golf_country_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/manila_golf_country_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/manila_golf_country_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/manila_golf_country_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.manilagolfclub.com",
+    "activities": [
+      "Golf"
+    ]
+  },
+  "The Rockwell Club": {
+    "formatted_address": "23 Amorsolo Drive, Rockwell Center, Makati City, 1200 Metro Manila, Philippines",
+    "formatted_phone_number": "+63 2 793 0088",
+    "geometry": {
+      "location": {
+        "lat": 14.5667,
+        "lng": 121.0367
+      }
+    },
+    "name": "The Rockwell Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Located in the upscale Rockwell Center, The Rockwell Club offers a comprehensive range of fitness and wellness facilities, including a gym, swimming pool, tennis courts, and spa services, catering to the lifestyle needs of its members.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/the_rockwell_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/the_rockwell_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/the_rockwell_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/the_rockwell_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/the_rockwell_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/the_rockwell_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.therockwellclub.com",
+    "activities": [
+      "Swimming",
+      "Gym",
+      "Tennis",
+      "Spa"
+    ]
+  },
+  "Tower Club Makati": {
+    "formatted_address": "33rd & 34th Floors, Philamlife Tower, 8767 Paseo de Roxas, Makati City, 1226 Metro Manila, Philippines",
+    "formatted_phone_number": "+63 2 8857 0852",
+    "geometry": {
+      "location": {
+        "lat": 14.5539,
+        "lng": 121.0264
+      }
+    },
+    "name": "Tower Club Makati",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Situated in the heart of Makati's business district, Tower Club Makati is an exclusive business club offering fine dining, private meeting rooms, and event spaces, providing a conducive environment for networking and corporate gatherings.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/tower_club_makati1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/tower_club_makati2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/tower_club_makati3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/tower_club_makati4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/tower_club_makati5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/tower_club_makati_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.towerclub.com.ph",
+    "activities": []
   }
 }

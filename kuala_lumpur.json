@@ -1,11 +1,11 @@
 {
   "Bankers' Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Level 22, Amoda Building, 22 Jalan Imbi, 55100 Kuala Lumpur, Malaysia",
+    "formatted_phone_number": "+60 3-2142 8888",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 3.1435,
+        "lng": 101.7103
       }
     },
     "name": "Bankers' Club",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "An exclusive club located in the heart of Kuala Lumpur, offering fine dining and business facilities for professionals and executives.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/bankers_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/bankers_club2.jpg",
@@ -30,12 +30,12 @@
     "activities": []
   },
   "Malaysia Petroleum Club": {
-    "formatted_address": "Level 42, Tower 2 Petronas Twin Towers, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Malaysia",
-    "formatted_phone_number": "",
+    "formatted_address": "Level 42, Tower 2, PETRONAS Twin Towers, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Malaysia",
+    "formatted_phone_number": "+60 3-2161 3200",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 3.1579,
+        "lng": 101.7113
       }
     },
     "name": "Malaysia Petroleum Club",
@@ -44,7 +44,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Situated in the iconic PETRONAS Twin Towers, this club serves as a premier venue for professionals in the oil and gas industry to network and dine.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/malaysia_petroleum_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/malaysia_petroleum_club2.jpg",
@@ -60,12 +60,12 @@
     "activities": []
   },
   "Raintree Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Jalan Wickham, Off Jalan Ampang Hilir, 55000 Kuala Lumpur, Malaysia",
+    "formatted_phone_number": "+60 3-4257 9066",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 3.1551,
+        "lng": 101.7312
       }
     },
     "name": "Raintree Club",
@@ -74,7 +74,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1983, the Raintree Club offers a serene environment with comprehensive recreational facilities including a swimming pool, tennis courts, and a gym.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/raintree_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/raintree_club2.jpg",
@@ -87,15 +87,19 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/raintree_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.raintree.com.my",
-    "activities": []
+    "activities": [
+      "Swimming",
+      "Tennis",
+      "Gym"
+    ]
   },
   "Royal Commonwealth Society of Malaysia": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "4 Jalan Birah, Damansara Heights, 50490 Kuala Lumpur, Malaysia",
+    "formatted_phone_number": "+60 3-2094 2228",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 3.1466,
+        "lng": 101.6625
       }
     },
     "name": "Royal Commonwealth Society of Malaysia",
@@ -104,7 +108,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A society dedicated to promoting the values and diversity of the Commonwealth nations, offering a venue for social gatherings and cultural events.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_commonwealth_society_of_malaysia1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_commonwealth_society_of_malaysia2.jpg",
@@ -120,12 +124,12 @@
     "activities": []
   },
   "Royal Lake Club Kuala Lumpur": {
-    "formatted_address": "Taman Tasek Perdana, Jln Cenderamulia off Jln Parlimen, 50480 Kuala Lumpur, Malaysia",
-    "formatted_phone_number": "6 03 2698 7878 , 60326989889",
+    "formatted_address": "Taman Tasek Perdana, 50480 Kuala Lumpur, Malaysia",
+    "formatted_phone_number": "+60 3-2698 7878",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 3.144,
+        "lng": 101.6869
       }
     },
     "name": "Royal Lake Club Kuala Lumpur",
@@ -134,7 +138,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1890, this prestigious club offers a range of recreational facilities including swimming pools, tennis and squash courts, and dining options amidst lush greenery.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_lake_club_kuala_lumpur1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_lake_club_kuala_lumpur2.jpg",
@@ -147,15 +151,20 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_lake_club_kuala_lumpur_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.royallakeclub.org.my",
-    "activities": []
+    "activities": [
+      "Swimming",
+      "Tennis",
+      "Squash",
+      "Gym"
+    ]
   },
   "Royal Selangor Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Jalan Raja, Dataran Merdeka, 50050 Kuala Lumpur, Malaysia",
+    "formatted_phone_number": "+60 3-2692 7166",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 3.1492,
+        "lng": 101.6928
       }
     },
     "name": "Royal Selangor Club",
@@ -164,7 +173,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1884, the Royal Selangor Club is a historic social club known for its colonial architecture and as the birthplace of the Hash House Harriers.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_selangor_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_selangor_club2.jpg",
@@ -176,7 +185,177 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_selangor_club_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.wikipedia.org/wiki/Royal_Selangor_Club",
+    "website": "https://www.rsc.org.my",
+    "activities": [
+      "Cricket",
+      "Rugby"
+    ]
+  },
+  "Kuala Lumpur Golf & Country Club": {
+    "formatted_address": "No. 10, Jalan 1/70D, Off Jalan Bukit Kiara, 60000 Kuala Lumpur, Malaysia",
+    "formatted_phone_number": "+60 3-2011 9188",
+    "geometry": {
+      "location": {
+        "lat": 3.1445,
+        "lng": 101.6517
+      }
+    },
+    "name": "Kuala Lumpur Golf & Country Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Established in 1991, KLGCC is a premier golf and country club featuring two 18-hole championship courses, world-class facilities, and a range of recreational amenities.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/kuala_lumpur_golf_country_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/kuala_lumpur_golf_country_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/kuala_lumpur_golf_country_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/kuala_lumpur_golf_country_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/kuala_lumpur_golf_country_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/kuala_lumpur_golf_country_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.klgcc.com",
+    "activities": [
+      "Golf",
+      "Tennis",
+      "Gym",
+      "Swimming"
+    ]
+  },
+  "Royal Selangor Golf Club": {
+    "formatted_address": "Jalan Kelab Golf, Off Jalan Tun Razak, 55000 Kuala Lumpur, Malaysia",
+    "formatted_phone_number": "+60 3-9206 3333",
+    "geometry": {
+      "location": {
+        "lat": 3.1503,
+        "lng": 101.72
+      }
+    },
+    "name": "Royal Selangor Golf Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Founded in 1893, RSGC is one of Asia's oldest golf clubs, offering two 18-hole courses and a 9-hole course, along with various sports and dining facilities.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_selangor_golf_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_selangor_golf_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_selangor_golf_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_selangor_golf_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_selangor_golf_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/royal_selangor_golf_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.rsgc.com.my",
+    "activities": [
+      "Golf",
+      "Tennis",
+      "Swimming"
+    ]
+  },
+  "Saujana Golf & Country Club": {
+    "formatted_address": "Jalan Lapangan Terbang SAAS, Seksyen U2, 40150 Shah Alam, Selangor, Malaysia",
+    "formatted_phone_number": "+60 3-7846 1466",
+    "geometry": {
+      "location": {
+        "lat": 3.0995,
+        "lng": 101.5761
+      }
+    },
+    "name": "Saujana Golf & Country Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Located in Shah Alam, Saujana Golf & Country Club features two 18-hole championship golf courses set amidst a lush tropical landscape, offering a serene retreat for members.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/saujana_golf_country_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/saujana_golf_country_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/saujana_golf_country_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/saujana_golf_country_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/saujana_golf_country_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/saujana_golf_country_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.saujana.com.my",
+    "activities": [
+      "Golf",
+      "Tennis",
+      "Swimming"
+    ]
+  },
+  "Valencia Golf Club": {
+    "formatted_address": "Persiaran Valencia, Sungai Buloh, 47000 Selangor, Malaysia",
+    "formatted_phone_number": "+60 3-6156 9800",
+    "geometry": {
+      "location": {
+        "lat": 3.2064,
+        "lng": 101.5907
+      }
+    },
+    "name": "Valencia Golf Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Valencia Golf Club is a private, residents-only club featuring a 9-hole golf course, clubhouse, and various recreational facilities within a gated community.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/valencia_golf_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/valencia_golf_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/valencia_golf_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/valencia_golf_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/valencia_golf_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/valencia_golf_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.valencia.com.my",
+    "activities": [
+      "Golf",
+      "Tennis",
+      "Swimming"
+    ]
+  },
+  "XVI Private Club": {
+    "formatted_address": "Lot No. G02, Ground Floor and Mezzanine Floor, The Troika, 19 Persiaran KLCC, 50450 Kuala Lumpur, Malaysia",
+    "formatted_phone_number": "N/A",
+    "geometry": {
+      "location": {
+        "lat": 3.1579,
+        "lng": 101.7123
+      }
+    },
+    "name": "XVI Private Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "XVI Private Club offers an exclusive lounge experience with fine dining, curated events, and a luxurious ambiance in the heart of Kuala Lumpur.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/xvi_private_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/xvi_private_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/xvi_private_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/xvi_private_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/xvi_private_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/kuala_lumpur/xvi_private_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.instagram.com/xviprivateclub",
     "activities": []
   }
 }
