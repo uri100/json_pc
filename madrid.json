@@ -1,6 +1,6 @@
 {
   "Real Casino de Madrid": {
-    "formatted_address": "Calle de AlcalĂˇ, 15",
+    "formatted_address": "Calle de AlcalÄË, 15",
     "formatted_phone_number": "+34 91 5211735",
     "geometry": {
       "location": {
@@ -36,8 +36,8 @@
       "atheltics"
     ]
   },
-  "Centro Cultural de los Ejércitos": {
-    "formatted_address": "Gran VĂ­a, 13 -28013 Madrid",
+  "Centro Cultural de los EjÃ©rcitos": {
+    "formatted_address": "Gran VÄÂ­a, 13 -28013 Madrid",
     "formatted_phone_number": "+34 915222309",
     "geometry": {
       "location": {
@@ -45,7 +45,7 @@
         "lng": -3.699892
       }
     },
-    "name": "Centro Cultural de los Ejércitos",
+    "name": "Centro Cultural de los EjÃ©rcitos",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -70,8 +70,8 @@
       "gym"
     ]
   },
-  "Cí­rculo de Bellas Artes": {
-    "formatted_address": "AlcalĂˇ 42, 28014 Madrid",
+  "CÃ­Â­rculo de Bellas Artes": {
+    "formatted_address": "AlcalÄË 42, 28014 Madrid",
     "formatted_phone_number": "+34 91 360 54 00",
     "geometry": {
       "location": {
@@ -79,13 +79,13 @@
         "lng": -3.696576
       }
     },
-    "name": "Cí­rculo de Bellas Artes",
+    "name": "CÃ­Â­rculo de Bellas Artes",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "The CĂ­rculo de Bellas Artes de Madrid (CBA) is a private, non-profit cultural entity declared a â€śCentre for the Protection of Fine Arts and of Public Utilityâ€ť. Since its creation, it has carried out important work of international scope in the field of cultural creation and dissemination. One of the most important private cultural centres in Europe, the CBA is characterised by its open attitude towards the most outstanding and innovative artistic currents. It is a multidisciplinary centre in which activities ranging from the visual arts to literature, passing through science, philosophy, cinema and the performing arts are developed. The CĂ­rculo de Bellas Artes de Madrid (CBA) was founded in April 1880 thanks to the efforts of a small group of artists. In its origins it was a fairly restricted society, but with a cultural scope. Its first president was the painter Juan MartĂ­nez de Espinosa. Between 1880 and 1926, the CĂ­rculo changed its headquarters ten times: Barquillo, 5; Madera, 8; Lobo, 10; Abada, 2; Libertad, 16; Barquillo, 11; AlcalĂˇ, 7; AlcalĂˇ, 14 and finally AlcalĂˇ, 42. During the first years of the 20th century, important figures of the cultural life of the time passed through the CBA board of directors, such as Jacinto Benavente and Carlos Arniches, while the young Picasso attended his painting classes as a student and RamĂłn MarĂ­a del Valle-InclĂˇn frequented his salons.",
+    "description": "The CÄÂ­rculo de Bellas Artes de Madrid (CBA) is a private, non-profit cultural entity declared a Ã¢â¬ÅCentre for the Protection of Fine Arts and of Public UtilityÃ¢â¬Å¥. Since its creation, it has carried out important work of international scope in the field of cultural creation and dissemination. One of the most important private cultural centres in Europe, the CBA is characterised by its open attitude towards the most outstanding and innovative artistic currents. It is a multidisciplinary centre in which activities ranging from the visual arts to literature, passing through science, philosophy, cinema and the performing arts are developed. The CÄÂ­rculo de Bellas Artes de Madrid (CBA) was founded in April 1880 thanks to the efforts of a small group of artists. In its origins it was a fairly restricted society, but with a cultural scope. Its first president was the painter Juan MartÄÂ­nez de Espinosa. Between 1880 and 1926, the CÄÂ­rculo changed its headquarters ten times: Barquillo, 5; Madera, 8; Lobo, 10; Abada, 2; Libertad, 16; Barquillo, 11; AlcalÄË, 7; AlcalÄË, 14 and finally AlcalÄË, 42. During the first years of the 20th century, important figures of the cultural life of the time passed through the CBA board of directors, such as Jacinto Benavente and Carlos Arniches, while the young Picasso attended his painting classes as a student and RamÄÅn MarÄÂ­a del Valle-InclÄËn frequented his salons.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/crculo_de_bellas_artes1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/crculo_de_bellas_artes2.jpg",
@@ -100,8 +100,8 @@
     "website": "https://www.circulobellasartes.com",
     "activities": []
   },
-  "Club Financiero Génova": {
-    "formatted_address": "C/ MarquĂ©s de la Ensenada, 14 - Madrid",
+  "Club Financiero GÃ©nova": {
+    "formatted_address": "C/ MarquÄÂ©s de la Ensenada, 14 - Madrid",
     "formatted_phone_number": "+34 91 310 49 00",
     "geometry": {
       "location": {
@@ -109,7 +109,7 @@
         "lng": -3.69215
       }
     },
-    "name": "Club Financiero Génova",
+    "name": "Club Financiero GÃ©nova",
     "opening_hours": {
       "open_now": false,
       "periods": [],
@@ -166,8 +166,8 @@
     "website": "https://www.clubmatador.com",
     "activities": []
   },
-  "La Gran Peña": {
-    "formatted_address": "C/ Gran VĂ­a, 2 - 28013 Madrid",
+  "La Gran PeÃ±a": {
+    "formatted_address": "C/ Gran VÄÂ­a, 2 - 28013 Madrid",
     "formatted_phone_number": "+34 91 522 46 13",
     "geometry": {
       "location": {
@@ -175,13 +175,13 @@
         "lng": -3.870846
       }
     },
-    "name": "La Gran Peña",
+    "name": "La Gran PeÃ±a",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "La Gran Peña (also known as el Circulo de la Gran Peña) is a private community centre located in the building on Gran VĂ­a 2 in Madrid. The community was created in 1869 by the Spanish military. Presidents of the institution are usually high-ranking military personnel or members of the Grandee. Politicians like José Canalejas, José Calvo Sotelo, as well as royals as Alfonso XIII, and since 1975 Juan Carlos I, are among the most illustrious club members.",
+    "description": "La Gran PeÃ±a (also known as el Circulo de la Gran PeÃ±a) is a private community centre located in the building on Gran VÃ­a 2 in Madrid. The community was created in 1869 by the Spanish military. Presidents of the institution are usually high-ranking military personnel or members of the Grandee. Politicians like JosÃ© Canalejas, JosÃ© Calvo Sotelo, as well as royals as Alfonso XIII, and since 1975 Juan Carlos I, are among the most illustrious club members.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pea1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pea2.jpg",
