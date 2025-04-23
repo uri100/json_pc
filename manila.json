@@ -26,7 +26,7 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/club_filipino_logo.png",
     "user_ratings_total": 0,
-    "website": "",
+    "website": "http://www.clubfilipino.com",
     "activities": [
       "swimming",
       "tennis",
@@ -164,7 +164,7 @@
   },
   "The City Club, Makati Place": {
     "formatted_address": "Ayala Avenue (Buendia), Makati City, Metro Manila",
-    "formatted_phone_number": "",
+    "formatted_phone_number": "+63287370000",
     "geometry": {
       "location": {
         "lat": 14.5547,
@@ -189,7 +189,7 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/manila/the_city_club_makati_place_logo.png",
     "user_ratings_total": 0,
-    "website": "",
+    "website": "https://www.balesincity.com/",
     "activities": [
       "swimming",
       "tennis",

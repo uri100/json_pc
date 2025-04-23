@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "In 1836, when a group of romantic and progressive young people, tired of so much political exaltation, decided to find a quiet place where they could meet in peace and harmony, the first step was being taken towards what would eventually become the Real Casino de Madrid. The Club boasts the best social facilities in Spain. The most distinguished social events in Madrid are held at the Club as it has two bars, two restaurants, four events halls, four private function rooms, one small ballroom and a large multi-functional room (used as party room and discotheque, also for shows and performances). There is also a conference hall, normally used for lectures and debates, and a cinema for members. Apart from these rooms, there is also a Neo-Gothic style library containing 45,000 books, a splendid journal reading room, a gymnasium, a billiard room, indoor swimming pool, steam bath and sauna, barber, hairdresser, pedicure, physiotherapist and a comfortable TV room. The Club has two restaurants; one of them, La Terraza, has two Michelin stars and is the only part of the Club open to the public, where club members and reciprocal guests have a 20% discount for up to four persons. It offers vanguard cuisine and is considered one of the best restaurants in Madrid. The members’ restaurant, Recoletos, offers more traditional food, which is excellent too. The Club has a special agreement with the Hotel Regina, Hotel Europa and two chains: NH Hoteles and Hispano Hotelera.",
+    "description": "In 1836, when a group of romantic and progressive young people, tired of so much political exaltation, decided to find a quiet place where they could meet in peace and harmony, the first step was being taken towards what would eventually become the Real Casino de Madrid. The Club boasts the best social facilities in Spain. The most distinguished social events in Madrid are held at the Club as it has two bars, two restaurants, four events halls, four private function rooms, one small ball-room and a large multi-functional room (used as party room and discotheque, also for shows and performances). There is also a conference hall, normally used for lectures and debates, and cinema for members. Apart from these rooms, there is also a Neo-Gothic style library containing 45,000 books, a splendid journal reading room, a gymnasium, a billiard room, indoor swimming pool, steam bath and sauna, barber, hairdresser, pedicure, Physiotherapist and a comfortable TV room. The Club has two restaurants, one of them, La Terraza, has two Michelin Stars and is the only part of the Club open to the public, where club members and reciprocal guests have a 20% discount for up to four persons. It offers vanguard cuisine and is considered one of the best restaurants in Madrid. The members restaurant, Recoletos offers more traditional food, which is excellent too. The Club has a special agreement with the Hotel Regina, Hotel Europa and 2 chains: NH Hoteles and Hispano Hotelera.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/real_casino_de_madrid1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/real_casino_de_madrid2.jpg",
@@ -33,11 +33,11 @@
       "golf",
       "padel",
       "swimming",
-      "athletics"
+      "atheltics"
     ]
   },
   "Centro Cultural de los Ejércitos": {
-    "formatted_address": "Gran Vía, 13 - 28013 Madrid",
+    "formatted_address": "Gran Ví­a, 13 -28013 Madrid",
     "formatted_phone_number": "+34 915222309",
     "geometry": {
       "location": {
@@ -85,17 +85,17 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Círculo de Bellas Artes (CBA) is a private, non-profit cultural entity declared a “Centre for the Protection of Fine Arts and of Public Utility”. Since its creation, it has carried out important work of international scope in the field of cultural creation and dissemination. One of the most important private cultural centres in Europe, the CBA is characterised by its open attitude towards the most outstanding and innovative artistic currents. It is a multidisciplinary centre in which activities ranging from the visual arts to literature, passing through science, philosophy, cinema and the performing arts are developed. The Círculo de Bellas Artes de Madrid (CBA) was founded in April 1880 thanks to the efforts of a small group of artists. In its origins it was a fairly restricted society, but with a cultural scope. Its first president was the painter Juan Martínez de Espinosa. Between 1880 and 1926, the Círculo changed its headquarters ten times: Barquillo, 5; Madera, 8; Lobo, 10; Abada, 2; Libertad, 16; Barquillo, 11; Alcalá, 7; Alcalá, 14 and finally Alcalá, 42. During the first years of the 20th century, important figures of the cultural life of the time passed through the CBA board of directors, such as Jacinto Benavente and Carlos Arniches, while the young Picasso attended his painting classes as a student and Ramón María del Valle-Inclán frequented its salons.",
+    "description": "The Cí­rculo de Bellas Artes de Madrid (CBA) is a private, non-profit cultural entity declared a \"Centre for the Protection of Fine Arts and of Public Utility\". Since its creation, it has carried out important work of international scope in the field of cultural creation and dissemination. One of the most important private cultural centres in Europe, the CBA is characterised by its open attitude towards the most outstanding and innovative artistic currents. It is a multidisciplinary centre in which activities ranging from the visual arts to literature, passing through science, philosophy, cinema and the performing arts are developed. The Cí­rculo de Bellas Artes de Madrid (CBA) was founded in April 1880 thanks to the efforts of a small group of artists. In its origins it was a fairly restricted society, but with a cultural scope. Its first president was the painter Juan Martí­nez de Espinosa. Between 1880 and 1926, the Cí­rculo changed its headquarters ten times: Barquillo, 5; Madera, 8; Lobo, 10; Abada, 2; Libertad, 16; Barquillo, 11; Alcalá, 7; Alcalá, 14 and finally Alcalá, 42. During the first years of the 20th century, important figures of the cultural life of the time passed through the CBA board of directors, such as Jacinto Benavente and Carlos Arniches, while the young Picasso attended his painting classes as a student and Ramíłn Marí­a del Valle-Inclán frequented his salons.",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/crculo_de_bellas_artes1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/crculo_de_bellas_artes2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/crculo_de_bellas_artes3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/crculo_de_bellas_artes4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/crculo_de_bellas_artes5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/crculo_de_bellas_artes_de_madrid1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/crculo_de_bellas_artes_de_madrid2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/crculo_de_bellas_artes_de_madrid3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/crculo_de_bellas_artes_de_madrid4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/crculo_de_bellas_artes_de_madrid5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/crculo_de_bellas_artes_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/crculo_de_bellas_artes_de_madrid_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.circulobellasartes.com",
     "activities": []
@@ -137,7 +137,7 @@
     ]
   },
   "Club Matador": {
-    "formatted_address": "Calle Jorge Juan, 5 28001 Madrid",
+    "formatted_address": "Calle Jorge Juan, 5 28001 Madrid.",
     "formatted_phone_number": "+34 910 60 98 83",
     "geometry": {
       "location": {
@@ -167,7 +167,7 @@
     "activities": []
   },
   "La Gran Peña": {
-    "formatted_address": "C/ Gran Vía, 2 - 28013 Madrid",
+    "formatted_address": "C/ Gran Ví­a, 2 - 28013 Madrid",
     "formatted_phone_number": "+34 91 522 46 13",
     "geometry": {
       "location": {
@@ -181,7 +181,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "La Gran Peña (also known as el Círculo de la Gran Peña) is a private community centre located in the building on Gran Vía 2 in Madrid. The community was created in 1869 by the Spanish military. Presidents of the institution are usually high-ranking military personnel or members of the Grandees. Politicians like José Canalejas, José Calvo Sotelo, as well as royals such as Alfonso XIII, and since 1975 Juan Carlos I, are among the most illustrious club members.",
+    "description": "La Gran Peña (also known as el Circulo de la Gran Peña) is a private community centre located in the building on Gran Ví­a 2 in Madrid. The community was created in 1869 by the Spanish military. Presidents of the institution are usually high-ranking military personnel or members of the Grandee. Politicians like José Canalejas, José Calvo Sotelo, as well as royals as Alfonso XIII, and since 1975 Juan Carlos I, are among the most illustrious club members.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pea1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/madrid/la_gran_pea2.jpg",
