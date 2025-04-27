@@ -158,7 +158,10 @@
     "activities": [
       "sailing",
       "tennis",
-      "fitness"
+      "fitness",
+      "badminton",
+      "pickleball",
+      "swimming"
     ]
   },
   "Cambridge Club": {
@@ -290,7 +293,8 @@
     "activities": [
       "curling",
       "tennis",
-      "swimming"
+      "swimming",
+      "skating"
     ]
   },
   "Queen City Yacht Club": {
@@ -419,73 +423,6 @@
     "website": "https://www.sohohousetoronto.com",
     "activities": []
   },
-  "The Boulevard Club": {
-    "formatted_address": "1491 Lake Shore Blvd W, Toronto, ON M6K 3C2, Canada",
-    "formatted_phone_number": "+1 416-532-3341",
-    "geometry": {
-      "location": {
-        "lat": 43.6306,
-        "lng": -79.437
-      }
-    },
-    "name": "The Boulevard Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "The Boulevard Club is a prestigious private club located on the shores of Lake Ontario, offering a wide range of athletic and social amenities. Members enjoy facilities for sailing, tennis, fitness, badminton, pickleball, and both indoor and outdoor swimming pools. The club also provides dining options and hosts various social events throughout the year.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_boulevard_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_boulevard_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_boulevard_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_boulevard_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_boulevard_club5.jpg"
-    ],
-    "rating": 4.4,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_boulevard_club_logo.png",
-    "user_ratings_total": 8,
-    "website": "https://www.boulevardclub.com",
-    "activities": [
-      "sailing",
-      "tennis",
-      "fitness",
-      "badminton",
-      "pickleball",
-      "swimming"
-    ]
-  },
-  "The Faculty Club": {
-    "formatted_address": "41 Willcocks St, Toronto, ON M5S 3G3, Canada",
-    "formatted_phone_number": "+1 416-978-6325",
-    "geometry": {
-      "location": {
-        "lat": 43.6604,
-        "lng": -79.3986
-      }
-    },
-    "name": "The Faculty Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "The Faculty Club at the University of Toronto serves as a meeting place for faculty, staff, alumni, and guests. It offers dining services, event spaces, and a venue for intellectual and social interactions within the university community.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_faculty_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_faculty_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_faculty_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_faculty_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_faculty_club5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/the_faculty_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.facultyclub.utoronto.ca",
-    "activities": []
-  },
   "The National Club": {
     "formatted_address": "303 Bay St, Toronto, ON M5H 2R1, Canada",
     "formatted_phone_number": "+1 416-364-3247",
@@ -609,7 +546,7 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/toronto/toronto_cricket_skating_and_curling_club_logo.png",
     "user_ratings_total": 0,
-    "website": "",
+    "website": "https://www.torontocricketclub.com",
     "activities": [
       "cricket",
       "skating",
