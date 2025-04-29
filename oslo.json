@@ -1,11 +1,11 @@
 {
   "Norske Selskab": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Akersgaten 18, 0158 Oslo, Norway",
+    "formatted_phone_number": "+47 22 97 97 60",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 59.9139,
+        "lng": 10.74
       }
     },
     "name": "Norske Selskab",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1772, Norske Selskab is one of the world's oldest gentlemen's clubs, located in central Oslo next to the Parliament. It serves as a meeting place for members from business, culture, science, and public administration, offering a setting rich in tradition and culture.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/oslo/norske_selskab1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/oslo/norske_selskab2.jpg",
@@ -29,22 +29,22 @@
     "website": "https://www.norskeselskab.no",
     "activities": []
   },
-  "Selskabet den gode Hensigt": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Selskabet Den Gode Hensigt": {
+    "formatted_address": "Øvre Ole Bulls plass 6, 5012 Bergen, Norway",
+    "formatted_phone_number": "+47 55 90 07 56",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 60.39,
+        "lng": 5.3221
       }
     },
-    "name": "Selskabet den gode Hensigt",
+    "name": "Selskabet Den Gode Hensigt",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1798, Selskabet Den Gode Hensigt is a members' association with approximately 450 members. The club hosts 26 bowling clubs, a bridge club, and offers billiards. It regularly organizes cultural events and lectures open to members and their guests.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/oslo/selskabet_den_gode_hensigt1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/oslo/selskabet_den_gode_hensigt2.jpg",
@@ -57,15 +57,18 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/oslo/selskabet_den_gode_hensigt_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.dgh.no",
-    "activities": []
+    "activities": [
+      "Bowling",
+      "Billiards"
+    ]
   },
   "Shippingklubben": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Haakon VIIs gate 1, 0161 Oslo, Norway",
+    "formatted_phone_number": "+47 23 23 98 00",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 59.9145,
+        "lng": 10.731
       }
     },
     "name": "Shippingklubben",
@@ -74,7 +77,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1957, Shippingklubben aims to arrange lectures and conferences with prominent figures from business, politics, education, and social sectors, primarily focusing on maritime activities in Ålesund and surrounding areas.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/oslo/shippingklubben1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/oslo/shippingklubben2.jpg",
@@ -86,7 +89,37 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/oslo/shippingklubben_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.shippingklubbenaalesund.com",
+    "website": "https://www.shippingklubb.no",
+    "activities": []
+  },
+  "The Three Fifty": {
+    "formatted_address": "Hegdehaugsveien 25, 0352 Oslo, Norway",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 59.922,
+        "lng": 10.73
+      }
+    },
+    "name": "The Three Fifty",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "The Three Fifty is Oslo's first exclusive underground wine club, located 350cm below ground in Kastellet's basement. It offers members a curated collection of vintages, rare finds, and undiscovered gems, providing a unique wine experience.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/oslo/the_three_fifty1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/oslo/the_three_fifty2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/oslo/the_three_fifty3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/oslo/the_three_fifty4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/oslo/the_three_fifty5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/oslo/the_three_fifty_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.thethreefifty.com",
     "activities": []
   }
 }
