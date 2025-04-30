@@ -29,36 +29,6 @@
     "website": "https://www.brody.house/",
     "activities": []
   },
-  "Brody Studios (BrodyLand group)": {
-    "formatted_address": "Vörösmarty utca 38, 1064 Budapest, Hungary",
-    "formatted_phone_number": "+36 1 323 7591",
-    "geometry": {
-      "location": {
-        "lat": 47.5052,
-        "lng": 19.0633
-      }
-    },
-    "name": "Brody Studios (BrodyLand group)",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "Formerly a sought-after arts club and events venue, now operates as a film studio. Known for its meticulously designed interior blending contemporary and historic elements.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_studios_brodyland_group1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_studios_brodyland_group2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_studios_brodyland_group3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_studios_brodyland_group4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_studios_brodyland_group5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/brody_studios_brodyland_group_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.thestudios.life/",
-    "activities": []
-  },
   "Paulay House (BrodyLand group)": {
     "formatted_address": "Paulay Ede utca 16, 1061 Budapest, Hungary",
     "formatted_phone_number": "",
