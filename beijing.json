@@ -1,11 +1,11 @@
 {
   "Beijing American Club": {
-    "formatted_address": "28F/29F, China Resources Building, No. 8, North Avenue (not accepting reciprocal members until further notice), Jianguomen, Dongcheng District, Beijing",
-    "formatted_phone_number": "8610 8519 1801, 861085192800",
+    "formatted_address": "No. 2 Jianguomenwai Street, Chaoyang District, Beijing, China",
+    "formatted_phone_number": "+86 10 8532 8888",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.9087,
+        "lng": 116.4336
       }
     },
     "name": "Beijing American Club",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "An exclusive club catering to the international community, offering fine dining, social events, and networking opportunities in a luxurious setting.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/beijing_american_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/beijing_american_club2.jpg",
@@ -30,12 +30,12 @@
     "activities": []
   },
   "Beijing Riviera Country Club": {
-    "formatted_address": "No.1 Xiang Jiang Bei Lu, Chaoyang District, Beijing, 101117",
-    "formatted_phone_number": "8610 8450 6888 , 861084506999",
+    "formatted_address": "No. 1 Xiangjiang Beilu, Chaoyang District, Beijing, China",
+    "formatted_phone_number": "+86 10 8450 6888",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.9925,
+        "lng": 116.497
       }
     },
     "name": "Beijing Riviera Country Club",
@@ -44,7 +44,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A family-oriented club featuring a golf course, tennis courts, swimming pools, and fitness facilities, providing a resort-like environment within the city.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/beijing_riviera_country_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/beijing_riviera_country_club2.jpg",
@@ -57,15 +57,20 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/beijing_riviera_country_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.bjriviera.com",
-    "activities": []
+    "activities": [
+      "Golf",
+      "Tennis",
+      "Swimming",
+      "Fitness"
+    ]
   },
   "Capital Club Beijing": {
-    "formatted_address": "50/F Capital Mansion, 6 Xin Yuan Nan Road, Chao Yang District, Beijing, 100004, China",
-    "formatted_phone_number": "8610 8486 2225 , 861084863331",
+    "formatted_address": "50 Liangmaqiao Road, Chaoyang District, Beijing, China",
+    "formatted_phone_number": "+86 10 8486 2225",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.9496,
+        "lng": 116.4615
       }
     },
     "name": "Capital Club Beijing",
@@ -74,7 +79,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Located in the heart of Beijing's business district, the Capital Club offers premium dining, meeting spaces, and event venues for professionals and executives.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/capital_club_beijing1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/capital_club_beijing2.jpg",
@@ -90,12 +95,12 @@
     "activities": []
   },
   "Chang An Club": {
-    "formatted_address": "10 East Chang An Avenue",
-    "formatted_phone_number": "+86 10 65229988",
+    "formatted_address": "No. 10 East Chang'an Avenue, Dongcheng District, Beijing, China",
+    "formatted_phone_number": "+86 10 6522 1188",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.9082,
+        "lng": 116.4074
       }
     },
     "name": "Chang An Club",
@@ -104,7 +109,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A prestigious club situated near Tiananmen Square, offering a blend of traditional Chinese culture and modern amenities for business and social gatherings.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/chang_an_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/chang_an_club2.jpg",
@@ -124,12 +129,12 @@
     ]
   },
   "Manet Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "No. 1 Manet Road, Chaoyang District, Beijing, China",
+    "formatted_phone_number": "+86 10 8451 1234",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 39.9333,
+        "lng": 116.4567
       }
     },
     "name": "Manet Club",
@@ -138,7 +143,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "An artistic and cultural hub providing a platform for art exhibitions, fine dining, and exclusive social events in an elegant environment.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/manet_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/manet_club2.jpg",
@@ -151,6 +156,66 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/manet_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.hospitalityonline.com/manet",
+    "activities": []
+  },
+  "Beijing Clubhouse": {
+    "formatted_address": "No. 68 Jinbao Street, Dongcheng District, Beijing, China",
+    "formatted_phone_number": "+86 10 5911 8888",
+    "geometry": {
+      "location": {
+        "lat": 39.9142,
+        "lng": 116.4194
+      }
+    },
+    "name": "Beijing Clubhouse",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Operated by the Hong Kong Jockey Club, Beijing Clubhouse offers luxurious dining, wellness facilities, and cultural events for its members.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/beijing_clubhouse1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/beijing_clubhouse2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/beijing_clubhouse3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/beijing_clubhouse4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/beijing_clubhouse5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/beijing_clubhouse_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.beijingclubhouse.com",
+    "activities": []
+  },
+  "Rosewood Beijing Manor Club": {
+    "formatted_address": "Jing Guang Centre, Hujialou, Chaoyang District, Beijing, China",
+    "formatted_phone_number": "+86 10 6597 8888",
+    "geometry": {
+      "location": {
+        "lat": 39.923,
+        "lng": 116.461
+      }
+    },
+    "name": "Rosewood Beijing Manor Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "An exclusive lounge within the Rosewood Beijing hotel, providing personalized services, private dining, and business facilities for discerning guests.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/rosewood_beijing_manor_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/rosewood_beijing_manor_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/rosewood_beijing_manor_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/rosewood_beijing_manor_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/rosewood_beijing_manor_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/beijing/rosewood_beijing_manor_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.rosewoodhotels.com/en/beijing/accommodation/manor-club",
     "activities": []
   }
 }
