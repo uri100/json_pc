@@ -38,6 +38,27 @@
         "lng": 19.038
       }
     },
+    "name": "LOCK Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "LOCK is an exclusive nightclub in Budapest, renowned for its extravagant interior, leather furnishings, craft cocktails, VIP areas, and a spacious dance floor featuring top house and RnB music.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/lock_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/lock_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/lock_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/lock_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/lock_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/lock_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.finestclubs.com/venues/lock",
+    "activities": []
+  },
   "Budapest Private Society (BPS)": {
     "formatted_address": "",
     "formatted_phone_number": "",
