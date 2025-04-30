@@ -99,27 +99,6 @@
         "lng": 19.0596
       }
     },
-    "name": "A38",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "A38 is a cultural venue on a repurposed Ukrainian stone-carrier ship, offering a restaurant, exhibition hall, dance floor, and concert hall, hosting a variety of music and cultural events.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/a381.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/a382.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/a383.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/a384.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/a385.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/a38_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.a38.hu/en",
-    "activities": []
-  },
   "The CLUB": {
     "formatted_address": "",
     "formatted_phone_number": "",
@@ -128,26 +107,4 @@
         "lat": 0.0,
         "lng": 0.0
       }
-    },
-    "name": "The CLUB",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "The CLUB, Budapest, is a group dedicated to continuing the camaraderie and ambiance found in the former Britannia Club of the British Embassy, organizing social gatherings for its members.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/the_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/the_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/the_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/the_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/the_club5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/budapest/the_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.facebook.com/groups/275537139157192/",
-    "activities": []
-  }
-}
+    }
