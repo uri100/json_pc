@@ -89,22 +89,5 @@
     "user_ratings_total": 0,
     "website": "https://akademiaklub.hu/en/about-us/",
     "activities": []
-  },
-  "A38": {
-    "formatted_address": "Petőfi Bridge, Buda side, 1117 Budapest, Hungary",
-    "formatted_phone_number": "+36 1 464 3940",
-    "geometry": {
-      "location": {
-        "lat": 47.4769,
-        "lng": 19.0596
-      }
-    },
-  "The CLUB": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      },
-    }
+  }
+}
