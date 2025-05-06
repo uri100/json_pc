@@ -181,6 +181,43 @@
     "website": "https://www.maskandwig.com",
     "activities": []
   },
+  "Germantown Cricket Club": {
+    "formatted_address": "411 W Manheim St, Philadelphia, PA 19144",
+    "formatted_phone_number": "+1 215-438-9900",
+    "geometry": {
+      "location": {
+        "lat": 39.0411,
+        "lng": -75.1705
+      }
+    },
+    "name": "Germantown Cricket Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Founded in 1854, Germantown Cricket Club is one of the oldest private clubs in the U.S., offering a blend of historic charm and modern amenities. The club features 46 tennis courts across all major surfaces, 7 squash courts, a 25-meter pool, and hosts the annual Philadelphia International Cricket Festival. Its clubhouse, a National Historic Landmark, was designed by McKim, Mead & White.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/germantown_cricket_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/germantown_cricket_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/germantown_cricket_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/germantown_cricket_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/germantown_cricket_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/philadelphia/germantown_cricket_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.germantowncricket.org/",
+    "activities": [
+      "Tennis",
+      "Squash",
+      "Swimming",
+      "Cricket",
+      "Fitness",
+      "Bowling"
+    ]
+  },
   "Pen & Pencil Club": {
     "formatted_address": "",
     "formatted_phone_number": "",
