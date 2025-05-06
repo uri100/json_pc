@@ -89,6 +89,66 @@
     "website": "https://www.joinpavilion.com/",
     "activities": []
   },
+  "Nova Talent": {
+    "formatted_address": "Virtual",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Nova Talent",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Nova is an invitation-only global community connecting the top 3% of high-potential professionals. It offers exclusive networking, career development, mentoring, and curated job opportunities. Members are selected through a rigorous multi-step process based on merit and leadership potential.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/nova_talent1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/nova_talent2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/nova_talent3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/nova_talent4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/nova_talent5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/nova_talent_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.novatalent.com",
+    "activities": []
+  },
+  "Revenue Squared": {
+    "formatted_address": "Virtual",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Revenue Squared",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Revenue Squared is a private virtual community for Spanish-speaking B2B sales professionals. It offers curated job listings, continuous sales training, community discussions, playbooks, and events, helping professionals grow their careers in revenue-generating roles.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/revenue_squared1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/revenue_squared2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/revenue_squared3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/revenue_squared4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/revenue_squared5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/virtual/revenue_squared_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.revenuesquared.io",
+    "activities": []
+  },
   "Gold Alliance": {
     "formatted_address": "C. del Marqués del Riscal, 11, 3-6, Madrid Spain",
     "formatted_phone_number": "",
