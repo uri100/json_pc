@@ -1,0 +1,182 @@
+{
+  "asmallworld": {
+    "formatted_address": "Seidengasse 20, 8001 Zürich, Switzerland",
+    "formatted_phone_number": "+44 7495 595 104",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "asmallworld",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "ASmallWorld (stylized as ASMALLWORLD, or ASW) is a media company and a social networking service based in Zürich, Switzerland focused on travelers. The social network has a membership subscription business model; offering three different tiers: the basic ASmallWorld, Prestige and Signature.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/asmallworld1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/asmallworld2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/asmallworld3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/asmallworld4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/asmallworld5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/asmallworld_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.asmallworld.net",
+    "activities": []
+  },
+  "One Thousand Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "One Thousand Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Be part of a movement to create meaningful connections across cultures. Together, we are One Thousand Club – a global community of curious minds, coming together to enrich our lives through authentic relationships and experiences. We’re an application-only community (referral or interview required) and our members are selected based on curiosity, openness, and commitment to building meaningful connections.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/one_thousand_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/one_thousand_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/one_thousand_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/one_thousand_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/one_thousand_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/one_thousand_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://onethousandclub.com/",
+    "activities": []
+  },
+  "Pavilion": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Pavilion",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Pavilion is the world’s #1 private community for go-to-market leaders in B2B tech to connect, learn, and grow. With 10,000 members and counting, you’ll have access to an exclusive Slack community, local and global events, comprehensive courses through Pavilion University, and over 1,300 resources in our curated knowledge hub.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/pavilion1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/pavilion2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/pavilion3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/pavilion4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/pavilion5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/pavilion_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.joinpavilion.com/",
+    "activities": []
+  },
+  "Nova Talent": {
+    "formatted_address": "Virtual",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Nova Talent",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Nova is an invitation-only global community connecting the top 3% of high-potential professionals. It offers exclusive networking, career development, mentoring, and curated job opportunities. Members are selected through a rigorous multi-step process based on merit and leadership potential.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/nova_talent1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/nova_talent2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/nova_talent3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/nova_talent4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/nova_talent5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/nova_talent_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.novatalent.com",
+    "activities": []
+  },
+  "Revenue Squared": {
+    "formatted_address": "Virtual",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Revenue Squared",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Revenue Squared is a private virtual community for Spanish-speaking B2B sales professionals. It offers curated job listings, continuous sales training, community discussions, playbooks, and events, helping professionals grow their careers in revenue-generating roles.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/revenue_squared1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/revenue_squared2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/revenue_squared3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/revenue_squared4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/revenue_squared5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/revenue_squared_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.revenuesquared.io",
+    "activities": []
+  },
+  "Gold Alliance": {
+    "formatted_address": "C. del Marqués del Riscal, 11, 3-6, Madrid Spain",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Gold Alliance",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Gold Alliance is a Pan-European association uniting members of prestigious private clubs across the continent. Founded by Piero Cattarini, a long-standing member of both La Real Gran Peña (Madrid) and the Koninklijke Industrieele Groote Club (Amsterdam), the Gold Alliance was born from a vision to foster genuine connections, cultural exchange, and enduring friendships among the next generation of club members. What began in 2017 as a single inter-club gathering in Madrid has since evolved into a growing movement — the Young European Inter-Club Weekends — bringing together hundreds of members from dozens of clubs in cities such as Amsterdam, Paris, Barcelona, London, Genoa, and Helsinki. Each event showcases the unique heritage and hospitality of its host club, while deepening the bonds between members across Europe.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/gold_alliance1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/gold_alliance2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/gold_alliance3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/gold_alliance4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/gold_alliance5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/gold_alliance_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.goldalliance.org",
+    "activities": []
+  }
+}
