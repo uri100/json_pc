@@ -381,38 +381,6 @@
     "website": "https://www.explorers.org",
     "activities": []
   },
-  "Friars Club": {
-    "formatted_address": "57 East 55th Street, New York, NY 10022, USA",
-    "formatted_phone_number": "+1 212 751 7272",
-    "geometry": {
-      "location": {
-        "lat": 40.7599,
-        "lng": -73.9723
-      }
-    },
-    "name": "Friars Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "The Friars Club, established in 1904, is a storied private club for comedians and entertainment industry figures. Its Midtown mansion offers dining, a bar, and a stage where the club’s famous celebrity roasts and show-business events have long been hosted.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/friars_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/friars_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/friars_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/friars_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/friars_club5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/friars_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.friarsclub.com",
-    "activities": [
-      "billiards"
-    ]
-  },
   "Grolier Club": {
     "formatted_address": "47 East 60th Street, New York, NY 10022, USA",
     "formatted_phone_number": "+1 212 838 6690",
@@ -589,7 +557,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Lambs Club originally was a theatrical fraternity (est. 1874); today its legacy lives on as a restaurant and lounge in the Chatwal Hotel. It offers an Art Deco dining room known for Broadway power breakfasts and a classy bar that nods to its show-business heritage.",
+    "description": "The Lambs Club originally was a theatrical fraternity (est. 1874); today its legacy lives on as a restaurant and lounge in the Chatwal Hotel. It offers an Art Deco dining room known for Broadway power breakfasts and a classy bar that nods to its show-business heritage. The Lambs have met in a dozen different Manhattan locations since 1874. We currently have a floor at 3 West 51st Street, our home since 1976. This is the 3 West Club historic 1935 building with rooftop solarium. Our private floor has three rehearsal rooms, three Steinway pianos, a pool table, a writer’s nook, our legendary art collection, comfy chairs, free high-speed WiFi, library, script library, and 24/7 access. We share the building with other clubs, so our use of other floors and the bar-restaurant is shared space.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_lambs_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_lambs_club2.jpg",
@@ -601,8 +569,10 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/the_lambs_club_logo.png",
     "user_ratings_total": 420,
-    "website": "https://www.thelambsclub.com",
-    "activities": []
+    "website": "https://the-lambs.org",
+    "activities": [
+      "billiards"
+    ]
   },
   "The Leash Club": {
     "formatted_address": "41 East 63rd Street, New York, NY 10065, USA",
@@ -661,7 +631,7 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/links_club_logo.png",
     "user_ratings_total": 0,
-    "website": "",
+    "website": "https://www.thelinksclub.org/",
     "activities": [
       "golf"
     ]
@@ -954,36 +924,6 @@
       "fitness"
     ]
   },
-  "Norwood Club (closed)": {
-    "formatted_address": "241 West 14th Street, New York, NY 10011, USA",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 40.7402,
-        "lng": -74.0018
-      }
-    },
-    "name": "Norwood Club (closed)",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "(Closed in 2020) The Norwood Club (opened 2007) was a private club for the creative community, housed in a Chelsea brownstone. It offered an eclectic salon environment with art-adorned lounges, a courtyard garden, dining and cocktails, and frequent performances, attracting artists, writers, and media professionals.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/norwood_club_closed1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/norwood_club_closed2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/norwood_club_closed3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/norwood_club_closed4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/norwood_club_closed5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/norwood_club_closed_logo.png",
-    "user_ratings_total": 0,
-    "website": "",
-    "activities": []
-  },
   "Penn Club of New York": {
     "formatted_address": "30 West 44th Street, New York, NY 10036, USA",
     "formatted_phone_number": "+1 212 764 3550",
@@ -1016,39 +956,6 @@
       "fitness"
     ]
   },
-  "Princeton Club of New York (closed)": {
-    "formatted_address": "15 West 43rd Street, New York, NY 10036, USA",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 40.755,
-        "lng": -73.9813
-      }
-    },
-    "name": "Princeton Club of New York (closed)",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "(Closed in 2021) The Princeton Club (est. 1899) was an alumni club for Princeton University (also housing Williams and NYU club members) near Times Square. Its 10-floor clubhouse offered dining, athletic facilities, guest rooms, and a busy roster of lectures and social events for alumni. Financial challenges during COVID led to its closure, with reciprocal arrangements moved to the Penn Club.",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york_closed1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york_closed2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york_closed3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york_closed4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york_closed5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/princeton_club_of_new_york_closed_logo.png",
-    "user_ratings_total": 0,
-    "website": "",
-    "activities": [
-      "squash",
-      "fitness"
-    ]
-  },
   "Racquet and Tennis Club": {
     "formatted_address": "370 Park Avenue, New York, NY 10022, USA",
     "formatted_phone_number": "+1 212 753 9700",
@@ -1076,7 +983,7 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/racquet_and_tennis_club_logo.png",
     "user_ratings_total": 0,
-    "website": "",
+    "website": "https://www.rtcny.org/",
     "activities": [
       "squash",
       "tennis",
@@ -1117,7 +1024,10 @@
       "swimming",
       "tennis",
       "fitness",
-      "squash"
+      "squash",
+      "golf",
+      "padel",
+      "gym"
     ]
   },
   "Salmagundi Club": {
@@ -1470,7 +1380,8 @@
     "website": "https://www.yaleclubnyc.org",
     "activities": [
       "fitness",
-      "squash swimming",
+      "squash",
+      "swimming",
       "sauna"
     ]
   }
