@@ -1,71 +1,11 @@
 {
-  "Clifton Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Clifton Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/clifton_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/clifton_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/clifton_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/clifton_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/clifton_club5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/clifton_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.thecliftonclub.co.uk",
-    "activities": []
-  },
-  "Square Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
-    "geometry": {
-      "location": {
-        "lat": 0.0,
-        "lng": 0.0
-      }
-    },
-    "name": "Square Club",
-    "opening_hours": {
-      "open_now": false,
-      "periods": [],
-      "weekday_text": []
-    },
-    "description": "",
-    "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/square_club1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/square_club2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/square_club3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/square_club4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/square_club5.jpg"
-    ],
-    "rating": 0.0,
-    "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/square_club_logo.png",
-    "user_ratings_total": 0,
-    "website": "https://www.thesquareclub.com",
-    "activities": []
-  },
   "The Clifton Club": {
-    "formatted_address": "22 The Mall",
-    "formatted_phone_number": "+44 117 9745039",
+    "formatted_address": "22 The Mall, Clifton, Bristol BS8 4DS, United Kingdom",
+    "formatted_phone_number": "+44 117 974 5039",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 51.4563,
+        "lng": -2.6209
       }
     },
     "name": "The Clifton Club",
@@ -74,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1818, The Clifton Club is Bristol's oldest private members' club, housed in a Georgian mansion in Clifton Village. It offers elegant spaces for dining, socializing, and events, maintaining a tradition of exclusivity and community.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/the_clifton_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/the_clifton_club2.jpg",
@@ -86,7 +26,70 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/the_clifton_club_logo.png",
     "user_ratings_total": 0,
-    "website": "",
+    "website": "https://www.thecliftonclub.co.uk",
+    "activities": [
+      "Bridge",
+      "Billiards"
+    ]
+  },
+  "The Square Club": {
+    "formatted_address": "15 Berkeley Square, Clifton, Bristol BS8 1HB, United Kingdom",
+    "formatted_phone_number": "+44 117 921 0455",
+    "geometry": {
+      "location": {
+        "lat": 51.4567,
+        "lng": -2.6058
+      }
+    },
+    "name": "The Square Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Established in 1990, The Square Club is a private members' club for the creative industries, featuring a boutique lounge, award-winning restaurant, cocktail bar, and a hidden terrace garden. It hosts a vibrant calendar of events and offers reciprocal access to clubs worldwide.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/the_square_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/the_square_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/the_square_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/the_square_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/the_square_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/the_square_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.thesquareclub.com",
+    "activities": []
+  },
+  "The Crescent Club": {
+    "formatted_address": "Various locations across Bristol & Bath, United Kingdom",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 51.4545,
+        "lng": -2.5879
+      }
+    },
+    "name": "The Crescent Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "The Crescent Club is a social membership community with over 500 members across Bristol and Bath. It organizes a wide range of events, including weekly socials, seasonal parties, and various activities aimed at fostering connections and fun experiences.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/the_crescent_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/the_crescent_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/the_crescent_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/the_crescent_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/the_crescent_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/bristol/the_crescent_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.thecrescent.club/",
     "activities": []
   }
 }
