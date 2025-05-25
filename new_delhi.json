@@ -1,11 +1,11 @@
 {
   "Anand Niketan Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Block B, Anand Niketan, New Delhi, India",
+    "formatted_phone_number": "011-24113987",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 28.5746,
+        "lng": 77.1781
       }
     },
     "name": "Anand Niketan Club",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A neighborhood club offering recreational facilities including a swimming pool and table tennis.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/anand_niketan_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/anand_niketan_club2.jpg",
@@ -27,15 +27,18 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/anand_niketan_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.theclubsocial.com/clubdetail/57/",
-    "activities": []
+    "activities": [
+      "Swimming",
+      "Table Tennis"
+    ]
   },
   "Chelmsford Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "1, Raisina Road, New Delhi - 110001",
+    "formatted_phone_number": "9311828891",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 28.6172,
+        "lng": 77.2155
       }
     },
     "name": "Chelmsford Club",
@@ -44,7 +47,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A premier social and cultural hub offering a blend of leisure, recreation, and entertainment.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/chelmsford_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/chelmsford_club2.jpg",
@@ -57,15 +60,19 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/chelmsford_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.chelmsfordclub.in",
-    "activities": []
+    "activities": [
+      "Fitness",
+      "Billiards",
+      "Badminton"
+    ]
   },
   "Defence Colony Club": {
-    "formatted_address": "",
+    "formatted_address": "C 600, Chetna Marg, Defence Colony, New Delhi, Delhi 110024",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 28.5677,
+        "lng": 77.236
       }
     },
     "name": "Defence Colony Club",
@@ -74,7 +81,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A club offering a wide range of products and services, including sports and recreational activities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/defence_colony_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/defence_colony_club2.jpg",
@@ -86,16 +93,16 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/defence_colony_club_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.defencecolonyclub.com",
+    "website": "https://dcwa.club/",
     "activities": []
   },
   "Delhi Golf Club (Lodhi Club)": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Dr. Zakir Hussain Road, New Delhi, South Delhi, Delhi, 110003",
+    "formatted_phone_number": "+91 011-24307100",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 28.5986,
+        "lng": 77.2331
       }
     },
     "name": "Delhi Golf Club (Lodhi Club)",
@@ -104,7 +111,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Features the championship 18-hole Lodhi Course, part of the Asian PGA Tour, and the shorter 9-hole Peacock Course.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/delhi_golf_club_lodhi_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/delhi_golf_club_lodhi_club2.jpg",
@@ -117,15 +124,17 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/delhi_golf_club_lodhi_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.delhigolfclub.org",
-    "activities": []
+    "activities": [
+      "Golf"
+    ]
   },
   "Delhi Gymkhana Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "2, Safdarjung Road, New Delhi – 110011",
+    "formatted_phone_number": "+91-8448897540",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 28.6003,
+        "lng": 77.2195
       }
     },
     "name": "Delhi Gymkhana Club",
@@ -134,7 +143,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "One of the oldest clubs in India, offering a blend of colonial charm and modern amenities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/delhi_gymkhana_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/delhi_gymkhana_club2.jpg",
@@ -147,15 +156,19 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/delhi_gymkhana_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.delhigymkhana.org.in",
-    "activities": []
+    "activities": [
+      "Tennis",
+      "Swimming",
+      "Billiards"
+    ]
   },
   "Executive Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "439, Executive Club Road, Village Shahoorpur, P.O.- Fathepur Beri, New Delhi-110074",
+    "formatted_phone_number": "011-26653509",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 28.4691,
+        "lng": 77.1706
       }
     },
     "name": "Executive Club",
@@ -164,7 +177,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A resort-style club offering luxurious accommodations, banquet halls, and various recreational facilities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/executive_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/executive_club2.jpg",
@@ -180,12 +193,12 @@
     "activities": []
   },
   "Friends Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "17-A Friends Colony (West), New Delhi",
+    "formatted_phone_number": "+911141627730",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 28.5672,
+        "lng": 77.2751
       }
     },
     "name": "Friends Club",
@@ -194,7 +207,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A social club with a proud heritage of over 60 years, offering various amenities and activities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/friends_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/friends_club2.jpg",
@@ -210,12 +223,12 @@
     "activities": []
   },
   "India Habitat Centre": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Lodhi Road, New Delhi 110003",
+    "formatted_phone_number": "011-43663080",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 28.5916,
+        "lng": 77.2197
       }
     },
     "name": "India Habitat Centre",
@@ -224,7 +237,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A cultural center that hosts various events and offers health club facilities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/india_habitat_centre1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/india_habitat_centre2.jpg",
@@ -237,15 +250,19 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/india_habitat_centre_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.indiahabitat.org",
-    "activities": []
+    "activities": [
+      "Gym",
+      "Spa",
+      "Swimming"
+    ]
   },
   "India International Centre": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "40, Max Mueller Marg, New Delhi 110003",
+    "formatted_phone_number": "011-24609499",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 28.5913,
+        "lng": 77.2273
       }
     },
     "name": "India International Centre",
@@ -254,7 +271,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A non-official organization serving as a meeting place for cultural and intellectual offerings.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/india_international_centre1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/india_international_centre2.jpg",
@@ -270,12 +287,12 @@
     "activities": []
   },
   "Jahanpanah Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Mandakini Housing Scheme, Alaknanda, New Delhi 110019",
+    "formatted_phone_number": "91-011-26277072",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 28.5371,
+        "lng": 77.243
       }
     },
     "name": "Jahanpanah Club",
@@ -284,7 +301,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A club offering various sports facilities and organizing numerous cultural and social events.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/jahanpanah_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/jahanpanah_club2.jpg",
@@ -300,12 +317,12 @@
     "activities": []
   },
   "Janak Puri Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Plot No. 17, Cultural Complex, District Centre, Janak Puri, New Delhi - 110058",
+    "formatted_phone_number": "011-25505353",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 28.6215,
+        "lng": 77.0905
       }
     },
     "name": "Janak Puri Club",
@@ -314,7 +331,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A social club offering a range of recreational facilities including sports, dining, and event spaces.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/janak_puri_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/janak_puri_club2.jpg",
@@ -327,15 +344,19 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/janak_puri_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.janakpuriclub.com",
-    "activities": []
+    "activities": [
+      "Billiards",
+      "Table Tennis",
+      "Swimming"
+    ]
   },
   "MGM Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "19, Ansari Road, Daryaganj, New Delhi - 110002",
+    "formatted_phone_number": "011-23260758",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 28.6448,
+        "lng": 77.2406
       }
     },
     "name": "MGM Club",
@@ -344,7 +365,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A luxurious club featuring fine dining, an ultra-modern bar, lounges, private dining rooms, and a gaming zone.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/mgm_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/mgm_club2.jpg",
@@ -357,15 +378,19 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/mgm_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.mgmclub.org",
-    "activities": []
+    "activities": [
+      "Gym",
+      "Table Tennis",
+      "Billiards"
+    ]
   },
   "New Friends Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Mathura Rd, Block A, Friends Colony East, New Friends Colony, New Delhi, Delhi 110025",
+    "formatted_phone_number": "+91 11 2691 6725",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 28.5672,
+        "lng": 77.2751
       }
     },
     "name": "New Friends Club",
@@ -374,7 +399,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1994, the club has over 1800 members and offers a range of social and recreational facilities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/new_friends_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/new_friends_club2.jpg",
@@ -387,15 +412,19 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/new_friends_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.newfriendsclub.org",
-    "activities": []
+    "activities": [
+      "Badminton",
+      "Tennis",
+      "Swimming"
+    ]
   },
   "Panchshila Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Outer Ring Road, Panchshila Park, New Delhi, 110017",
+    "formatted_phone_number": "011 4175 3204",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 28.5407,
+        "lng": 77.2191
       }
     },
     "name": "Panchshila Club",
@@ -404,7 +433,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Offers a range of facilities including a swimming pool, lush green lawns, and a well-equipped gym.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/panchshila_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/panchshila_club2.jpg",
@@ -417,15 +446,19 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/panchshila_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.panchshilaclub.com",
-    "activities": []
+    "activities": [
+      "Swimming",
+      "Gym",
+      "Lawn Tennis"
+    ]
   },
   "Punjabi Bagh Club": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Ring Road, Punjabi Bagh West, New Delhi - 110026",
+    "formatted_phone_number": "9773996165",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 28.6661,
+        "lng": 77.1234
       }
     },
     "name": "Punjabi Bagh Club",
@@ -434,7 +467,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A club offering a range of facilities including accommodations, banquets, and various sports and recreational activities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/punjabi_bagh_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/punjabi_bagh_club2.jpg",
@@ -447,15 +480,19 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/punjabi_bagh_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.punjabibaghclub.in",
-    "activities": []
+    "activities": [
+      "Swimming",
+      "Billiards",
+      "Dining"
+    ]
   },
   "Riverside Sports and Recreation Club": {
-    "formatted_address": "",
+    "formatted_address": "Club Ave Rd, Chilla Gaon, Chilla Sarda Bangar, Chilla Sarda Bangar Village, Mayur Vihar, Extn, Delhi, 110091, India",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 28.5896,
+        "lng": 77.2965
       }
     },
     "name": "Riverside Sports and Recreation Club",
@@ -464,7 +501,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Riverside Sports & Recreation Club has a High Profile Membership Comprising Professionals such as Journalists, Doctors, Lawyers, Bankers, Engineres, Business People, Chartered Accountants, Educationalits and Senior officers of the Central Government, Government of NCT Delhi as well as Leading Private Companies. Riverside Sports & Recreation Club is located at just 200 meters from the Mayur Vihar Extension Metro Station. It is barely 10 minutes drive from Nizamuddin Railway Station and Sarai Kale Khan ISBT and upcoming Rapid Rail Complex. 45 Min Drive From Delhi Airport and 15 Minutes Drive From the Heart of Delhi, Connaught Place. The Club is at walking distance from Crown Plaza, Holiday Inn and Frazer Suites Hotels and the Star City Mall.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/riverside_sports_and_recreation_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/riverside_sports_and_recreation_club2.jpg",
@@ -476,16 +513,22 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/riverside_sports_and_recreation_club_logo.png",
     "user_ratings_total": 0,
-    "website": "https://www.riversideclub.in",
-    "activities": []
+    "website": "https://riversideclub.co.in/",
+    "activities": [
+      "Badminton",
+      "Table Tennis",
+      "Spa",
+      "Swimming",
+      "Billiards"
+    ]
   },
   "Roshanara Club": {
-    "formatted_address": "",
+    "formatted_address": "Roshanara Road, Delhi, India",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 28.6722,
+        "lng": 77.2167
       }
     },
     "name": "Roshanara Club",
@@ -494,7 +537,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Established in 1922, the club is known for its cricket grounds and offers various other sports and recreational facilities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/roshanara_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/roshanara_club2.jpg",
@@ -507,15 +550,19 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/roshanara_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.roshanaraclub.com",
-    "activities": []
+    "activities": [
+      "Cricket",
+      "Tennis",
+      "Billiards"
+    ]
   },
   "Vasant Vihar Club": {
-    "formatted_address": "",
+    "formatted_address": "Vasant Vihar, New Delhi, India",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 28.5626,
+        "lng": 77.1505
       }
     },
     "name": "Vasant Vihar Club",
@@ -524,7 +571,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "A social and recreational club offering various facilities for its members including sports and dining.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/vasant_vihar_club1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/vasant_vihar_club2.jpg",
@@ -537,6 +584,10 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_delhi/vasant_vihar_club_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.vasantviharclub.com",
-    "activities": []
+    "activities": [
+      "Swimming",
+      "Tennis",
+      "Gym"
+    ]
   }
 }
