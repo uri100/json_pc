@@ -711,7 +711,7 @@
       "cestoball",
       "field hockey",
       "football",
-      "gymnastics",
+      "gym",
       "martial arts",
       "rowing",
       "tennis",
@@ -747,11 +747,48 @@
     "user_ratings_total": 0,
     "website": "https://www.cglnm.com.ar/",
     "activities": [
-      "rugby union",
+      "rugby",
       "field hockey",
       "football",
       "rowing",
       "tennis"
+    ]
+  },
+  "Megatlon": {
+    "formatted_address": "Arenales 1930, C1124AAJ, Buenos Aires, Argentina",
+    "formatted_phone_number": "+54 11 4811-2565",
+    "geometry": {
+      "location": {
+        "lat": -34.593,
+        "lng": -58.3935
+      }
+    },
+    "name": "Megatlon",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Megatlon is a leading fitness chain in Argentina, offering a wide range of facilities including gym equipment, swimming pools, functional training areas, spinning studios, and various group classes across multiple locations in Buenos Aires.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/megatlon1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/megatlon2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/megatlon3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/megatlon4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/megatlon5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/buenos_aires/megatlon_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://megatlon.com/",
+    "activities": [
+      "Gym",
+      "Swimming",
+      "Functional Training",
+      "Spinning",
+      "Running",
+      "Fitness"
     ]
   }
 }
