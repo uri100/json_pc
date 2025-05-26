@@ -1,32 +1,32 @@
 {
-  "American Belgian Association": {
-    "formatted_address": "Rue de Namur 81, 1000 Brussels, Belgium",
+  "American Club Brussels": {
+    "formatted_address": "Rue du Parnasse 19, Ixelles, Région de Bruxelles-Capitale, Belgium",
     "formatted_phone_number": "",
     "geometry": {
       "location": {
-        "lat": 50.8415,
-        "lng": 4.3609
+        "lat": 50.8376,
+        "lng": 4.3731
       }
     },
-    "name": "American Belgian Association",
+    "name": "American Club Brussels",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "A social club fostering relations between Americans and Belgians through various cultural and social events.",
+    "description": "The American Club of Brussels was founded on January 15, 1921, making it one of the oldest American clubs in the world. Since then the club has had a long history of involvement in the local community and in support of Belgian-American relations.",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/american_belgian_association1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/american_belgian_association2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/american_belgian_association3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/american_belgian_association4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/american_belgian_association5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/american_club_brussels1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/american_club_brussels2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/american_club_brussels3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/american_club_brussels4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/american_club_brussels5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/american_belgian_association_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/brussels/american_club_brussels_logo.png",
     "user_ratings_total": 0,
-    "website": "",
+    "website": "https://www.americanclubbrussels.org/",
     "activities": []
   },
   "Bruxelles Royal Yacht Club": {
