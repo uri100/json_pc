@@ -1,11 +1,11 @@
 {
   "Associação Naval de Lisboa": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Doca de Belém, 1400-038 Lisboa, Portugal",
+    "formatted_phone_number": "+351 213 619 485",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.6956,
+        "lng": -9.2065
       }
     },
     "name": "Associação Naval de Lisboa",
@@ -14,7 +14,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1856, Associação Naval de Lisboa is the oldest nautical club in Portugal and the Iberian Peninsula, promoting amateur nautical sports including sailing and rowing.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/associao_naval_de_lisboa1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/associao_naval_de_lisboa2.jpg",
@@ -27,15 +27,18 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/associao_naval_de_lisboa_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.anl.pt",
-    "activities": []
+    "activities": [
+      "Sailing",
+      "Rowing"
+    ]
   },
   "Belas Clube de Campo": {
-    "formatted_address": "Alameda do Aqueduto, 2605 - 193 Belas Club de Campo",
-    "formatted_phone_number": "+351 21 9626640",
+    "formatted_address": "Alameda do Aqueduto, 2605-193 Belas, Portugal",
+    "formatted_phone_number": "+351 219 626 640",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.8108,
+        "lng": -9.2484
       }
     },
     "name": "Belas Clube de Campo",
@@ -44,7 +47,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Belas Clube de Campo is a residential and sports complex near Lisbon, featuring an 18-hole golf course, tennis and padel courts, swimming pools, gym, and other wellness amenities.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/belas_clube_de_campo1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/belas_clube_de_campo2.jpg",
@@ -56,48 +59,52 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/belas_clube_de_campo_logo.png",
     "user_ratings_total": 0,
-    "website": "",
+    "website": "https://www.belasclubedecampo.pt",
     "activities": [
-      "golf"
+      "Golf",
+      "Tennis",
+      "Padel",
+      "Swimming",
+      "Gym"
     ]
   },
-  "Circulo Eça de Queiroz": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+  "Círculo Eça de Queiroz": {
+    "formatted_address": "Largo Rafael Bordalo Pinheiro 4, 1200-369 Lisboa, Portugal",
+    "formatted_phone_number": "+351 213 428 758",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.7112,
+        "lng": -9.1416
       }
     },
-    "name": "Circulo Eça de Queiroz",
+    "name": "Círculo Eça de Queiroz",
     "opening_hours": {
       "open_now": false,
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1940 and named after Portuguese writer Eça de Queiroz, this club hosts literary events, exhibitions, and concerts in a refined setting.",
     "photo_urls": [
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/circulo_ea_de_queiroz1.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/circulo_ea_de_queiroz2.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/circulo_ea_de_queiroz3.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/circulo_ea_de_queiroz4.jpg",
-      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/circulo_ea_de_queiroz5.jpg"
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/crculo_ea_de_queiroz1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/crculo_ea_de_queiroz2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/crculo_ea_de_queiroz3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/crculo_ea_de_queiroz4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/crculo_ea_de_queiroz5.jpg"
     ],
     "rating": 0.0,
     "reviews": [],
-    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/circulo_ea_de_queiroz_logo.png",
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/crculo_ea_de_queiroz_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.circuloecadequeiroz.com",
     "activities": []
   },
   "Clube Naval de Lisboa": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Av. de Brasília, Doca de Belém, 1400-038 Lisboa, Portugal",
+    "formatted_phone_number": "+351 213 636 014",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.6956,
+        "lng": -9.2065
       }
     },
     "name": "Clube Naval de Lisboa",
@@ -106,7 +113,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1892, Clube Naval de Lisboa is a non-profit promoting water sports such as sailing and rowing, and offers marina access and a waterfront restaurant.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/clube_naval_de_lisboa1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/clube_naval_de_lisboa2.jpg",
@@ -119,15 +126,18 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/clube_naval_de_lisboa_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.clubenavaldelisboa.pt",
-    "activities": []
+    "activities": [
+      "Sailing",
+      "Rowing"
+    ]
   },
   "Grémio Literário": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "Rua Ivens 37, 1200-226 Lisboa, Portugal",
+    "formatted_phone_number": "+351 213 475 666",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.7105,
+        "lng": -9.1416
       }
     },
     "name": "Grémio Literário",
@@ -136,7 +146,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "",
+    "description": "Founded in 1846, Grémio Literário is a cultural and literary institution located in a palace in Chiado, hosting intellectual events and fine dining for members.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/grmio_literrio1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/grmio_literrio2.jpg",
@@ -152,12 +162,12 @@
     "activities": []
   },
   "Turf Club Lisbon": {
-    "formatted_address": "Rua Garrett 74, 1Âş Andar â€“ 1200-204 Lisboa",
-    "formatted_phone_number": "+351 21 346 0975",
+    "formatted_address": "Rua Garrett 74, 1º, 1200-204 Lisboa, Portugal",
+    "formatted_phone_number": "+351 213 460 975",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 38.7103,
+        "lng": -9.142
       }
     },
     "name": "Turf Club Lisbon",
@@ -166,7 +176,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Lisbon club located in the center of Chiado has spaces for the corresponding club members to have lunch (main dining room) and if they come with guests and ladies (Sala dos Reis). It has public parking on the same street. Access for members with guests",
+    "description": "Founded in 1883, Turf Club Lisbon is a traditional gentlemen’s club requiring formal dress, offering a discreet atmosphere for networking and private dining.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/turf_club_lisbon1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/lisbon/turf_club_lisbon2.jpg",
