@@ -375,8 +375,8 @@
     "formatted_phone_number": "+20 2 3857 0000",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 30.0325,
+        "lng": 30.9323
       }
     },
     "name": "SODIC Clubs",
@@ -398,7 +398,22 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/cairo/sodic_clubs_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.sodicclubs.com/",
-    "activities": []
+    "activities": [
+      "swimming",
+      "golf",
+      "basketball",
+      "fitness",
+      "dancing",
+      "yoga",
+      "pilates",
+      "Gymnastics",
+      "Football",
+      "Tennis",
+      "Squash",
+      "Judo",
+      "Skating",
+      "Fencing"
+    ]
   },
   "Airport Rooftop Club Luxurious Private Studios": {
     "formatted_address": "Cairo International Airport Area, Cairo, Egypt",
