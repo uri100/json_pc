@@ -59,6 +59,36 @@
     "website": "https://onethousandclub.com/",
     "activities": []
   },
+  "Galt's Gulch": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Galt's Gulch",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Galt's Gulch Online is an exclusive, invitation-only virtual forum designed for Objectivists and serious thinkers drawn to Ayn Rand’s philosophy of reason, individualism, and free markets. Modeled after the sanctuary in Atlas Shrugged, this digital enclave fosters rational discourse, intellectual exchange, and principled networking among those who reject collectivism and embrace the morality of self-interest. Members engage in debates, share ideas, and collaborate on projects aligned with Objectivist values—all within a private, high-trust environment.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/galts_gulch1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/galts_gulch2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/galts_gulch3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/galts_gulch4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/galts_gulch5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/galts_gulch_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://aynrand.org/",
+    "activities": []
+  },
   "Pavilion": {
     "formatted_address": "",
     "formatted_phone_number": "",

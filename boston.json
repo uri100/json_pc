@@ -246,7 +246,7 @@
     "reviews": [],
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/somerset_club_boston_logo.png",
     "user_ratings_total": 0,
-    "website": "",
+    "website": "https://somersetclub.org",
     "activities": []
   },
   "St. Botolph Club": {
@@ -529,9 +529,7 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/the_quin_house_logo.png",
     "user_ratings_total": 0,
     "website": "https://thequinhouse.com/",
-    "activities": [
-      "N/A"
-    ]
+    "activities": []
   },
   "The College Club of Boston": {
     "formatted_address": "44 Commonwealth Avenue, Boston, MA 02116",
@@ -561,17 +559,15 @@
     "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/the_college_club_of_boston_logo.png",
     "user_ratings_total": 0,
     "website": "https://www.thecollegeclubofboston.com/",
-    "activities": [
-      "N/A"
-    ]
+    "activities": []
   },
   "Legacy Club of Boston": {
-    "formatted_address": "",
-    "formatted_phone_number": "",
+    "formatted_address": "180 Canal Street, Fifth Floor, Boston, MA 02114, USA",
+    "formatted_phone_number": "+1 617-482-3522",
     "geometry": {
       "location": {
-        "lat": 0.0,
-        "lng": 0.0
+        "lat": 42.3665,
+        "lng": -71.061
       }
     },
     "name": "Legacy Club of Boston",
@@ -580,7 +576,7 @@
       "periods": [],
       "weekday_text": []
     },
-    "description": "The Legacy Club of Boston is a private members-only business and social club inspired by the legacies of its predecessors. It provides a comfortable sanctuary with exceptional amenities and services for members to enjoy.",
+    "description": "Legacy Club of Boston is a private members-only business and social club inspired by our predecessors' legacies. It provides a comfortable sanctuary with exceptional amenities and services for members to enjoy. The club offers a nostalgic setting with restored brick and beam interiors, providing a perfect blend of old-world charm and modern amenities. Members enjoy pre-game hospitality for Bruins and Celtics games, daytime usage of the club, reserved valet parking on game nights, global access to special events and venues, access to ticketing for all local sporting events and concerts, private beverage lockers, temperature-controlled humidor lockers, and various sized meeting rooms. The club is ideally located across the street from Boston's entertainment epicenter, the TD Garden, and the Hub on Causeway.",
     "photo_urls": [
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/legacy_club_of_boston1.jpg",
       "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/boston/legacy_club_of_boston2.jpg",
