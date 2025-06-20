@@ -1384,5 +1384,44 @@
       "swimming",
       "sauna"
     ]
+  },
+  "Equinox": {
+    "formatted_address": "160 Columbus Ave, New York, NY 10023, USA",
+    "formatted_phone_number": "+1 212-362-6800",
+    "geometry": {
+      "location": {
+        "lat": 40.7762,
+        "lng": -73.9817
+      }
+    },
+    "name": "Equinox",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Equinox is a luxury fitness club offering world-class amenities including personal training, signature group classes, Pilates and Yoga studios, boxing, indoor basketball courts, rock climbing wall, indoor lap pool, rooftop track, sauna, spa, and executive locker rooms. Recognized as one of America’s top fitness brands. Voted Best Gym in America by Fitness Magazine. :contentReference[oaicite:1]{index=1}",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/equinox1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/equinox2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/equinox3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/equinox4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/equinox5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/new_york_city/equinox_logo.png",
+    "user_ratings_total": 0,
+    "website": "https://www.equinox.com",
+    "activities": [
+      "Fitness",
+      "Pilates",
+      "Yoga",
+      "Boxing",
+      "Basketball",
+      "Swimming",
+      "Climbing",
+      "Spa"
+    ]
   }
 }
