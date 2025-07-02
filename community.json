@@ -208,5 +208,65 @@
     "user_ratings_total": 0,
     "website": "https://www.goldalliance.org",
     "activities": []
+  },
+  "Wingman Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Wingman Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Ready to ditch solo missions and dominate a new city’s nightlife? The Gents’ Go-Getter Gang hooks you up with the perfect sidekick—whether you need a laid-back lounge guru, a karaoke co-pilot, or a hype man for that big first-date moment—packed with insider tips on the hottest bars, killer ice-breakers, and foolproof confidence boosts to turn every night out into a winning adventure.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/wingman_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/wingman_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/wingman_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/wingman_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/wingman_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/wingman_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": []
+  },
+  "Wingwoman Club": {
+    "formatted_address": "",
+    "formatted_phone_number": "",
+    "geometry": {
+      "location": {
+        "lat": 0.0,
+        "lng": 0.0
+      }
+    },
+    "name": "Wingwoman Club",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [],
+      "weekday_text": []
+    },
+    "description": "Jump into The Leading Ladies League and never navigate a new city’s singles scene alone—our fearless wingwomen pair you with your ideal hype partner, serve up the scoop on the trendiest spots and friendliest crowds, and guide you through cocktail-confidence crash courses and chat-spark strategies so you glide into every date feeling fierce, fun, and totally unstoppable.",
+    "photo_urls": [
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/wingwoman_club1.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/wingwoman_club2.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/wingwoman_club3.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/wingwoman_club4.jpg",
+      "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/wingwoman_club5.jpg"
+    ],
+    "rating": 0.0,
+    "reviews": [],
+    "logo": "https://raw.githubusercontent.com/uri100/json_pc/refs/heads/main/images/clubs/community/wingwoman_club_logo.png",
+    "user_ratings_total": 0,
+    "website": "",
+    "activities": []
   }
 }
